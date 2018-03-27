@@ -1,0 +1,22 @@
+---
+layout: game
+id: dance-dance-revolution-2nd-mix-dreamcast-edition
+titlel: Dance Dance Revolution 2nd Mix - Dreamcast Edition
+status: unknown
+gamedb-issue: 0
+
+releases:
+  - id: 47D7
+    region: jp
+    version: 1.003
+    discs: 1
+    medium: gdrom
+
+videos:
+  - fingerprint: 47D7 GD-ROM1/1 jp
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: h7TLBhpQI6k
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+---
