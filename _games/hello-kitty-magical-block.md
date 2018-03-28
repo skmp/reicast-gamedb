@@ -1,19 +1,19 @@
 ---
 layout: game
 id: hello-kitty-magical-block
-titlel: Hello Kitty - Magical Block
+title: "Hello Kitty - Magical Block"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: E5BC
-    region: jp
-    version: 1.001
+  - id: "E5BC"
+    region: JP
+    version: "1.001"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: E5BC GD-ROM1/1 jp
+  - fingerprint: "E5BC GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: OPqzuNFdZGs

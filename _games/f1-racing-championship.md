@@ -1,19 +1,19 @@
 ---
 layout: game
 id: f1-racing-championship
-titlel: F1 Racing Championship
+title: "F1 Racing Championship"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 69C9
-    region: eu
-    version: 1.001
+  - id: "69C9"
+    region: EU
+    version: "1.001"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 69C9 GD-ROM1/1 eu
+  - fingerprint: "69C9 GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: V1x7eLQ06JM

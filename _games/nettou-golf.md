@@ -1,19 +1,19 @@
 ---
 layout: game
 id: nettou-golf
-titlel: Nettou Golf
+title: "Nettou Golf"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: F039
-    region: jp
-    version: 1.017
+  - id: "F039"
+    region: JP
+    version: "1.017"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: F039 GD-ROM1/1 jp
+  - fingerprint: "F039 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: qIHu16zl3LA

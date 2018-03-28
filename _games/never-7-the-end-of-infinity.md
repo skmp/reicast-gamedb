@@ -1,19 +1,19 @@
 ---
 layout: game
 id: never-7-the-end-of-infinity
-titlel: Never 7 - The End of Infinity
+title: "Never 7 - The End of Infinity"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: ACCD
-    region: jp
-    version: 1.000
+  - id: "ACCD"
+    region: JP
+    version: "1.000"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: ACCD GD-ROM1/1 jp
+  - fingerprint: "ACCD GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: B499WQvVUhM

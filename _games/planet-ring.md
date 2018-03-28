@@ -1,19 +1,19 @@
 ---
 layout: game
 id: planet-ring
-titlel: Planet Ring
+title: "Planet Ring"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 08E9
-    region: eu
-    version: 1.005
+  - id: "08E9"
+    region: EU
+    version: "1.005"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 08E9 GD-ROM1/1 eu
+  - fingerprint: "08E9 GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: tZ-SrYnzK1g

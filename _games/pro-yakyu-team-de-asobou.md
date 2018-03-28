@@ -1,19 +1,19 @@
 ---
 layout: game
 id: pro-yakyu-team-de-asobou
-titlel: Pro Yakyu Team de Asobou!
+title: "Pro Yakyu Team de Asobou!"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 85B6
-    region: jp
-    version: 1.005
+  - id: "85B6"
+    region: JP
+    version: "1.005"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 85B6 GD-ROM1/1 jp
+  - fingerprint: "85B6 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: JZmKpikFfo0

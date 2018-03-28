@@ -1,19 +1,19 @@
 ---
 layout: game
 id: pocke-kano-yumi-shizuka-fumio
-titlel: Pocke-Kano - Yumi - Shizuka - Fumio
+title: "Pocke-Kano - Yumi - Shizuka - Fumio"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: C63C
-    region: jp
-    version: 1.004
+  - id: "C63C"
+    region: JP
+    version: "1.004"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: C63C GD-ROM1/1 jp
+  - fingerprint: "C63C GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: ZQiuEGelNUs

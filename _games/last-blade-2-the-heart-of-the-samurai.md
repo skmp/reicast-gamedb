@@ -1,19 +1,19 @@
 ---
 layout: game
 id: last-blade-2-the-heart-of-the-samurai
-titlel: Last Blade 2, The - Heart of the Samurai
+title: "Last Blade 2, The - Heart of the Samurai"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 91F8
-    region: us
-    version: 1.002
+  - id: "91F8"
+    region: US
+    version: "1.002"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 91F8 GD-ROM1/1 us
+  - fingerprint: "91F8 GD-ROM1/1 US"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: n8b-FTgP5Zs

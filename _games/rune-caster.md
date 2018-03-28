@@ -1,19 +1,19 @@
 ---
 layout: game
 id: rune-caster
-titlel: Rune Caster
+title: "Rune Caster"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 13D5
-    region: jp
-    version: 1.007
+  - id: "13D5"
+    region: JP
+    version: "1.007"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 13D5 GD-ROM1/1 jp
+  - fingerprint: "13D5 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: vgIAyGudRKo

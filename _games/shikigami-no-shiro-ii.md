@@ -1,19 +1,19 @@
 ---
 layout: game
 id: shikigami-no-shiro-ii
-titlel: Shikigami no Shiro II
+title: "Shikigami no Shiro II"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 8184
-    region: jp
-    version: 1.002
+  - id: "8184"
+    region: JP
+    version: "1.002"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 8184 GD-ROM1/1 jp
+  - fingerprint: "8184 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: GWPbrC-F1hg

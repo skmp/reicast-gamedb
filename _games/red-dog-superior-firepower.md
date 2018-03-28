@@ -1,19 +1,19 @@
 ---
 layout: game
 id: red-dog-superior-firepower
-titlel: Red Dog - Superior Firepower
+title: "Red Dog - Superior Firepower"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 2919
-    region: eu
-    version: 1.520
+  - id: "2919"
+    region: EU
+    version: "1.520"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 2919 GD-ROM1/1 eu
+  - fingerprint: "2919 GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: 9XHQ09ev7k4

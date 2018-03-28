@@ -1,19 +1,19 @@
 ---
 layout: game
 id: army-men-sarge-s-heroes
-titlel: Army Men - Sarge's Heroes
+title: "Army Men - Sarge's Heroes"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: B977
-    region: eu
-    version: 1.001
+  - id: "B977"
+    region: EU
+    version: "1.001"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: B977 GD-ROM1/1 eu
+  - fingerprint: "B977 GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: fGG5L9YAVhc

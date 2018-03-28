@@ -1,19 +1,19 @@
 ---
 layout: game
 id: donald-duck-quack-attack
-titlel: Donald Duck - Quack Attack
+title: "Donald Duck - Quack Attack"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 7AC3
-    region: eu
-    version: 1.002
+  - id: "7AC3"
+    region: EU
+    version: "1.002"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 7AC3 GD-ROM1/1 eu
+  - fingerprint: "7AC3 GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: _vs62jLQY4E

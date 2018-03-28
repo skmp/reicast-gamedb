@@ -1,19 +1,19 @@
 ---
 layout: game
 id: nba-2k1
-titlel: NBA 2K1
+title: "NBA 2K1"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: B4C1
-    region: us
-    version: 1.008
+  - id: "B4C1"
+    region: US
+    version: "1.008"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: B4C1 GD-ROM1/1 us
+  - fingerprint: "B4C1 GD-ROM1/1 US"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: CDboUeFjhWs

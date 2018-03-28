@@ -1,19 +1,19 @@
 ---
 layout: game
 id: marionette-company
-titlel: Marionette Company
+title: "Marionette Company"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: A6B0
-    region: jp
-    version: 1.001
+  - id: "A6B0"
+    region: JP
+    version: "1.001"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: A6B0 GD-ROM1/1 jp
+  - fingerprint: "A6B0 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: bIAiBS3D7uw

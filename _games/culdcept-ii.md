@@ -1,19 +1,19 @@
 ---
 layout: game
 id: culdcept-ii
-titlel: Culdcept II
+title: "Culdcept II"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 8113
-    region: jp
-    version: 1.008
+  - id: "8113"
+    region: JP
+    version: "1.008"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 8113 GD-ROM1/1 jp
+  - fingerprint: "8113 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: 123R-YzbBaM

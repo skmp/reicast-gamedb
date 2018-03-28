@@ -1,19 +1,19 @@
 ---
 layout: game
 id: pro-pinball-trilogy
-titlel: Pro Pinball - Trilogy
+title: "Pro Pinball - Trilogy"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 81E2
-    region: eu
-    version: 1.100
+  - id: "81E2"
+    region: EU
+    version: "1.100"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 81E2 GD-ROM1/1 eu
+  - fingerprint: "81E2 GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: cfTVu3jpnPs

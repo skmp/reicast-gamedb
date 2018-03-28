@@ -1,19 +1,19 @@
 ---
 layout: game
 id: expendable
-titlel: Expendable
+title: "Expendable"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: AD1A
-    region: us
-    version: 1.000
+  - id: "AD1A"
+    region: US
+    version: "1.000"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: AD1A GD-ROM1/1 us
+  - fingerprint: "AD1A GD-ROM1/1 US"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: F3X5Or1H5gs

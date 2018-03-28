@@ -1,19 +1,19 @@
 ---
 layout: game
 id: draconus-cult-of-the-wyrm
-titlel: Draconus - Cult of the Wyrm
+title: "Draconus - Cult of the Wyrm"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: F888
-    region: us
-    version: 1.000
+  - id: "F888"
+    region: US
+    version: "1.000"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: F888 GD-ROM1/1 us
+  - fingerprint: "F888 GD-ROM1/1 US"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: _5r-cylB1iQ

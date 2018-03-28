@@ -1,19 +1,19 @@
 ---
 layout: game
 id: next-tetris
-titlel: Next Tetris, The
+title: "Next Tetris, The"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 49EF
-    region: eu
-    version: 1.003
+  - id: "49EF"
+    region: EU
+    version: "1.003"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 49EF GD-ROM1/1 eu
+  - fingerprint: "49EF GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: OHaGpoqGi54

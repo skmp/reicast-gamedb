@@ -1,19 +1,19 @@
 ---
 layout: game
 id: aero-dancing-featuring-blue-impulse
-titlel: Aero Dancing - Featuring Blue Impulse
+title: "Aero Dancing - Featuring Blue Impulse"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 7CDD
-    region: jp
-    version: 1.003
+  - id: "7CDD"
+    region: JP
+    version: "1.003"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 7CDD GD-ROM1/1 jp
+  - fingerprint: "7CDD GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: -ffFT6xyzcM

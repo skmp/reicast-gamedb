@@ -1,19 +1,19 @@
 ---
 layout: game
 id: eldorado-gate-vol-1
-titlel: Eldorado Gate Vol. 1
+title: "Eldorado Gate Vol. 1"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 84D2
-    region: jp
-    version: 1.002
+  - id: "84D2"
+    region: JP
+    version: "1.002"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 84D2 GD-ROM1/1 jp
+  - fingerprint: "84D2 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: BvQjdly7a7o

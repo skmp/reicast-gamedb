@@ -1,19 +1,19 @@
 ---
 layout: game
 id: jet-grind-radio
-titlel: Jet Grind Radio
+title: "Jet Grind Radio"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: D018
-    region: us
-    version: 1.005
+  - id: "D018"
+    region: US
+    version: "1.005"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: D018 GD-ROM1/1 us
+  - fingerprint: "D018 GD-ROM1/1 US"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: f-Fb5NFGfA4

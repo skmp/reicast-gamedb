@@ -1,19 +1,19 @@
 ---
 layout: game
 id: taxi-2-le-jeu
-titlel: Taxi 2 - Le Jeu
+title: "Taxi 2 - Le Jeu"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 9577
-    region: eu
-    version: 1.000
+  - id: "9577"
+    region: EU
+    version: "1.000"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 9577 GD-ROM1/1 eu
+  - fingerprint: "9577 GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: dzIXkk_Ln-8

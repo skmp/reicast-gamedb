@@ -1,19 +1,19 @@
 ---
 layout: game
 id: ncaa-college-football-2k2-road-to-the-rose-bowl
-titlel: NCAA College Football 2K2 - Road to the Rose Bowl
+title: "NCAA College Football 2K2 - Road to the Rose Bowl"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: C56A
-    region: us
-    version: 1.003
+  - id: "C56A"
+    region: US
+    version: "1.003"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: C56A GD-ROM1/1 us
+  - fingerprint: "C56A GD-ROM1/1 US"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: VjBsOzNFFXY

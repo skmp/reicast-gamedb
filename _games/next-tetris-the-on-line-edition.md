@@ -1,19 +1,19 @@
 ---
 layout: game
 id: next-tetris-the-on-line-edition
-titlel: Next Tetris, The - On-line Edition
+title: "Next Tetris, The - On-line Edition"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: E570
-    region: us
-    version: 1.100
+  - id: "E570"
+    region: US
+    version: "1.100"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: E570 GD-ROM1/1 us
+  - fingerprint: "E570 GD-ROM1/1 US"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: Qu_Oyo5bc1s

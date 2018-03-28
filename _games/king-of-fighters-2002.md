@@ -1,19 +1,19 @@
 ---
 layout: game
 id: king-of-fighters-2002
-titlel: King of Fighters 2002, The
+title: "King of Fighters 2002, The"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 0CDE
-    region: jp
-    version: 1.008
+  - id: "0CDE"
+    region: JP
+    version: "1.008"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 0CDE GD-ROM1/1 jp
+  - fingerprint: "0CDE GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: Ua_M0POINsE

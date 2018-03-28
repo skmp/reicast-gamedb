@@ -1,19 +1,19 @@
 ---
 layout: game
 id: tomb-raider-die-chronik
-titlel: Tomb Raider - Die Chronik
+title: "Tomb Raider - Die Chronik"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: E736
-    region: eu
-    version: 1.001
+  - id: "E736"
+    region: EU
+    version: "1.001"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: E736 GD-ROM1/1 eu
+  - fingerprint: "E736 GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: uFxVHGJJv48

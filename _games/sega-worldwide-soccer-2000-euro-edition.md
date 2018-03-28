@@ -1,19 +1,19 @@
 ---
 layout: game
 id: sega-worldwide-soccer-2000-euro-edition
-titlel: Sega Worldwide Soccer 2000 - Euro Edition
+title: "Sega Worldwide Soccer 2000 - Euro Edition"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 17EB
-    region: eu
-    version: 1.030
+  - id: "17EB"
+    region: EU
+    version: "1.030"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 17EB GD-ROM1/1 eu
+  - fingerprint: "17EB GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: UjmxNxdryNM

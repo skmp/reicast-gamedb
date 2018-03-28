@@ -1,19 +1,19 @@
 ---
 layout: game
 id: vampire-chronicle-for-matching-service
-titlel: Vampire Chronicle for Matching Service
+title: "Vampire Chronicle for Matching Service"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: DAAE
-    region: jp
-    version: 1.003
+  - id: "DAAE"
+    region: JP
+    version: "1.003"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: DAAE GD-ROM1/1 jp
+  - fingerprint: "DAAE GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: tp0F23XHrP8

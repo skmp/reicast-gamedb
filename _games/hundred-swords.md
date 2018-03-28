@@ -1,19 +1,19 @@
 ---
 layout: game
 id: hundred-swords
-titlel: Hundred Swords
+title: "Hundred Swords"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 23EE
-    region: jp
-    version: 1.005
+  - id: "23EE"
+    region: JP
+    version: "1.005"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 23EE GD-ROM1/1 jp
+  - fingerprint: "23EE GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: AiCsLfsUZzU

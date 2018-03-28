@@ -1,19 +1,19 @@
 ---
 layout: game
 id: typing-of-the-dead
-titlel: Typing of the Dead, The
+title: "Typing of the Dead, The"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: C225
-    region: us
-    version: 1.004
+  - id: "C225"
+    region: US
+    version: "1.004"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: C225 GD-ROM1/1 us
+  - fingerprint: "C225 GD-ROM1/1 US"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: oeeTmHZ79fE

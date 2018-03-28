@@ -1,19 +1,19 @@
 ---
 layout: game
 id: pod-speedzone
-titlel: POD - Speedzone
+title: "POD - Speedzone"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 5046
-    region: us
-    version: 1.002
+  - id: "5046"
+    region: US
+    version: "1.002"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 5046 GD-ROM1/1 us
+  - fingerprint: "5046 GD-ROM1/1 US"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: 1Qr2Tr8w3Rc

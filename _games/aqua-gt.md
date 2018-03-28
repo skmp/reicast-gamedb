@@ -1,19 +1,19 @@
 ---
 layout: game
 id: aqua-gt
-titlel: Aqua GT
+title: "Aqua GT"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: E60D
-    region: eu
-    version: 1.000
+  - id: "E60D"
+    region: EU
+    version: "1.000"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: E60D GD-ROM1/1 eu
+  - fingerprint: "E60D GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: dis2n7tRQDM

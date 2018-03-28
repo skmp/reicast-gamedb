@@ -1,19 +1,19 @@
 ---
 layout: game
 id: close-to-inori-no-oka
-titlel: Close To - Inori no Oka
+title: "Close To - Inori no Oka"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: B513
-    region: jp
-    version: 1.003
+  - id: "B513"
+    region: JP
+    version: "1.003"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: B513 GD-ROM1/1 jp
+  - fingerprint: "B513 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: E5j7KbUX_y0

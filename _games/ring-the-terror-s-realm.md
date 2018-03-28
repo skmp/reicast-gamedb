@@ -1,19 +1,19 @@
 ---
 layout: game
 id: ring-the-terror-s-realm
-titlel: Ring, The - Terror's Realm
+title: "Ring, The - Terror's Realm"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 7A46
-    region: us
-    version: 1.002
+  - id: "7A46"
+    region: US
+    version: "1.002"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 7A46 GD-ROM1/1 us
+  - fingerprint: "7A46 GD-ROM1/1 US"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: cIe2ZA9ea8M

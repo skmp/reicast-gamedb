@@ -1,19 +1,19 @@
 ---
 layout: game
 id: redline-racer
-titlel: Redline Racer
+title: "Redline Racer"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: B863
-    region: jp
-    version: 1.001
+  - id: "B863"
+    region: JP
+    version: "1.001"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: B863 GD-ROM1/1 jp
+  - fingerprint: "B863 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: cuZ02CLBtrM

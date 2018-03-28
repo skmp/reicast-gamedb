@@ -1,19 +1,19 @@
 ---
 layout: game
 id: surf-rocket-racers
-titlel: Surf Rocket Racers
+title: "Surf Rocket Racers"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 8DE7
-    region: eu
-    version: 1.000
+  - id: "8DE7"
+    region: EU
+    version: "1.000"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 8DE7 GD-ROM1/1 eu
+  - fingerprint: "8DE7 GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: 1u3EVJpUpb8

@@ -1,19 +1,19 @@
 ---
 layout: game
 id: nomad-soul
-titlel: Nomad Soul, The
+title: "Nomad Soul, The"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 6DD7
-    region: eu
-    version: 1.003
+  - id: "6DD7"
+    region: EU
+    version: "1.003"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 6DD7 GD-ROM1/1 eu
+  - fingerprint: "6DD7 GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: mvQ1L0pOurc

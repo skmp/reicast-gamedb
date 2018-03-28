@@ -1,19 +1,19 @@
 ---
 layout: game
 id: maborosi-tukiyo
-titlel: Maborosi Tukiyo
+title: "Maborosi Tukiyo"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 5611
-    region: jp
-    version: 1.004
+  - id: "5611"
+    region: JP
+    version: "1.004"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 5611 GD-ROM1/1 jp
+  - fingerprint: "5611 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: VFxgiLDEFA8

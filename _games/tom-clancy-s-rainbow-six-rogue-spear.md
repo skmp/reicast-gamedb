@@ -1,19 +1,19 @@
 ---
 layout: game
 id: tom-clancy-s-rainbow-six-rogue-spear
-titlel: Tom Clancy's Rainbow Six - Rogue Spear
+title: "Tom Clancy's Rainbow Six - Rogue Spear"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 8FE8
-    region: us
-    version: 1.002
+  - id: "8FE8"
+    region: US
+    version: "1.002"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 8FE8 GD-ROM1/1 us
+  - fingerprint: "8FE8 GD-ROM1/1 US"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: cFHliCcwJNg

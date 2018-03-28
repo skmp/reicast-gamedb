@@ -1,19 +1,19 @@
 ---
 layout: game
 id: denpashonenteki-kenshoseikatsu-soft-nasubi-no-heya
-titlel: Denpashonenteki Kenshoseikatsu Soft Nasubi no Heya
+title: "Denpashonenteki Kenshoseikatsu Soft Nasubi no Heya"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 353B
-    region: jp
-    version: 1.000
+  - id: "353B"
+    region: JP
+    version: "1.000"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 353B GD-ROM1/1 jp
+  - fingerprint: "353B GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: OYXsHiI6ulM

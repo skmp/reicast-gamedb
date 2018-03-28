@@ -1,19 +1,19 @@
 ---
 layout: game
 id: sonic-adventure-international
-titlel: Sonic Adventure International
+title: "Sonic Adventure International"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 5975
-    region: jp
-    version: 1.003
+  - id: "5975"
+    region: JP
+    version: "1.003"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 5975 GD-ROM1/1 jp
+  - fingerprint: "5975 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: BAmsdY1yHK0

@@ -1,19 +1,19 @@
 ---
 layout: game
 id: fatal-fury-mark-of-the-wolves
-titlel: Fatal Fury - Mark of the Wolves
+title: "Fatal Fury - Mark of the Wolves"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: CAB0
-    region: us
-    version: 0.800
+  - id: "CAB0"
+    region: US
+    version: "0.800"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: CAB0 GD-ROM1/1 us
+  - fingerprint: "CAB0 GD-ROM1/1 US"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: NEugpJ1VBhY

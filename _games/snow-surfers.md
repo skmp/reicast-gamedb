@@ -1,19 +1,19 @@
 ---
 layout: game
 id: snow-surfers
-titlel: Snow Surfers
+title: "Snow Surfers"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 5627
-    region: eu
-    version: 1.001
+  - id: "5627"
+    region: EU
+    version: "1.001"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 5627 GD-ROM1/1 eu
+  - fingerprint: "5627 GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: qU49bI97lws

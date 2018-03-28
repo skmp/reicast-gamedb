@@ -1,19 +1,19 @@
 ---
 layout: game
 id: f355-challenge
-titlel: F355 Challenge
+title: "F355 Challenge"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 014D
-    region: jp
-    version: 1.003
+  - id: "014D"
+    region: JP
+    version: "1.003"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 014D GD-ROM1/1 jp
+  - fingerprint: "014D GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: _5NX7gkdgTY

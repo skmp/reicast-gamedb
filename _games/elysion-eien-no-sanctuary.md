@@ -1,19 +1,19 @@
 ---
 layout: game
 id: elysion-eien-no-sanctuary
-titlel: Elysion - Eien no Sanctuary
+title: "Elysion - Eien no Sanctuary"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 8A57
-    region: jp
-    version: 1.005
+  - id: "8A57"
+    region: JP
+    version: "1.005"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 8A57 GD-ROM1/1 jp
+  - fingerprint: "8A57 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: amIYUvlrDEM

@@ -1,19 +1,19 @@
 ---
 layout: game
 id: dabitsuku
-titlel: Dabitsuku
+title: "Dabitsuku"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 1F81
-    region: jp
-    version: 1.002
+  - id: "1F81"
+    region: JP
+    version: "1.002"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 1F81 GD-ROM1/1 jp
+  - fingerprint: "1F81 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: VoJk6m3G_dA

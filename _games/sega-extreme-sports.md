@@ -1,19 +1,19 @@
 ---
 layout: game
 id: sega-extreme-sports
-titlel: Sega Extreme Sports
+title: "Sega Extreme Sports"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 980A
-    region: eu
-    version: 1.001
+  - id: "980A"
+    region: EU
+    version: "1.001"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 980A GD-ROM1/1 eu
+  - fingerprint: "980A GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: WMYq70z6OWQ

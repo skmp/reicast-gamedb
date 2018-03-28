@@ -1,19 +1,19 @@
 ---
 layout: game
 id: millennium-soldier-expendable
-titlel: Millennium Soldier - Expendable
+title: "Millennium Soldier - Expendable"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: AC97
-    region: eu
-    version: 1.000
+  - id: "AC97"
+    region: EU
+    version: "1.000"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: AC97 GD-ROM1/1 eu
+  - fingerprint: "AC97 GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: 4neV2d8k870

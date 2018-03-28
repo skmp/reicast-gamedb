@@ -1,19 +1,19 @@
 ---
 layout: game
 id: dousoukai-2-again-refrain
-titlel: Dousoukai 2 - Again & Refrain
+title: "Dousoukai 2 - Again & Refrain"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 1378
-    region: jp
-    version: 1.004
+  - id: "1378"
+    region: JP
+    version: "1.004"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 1378 GD-ROM1/1 jp
+  - fingerprint: "1378 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: D4-poeLLUDQ

@@ -1,19 +1,19 @@
 ---
 layout: game
 id: wetrix
-titlel: Wetrix+
+title: "Wetrix+"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: CD8D
-    region: eu
-    version: 1.000
+  - id: "CD8D"
+    region: EU
+    version: "1.000"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: CD8D GD-ROM1/1 eu
+  - fingerprint: "CD8D GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: mpZLacd7Se4

@@ -1,19 +1,19 @@
 ---
 layout: game
 id: street-fighter-iii-w-impact
-titlel: Street Fighter III W Impact
+title: "Street Fighter III W Impact"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 7DFE
-    region: jp
-    version: 1.001
+  - id: "7DFE"
+    region: JP
+    version: "1.001"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 7DFE GD-ROM1/1 jp
+  - fingerprint: "7DFE GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: 28xwB3nXbQ0

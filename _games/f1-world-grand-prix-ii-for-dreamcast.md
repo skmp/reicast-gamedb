@@ -1,19 +1,19 @@
 ---
 layout: game
 id: f1-world-grand-prix-ii-for-dreamcast
-titlel: F1 World Grand Prix II for Dreamcast
+title: "F1 World Grand Prix II for Dreamcast"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: BB93
-    region: eu
-    version: 2.008
+  - id: "BB93"
+    region: EU
+    version: "2.008"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: BB93 GD-ROM1/1 eu
+  - fingerprint: "BB93 GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: XpS72v55Aes

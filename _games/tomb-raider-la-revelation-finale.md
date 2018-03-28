@@ -1,19 +1,19 @@
 ---
 layout: game
 id: tomb-raider-la-revelation-finale
-titlel: Tomb Raider - La Revelation Finale
+title: "Tomb Raider - La Revelation Finale"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 916C
-    region: eu
-    version: 1.000
+  - id: "916C"
+    region: EU
+    version: "1.000"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 916C GD-ROM1/1 eu
+  - fingerprint: "916C GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: wzw8i3Qw4mI

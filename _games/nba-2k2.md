@@ -1,19 +1,19 @@
 ---
 layout: game
 id: nba-2k2
-titlel: NBA 2K2
+title: "NBA 2K2"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 965F
-    region: eu
-    version: 1.001
+  - id: "965F"
+    region: EU
+    version: "1.001"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 965F GD-ROM1/1 eu
+  - fingerprint: "965F GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: LPdvpm4sh38

@@ -1,19 +1,19 @@
 ---
 layout: game
 id: marionette-company-2
-titlel: Marionette Company 2
+title: "Marionette Company 2"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: A5C5
-    region: jp
-    version: 1.001
+  - id: "A5C5"
+    region: JP
+    version: "1.001"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: A5C5 GD-ROM1/1 jp
+  - fingerprint: "A5C5 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: KVgMT278xAk

@@ -1,19 +1,19 @@
 ---
 layout: game
 id: seaman
-titlel: Seaman
+title: "Seaman"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: FFD9
-    region: us
-    version: 1.001
+  - id: "FFD9"
+    region: US
+    version: "1.001"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: FFD9 GD-ROM1/1 us
+  - fingerprint: "FFD9 GD-ROM1/1 US"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: G01EtNLpD7I

@@ -1,19 +1,19 @@
 ---
 layout: game
 id: eldorado-gate-vol-4
-titlel: Eldorado Gate Vol. 4
+title: "Eldorado Gate Vol. 4"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: AA31
-    region: jp
-    version: 1.000
+  - id: "AA31"
+    region: JP
+    version: "1.000"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: AA31 GD-ROM1/1 jp
+  - fingerprint: "AA31 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: e3cV-LNvSLE

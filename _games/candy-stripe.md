@@ -1,19 +1,19 @@
 ---
 layout: game
 id: candy-stripe
-titlel: Candy Stripe
+title: "Candy Stripe"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: CBF1
-    region: jp
-    version: 1.002
+  - id: "CBF1"
+    region: JP
+    version: "1.002"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: CBF1 GD-ROM1/1 jp
+  - fingerprint: "CBF1 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: _XmXzVEck70

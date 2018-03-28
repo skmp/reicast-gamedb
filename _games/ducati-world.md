@@ -1,19 +1,19 @@
 ---
 layout: game
 id: ducati-world
-titlel: Ducati World
+title: "Ducati World"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 258E
-    region: eu
-    version: 1.001
+  - id: "258E"
+    region: EU
+    version: "1.001"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 258E GD-ROM1/1 eu
+  - fingerprint: "258E GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: U7KhZoR_iMA

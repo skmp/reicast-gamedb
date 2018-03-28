@@ -1,19 +1,19 @@
 ---
 layout: game
 id: railroad-tycoon-ii-gold-edition
-titlel: Railroad Tycoon II - Gold Edition
+title: "Railroad Tycoon II - Gold Edition"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: DFDB
-    region: us
-    version: 1.004
+  - id: "DFDB"
+    region: US
+    version: "1.004"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: DFDB GD-ROM1/1 us
+  - fingerprint: "DFDB GD-ROM1/1 US"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: V88rIYCWM0g

@@ -1,19 +1,19 @@
 ---
 layout: game
 id: zero-gunner-2
-titlel: Zero Gunner 2
+title: "Zero Gunner 2"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: B0F4
-    region: jp
-    version: 1.000
+  - id: "B0F4"
+    region: JP
+    version: "1.000"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: B0F4 GD-ROM1/1 jp
+  - fingerprint: "B0F4 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: A51WRjwQuwU

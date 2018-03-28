@@ -1,19 +1,19 @@
 ---
 layout: game
 id: seventh-cross
-titlel: Seventh Cross
+title: "Seventh Cross"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 3D4A
-    region: jp
-    version: 1.000
+  - id: "3D4A"
+    region: JP
+    version: "1.000"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 3D4A GD-ROM1/1 jp
+  - fingerprint: "3D4A GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: ayOIbmFe9pE

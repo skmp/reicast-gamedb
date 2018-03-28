@@ -1,19 +1,19 @@
 ---
 layout: game
 id: net-versus-chess
-titlel: Net Versus - Chess
+title: "Net Versus - Chess"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 56E6
-    region: jp
-    version: 1.005
+  - id: "56E6"
+    region: JP
+    version: "1.005"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 56E6 GD-ROM1/1 jp
+  - fingerprint: "56E6 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: NJedKD1_8PA

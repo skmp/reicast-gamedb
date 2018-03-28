@@ -1,19 +1,19 @@
 ---
 layout: game
 id: freestyle-scooter
-titlel: Freestyle Scooter
+title: "Freestyle Scooter"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 04F0
-    region: eu
-    version: 1.000
+  - id: "04F0"
+    region: EU
+    version: "1.000"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 04F0 GD-ROM1/1 eu
+  - fingerprint: "04F0 GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: uuco-u73wng

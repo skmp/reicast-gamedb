@@ -1,19 +1,19 @@
 ---
 layout: game
 id: pop-n-music
-titlel: Pop'n Music
+title: "Pop'n Music"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 119F
-    region: jp
-    version: 1.200
+  - id: "119F"
+    region: JP
+    version: "1.200"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 119F GD-ROM1/1 jp
+  - fingerprint: "119F GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: vEOJFGKlCHI

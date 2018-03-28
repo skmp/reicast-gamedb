@@ -1,19 +1,19 @@
 ---
 layout: game
 id: ecw-anarchy-rulz
-titlel: ECW Anarchy Rulz
+title: "ECW Anarchy Rulz"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 7AB8
-    region: eu
-    version: 1.003
+  - id: "7AB8"
+    region: EU
+    version: "1.003"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 7AB8 GD-ROM1/1 eu
+  - fingerprint: "7AB8 GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: P-Ny9i5WhZc

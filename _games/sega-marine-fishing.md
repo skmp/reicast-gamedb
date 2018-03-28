@@ -1,19 +1,19 @@
 ---
 layout: game
 id: sega-marine-fishing
-titlel: Sega Marine Fishing
+title: "Sega Marine Fishing"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 0495
-    region: us
-    version: 1.001
+  - id: "0495"
+    region: US
+    version: "1.001"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 0495 GD-ROM1/1 us
+  - fingerprint: "0495 GD-ROM1/1 US"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: wfb3Iz6MIlE

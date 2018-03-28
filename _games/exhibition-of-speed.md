@@ -1,19 +1,19 @@
 ---
 layout: game
 id: exhibition-of-speed
-titlel: Exhibition of Speed
+title: "Exhibition of Speed"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: CA6E
-    region: eu
-    version: 1.000
+  - id: "CA6E"
+    region: EU
+    version: "1.000"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: CA6E GD-ROM1/1 eu
+  - fingerprint: "CA6E GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: x8wsnw2m9LY

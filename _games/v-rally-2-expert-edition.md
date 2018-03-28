@@ -1,19 +1,19 @@
 ---
 layout: game
 id: v-rally-2-expert-edition
-titlel: V-Rally 2 - Expert Edition
+title: "V-Rally 2 - Expert Edition"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 29F0
-    region: eu
-    version: 0.002
+  - id: "29F0"
+    region: EU
+    version: "0.002"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 29F0 GD-ROM1/1 eu
+  - fingerprint: "29F0 GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: Oj_8MXnKfNg

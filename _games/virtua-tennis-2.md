@@ -1,19 +1,19 @@
 ---
 layout: game
 id: virtua-tennis-2
-titlel: Virtua Tennis 2
+title: "Virtua Tennis 2"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 70E0
-    region: eu
-    version: 1.009
+  - id: "70E0"
+    region: EU
+    version: "1.009"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 70E0 GD-ROM1/1 eu
+  - fingerprint: "70E0 GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: uAJcmwiEtRA

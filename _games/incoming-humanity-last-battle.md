@@ -1,19 +1,19 @@
 ---
 layout: game
 id: incoming-humanity-last-battle
-titlel: Incoming - Humanity Last Battle
+title: "Incoming - Humanity Last Battle"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: D0B8
-    region: jp
-    version: 1.001
+  - id: "D0B8"
+    region: JP
+    version: "1.001"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: D0B8 GD-ROM1/1 jp
+  - fingerprint: "D0B8 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: KtG0R004f4U

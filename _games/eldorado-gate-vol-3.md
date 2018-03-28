@@ -1,19 +1,19 @@
 ---
 layout: game
 id: eldorado-gate-vol-3
-titlel: Eldorado Gate Vol. 3
+title: "Eldorado Gate Vol. 3"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: BF8F
-    region: jp
-    version: 1.001
+  - id: "BF8F"
+    region: JP
+    version: "1.001"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: BF8F GD-ROM1/1 jp
+  - fingerprint: "BF8F GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: YMzzFx7Facc

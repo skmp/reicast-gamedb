@@ -1,19 +1,19 @@
 ---
 layout: game
 id: who-wants-to-be-a-millionaire
-titlel: Who Wants to Be a Millionaire
+title: "Who Wants to Be a Millionaire"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 4E8B
-    region: eu
-    version: 1.000
+  - id: "4E8B"
+    region: EU
+    version: "1.000"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 4E8B GD-ROM1/1 eu
+  - fingerprint: "4E8B GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: 8bUelwKiteg

@@ -1,19 +1,19 @@
 ---
 layout: game
 id: railroad-tycoon-ii
-titlel: Railroad Tycoon II
+title: "Railroad Tycoon II"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 3586
-    region: eu
-    version: 1.002
+  - id: "3586"
+    region: EU
+    version: "1.002"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 3586 GD-ROM1/1 eu
+  - fingerprint: "3586 GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: A36cC5M-dUE

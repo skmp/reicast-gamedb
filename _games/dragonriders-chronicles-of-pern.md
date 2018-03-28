@@ -1,19 +1,19 @@
 ---
 layout: game
 id: dragonriders-chronicles-of-pern
-titlel: Dragonriders - Chronicles of Pern
+title: "Dragonriders - Chronicles of Pern"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: B1E4
-    region: eu
-    version: 1.001
+  - id: "B1E4"
+    region: EU
+    version: "1.001"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: B1E4 GD-ROM1/1 eu
+  - fingerprint: "B1E4 GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: UDieMPJG_8M

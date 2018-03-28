@@ -1,19 +1,19 @@
 ---
 layout: game
 id: himitsu-yui-ga-ita-natsu
-titlel: Himitsu - Yui ga Ita Natsu
+title: "Himitsu - Yui ga Ita Natsu"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 1D55
-    region: jp
-    version: 1.003
+  - id: "1D55"
+    region: JP
+    version: "1.003"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 1D55 GD-ROM1/1 jp
+  - fingerprint: "1D55 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: uBDvUArpWKo

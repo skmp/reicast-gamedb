@@ -1,19 +1,19 @@
 ---
 layout: game
 id: tennis-2k2
-titlel: Tennis 2K2
+title: "Tennis 2K2"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 93DB
-    region: us
-    version: 1.003
+  - id: "93DB"
+    region: US
+    version: "1.003"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 93DB GD-ROM1/1 us
+  - fingerprint: "93DB GD-ROM1/1 US"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: 5c-NW6L972Y

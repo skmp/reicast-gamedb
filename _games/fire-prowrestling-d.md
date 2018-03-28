@@ -1,19 +1,19 @@
 ---
 layout: game
 id: fire-prowrestling-d
-titlel: Fire ProWrestling D
+title: "Fire ProWrestling D"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: C748
-    region: jp
-    version: 1.002
+  - id: "C748"
+    region: JP
+    version: "1.002"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: C748 GD-ROM1/1 jp
+  - fingerprint: "C748 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: M1TRc6g6ofA

@@ -1,19 +1,19 @@
 ---
 layout: game
 id: donald-duck-goin-quackers
-titlel: Donald Duck - Goin' Quackers
+title: "Donald Duck - Goin' Quackers"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 4AA0
-    region: us
-    version: 1.001
+  - id: "4AA0"
+    region: US
+    version: "1.001"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 4AA0 GD-ROM1/1 us
+  - fingerprint: "4AA0 GD-ROM1/1 US"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: sQcCkG-xs7o

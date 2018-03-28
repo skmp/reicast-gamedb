@@ -1,19 +1,19 @@
 ---
 layout: game
 id: conflict-zone
-titlel: Conflict Zone
+title: "Conflict Zone"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 4B3E
-    region: eu
-    version: 1.000
+  - id: "4B3E"
+    region: EU
+    version: "1.000"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 4B3E GD-ROM1/1 eu
+  - fingerprint: "4B3E GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: Fr2nyLLITq8

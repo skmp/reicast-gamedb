@@ -1,19 +1,19 @@
 ---
 layout: game
 id: bikkuriman-2000-viva-festiva
-titlel: Bikkuriman 2000 - Viva!Festiva!
+title: "Bikkuriman 2000 - Viva!Festiva!"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 334B
-    region: jp
-    version: 1.002
+  - id: "334B"
+    region: JP
+    version: "1.002"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 334B GD-ROM1/1 jp
+  - fingerprint: "334B GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: 00UCdmad0yg

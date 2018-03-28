@@ -1,19 +1,19 @@
 ---
 layout: game
 id: roommate-novel-yuka-sato
-titlel: Roommate Novel - Yuka Sato
+title: "Roommate Novel - Yuka Sato"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: DE00
-    region: jp
-    version: 1.002
+  - id: "DE00"
+    region: JP
+    version: "1.002"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: DE00 GD-ROM1/1 jp
+  - fingerprint: "DE00 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: V-OTZ8U5LzA

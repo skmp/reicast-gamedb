@@ -1,19 +1,19 @@
 ---
 layout: game
 id: worms-world-party
-titlel: Worms World Party
+title: "Worms World Party"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 5DC9
-    region: eu
-    version: 1.002
+  - id: "5DC9"
+    region: EU
+    version: "1.002"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 5DC9 GD-ROM1/1 eu
+  - fingerprint: "5DC9 GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: 2E8DaZI3fRc

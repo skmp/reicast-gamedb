@@ -1,19 +1,19 @@
 ---
 layout: game
 id: roommania-203
-titlel: Roommania #203
+title: "Roommania #203"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: A85A
-    region: jp
-    version: 1.007
+  - id: "A85A"
+    region: JP
+    version: "1.007"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: A85A GD-ROM1/1 jp
+  - fingerprint: "A85A GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: gLn-RncRa-Q

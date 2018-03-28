@@ -1,19 +1,19 @@
 ---
 layout: game
 id: my-trackman
-titlel: My Trackman
+title: "My Trackman"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 5BC0
-    region: jp
-    version: 1.003
+  - id: "5BC0"
+    region: JP
+    version: "1.003"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 5BC0 GD-ROM1/1 jp
+  - fingerprint: "5BC0 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: -G3CVQ34mTg

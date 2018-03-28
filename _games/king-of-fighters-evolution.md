@@ -1,19 +1,19 @@
 ---
 layout: game
 id: king-of-fighters-evolution
-titlel: King of Fighters Evolution, The
+title: "King of Fighters Evolution, The"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 9807
-    region: us
-    version: 1.000
+  - id: "9807"
+    region: US
+    version: "1.000"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 9807 GD-ROM1/1 us
+  - fingerprint: "9807 GD-ROM1/1 US"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: Vl2dBE0EoLQ

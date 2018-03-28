@@ -1,30 +1,30 @@
 ---
 layout: game
 id: nfl-quarterback-club-2000
-titlel: NFL Quarterback Club 2000
+title: "NFL Quarterback Club 2000"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: EE95
-    region: us
-    version: 1.030
+  - id: "EE95"
+    region: US
+    version: "1.030"
     discs: 1
     medium: gdrom
-  - id: 01AE
-    region: eu
-    version: 1.001
+  - id: "01AE"
+    region: EU
+    version: "1.001"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: EE95 GD-ROM1/1 us
+  - fingerprint: "EE95 GD-ROM1/1 US"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: RGO6jUk58Zo
     git: d59197f84353d7d2b746383e9277d9ed7c8c4053
     platform: win86-release
-  - fingerprint: 01AE GD-ROM1/1 eu
+  - fingerprint: "01AE GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: o6pKPh9yPJY

@@ -1,19 +1,19 @@
 ---
 layout: game
 id: advanced-daisenryaku-sturm-uber-europa-der-deutsche-blitzkrieg
-titlel: Advanced Daisenryaku - Sturm uber Europa - Der Deutsche Blitzkrieg
+title: "Advanced Daisenryaku - Sturm uber Europa - Der Deutsche Blitzkrieg"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: C302
-    region: jp
-    version: 1.013
+  - id: "C302"
+    region: JP
+    version: "1.013"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: C302 GD-ROM1/1 jp
+  - fingerprint: "C302 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: VOndDQ7STjU

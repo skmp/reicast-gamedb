@@ -1,19 +1,19 @@
 ---
 layout: game
 id: idol-janshi-wo-tsukucchaou
-titlel: Idol Janshi wo Tsukucchaou
+title: "Idol Janshi wo Tsukucchaou"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 0343
-    region: jp
-    version: 1.003
+  - id: "0343"
+    region: JP
+    version: "1.003"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 0343 GD-ROM1/1 jp
+  - fingerprint: "0343 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: 5Ruw-IWMPy8

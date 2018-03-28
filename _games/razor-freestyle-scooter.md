@@ -1,19 +1,19 @@
 ---
 layout: game
 id: razor-freestyle-scooter
-titlel: Razor Freestyle Scooter
+title: "Razor Freestyle Scooter"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: F9C0
-    region: us
-    version: 1.000
+  - id: "F9C0"
+    region: US
+    version: "1.000"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: F9C0 GD-ROM1/1 us
+  - fingerprint: "F9C0 GD-ROM1/1 US"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: fNwGOBzvh54

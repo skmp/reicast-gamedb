@@ -1,19 +1,19 @@
 ---
 layout: game
 id: nfl-2k1
-titlel: NFL 2K1
+title: "NFL 2K1"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: EE89
-    region: us
-    version: 1.003
+  - id: "EE89"
+    region: US
+    version: "1.003"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: EE89 GD-ROM1/1 us
+  - fingerprint: "EE89 GD-ROM1/1 US"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: OjdyKvMkZkM

@@ -1,19 +1,19 @@
 ---
 layout: game
 id: simple2000-series-dc-vol-02-natsuiro-celebration
-titlel: Simple2000 Series DC Vol. 02 - Natsuiro Celebration
+title: "Simple2000 Series DC Vol. 02 - Natsuiro Celebration"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: BFD5
-    region: jp
-    version: 1.002
+  - id: "BFD5"
+    region: JP
+    version: "1.002"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: BFD5 GD-ROM1/1 jp
+  - fingerprint: "BFD5 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: KjepT-s_luo

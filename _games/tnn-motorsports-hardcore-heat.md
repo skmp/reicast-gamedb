@@ -1,19 +1,19 @@
 ---
 layout: game
 id: tnn-motorsports-hardcore-heat
-titlel: TNN Motorsports Hardcore Heat
+title: "TNN Motorsports Hardcore Heat"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 63D6
-    region: us
-    version: 1.001
+  - id: "63D6"
+    region: US
+    version: "1.001"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 63D6 GD-ROM1/1 us
+  - fingerprint: "63D6 GD-ROM1/1 US"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: kELvfX6lGC8

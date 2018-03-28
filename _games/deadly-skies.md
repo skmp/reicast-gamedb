@@ -1,19 +1,19 @@
 ---
 layout: game
 id: deadly-skies
-titlel: Deadly Skies
+title: "Deadly Skies"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: A6DB
-    region: eu
-    version: 1.003
+  - id: "A6DB"
+    region: EU
+    version: "1.003"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: A6DB GD-ROM1/1 eu
+  - fingerprint: "A6DB GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: nAaQPJDrpQY

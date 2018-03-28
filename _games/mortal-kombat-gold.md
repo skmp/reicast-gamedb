@@ -1,19 +1,19 @@
 ---
 layout: game
 id: mortal-kombat-gold
-titlel: Mortal Kombat Gold
+title: "Mortal Kombat Gold"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 933C
-    region: eu
-    version: 1.006
+  - id: "933C"
+    region: EU
+    version: "1.006"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 933C GD-ROM1/1 eu
+  - fingerprint: "933C GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: gKVbp5ADwEI

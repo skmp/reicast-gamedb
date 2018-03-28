@@ -1,19 +1,19 @@
 ---
 layout: game
 id: conflict-zone-modern-war-strategy
-titlel: Conflict Zone - Modern War Strategy
+title: "Conflict Zone - Modern War Strategy"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 7B15
-    region: us
-    version: 1.002
+  - id: "7B15"
+    region: US
+    version: "1.002"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 7B15 GD-ROM1/1 us
+  - fingerprint: "7B15 GD-ROM1/1 US"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: B7Xi5lXTj3Y

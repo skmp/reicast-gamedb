@@ -1,19 +1,19 @@
 ---
 layout: game
 id: nfl-qb-club-2001
-titlel: NFL QB Club 2001
+title: "NFL QB Club 2001"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: F9D5
-    region: us
-    version: 1.001
+  - id: "F9D5"
+    region: US
+    version: "1.001"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: F9D5 GD-ROM1/1 us
+  - fingerprint: "F9D5 GD-ROM1/1 US"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: ElQGd5-ElWg

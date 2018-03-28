@@ -1,19 +1,19 @@
 ---
 layout: game
 id: tony-hawk-s-pro-skater
-titlel: Tony Hawk's Pro Skater
+title: "Tony Hawk's Pro Skater"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 097C
-    region: us
-    version: 1.000
+  - id: "097C"
+    region: US
+    version: "1.000"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 097C GD-ROM1/1 us
+  - fingerprint: "097C GD-ROM1/1 US"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: p0_kmqgrDA4

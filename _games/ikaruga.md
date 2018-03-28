@@ -1,19 +1,19 @@
 ---
 layout: game
 id: ikaruga
-titlel: Ikaruga
+title: "Ikaruga"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 3339
-    region: jp
-    version: 1.002
+  - id: "3339"
+    region: JP
+    version: "1.002"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 3339 GD-ROM1/1 jp
+  - fingerprint: "3339 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: OPiUHsGw7yk

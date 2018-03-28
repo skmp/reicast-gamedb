@@ -1,19 +1,19 @@
 ---
 layout: game
 id: urban-chaos
-titlel: Urban Chaos
+title: "Urban Chaos"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: B7FA
-    region: eu
-    version: 1.001
+  - id: "B7FA"
+    region: EU
+    version: "1.001"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: B7FA GD-ROM1/1 eu
+  - fingerprint: "B7FA GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: 5vFgSy43KfU

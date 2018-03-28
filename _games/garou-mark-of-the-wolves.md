@@ -1,19 +1,19 @@
 ---
 layout: game
 id: garou-mark-of-the-wolves
-titlel: Garou - Mark of the Wolves
+title: "Garou - Mark of the Wolves"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: E03A
-    region: jp
-    version: 1.001
+  - id: "E03A"
+    region: JP
+    version: "1.001"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: E03A GD-ROM1/1 jp
+  - fingerprint: "E03A GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: hU3igojbmOE

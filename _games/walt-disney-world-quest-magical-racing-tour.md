@@ -1,19 +1,19 @@
 ---
 layout: game
 id: walt-disney-world-quest-magical-racing-tour
-titlel: Walt Disney World Quest - Magical Racing Tour
+title: "Walt Disney World Quest - Magical Racing Tour"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: DE69
-    region: eu
-    version: 1.000
+  - id: "DE69"
+    region: EU
+    version: "1.000"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: DE69 GD-ROM1/1 eu
+  - fingerprint: "DE69 GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: 3K0YZ5mIXlk

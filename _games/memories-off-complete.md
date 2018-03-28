@@ -1,19 +1,19 @@
 ---
 layout: game
 id: memories-off-complete
-titlel: Memories Off Complete
+title: "Memories Off Complete"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 7484
-    region: jp
-    version: 1.000
+  - id: "7484"
+    region: JP
+    version: "1.000"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 7484 GD-ROM1/1 jp
+  - fingerprint: "7484 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: jyzlI8JLBbE

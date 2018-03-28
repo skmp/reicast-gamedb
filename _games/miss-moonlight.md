@@ -1,19 +1,19 @@
 ---
 layout: game
 id: miss-moonlight
-titlel: Miss Moonlight
+title: "Miss Moonlight"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 6F23
-    region: jp
-    version: 1.006
+  - id: "6F23"
+    region: JP
+    version: "1.006"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 6F23 GD-ROM1/1 jp
+  - fingerprint: "6F23 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: ndis7yBIIg4

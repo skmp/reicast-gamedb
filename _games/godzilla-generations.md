@@ -1,19 +1,19 @@
 ---
 layout: game
 id: godzilla-generations
-titlel: Godzilla Generations
+title: "Godzilla Generations"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 65A9
-    region: jp
-    version: 1.001
+  - id: "65A9"
+    region: JP
+    version: "1.001"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 65A9 GD-ROM1/1 jp
+  - fingerprint: "65A9 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: WH2plTJ_GeM

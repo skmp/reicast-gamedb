@@ -1,19 +1,19 @@
 ---
 layout: game
 id: aero-dancing-i-jikai-saku-made-matemasen
-titlel: Aero Dancing i - Jikai Saku Made Matemasen
+title: "Aero Dancing i - Jikai Saku Made Matemasen"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 562A
-    region: jp
-    version: 1.000
+  - id: "562A"
+    region: JP
+    version: "1.000"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 562A GD-ROM1/1 jp
+  - fingerprint: "562A GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: mnyyyzrD2g4

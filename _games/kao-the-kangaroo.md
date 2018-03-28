@@ -1,19 +1,19 @@
 ---
 layout: game
 id: kao-the-kangaroo
-titlel: KAO the Kangaroo
+title: "KAO the Kangaroo"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 0206
-    region: eu
-    version: 1.001
+  - id: "0206"
+    region: EU
+    version: "1.001"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 0206 GD-ROM1/1 eu
+  - fingerprint: "0206 GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: SZ2WfBmtQCc

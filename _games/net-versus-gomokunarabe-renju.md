@@ -1,19 +1,19 @@
 ---
 layout: game
 id: net-versus-gomokunarabe-renju
-titlel: Net Versus - Gomokunarabe & Renju
+title: "Net Versus - Gomokunarabe & Renju"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 2E1C
-    region: jp
-    version: 1.005
+  - id: "2E1C"
+    region: JP
+    version: "1.005"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 2E1C GD-ROM1/1 jp
+  - fingerprint: "2E1C GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: 7fDvOUSsqcU

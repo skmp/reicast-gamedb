@@ -1,19 +1,19 @@
 ---
 layout: game
 id: guilty-gear-x
-titlel: Guilty Gear X
+title: "Guilty Gear X"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: C146
-    region: jp
-    version: 2.000
+  - id: "C146"
+    region: JP
+    version: "2.000"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: C146 GD-ROM1/1 jp
+  - fingerprint: "C146 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: iLdlJEbZLqY

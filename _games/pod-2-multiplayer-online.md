@@ -1,19 +1,19 @@
 ---
 layout: game
 id: pod-2-multiplayer-online
-titlel: POD 2 - Multiplayer Online
+title: "POD 2 - Multiplayer Online"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 2CA6
-    region: eu
-    version: 1.004
+  - id: "2CA6"
+    region: EU
+    version: "1.004"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 2CA6 GD-ROM1/1 eu
+  - fingerprint: "2CA6 GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: qfEFQiEsNLY

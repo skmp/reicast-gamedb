@@ -1,19 +1,19 @@
 ---
 layout: game
 id: tetris-4d
-titlel: Tetris 4D
+title: "Tetris 4D"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: EEA6
-    region: jp
-    version: 1.005
+  - id: "EEA6"
+    region: JP
+    version: "1.005"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: EEA6 GD-ROM1/1 jp
+  - fingerprint: "EEA6 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: bFiyqJPt1lY

@@ -1,19 +1,19 @@
 ---
 layout: game
 id: le-mans-24-hours
-titlel: Le Mans 24 Hours
+title: "Le Mans 24 Hours"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: F1D1
-    region: eu
-    version: 1.000
+  - id: "F1D1"
+    region: EU
+    version: "1.000"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: F1D1 GD-ROM1/1 eu
+  - fingerprint: "F1D1 GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: lWH4GDC2bQc

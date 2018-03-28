@@ -1,19 +1,19 @@
 ---
 layout: game
 id: di-gi-charat-fantasy
-titlel: Di Gi Charat Fantasy
+title: "Di Gi Charat Fantasy"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 9F8E
-    region: jp
-    version: 1.004
+  - id: "9F8E"
+    region: JP
+    version: "1.004"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 9F8E GD-ROM1/1 jp
+  - fingerprint: "9F8E GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: hzFEGvute2g

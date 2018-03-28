@@ -1,19 +1,19 @@
 ---
 layout: game
 id: racing-simulation-2-monaco-grand-prix-on-line
-titlel: Racing Simulation 2 - Monaco Grand Prix On-Line
+title: "Racing Simulation 2 - Monaco Grand Prix On-Line"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: E3DF
-    region: eu
-    version: 1.002
+  - id: "E3DF"
+    region: EU
+    version: "1.002"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: E3DF GD-ROM1/1 eu
+  - fingerprint: "E3DF GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: CXgjMlaL_bE

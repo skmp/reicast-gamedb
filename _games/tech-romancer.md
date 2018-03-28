@@ -1,19 +1,19 @@
 ---
 layout: game
 id: tech-romancer
-titlel: Tech Romancer
+title: "Tech Romancer"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 4C20
-    region: eu
-    version: 1.002
+  - id: "4C20"
+    region: EU
+    version: "1.002"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 4C20 GD-ROM1/1 eu
+  - fingerprint: "4C20 GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: vcI2B2GPmEE

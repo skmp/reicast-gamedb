@@ -1,19 +1,19 @@
 ---
 layout: game
 id: pro-yakyu-team-wo-tsukurou
-titlel: Pro Yakyu Team wo Tsukurou!
+title: "Pro Yakyu Team wo Tsukurou!"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: F18A
-    region: jp
-    version: 1.007
+  - id: "F18A"
+    region: JP
+    version: "1.007"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: F18A GD-ROM1/1 jp
+  - fingerprint: "F18A GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: L0iOyDTZ_jI

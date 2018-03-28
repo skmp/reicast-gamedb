@@ -1,19 +1,19 @@
 ---
 layout: game
 id: akihabara-dennou-gumi-pata-pies
-titlel: Akihabara Dennou Gumi Pata Pies!
+title: "Akihabara Dennou Gumi Pata Pies!"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 44FE
-    region: jp
-    version: 1.000
+  - id: "44FE"
+    region: JP
+    version: "1.000"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 44FE GD-ROM1/1 jp
+  - fingerprint: "44FE GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: SxUwRanFE1s

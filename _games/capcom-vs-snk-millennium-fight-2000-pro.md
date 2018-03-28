@@ -1,19 +1,19 @@
 ---
 layout: game
 id: capcom-vs-snk-millennium-fight-2000-pro
-titlel: Capcom vs. SNK - Millennium Fight 2000 Pro
+title: "Capcom vs. SNK - Millennium Fight 2000 Pro"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 360E
-    region: jp
-    version: 1.001
+  - id: "360E"
+    region: JP
+    version: "1.001"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 360E GD-ROM1/1 jp
+  - fingerprint: "360E GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: Gb57uLc9uqw

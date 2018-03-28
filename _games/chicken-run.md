@@ -1,19 +1,19 @@
 ---
 layout: game
 id: chicken-run
-titlel: Chicken Run
+title: "Chicken Run"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: B9BC
-    region: eu
-    version: 1.000
+  - id: "B9BC"
+    region: EU
+    version: "1.000"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: B9BC GD-ROM1/1 eu
+  - fingerprint: "B9BC GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: fME0BSdCcfs

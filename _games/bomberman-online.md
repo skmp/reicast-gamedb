@@ -1,19 +1,19 @@
 ---
 layout: game
 id: bomberman-online
-titlel: Bomberman Online
+title: "Bomberman Online"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 2FC5
-    region: us
-    version: 1.004
+  - id: "2FC5"
+    region: US
+    version: "1.004"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 2FC5 GD-ROM1/1 us
+  - fingerprint: "2FC5 GD-ROM1/1 US"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: qO3_YL33ihA

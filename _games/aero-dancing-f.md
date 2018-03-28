@@ -1,19 +1,19 @@
 ---
 layout: game
 id: aero-dancing-f
-titlel: Aero Dancing F
+title: "Aero Dancing F"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 23E5
-    region: jp
-    version: 1.006
+  - id: "23E5"
+    region: JP
+    version: "1.006"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 23E5 GD-ROM1/1 jp
+  - fingerprint: "23E5 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: OvvJuYPmsgY

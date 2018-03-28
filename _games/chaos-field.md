@@ -1,19 +1,19 @@
 ---
 layout: game
 id: chaos-field
-titlel: Chaos Field
+title: "Chaos Field"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 280D
-    region: jp
-    version: 1.003
+  - id: "280D"
+    region: JP
+    version: "1.003"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 280D GD-ROM1/1 jp
+  - fingerprint: "280D GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: PlwX1jBfx_o

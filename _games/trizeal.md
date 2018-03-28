@@ -1,19 +1,19 @@
 ---
 layout: game
 id: trizeal
-titlel: Trizeal
+title: "Trizeal"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 5D0D
-    region: jp
-    version: 1.000
+  - id: "5D0D"
+    region: JP
+    version: "1.000"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 5D0D GD-ROM1/1 jp
+  - fingerprint: "5D0D GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: Yb1L9dMVCmE

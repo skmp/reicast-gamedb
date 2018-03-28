@@ -1,19 +1,19 @@
 ---
 layout: game
 id: under-defeat
-titlel: Under Defeat
+title: "Under Defeat"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: E33B
-    region: jp
-    version: 1.001
+  - id: "E33B"
+    region: JP
+    version: "1.001"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: E33B GD-ROM1/1 jp
+  - fingerprint: "E33B GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: CO54Y27Vdeo

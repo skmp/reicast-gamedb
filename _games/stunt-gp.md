@@ -1,19 +1,19 @@
 ---
 layout: game
 id: stunt-gp
-titlel: Stunt GP
+title: "Stunt GP"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: F3F2
-    region: eu
-    version: 1.001
+  - id: "F3F2"
+    region: EU
+    version: "1.001"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: F3F2 GD-ROM1/1 eu
+  - fingerprint: "F3F2 GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: birGRJPdFII

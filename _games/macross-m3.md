@@ -1,19 +1,19 @@
 ---
 layout: game
 id: macross-m3
-titlel: Macross M3
+title: "Macross M3"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: AEB4
-    region: jp
-    version: 1.002
+  - id: "AEB4"
+    region: JP
+    version: "1.002"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: AEB4 GD-ROM1/1 jp
+  - fingerprint: "AEB4 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: CLjyMyDakaU

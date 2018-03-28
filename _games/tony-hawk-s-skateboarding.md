@@ -1,19 +1,19 @@
 ---
 layout: game
 id: tony-hawk-s-skateboarding
-titlel: Tony Hawk's Skateboarding
+title: "Tony Hawk's Skateboarding"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 17A4
-    region: eu
-    version: 1.001
+  - id: "17A4"
+    region: EU
+    version: "1.001"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 17A4 GD-ROM1/1 eu
+  - fingerprint: "17A4 GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: 8dlPszQE8Q8

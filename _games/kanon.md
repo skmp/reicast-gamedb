@@ -1,19 +1,19 @@
 ---
 layout: game
 id: kanon
-titlel: Kanon
+title: "Kanon"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: F1D8
-    region: jp
-    version: 1.005
+  - id: "F1D8"
+    region: JP
+    version: "1.005"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: F1D8 GD-ROM1/1 jp
+  - fingerprint: "F1D8 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: we8LNohAsXU

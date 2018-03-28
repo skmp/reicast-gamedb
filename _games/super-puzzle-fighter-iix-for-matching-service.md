@@ -1,19 +1,19 @@
 ---
 layout: game
 id: super-puzzle-fighter-iix-for-matching-service
-titlel: Super Puzzle Fighter IIX for Matching Service
+title: "Super Puzzle Fighter IIX for Matching Service"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 7B26
-    region: jp
-    version: 1.001
+  - id: "7B26"
+    region: JP
+    version: "1.001"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 7B26 GD-ROM1/1 jp
+  - fingerprint: "7B26 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: df8riZUQIP4

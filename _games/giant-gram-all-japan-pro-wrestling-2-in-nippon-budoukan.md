@@ -1,19 +1,19 @@
 ---
 layout: game
 id: giant-gram-all-japan-pro-wrestling-2-in-nippon-budoukan
-titlel: Giant Gram - All Japan Pro Wrestling 2 in Nippon Budoukan
+title: "Giant Gram - All Japan Pro Wrestling 2 in Nippon Budoukan"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 9EAB
-    region: jp
-    version: 1.003
+  - id: "9EAB"
+    region: JP
+    version: "1.003"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 9EAB GD-ROM1/1 jp
+  - fingerprint: "9EAB GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: 8ppStKktuhA

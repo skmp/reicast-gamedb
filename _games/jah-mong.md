@@ -1,19 +1,19 @@
 ---
 layout: game
 id: jah-mong
-titlel: Jah-Mong
+title: "Jah-Mong"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: CD54
-    region: jp
-    version: 1.001
+  - id: "CD54"
+    region: JP
+    version: "1.001"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: CD54 GD-ROM1/1 jp
+  - fingerprint: "CD54 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: aRkOucULXio

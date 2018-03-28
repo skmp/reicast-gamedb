@@ -1,19 +1,19 @@
 ---
 layout: game
 id: konohana-2-todokanai-requiem
-titlel: Konohana 2 - Todokanai Requiem
+title: "Konohana 2 - Todokanai Requiem"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 4138
-    region: jp
-    version: 1.002
+  - id: "4138"
+    region: JP
+    version: "1.002"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 4138 GD-ROM1/1 jp
+  - fingerprint: "4138 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: C_2Cp7vdTSQ

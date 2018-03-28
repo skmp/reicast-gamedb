@@ -1,19 +1,19 @@
 ---
 layout: game
 id: frame-gride
-titlel: Frame Gride
+title: "Frame Gride"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 4F91
-    region: jp
-    version: 4.000
+  - id: "4F91"
+    region: JP
+    version: "4.000"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 4F91 GD-ROM1/1 jp
+  - fingerprint: "4F91 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: tpFl4ChNoJs

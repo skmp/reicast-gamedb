@@ -1,19 +1,19 @@
 ---
 layout: game
 id: berserk
-titlel: Berserk
+title: "Berserk"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 561B
-    region: jp
-    version: 1.001
+  - id: "561B"
+    region: JP
+    version: "1.001"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 561B GD-ROM1/1 jp
+  - fingerprint: "561B GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: uKoGmlUtYbw

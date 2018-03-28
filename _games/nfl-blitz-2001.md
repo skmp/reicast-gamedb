@@ -1,19 +1,19 @@
 ---
 layout: game
 id: nfl-blitz-2001
-titlel: NFL Blitz 2001
+title: "NFL Blitz 2001"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: A11A
-    region: us
-    version: 1.001
+  - id: "A11A"
+    region: US
+    version: "1.001"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: A11A GD-ROM1/1 us
+  - fingerprint: "A11A GD-ROM1/1 US"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: 2-bvouE0Ong

@@ -1,19 +1,19 @@
 ---
 layout: game
 id: sega-bass-fishing
-titlel: Sega Bass Fishing
+title: "Sega Bass Fishing"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 15A9
-    region: eu
-    version: 1.020
+  - id: "15A9"
+    region: EU
+    version: "1.020"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 15A9 GD-ROM1/1 eu
+  - fingerprint: "15A9 GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: nbO_OGUyb3Q

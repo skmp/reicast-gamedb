@@ -1,19 +1,19 @@
 ---
 layout: game
 id: pop-n-music-2
-titlel: Pop'n Music 2
+title: "Pop'n Music 2"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 2292
-    region: jp
-    version: 1.001
+  - id: "2292"
+    region: JP
+    version: "1.001"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 2292 GD-ROM1/1 jp
+  - fingerprint: "2292 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: KuJXLbs-Vx0

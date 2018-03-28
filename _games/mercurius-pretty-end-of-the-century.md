@@ -1,19 +1,19 @@
 ---
 layout: game
 id: mercurius-pretty-end-of-the-century
-titlel: Mercurius Pretty - End of the Century
+title: "Mercurius Pretty - End of the Century"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 60EA
-    region: jp
-    version: 1.003
+  - id: "60EA"
+    region: JP
+    version: "1.003"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 60EA GD-ROM1/1 jp
+  - fingerprint: "60EA GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: E5FtugapKIg

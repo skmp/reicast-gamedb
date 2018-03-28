@@ -1,19 +1,19 @@
 ---
 layout: game
 id: king-of-fighters-2000
-titlel: King of Fighters 2000, The
+title: "King of Fighters 2000, The"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 4C41
-    region: jp
-    version: 1.003
+  - id: "4C41"
+    region: JP
+    version: "1.003"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 4C41 GD-ROM1/1 jp
+  - fingerprint: "4C41 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: Mh3U-nOjUH0

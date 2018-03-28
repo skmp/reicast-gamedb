@@ -1,19 +1,19 @@
 ---
 layout: game
 id: evil-twin-cyprien-s-chronicles
-titlel: Evil Twin - Cyprien's Chronicles
+title: "Evil Twin - Cyprien's Chronicles"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 9743
-    region: eu
-    version: 1.001
+  - id: "9743"
+    region: EU
+    version: "1.001"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 9743 GD-ROM1/1 eu
+  - fingerprint: "9743 GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: nJF405VwLpk

@@ -1,19 +1,19 @@
 ---
 layout: game
 id: sega-gt-homologation-special
-titlel: Sega GT - Homologation Special
+title: "Sega GT - Homologation Special"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: D73E
-    region: jp
-    version: 1.006
+  - id: "D73E"
+    region: JP
+    version: "1.006"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: D73E GD-ROM1/1 jp
+  - fingerprint: "D73E GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: MZ3-7wZlGHM

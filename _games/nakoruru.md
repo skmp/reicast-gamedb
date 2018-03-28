@@ -1,19 +1,19 @@
 ---
 layout: game
 id: nakoruru
-titlel: Nakoruru
+title: "Nakoruru"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 6CE1
-    region: jp
-    version: 1.004
+  - id: "6CE1"
+    region: JP
+    version: "1.004"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 6CE1 GD-ROM1/1 jp
+  - fingerprint: "6CE1 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: Q14GQeN-d3s

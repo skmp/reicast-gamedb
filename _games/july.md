@@ -1,19 +1,19 @@
 ---
 layout: game
 id: july
-titlel: July
+title: "July"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 88ED
-    region: jp
-    version: 1.001
+  - id: "88ED"
+    region: JP
+    version: "1.001"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 88ED GD-ROM1/1 jp
+  - fingerprint: "88ED GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: 43BGJfNTrY4

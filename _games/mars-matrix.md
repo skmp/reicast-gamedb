@@ -1,19 +1,19 @@
 ---
 layout: game
 id: mars-matrix
-titlel: Mars Matrix
+title: "Mars Matrix"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: DA80
-    region: us
-    version: 1.000
+  - id: "DA80"
+    region: US
+    version: "1.000"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: DA80 GD-ROM1/1 us
+  - fingerprint: "DA80 GD-ROM1/1 US"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: ctz0VYSCKNw

@@ -1,19 +1,19 @@
 ---
 layout: game
 id: test-drive-v-rally
-titlel: Test Drive V-Rally
+title: "Test Drive V-Rally"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: EF09
-    region: us
-    version: 1.001
+  - id: "EF09"
+    region: US
+    version: "1.001"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: EF09 GD-ROM1/1 us
+  - fingerprint: "EF09 GD-ROM1/1 US"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: 9A13tL3nPRs

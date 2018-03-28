@@ -1,19 +1,19 @@
 ---
 layout: game
 id: penpen
-titlel: PenPen
+title: "PenPen"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: 0744
-    region: eu
-    version: 1.030
+  - id: "0744"
+    region: EU
+    version: "1.030"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: 0744 GD-ROM1/1 eu
+  - fingerprint: "0744 GD-ROM1/1 EU"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: ngaOpucjRNo

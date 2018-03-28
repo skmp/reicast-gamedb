@@ -1,19 +1,19 @@
 ---
 layout: game
 id: kitahei-gold
-titlel: Kitahei Gold
+title: "Kitahei Gold"
 status: unknown
 gamedb-issue: 0
 
 releases:
-  - id: F012
-    region: jp
-    version: 1.007
+  - id: "F012"
+    region: JP
+    version: "1.007"
     discs: 1
     medium: gdrom
 
 videos:
-  - fingerprint: F012 GD-ROM1/1 jp
+  - fingerprint: "F012 GD-ROM1/1 JP"
     title: Intro auto run
     hw: i7 2720qm, GeForce 540M
     yt: iCaTYARNfK0
