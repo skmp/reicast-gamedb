@@ -8,14 +8,20 @@ layout: default
   {%- endif -%}
 
   {{ content }}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Games" }}</h2>
+    <h2 class="post-list-heading">Games</h2>
     <ul class="post-list">
-      {%- for post in site.games -%}
+      {%- for game in site.games -%}
       <li>
         <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
+          <a class="post-link" href="{{ game.url | relative_url }}">
+            {{ game.title | escape }}
           </a>
+          Status: {{ game.status }}
+          <div class="video-warper">
+            <div class="video-placeholder" data-yt="{{ game.videos.first.yt }}">
+              <i class="fa fa-play"></i>
+            </div>
+          </div>
         </h3>
       </li>
       {%- endfor -%}
