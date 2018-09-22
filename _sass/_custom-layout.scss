@@ -1,0 +1,132 @@
+a {
+    outline: none;
+}
+
+.site-header {
+    a {
+        &:hover {
+            text-decoration: none;
+        }
+    }
+
+    .site-title {
+        @include media-max-width($on-palm) {
+            margin-bottom: 1.0em;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+            span {
+                line-height: 1.3em;
+            }
+        }
+    }
+}
+
+.site-nav {
+    input:checked ~ .trigger {
+        @include media-max-width($on-palm) {
+            padding-bottom: 2em;
+            padding-left: 1em;
+        }
+    }
+
+    @include media-min-width($on-laptop) {
+        line-height: 128px;
+    }
+
+    .btn-toggle-theme {
+        outline: none;
+    }
+}
+
+.post-link {
+    font-weight: 300;
+}
+
+.post {
+    ul {
+        list-style: none;
+        margin-left: 0;
+    }
+}
+
+
+
+.theme-toggler {
+    outline: none;
+    position: relative;
+
+    @include media-max-width($on-palm) {
+        display: block;
+        padding: 5px 10px;
+    }
+
+    label.btn-toggler {
+        position: absolute;
+        @include media-max-width($on-palm) {
+            top: 50px;
+            right: 18px;
+        }
+        @include media-min-width($on-palm + 1) {
+            top: 24px;
+            right: 15px;
+        }
+    }
+}
+
+.toggler {
+    display: none;
+
+    &,
+    &:after,
+    &:before,
+    & *,
+    & *:after,
+    & *:before,
+    & + .btn-toggler {
+        box-sizing: border-box;
+        &::selection {
+            background: none;
+        }
+    }
+
+    + .btn-toggler {
+        outline: 0;
+        display: block;
+        width: 4em;
+        height: 2em;
+        position: relative;
+        right: 0;
+        cursor: pointer;
+        user-select: none;
+        border-radius: 2em;
+        padding: 2px;
+        transition: all .4s ease;
+        &:after {
+            border-radius: 50%;
+            transition: all .2s ease;
+        }
+        &:after,
+        &:before {
+            position: relative;
+            display: block;
+            content: "";
+            width: 50%;
+            height: 100%;
+        }
+
+        &:after {
+            left: 0;
+        }
+
+        &:before {
+            display: none;
+        }
+    }
+
+    &:checked + .btn-toggler:after {
+        left: 50%;
+    }
+}
+

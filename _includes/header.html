@@ -3,7 +3,13 @@
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <a
+        class="site-title"
+        rel="author"
+        href="{{ "/" | relative_url }}">
+        <img src="{{ "/assets/images/logo.png" | relative_url }}" alt="Reicast GameDB Website" />
+        <span>{{ site.title | escape }}</a>
+    </a>
 
     {%- if page_paths -%}
       <nav class="site-nav">
@@ -25,6 +31,11 @@
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {% endfor -%}
+          <a class="theme-toggler">
+              <span>Dark Theme</span>
+              <input id="btn-theme-toggler" class="toggler toggle-dark" type="checkbox">
+              <label class="btn-toggler" for="btn-theme-toggler"></label>
+          </a>
         </div>
       </nav>
     {%- endif -%}

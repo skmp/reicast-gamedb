@@ -15,17 +15,10 @@
 
     {%- include footer.html -%}
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-  <script>
-    // Video Player on click
-    $("body").on("click", ".video-placeholder", function(e) {
-      console.log(e);
-      $target = $(this);
-      $target.replaceWith('<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/' + $target.attr('data-yt') + '?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>');
-    });
-    
-    // Populate issue links
-    $.get("https://api.github.com/repos/reicast/gamedb/issues").done(function(issues) { $.each(issues, function(index, issue) { $.each(issue.labels, function(index, label) {  if (label.name.startsWith("🎮 ")) { $("a[href='" + label.name.replace("🎮 ", "/games/") + "']").after("<a href='" + issue.html_url + "' title='" + issue.title + "'>#" + issue.number + "</a> ") } }); }); })
-  </script>
+
+  {% assign nocache = 'now' | date: '%s' %}
+  <script src="{{ "/js/scripts.js?v=" | append: nocache | relative_url }}"></script>
+
   </body>
 
 </html>

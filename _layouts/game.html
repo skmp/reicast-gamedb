@@ -23,8 +23,6 @@ layout: default
     {%- for video in page.videos -%}
       <li>{{ video.title }} ({{ video.fingerprint }}, {{ video.git }})
         <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/{{ video.yt }}?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-      }
-      }
     {%- endfor -%}
   </ul>
   <div class="post-content e-content" itemprop="articleBody">
