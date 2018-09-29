@@ -24,6 +24,9 @@ twitter_username: reicastdc
 github_username:  reicast
 # google_analytics: 
 
+version_css: 1
+version_js: 1
+
 # Build settings
 markdown: kramdown
 theme: minima

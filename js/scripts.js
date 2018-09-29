@@ -3,6 +3,13 @@ var inf = console.info.bind(console);
 
 var GAMEDB = GAMEDB || {};
 
+(function (OBJ) {
+    var head = document.querySelector('head');
+    OBJ._baseurl = head.getAttribute('data-baseurl');
+    OBJ._version_css = head.getAttribute('data-version-css');
+    OBJ._version_js = head.getAttribute('data-versioin-js');
+})(GAMEDB);
+
 // Populate issue links
 $.get("https://api.github.com/repos/reicast/gamedb/issues").done(function (issues) {
     $.each(issues, function (index, issue) {
@@ -149,8 +156,9 @@ GAMEDB.video.onClickPlay();
      */
     var setTheme = function setTheme (styleTag, checkbox, theme) {
         theme = theme || 'light';
+        var cssFile = GAMEDB._baseurl + '/assets/theme-' + theme + '.css?v=' + GAMEDB._version_css;
         styleTag.setAttribute('data-current-theme', theme);
-        styleTag.setAttribute('href', '/assets/theme-' + theme + '.css');
+        styleTag.setAttribute('href', cssFile);
         checkbox.checked = theme === 'dark';
         localStorage.setItem('theme', theme);
     };
@@ -159,14 +167,12 @@ GAMEDB.video.onClickPlay();
     setTheme(styleTag, btnToggle, localStorage.getItem('theme'));
 
     btnToggle.addEventListener('click', function (evt) {
-
         var currentTheme,
             nextTheme;
 
         currentTheme = styleTag.getAttribute('data-current-theme');
         nextTheme = currentTheme === 'light' ? 'dark' : 'light';
         setTheme(styleTag, btnToggle, nextTheme);
-
     }, false);
 })();
 

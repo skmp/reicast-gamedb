@@ -1,14 +1,20 @@
-<head>
+<head
+  data-baseurl="{{ site.baseurl }}"
+  data-version-css="{{ site.version_css }}"
+  data-version-js="{{ site.version_js }}">
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {%- seo -%}
-  <link rel="stylesheet" href="{{ "/assets/main.css?v=" | append: Time.now.to_i  | relative_url }}" />
+  <link
+    id="main-stylesheet"
+    rel="stylesheet"
+    href="{{ "/assets/main.css?v=" | append: site.version_css  | relative_url }}" />
   <link
     id="theme-stylesheet"
     data-current-theme="light"
     rel="stylesheet"
-    href="{{ "/assets/theme-light.css" }}" />
+    href="{{ "/assets/theme-light.css?v=" | append: site.version_css | relative_url }}" />
 
   {%- feed_meta -%}
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
