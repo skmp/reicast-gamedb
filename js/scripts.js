@@ -38,20 +38,8 @@ GAMEDB.utils = (function () {
         return inView;
     };
 
-    /**
-     * Capitalize the first character of `word'.
-     *
-     * @param string word
-     * @return string
-     */
-    var capitalize = function capitalize (word) {
-        if (!word || word.trim().length < 1) return '';
-        return word.charAt(0).toUpperCase() + word.slice(1);
-    };
-
     return {
-        isElemInView: isElemInView,
-        capitalize: capitalize
+        isElemInView: isElemInView
     };
 })();
 
