@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Reicast Game Compatibility Database
-email: team@reiast.com
+email: team@reicast.com
 description: >- # this means to ignore newlines until "baseurl:"
    Discover how well your favorite Dreamcast games are supported on
    Reicast emulator and other useful, important information.
@@ -22,7 +22,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://gamedb.reicast.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: reicastdc
 github_username:  reicast
-# google_analytics: 
+# google_analytics:
 
 version_css: 1
 version_js: 1
