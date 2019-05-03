@@ -1,4 +1,5 @@
-// Configuration for your app
+const PrerenderSpaPlugin = require('prerender-spa-plugin')
+const path = require('path')
 
 module.exports = function (ctx) {
   return {
@@ -20,18 +21,23 @@ module.exports = function (ctx) {
     supportIE: true,
     build: {
       scopeHoisting: true,
-      // vueRouterMode: 'history',
+      vueRouterMode: 'history',
       // vueCompiler: true,
       // gzip: true,
       // analyze: true,
       // extractCSS: false,
       extendWebpack (cfg) {
+        let spaPath =
+          path.join(__dirname, 'dist/' + ctx.modeName + '-' + ctx.themeName)
         cfg.module.rules.push({
           enforce: 'pre',
           test: /\.(js|vue)$/,
           loader: 'eslint-loader',
           exclude: /node_modules/
         })
+        cfg.plugins.push(
+          new PrerenderSpaPlugin(spaPath, ['/', '/game/1', '/game/2', '/game/3'])
+        )
       }
     },
     devServer: {
