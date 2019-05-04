@@ -11,7 +11,8 @@ const routes = [
     path: '/game/:id',
     component: () => import('layouts/MainLayout.vue'),
     children: [
-      { path: '', component: () => import('pages/Game.vue') }
+      { path: '', component: () => import('pages/Game.vue') },
+      { path: 'reports', component: () => import('pages/GameReports.vue') }
     ]
   }
 ]

@@ -1,5 +1,7 @@
-const PrerenderSpaPlugin = require('prerender-spa-plugin')
 const path = require('path')
+const PrerenderSpaPlugin = require('prerender-spa-plugin')
+const Renderer = PrerenderSpaPlugin.PuppeteerRenderer
+const routes = require('./src/constants/routes.js')
 
 module.exports = function (ctx) {
   return {
@@ -27,8 +29,6 @@ module.exports = function (ctx) {
       // analyze: true,
       // extractCSS: false,
       extendWebpack (cfg) {
-        let spaPath =
-          path.join(__dirname, 'dist/' + ctx.modeName + '-' + ctx.themeName)
         cfg.module.rules.push({
           enforce: 'pre',
           test: /\.(js|vue)$/,
@@ -36,7 +36,14 @@ module.exports = function (ctx) {
           exclude: /node_modules/
         })
         cfg.plugins.push(
-          new PrerenderSpaPlugin(spaPath, ['/', '/game/1', '/game/2', '/game/3'])
+          new PrerenderSpaPlugin({
+            staticDir:
+              path.join(__dirname, 'dist/' + ctx.modeName + '-' + ctx.themeName),
+            routes: routes,
+            renderer: new Renderer({
+              captureAfterElementExists: "meta[name='description']"
+            })
+          })
         )
       }
     },
@@ -82,13 +89,15 @@ module.exports = function (ctx) {
       // workboxPluginMode: 'InjectManifest',
       // workboxOptions: {},
       manifest: {
-        // name: 'Quasar App',
-        // short_name: 'Quasar-PWA',
-        // description: 'Best PWA App in town!',
+        short_name: 'Reicast DB',
+        name: 'Reicast Game Compatibility Databases',
+        description: 'Reicast Game Compatibility Database',
         display: 'standalone',
         orientation: 'portrait',
         background_color: '#ffffff',
-        theme_color: '#027be3',
+        theme_color: '#38478c',
+        lang: 'en',
+        start_url: '/?utm_source==pwahome',
         icons: [
           {
             'src': 'statics/icons/icon-128x128.png',
@@ -119,7 +128,7 @@ module.exports = function (ctx) {
       }
     },
     cordova: {
-      // id: 'org.cordova.quasar.app'
+      // id: 'com.reicast.gamedb'
     },
     electron: {
       // bundler: 'builder', // or 'packager'
@@ -141,7 +150,7 @@ module.exports = function (ctx) {
       builder: {
         // https://www.electron.build/configuration/configuration
 
-        // appId: 'quasar-app'
+        // appId: 'reicast-db-app'
       }
     }
   }
