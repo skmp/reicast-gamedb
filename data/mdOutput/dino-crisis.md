@@ -1,0 +1,186 @@
+---
+view: game
+layout: game
+author: reicast
+created_at: 2018-03-25 09:00
+updated_at: 2019-05-02 09:00
+id: dino-crisis
+title: "Dino Crisis"
+gamedb-issue: 0
+
+releases:
+  - id: "5F71"
+    region: EU
+    version: "1.000"
+    discs: 1
+    medium: gdrom
+  - id: "1E1B"
+    region: US
+    version: "1.000"
+    discs: 1
+    medium: gdrom
+  - id: "A10F"
+    region: JP
+    version: "1.000"
+    discs: 1
+    medium: gdrom
+
+test-videos:
+  - fingerprint: "5F71 GD-ROM1/1 EU"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: 2gZY_Hg3FGk
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+  - fingerprint: "1E1B GD-ROM1/1 US"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: c0I-fbjY_ac
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+  - fingerprint: "A10F GD-ROM1/1 JP"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: 0jSuNuGeNng
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+
+gotIGDBGame: 1
+idIGDB: 3027
+age_ratings:
+  - id: 1116
+    rating: 11
+aggregated_rating: 60.0
+aggregated_rating_count: 1
+cover:
+  - id: 68935
+    alpha_channel: false
+    animated: false
+    game: 3027
+    height: 800
+    image_id: "co1h6v"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/co1h6v.jpg"
+    width: 600
+first_release_date: 936057600
+game_modes:
+  - "Single player"
+categories:
+  - "Shooter"
+  - "Adventure"
+tags:
+  - "female hero ( heroine )"
+  - "dinosaurs"
+  - "blood"
+  - "time travel"
+  - "death"
+  - "sci-fi"
+  - "action-adventure"
+  - "horror"
+  - "multiple endings"
+  - "prehistoric"
+  - "resident evil"
+  - "inventory"
+  - "survival horror"
+  - "velociraptor"
+  - "block puzzle"
+  - "female protagonists"
+  - "health pack"
+  - "ladder"
+  - "psone classics"
+  - "computer"
+  - "third-person perspective"
+  - "shotgun"
+  - "loading screens"
+  - "cutscene"
+  - "extreme violence"
+  - "save point"
+  - "key"
+  - "tyrannosaurus rex"
+  - "fence"
+  - "moral decisions"
+  - "branching story line"
+  - "game over"
+  - "male antagonist"
+  - "laser"
+  - "office chair"
+  - "playstation tv support"
+  - "experiments gone awry"
+  - "keycard"
+  - "plot twist"
+  - "bad endings"
+  - "item box"
+  - "locker"
+  - "watch"
+  - "lock picking"
+  - "lock picks"
+  - "tranquilizer"
+  - "earpiece conversation"
+  - "crane puzzle"
+  - "ammo box"
+  - "false death"
+  - "stationary aiming"
+  - "laser fence"
+  - "diary pages"
+  - "operation clusterfuck"
+  - "halo jump"
+  - "e3 1999"
+  - "playstation underground"
+name: "Dino Crisis"
+player_perspectives:
+  - "Bird view"
+popularity: 2.516738767012881
+screenshots:
+  - id: 11012
+    game: 3027
+    height: 405
+    image_id: "vgums7foejk3oyk26ygx"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/vgums7foejk3oyk26ygx.jpg"
+    width: 540
+  - id: 11013
+    game: 3027
+    height: 405
+    image_id: "swly9nv5lrug6hghqft0"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/swly9nv5lrug6hghqft0.jpg"
+    width: 540
+  - id: 11014
+    game: 3027
+    height: 420
+    image_id: "mkzdgjbfmgqyqg3ueydp"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/mkzdgjbfmgqyqg3ueydp.jpg"
+    width: 560
+  - id: 11015
+    game: 3027
+    height: 405
+    image_id: "l89s4efpcwuzeqmgwlhn"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/l89s4efpcwuzeqmgwlhn.jpg"
+    width: 540
+  - id: 11016
+    game: 3027
+    height: 406
+    image_id: "ioh0yzh4zsjfzmkaarsq"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/ioh0yzh4zsjfzmkaarsq.jpg"
+    width: 540
+slug: "dino-crisis"
+storyline: "The game takes place on a fictional location known as Ibis Island in the year 2009. The Secret Operation Raid Team (SORT) has sent an agent, Tom, to investigate a research facility. During the recon mission, he learns that Dr. Edward Kirk, a world-renowned scientist who was reported dead three years ago, is leading a secret weapons project within the facility. SORT sends four agents (Regina, Gail, Rick, and Cooper) to acquire Kirk and return him to custody. The team arrives on the island under cover of darkness, dropping in via parachute. Cooper is blown off course and lands in the jungle away from the others. Lost in the dark, he is chased down by a Tyrannosaurus rex and eaten. The other three agents, unaware of his death, proceed with the mission.
+
+Once inside the base, they discover the eviscerated and partially devoured corpses of security personnel and scientists. After splitting up to restore power to the facility, Gail goes missing. Whilst searching for him, Regina is confronted by a Velociraptor. Re-uniting with Rick, the two determine it was the dinosaurs that caused the bloodbath at the base. Although their mission to recover Dr. Kirk still stands, it is now more important to signal for a rescue. Regina sets out to activate the main antenna to contact their airlift. On her way, she is attacked by another Velociraptor and is rescued by Gail, who then leaves to continue searching for Dr. Kirk. After restoring communications, Regina heads back to the control room and they receive a signal on their communicators. Believing it might be Cooper or Tom in trouble, Rick wants to investigate. Gail shoots down the idea, wanting to follow up on a CCTV sighting that might have been Kirk. The player must choose which course of action to follow.
+
+If the player follows Rick, they come across Tom, badly injured and near death. Rick takes him to the medical room, however a Velociraptor attacks them, and Tom sacrifices himself to kill it, saving Rick. Later, Regina and the team manage to locate Kirk and apprehend him. As they are preparing to leave via helicopter, the T. rex returns and destroys the helicopter, forcing them to flee back into the base while Kirk manages to escape. Regina and Rick flee into the facility and locate keys to a watercraft, but find a vortex in the way of getting to it. Rick speculates this is the space time distortion that brought the dinosaurs back. The two split up to find an alternate route off the island, and Regina ends up being held at gunpoint by Dr. Kirk. He is about to kill her when the gun is shot out of his hand by Gail, and they arrest him again.
+
+Kirk reveals that the dinosaurs were brought to their time by an experiment he was running using his Third Energy technology. A rift in space was created and a pocket of the island from their time was exchanged with the same from the past, bringing dinosaurs back into their time. Kirk then tells them that if the reactors are set to overload, the energy coming from them and the vortex should cancel each other out if they come into contact. After Regina gets the stabilizer and initializer and uses them to overload the reactors, the energy shakes the base, causing a vent to fall on Gail allowing Kirk to get free again. The team heads towards the waterway to escape the blast, but Gail says they still need to capture the doctor. He starts to hobble away on his gun to go after Kirk, and orders Regina and Rick to leave without him if he does not return in thirty minutes. Regina is given the choice to either go after Dr. Kirk with Gail, or escape with Rick. The story then takes one of three endings."
+summary: "Dino Crisis is a survival horror video game developed and produced by Capcom originally for the Sony PlayStation console in 1999. It was developed by the same team behind Capcom's Resident Evil, including director Shinji Mikami, and shares many similarities with the Resident Evil games that preceded it, but is more action-oriented.
+
+The story follows Regina, a red-headed special operations agent who is part of a team sent to investigate a mysterious island facility. Finding the place overrun with vicious dinosaurs, Regina must fight through the Velociraptor-filled facility to discover what happened and ultimately escape alive. The game mixes exploration and puzzle-based gameplay with traditional survival horror mechanics.
+
+There are multiple endings based on player choices and actions."
+videos:
+  - id: 4636
+    game: 3027
+    name: "Trailer"
+    video_id: "ui7ii96Pz3E"
+  - id: 4637
+    game: 3027
+    name: "Game intro"
+    video_id: "zTCYSSZKJRE"
+
+---

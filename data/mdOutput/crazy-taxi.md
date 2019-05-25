@@ -1,0 +1,214 @@
+---
+view: game
+layout: game
+author: reicast
+created_at: 2018-03-25 09:00
+updated_at: 2019-05-02 09:00
+id: crazy-taxi
+title: "Crazy Taxi"
+gamedb-issue: 0
+
+releases:
+  - id: "EDB5"
+    region: US
+    version: "1.004"
+    discs: 1
+    medium: gdrom
+  - id: "AD31"
+    region: EU
+    version: "1.000"
+    discs: 1
+    medium: gdrom
+
+test-videos:
+  - fingerprint: "EDB5 GD-ROM1/1 US"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: qj9jYQkzlr0
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+  - fingerprint: "EDB5 GD-ROM1/1 US"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: AHaK_VbRnCE
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+  - fingerprint: "AD31 GD-ROM1/1 EU"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: 4B8IgOA649E
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+
+gotIGDBGame: 1
+idIGDB: 1805
+age_ratings:
+  - id: 12458
+    rating: 10
+aggregated_rating: 60.0
+aggregated_rating_count: 1
+cover:
+  - id: 1820
+    game: 1805
+    height: 1411
+    image_id: "ubbuoyhbheiriymnsdoi"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/ubbuoyhbheiriymnsdoi.jpg"
+    width: 1421
+first_release_date: 946598400
+game_modes:
+  - "Single player"
+categories:
+  - "Racing"
+tags:
+  - "sandbox"
+  - "minigames"
+  - "comedy"
+  - "burnout"
+  - "arcade racers"
+  - "shadow"
+  - "taxi"
+  - "water"
+  - "steam"
+  - "achievements"
+  - "time limit"
+  - "building"
+  - "open-world"
+  - "bus"
+  - "indestructible"
+  - "drifting"
+  - "car"
+  - "pizza"
+  - "high score"
+  - "digital distribution"
+  - "xbox 360 controller support for pc"
+  - "driving/racing"
+  - "countdown timer"
+  - "playstation trophies"
+  - "60 fps on consoles"
+  - "character select screen"
+  - "voice acting"
+  - "game title announcer"
+  - "licensed soundtrack"
+  - "ramp"
+  - "launch titles"
+  - "escort mission"
+  - "pick your gender"
+  - "s-rank"
+  - "taxi cab"
+  - "rock music"
+  - "wheel"
+  - "xbox one backwards compatibility"
+  - "ferris wheel"
+  - "onlive"
+  - "letter grade at the end of a level"
+  - "porting"
+  - "in-game advertising"
+  - "arcade driving physics"
+  - "bikini"
+  - "trilogy"
+  - "playstation 3"
+  - "pressure sensitivity"
+  - "sega naomi"
+  - "product placement"
+  - "greatest hits"
+  - "hawaiian shirt"
+  - "traffic course"
+  - "avatar awards"
+  - "sega forever"
+  - "xfire"
+  - "wheelman"
+  - "e3 2010"
+  - "interactive achievement awards 2000"
+  - "dreamcast fishing controller support"
+  - "e3 2001"
+  - "game developers choice awards 2001"
+  - "ps3"
+  - "racing game"
+  - "crazy taxi"
+  - "crazy taxi game"
+name: "Crazy Taxi"
+player_perspectives:
+  - "Third person"
+popularity: 2.695478252627999
+screenshots:
+  - id: 26334
+    game: 1805
+    height: 375
+    image_id: "isffrby5lix0ut9taf2f"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/isffrby5lix0ut9taf2f.jpg"
+    width: 500
+  - id: 39412
+    game: 1805
+    height: 720
+    image_id: "kykuylxiv1jjml2ux9m4"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/kykuylxiv1jjml2ux9m4.jpg"
+    width: 1280
+  - id: 39413
+    game: 1805
+    height: 720
+    image_id: "whmfpn4n2rcyarouhibl"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/whmfpn4n2rcyarouhibl.jpg"
+    width: 1280
+  - id: 39414
+    game: 1805
+    height: 720
+    image_id: "zuuq3ahlchue2q9efpqu"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/zuuq3ahlchue2q9efpqu.jpg"
+    width: 1280
+  - id: 39415
+    game: 1805
+    height: 720
+    image_id: "jobastkpprrakqoii4h8"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/jobastkpprrakqoii4h8.jpg"
+    width: 1280
+  - id: 155614
+    game: 1805
+    height: 480
+    image_id: "x6al5ctohwm257qd6d6l"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/x6al5ctohwm257qd6d6l.jpg"
+    width: 640
+  - id: 155615
+    game: 1805
+    height: 480
+    image_id: "qhb2r8gdcodmru1eesi2"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/qhb2r8gdcodmru1eesi2.jpg"
+    width: 640
+  - id: 155616
+    game: 1805
+    height: 480
+    image_id: "pms3o7g7a40mht4jn6km"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/pms3o7g7a40mht4jn6km.jpg"
+    width: 640
+  - id: 155617
+    game: 1805
+    height: 480
+    image_id: "znwrmrtncjetr8akobdl"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/znwrmrtncjetr8akobdl.jpg"
+    width: 640
+  - id: 155618
+    game: 1805
+    height: 480
+    image_id: "aifj3ygxqwjockfj7l7g"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/aifj3ygxqwjockfj7l7g.jpg"
+    width: 640
+  - id: 155619
+    game: 1805
+    height: 480
+    image_id: "l0fv4rpqzmtstgwqjlbk"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/l0fv4rpqzmtstgwqjlbk.jpg"
+    width: 640
+  - id: 155620
+    game: 1805
+    height: 480
+    image_id: "wloje7iprgijmvksvorc"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/wloje7iprgijmvksvorc.jpg"
+    width: 640
+slug: "crazy-taxi"
+summary: "Hey hey, come on over and have some fun with Crrrrrazy Taxi! Barrel through traffic packed streets, hurdle off parking garages, and Crazy Combo your way to Crazy Money in a wild frantic race to scare up the most fares. In Crazy Taxi, time is money, and only the Craziest Cabbies come out victorious."
+videos:
+  - id: 13803
+    game: 1805
+    name: "Game intro"
+    video_id: "TZukj1-A_go"
+
+---

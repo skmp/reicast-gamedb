@@ -1,0 +1,42 @@
+---
+view: game
+layout: game
+author: reicast
+created_at: 2018-03-25 09:00
+updated_at: 2019-05-02 09:00
+id: dragons-blood
+title: "Dragons Blood"
+gamedb-issue: 0
+
+releases:
+  - id: "69AE"
+    region: EU
+    version: "1.001"
+    discs: 1
+    medium: gdrom
+
+test-videos:
+  - fingerprint: "69AE GD-ROM1/1 EU"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: CViUdOerbIM
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+
+gotIGDBGame: 1
+idIGDB: 45811
+cover:
+  - id: 64652
+    game: 45811
+    height: 497
+    image_id: "qtvuauos6gfm7ymh8obu"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/qtvuauos6gfm7ymh8obu.jpg"
+    width: 500
+first_release_date: 962236800
+categories:
+  - "Role-playing (RPG)"
+name: "Dragons Blood"
+popularity: 1.0
+slug: "dragons-blood"
+
+---

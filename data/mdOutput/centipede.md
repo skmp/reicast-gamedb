@@ -1,0 +1,145 @@
+---
+view: game
+layout: game
+author: reicast
+created_at: 2018-03-25 09:00
+updated_at: 2019-05-02 09:00
+id: centipede
+title: "Centipede"
+gamedb-issue: 0
+
+releases:
+  - id: "65E8"
+    region: US
+    version: "1.004"
+    discs: 1
+    medium: gdrom
+
+test-videos:
+  - fingerprint: "65E8 GD-ROM1/1 US"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: oA-ZLAz4k0s
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+
+gotIGDBGame: 1
+idIGDB: 2235
+age_ratings:
+  - id: 249
+    rating: 8
+  - id: 15776
+    rating: 2
+aggregated_rating: 70.0
+aggregated_rating_count: 1
+cover:
+  - id: 14058
+    game: 2235
+    height: 835
+    image_id: "donvmaeyhirkc4juafev"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/donvmaeyhirkc4juafev.jpg"
+    width: 600
+first_release_date: 362793600
+game_modes:
+  - "Single player"
+  - "Multiplayer"
+categories:
+  - "Shooter"
+  - "Arcade"
+tags:
+  - "shoot 'em up"
+  - "sci-fi"
+  - "giant insects"
+  - "high score"
+  - "credits menu option"
+  - "spider"
+  - "centipede"
+  - "flea"
+  - "scorpions"
+  - "animal antagonist"
+  - "launch titles"
+  - "single-screen level"
+  - "instant death"
+  - "titular antagonist"
+  - "xbox live"
+  - "cga graphics"
+  - "lives"
+  - "digital rights management"
+  - "never-ending"
+  - "segmented creature"
+  - "porting"
+  - "poison"
+  - "mitotic entity"
+  - "secret achievements"
+  - "comic book included"
+  - "trackball"
+  - "atari 5200 trakball support"
+name: "Centipede"
+player_perspectives:
+  - "Bird view"
+popularity: 1.650030900148378
+screenshots:
+  - id: 12998
+    game: 2235
+    height: 427
+    image_id: "lhhltxqzdhr20csii5vj"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/lhhltxqzdhr20csii5vj.jpg"
+    width: 640
+  - id: 12999
+    game: 2235
+    height: 427
+    image_id: "goodwcawbskbndznocjd"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/goodwcawbskbndznocjd.jpg"
+    width: 640
+  - id: 13000
+    game: 2235
+    height: 427
+    image_id: "i0sovjj5wa9hxbdorzf5"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/i0sovjj5wa9hxbdorzf5.jpg"
+    width: 640
+  - id: 13001
+    game: 2235
+    height: 225
+    image_id: "z96i2mmg7q6hdubwqjkp"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/z96i2mmg7q6hdubwqjkp.jpg"
+    width: 320
+  - id: 13002
+    game: 2235
+    height: 225
+    image_id: "cadpc4pbmiwru9r66xt6"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/cadpc4pbmiwru9r66xt6.jpg"
+    width: 320
+slug: "centipede"
+storyline: "The Enchanted Forest 
+ 
+ 
+Once upon a time in a misty, enchanted forest, there lived a colony of good elves. These elves had a major problem, though. Their prized mushroom garden was infested with pests--a giant Centipede, a poison-spreading scorpion, a mischief-making spider, and a pesky flea. The good elves tried everything they could to rid their garden of these bugs. But nothing worked. 
+ 
+ 
+One day, an elf named Oliver was hacking away at a poisoned mushroom in the garden. Suddenly, he saw an unusual stick gleaming in the dirt. Just as Oliver picked up the stick, a spider jumped out from behind a mushroom and rushed at him. When Oliver waved his hands wildly to try to scare the spider away, sparks flew from his stick and the spider disappeared! 
+ 
+ 
+&quote;How did that happen?&quote; Oliver wondered out loud. &quote;Could this be a magic wand?&quote; 
+ 
+ 
+Soon Oliver had another chance to try the wand. When the scorpion scurried across a row of mushroom, poisoning every mushroom it touched, Oliver pointed the wand at the scorpion and shouted, &quote;Be gone!&quote; Instantly, the scorpion disappeared and the poisoned mushrooms were transformed back into normal mushrooms. 
+ 
+ 
+&quote;This is great! This is the tool we need to clean up our mushroom garden&quote; Oliver shouted ecstatically. 
+ 
+ 
+With his new found magic wand, Oliver hid behind a mushroom. &quote;OK, you great big Centipede,&quote; he said. &quote;Come out wherever you are. I'm ready for you now!&quote; 
+ 
+ 
+ 
+ 
+ 
+--From the Atari 2600 Centipede instruction manual."
+summary: "Centipede is a vertically-oriented shoot 'em up arcade game produced by Atari, Inc. in 1980. The game was designed by Ed Logg along with Dona Bailey, one of the few female game programmers in the industry at this time. It was also the first arcade coin-operated game to have a significant female player base. The player defends against swarms of insects, completing a round after eliminating the centipede that winds down the playing field."
+videos:
+  - id: 1297
+    game: 2235
+    name: "Gameplay video"
+    video_id: "ss_qH3ADb70"
+
+---

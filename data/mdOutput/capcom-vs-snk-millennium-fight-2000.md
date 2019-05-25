@@ -1,0 +1,88 @@
+---
+view: game
+layout: game
+author: reicast
+created_at: 2018-03-25 09:00
+updated_at: 2019-05-02 09:00
+id: capcom-vs-snk-millennium-fight-2000
+title: "Capcom vs. SNK - Millennium Fight 2000"
+gamedb-issue: 0
+
+releases:
+  - id: "8833"
+    region: JP
+    version: "2.000"
+    discs: 1
+    medium: gdrom
+  - id: "76C0"
+    region: JP
+    version: "1.001"
+    discs: 1
+    medium: gdrom
+
+test-videos:
+  - fingerprint: "8833 GD-ROM1/1 JP"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: fwGsoMsxBvo
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+  - fingerprint: "76C0 GD-ROM1/1 JP"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: jsZsu1JybVk
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+
+gotIGDBGame: 1
+idIGDB: 39593
+age_ratings:
+  - id: 19331
+    rating: 10
+cover:
+  - id: 25347
+    game: 39593
+    height: 1095
+    image_id: "p8by2emrnflufblckiay"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/p8by2emrnflufblckiay.jpg"
+    width: 850
+first_release_date: 949363200
+game_modes:
+  - "Single player"
+  - "Multiplayer"
+categories:
+  - "Fighting"
+tags:
+  - "martial arts"
+  - "fighting"
+  - "health"
+  - "shadow"
+  - "crossover"
+  - "karate"
+  - "spin-off"
+  - "high score"
+  - "boss fight"
+  - "jump"
+  - "company name in title"
+  - "claw"
+  - "year in the title"
+  - "tag teaming"
+  - "melee"
+  - "release upgrade"
+  - "shun goku satsu"
+  - "combo"
+  - "hadouken"
+  - "muay thai"
+  - "ansatsuken"
+  - "fingerless gloves"
+  - "mirror match"
+  - "super meter"
+  - "kunoichi"
+name: "Capcom Vs. SNK: Millennium Fight 2000"
+popularity: 2.062321239981735
+slug: "capcom-vs-snk-millennium-fight-2000"
+summary: "Two of the worlds greatest arcade fighter developers, Capcom and SNK, join forces to finally answer the question asked by many for years: Who is the dominant fighter? 
+ 
+A range of fighters from both worlds are available to choose from, with two different fighting styles (Capcom and SNK, of course) meaning that players of both worlds can fit into the game easily, while new gamers can try Ryu using the SNK format."
+
+---

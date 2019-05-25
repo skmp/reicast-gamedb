@@ -1,0 +1,180 @@
+---
+view: game
+layout: game
+author: reicast
+created_at: 2018-03-25 09:00
+updated_at: 2019-05-02 09:00
+id: jet-grind-radio
+title: "Jet Grind Radio"
+gamedb-issue: 0
+
+releases:
+  - id: "D018"
+    region: US
+    version: "1.005"
+    discs: 1
+    medium: gdrom
+
+test-videos:
+  - fingerprint: "D018 GD-ROM1/1 US"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: f-Fb5NFGfA4
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+
+gotIGDBGame: 1
+idIGDB: 4364
+age_ratings:
+  - id: 8694
+    rating: 10
+aggregated_rating: 76.0
+aggregated_rating_count: 2
+cover:
+  - id: 51196
+    game: 4364
+    height: 640
+    image_id: "k9o1syyx1u6qeo9ofjyd"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/k9o1syyx1u6qeo9ofjyd.jpg"
+    width: 523
+first_release_date: 967852800
+categories:
+  - "Platform"
+  - "Sport"
+tags:
+  - "health"
+  - "comedy"
+  - "inline skates"
+  - "action-adventure"
+  - "achievements"
+  - "time limit"
+  - "artificial intelligence"
+  - "crime"
+  - "paint"
+  - "high score"
+  - "wall jump"
+  - "graffiti"
+  - "skateboarding"
+  - "dj"
+  - "hip-hop"
+  - "user generated content"
+  - "boss fight"
+  - "digital distribution"
+  - "jump"
+  - "credits menu option"
+  - "options menu"
+  - "game critics awards"
+  - "playstation trophies"
+  - "tutorial"
+  - "polygonal 3d"
+  - "must press start to play"
+  - "gun"
+  - "licensed soundtrack"
+  - "original soundtrack release"
+  - "loading screens"
+  - "elevator"
+  - "radio"
+  - "boombox"
+  - "retail games with steam activation"
+  - "playstation plus"
+  - "game over"
+  - "difficulty level"
+  - "rock music"
+  - "playstation tv support"
+  - "cel-shading"
+  - "in-game radio"
+  - "the future"
+  - "leaderboard"
+  - "comic book onomatopoeia"
+  - "xbox one backwards compatibility"
+  - "invisible wall"
+  - "gamersgate"
+  - "quick time event"
+  - "e3 2000"
+  - "super speed"
+  - "tricks"
+  - "paint can"
+  - "spray paint"
+  - "grind"
+  - "hand rail"
+  - "headphones"
+  - "pax east 2012"
+  - "pax prime 2012"
+  - "e3 2012"
+  - "faux east asia"
+  - "future sport"
+  - "turntable"
+  - "j-pop"
+  - "inline skating"
+  - "player-controlled graffiti"
+  - "vmu support"
+  - "international version"
+  - "graffiti soul"
+  - "game developers choice awards 2001"
+name: "Jet Grind Radio"
+popularity: 4.393421738536547
+screenshots:
+  - id: 162233
+    game: 4364
+    height: 318
+    image_id: "smcila7f8mbaqoatdgpx"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/smcila7f8mbaqoatdgpx.jpg"
+    width: 480
+  - id: 162234
+    game: 4364
+    height: 317
+    image_id: "oghtvbhbfsyqdbbkudl5"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/oghtvbhbfsyqdbbkudl5.jpg"
+    width: 480
+  - id: 162235
+    game: 4364
+    height: 318
+    image_id: "forbnupcwobkbnavhh3j"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/forbnupcwobkbnavhh3j.jpg"
+    width: 480
+  - id: 162236
+    game: 4364
+    height: 318
+    image_id: "st17tcwvv8jodrbw2dkn"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/st17tcwvv8jodrbw2dkn.jpg"
+    width: 479
+  - id: 162237
+    game: 4364
+    height: 319
+    image_id: "f6uqpckxepyhxnyjhjgz"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/f6uqpckxepyhxnyjhjgz.jpg"
+    width: 479
+  - id: 162238
+    game: 4364
+    height: 318
+    image_id: "cbdvspbjdlv1ogcwth6m"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/cbdvspbjdlv1ogcwth6m.jpg"
+    width: 480
+  - id: 162239
+    game: 4364
+    height: 317
+    image_id: "hflg42mudktj0chof9ej"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/hflg42mudktj0chof9ej.jpg"
+    width: 480
+  - id: 162240
+    game: 4364
+    height: 318
+    image_id: "o9zahxjmyjyj3225ofqy"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/o9zahxjmyjyj3225ofqy.jpg"
+    width: 480
+  - id: 162241
+    game: 4364
+    height: 317
+    image_id: "n1cy48rhcy2shvtrjzsm"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/n1cy48rhcy2shvtrjzsm.jpg"
+    width: 479
+  - id: 162242
+    game: 4364
+    height: 316
+    image_id: "tyfieiqko8ouzkjs39dw"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/tyfieiqko8ouzkjs39dw.jpg"
+    width: 479
+slug: "jet-grind-radio"
+summary: "The government is attempting to silence the kids of Tokyo, but with their Overdrive Magnetic-Motor Skating Shoes, the cops will have to catch 'em first. The Jet Grind Radio program keeps the kids unified and inspired to fight for their rights of expression, which includes graffiti art. Grab your spray cans and design your own piece on one of the immense walls in the 3D, interactive city. You might be forced to protect your territory from adversaries that want to take over your neighbourhood. Join up with like-minded hip individuals that will help you keep your area the way you want it. The cops will be after you too, so you'll have to be quick. The 10 cartoon-style characters are pumped up with polygons so they come alive in 3D on Dreamcast. Uniqueness is key to these kids and each character stands apart with exclusive abilities and style. They like to show off too, and with 18 missions, there's plenty of time to impress. It's fast, it's fun, and it's definitely funky."
+
+---

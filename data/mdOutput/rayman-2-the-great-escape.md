@@ -1,0 +1,205 @@
+---
+view: game
+layout: game
+author: reicast
+created_at: 2018-03-25 09:00
+updated_at: 2019-05-02 09:00
+id: rayman-2-the-great-escape
+title: "Rayman 2 - The Great Escape"
+gamedb-issue: 0
+
+releases:
+  - id: "D97E"
+    region: US
+    version: "1.003"
+    discs: 1
+    medium: gdrom
+  - id: "CB62"
+    region: EU
+    version: "1.002"
+    discs: 1
+    medium: gdrom
+
+test-videos:
+  - fingerprint: "D97E GD-ROM1/1 US"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: Lk-Xd7BJFO4
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+  - fingerprint: "CB62 GD-ROM1/1 EU"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: 0jjIPTirFjk
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+
+gotIGDBGame: 1
+idIGDB: 843
+age_ratings:
+  - id: 11930
+    rating: 8
+  - id: 11931
+    rating: 1
+aggregated_rating: 90.0
+aggregated_rating_count: 1
+cover:
+  - id: 70614
+    alpha_channel: false
+    animated: false
+    game: 843
+    height: 1200
+    image_id: "co1ihi"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/co1ihi.jpg"
+    width: 1051
+first_release_date: 941155200
+game_modes:
+  - "Single player"
+categories:
+  - "Platform"
+  - "Adventure"
+tags:
+  - "stealth"
+  - "magic"
+  - "minigames"
+  - "fantasy"
+  - "health"
+  - "comedy"
+  - "mascot"
+  - "flight"
+  - "bridge"
+  - "water"
+  - "fairy"
+  - "multiple protagonists"
+  - "backtracking"
+  - "on-rails"
+  - "space pirate"
+  - "missile"
+  - "easter egg"
+  - "platformer"
+  - "sequel"
+  - "level selection"
+  - "climbing"
+  - "swimming"
+  - "golem"
+  - "switch"
+  - "boss fight"
+  - "bosses"
+  - "jump"
+  - "bonus stage"
+  - "options menu"
+  - "crate"
+  - "vine"
+  - "spider"
+  - "60 fps on consoles"
+  - "voice acting"
+  - "protagonist's name in the title"
+  - "ladder"
+  - "fish"
+  - "language selection"
+  - "polygonal 3d"
+  - "psone classics"
+  - "double jump"
+  - "damsel in distress"
+  - "upgradeable weapons"
+  - "lily pad"
+  - "collectibles"
+  - "sequel is in a different genre"
+  - "launch titles"
+  - "pirate ship"
+  - "loading screens"
+  - "cutscene"
+  - "table"
+  - "warning sign"
+  - "lava"
+  - "ice stage"
+  - "barrel"
+  - "subtitles"
+  - "heads up display"
+  - "real-time combat"
+  - "underwater gameplay"
+  - "mini-boss"
+  - "hub world"
+  - "lives"
+  - "mercenary"
+  - "playstation tv support"
+  - "moving platforms"
+  - "icicle"
+  - "cage"
+  - "sidekick"
+  - "charge"
+  - "temporary invincibility"
+  - "slope sliding"
+  - "swinging"
+  - "unskippable cutscene"
+  - "e3 2000"
+  - "breath meter"
+  - "gliding"
+  - "idle animations"
+  - "ledge grab"
+  - "lock on"
+  - "whale"
+  - "more than two eyes"
+  - "trilogy"
+  - "sealing your own fate"
+  - "second-person perspective"
+  - "teensies"
+  - "dark second act"
+  - "lack of visible body parts"
+  - "greatest hits"
+  - "edge wobble"
+  - "disembodiment"
+  - "ps2 classics"
+  - "gibberish"
+  - "lums"
+  - "plum"
+  - "leaping fish"
+  - "e3 1999"
+  - "e3 1998"
+  - "robot pirate"
+  - "color cartridges"
+name: "Rayman 2: The Great Escape"
+player_perspectives:
+  - "Third person"
+popularity: 4.181200070365707
+screenshots:
+  - id: 40692
+    game: 843
+    height: 443
+    image_id: "tfsd0jextrgamwam6uic"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/tfsd0jextrgamwam6uic.jpg"
+    width: 710
+  - id: 40693
+    game: 843
+    height: 443
+    image_id: "ubysryri3h4ve9gtlqde"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/ubysryri3h4ve9gtlqde.jpg"
+    width: 710
+  - id: 40694
+    game: 843
+    height: 443
+    image_id: "rchshoav4tqwwhq6wxei"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/rchshoav4tqwwhq6wxei.jpg"
+    width: 710
+  - id: 40695
+    game: 843
+    height: 443
+    image_id: "p5f6jjdumqgwkdczoqgv"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/p5f6jjdumqgwkdczoqgv.jpg"
+    width: 710
+slug: "rayman-2-the-great-escape"
+storyline: "Rayman 2 takes place in a world called the Glade of Dreams. An army of Robot Pirates, led by Admiral Razorbeard, invades this world and destroys the Heart of the World, the world core. This greatly weakens the resistance's power and disables Rayman's powers, leading to his capture.[9] 
+ 
+Globox, a friend of Rayman, is later also captured and put in the same cell as Rayman aboard the Pirates' prison ship. Globox gives Rayman a silver lum given to him by Ly the fairy, which restores his powers. Rayman escapes the prison ship, and is separated from Globox again. He learns that to stand a chance against the Pirates, he needs to find four ancient magic masks to awaken Polokus, the spirit of the world, hidden in secret and mysterious sanctuaries consisting of the four elements water/ice, earth/stone, fire, and air.[10] He travels through the Glade of Dreams via the Hall of Doors, a magical place linked to various locations in the world, controlled by the ancient Teensies.[10] 
+ 
+In the course of the game, Rayman frees Globox who had been captured again, and they continue together for a short while until Globox departs again to go find his family. Later, Rayman finds Globox's wife Uglette and learns that he has been imprisoned on the Prison Ship. Rayman also encounters his friend Clark, a strongman who has stomach problems due to eating rusty pirates; to continue through the level, Rayman has to cure Clark by means of an elixir. 
+ 
+Eventually, Rayman recovers the four masks and awakens Polokus, who makes quick work of the pirates on land. In the air however, he has no power, and Rayman is tasked to dispose of the Pirates' flying Prison Ship, where Admiral Razorbeard also has his headquarters. In a final battle Rayman fights Razorbeard, who is controlling a giant robot, the Grolgoth. Eventually Rayman destroys the robot and while Razorbeard escapes in a small escape pod, the Prison Ship explodes. Rayman is presumed dead and only one of his shoes is found, but during his funeral, he appears again, walking on a crutch."
+summary: "With its enchanted storybook look beautifully translated into 3D, lush, vibrant colors, funny enemy designs, and clever jumping puzzles, Rayman 2 is platforming perfection. Michel Ancel's platformer shines the brightest on Dreamcast, but every version is a charm. No arms, no legs, no problem for the little French creation that could."
+videos:
+  - id: 12933
+    game: 843
+    name: "Gameplay video"
+    video_id: "7AGhi-s2zD8"
+
+---

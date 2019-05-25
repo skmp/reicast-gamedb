@@ -1,0 +1,132 @@
+---
+view: game
+layout: game
+author: reicast
+created_at: 2018-03-25 09:00
+updated_at: 2019-05-02 09:00
+id: fighting-force-2
+title: "Fighting Force 2"
+gamedb-issue: 0
+
+releases:
+  - id: "D7CC"
+    region: EU
+    version: "1.000"
+    discs: 1
+    medium: gdrom
+  - id: "97DB"
+    region: US
+    version: "1.000"
+    discs: 1
+    medium: gdrom
+
+test-videos:
+  - fingerprint: "D7CC GD-ROM1/1 EU"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: FLzal8n7Ap0
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+  - fingerprint: "97DB GD-ROM1/1 US"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: WP-QgR7dcIA
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+
+gotIGDBGame: 1
+idIGDB: 11615
+age_ratings:
+  - id: 18220
+    rating: 10
+cover:
+  - id: 10936
+    game: 11615
+    height: 256
+    image_id: "bbdm7wkpenv4ybvfbgmx"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/bbdm7wkpenv4ybvfbgmx.jpg"
+    width: 256
+first_release_date: 943920000
+game_modes:
+  - "Single player"
+  - "Multiplayer"
+  - "Co-operative"
+categories:
+  - "Fighting"
+  - "Hack and slash/Beat 'em up"
+  - "Adventure"
+tags:
+  - "blood"
+  - "health"
+  - "death"
+  - "military"
+  - "robots"
+  - "fire"
+  - "adventure"
+  - "cyborg"
+  - "backtracking"
+  - "mutants"
+  - "hacking"
+  - "tank"
+  - "sequel"
+  - "katana"
+  - "flamethrower"
+  - "explosion"
+  - "bosses"
+  - "jump"
+  - "crate"
+  - "bullet"
+  - "ladder"
+  - "polygonal 3d"
+  - "turret"
+  - "computer"
+  - "scythe"
+  - "door"
+  - "gun"
+  - "knife"
+  - "fist"
+  - "shotgun"
+  - "rocket launcher"
+  - "cutscene"
+  - "the locked door"
+  - "elevator"
+  - "pistol"
+  - "assault rifle"
+  - "key"
+  - "sniping"
+  - "exit door"
+  - "lead pipe"
+  - "melee"
+  - "baton"
+  - "secret area"
+  - "laser"
+  - "vending machine"
+  - "sniper rifle"
+  - "television"
+  - "glass"
+  - "oil drum"
+  - "clone"
+  - "keycard"
+  - "grenade"
+  - "crossbow"
+  - "fire axe"
+  - "boss pattern"
+  - "explosions on the cover"
+  - "locker"
+  - "grenade launcher"
+  - "sledgehammer"
+  - "continue"
+  - "ammo"
+  - "uzi"
+  - "strafing"
+  - "e3 1999"
+  - "artificial life"
+  - "playstation underground"
+name: "Fighting Force 2"
+player_perspectives:
+  - "Third person"
+popularity: 1.636240014073141
+slug: "fighting-force-2"
+summary: "Fighting Force 2 is the sequel to 1997's original Fighting Force, which was one of the first 3D takes on the 2D Beat 'em up genre. The game was released for the PlayStation and Dreamcast and was developed by Core Design and published by Eidos Interactive. It was released in North America on 30 November 1999."
+
+---

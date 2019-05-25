@@ -1,0 +1,67 @@
+---
+view: game
+layout: game
+author: reicast
+created_at: 2018-03-25 09:00
+updated_at: 2019-05-02 09:00
+id: aqua-gt
+title: "Aqua GT"
+gamedb-issue: 0
+
+releases:
+  - id: "E60D"
+    region: EU
+    version: "1.000"
+    discs: 1
+    medium: gdrom
+
+test-videos:
+  - fingerprint: "E60D GD-ROM1/1 EU"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: dis2n7tRQDM
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+
+gotIGDBGame: 1
+idIGDB: 3714
+cover:
+  - id: 3851
+    game: 3714
+    height: 254
+    image_id: "acbhxji5lzpxcr0bsqnb"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/acbhxji5lzpxcr0bsqnb.jpg"
+    width: 256
+first_release_date: 977443200
+game_modes:
+  - "Single player"
+  - "Split screen"
+categories:
+  - "Racing"
+tags:
+  - "europe"
+  - "boating"
+  - "driving-simulator"
+  - "driving/racing"
+  - "credits menu option"
+  - "options menu"
+  - "motorsports"
+  - "split-screen multiplayer"
+  - "laps"
+  - "boat"
+  - "attract mode"
+name: "Aqua GT"
+player_perspectives:
+  - "Third person"
+popularity: 1.636240014073141
+screenshots:
+  - id: 192862
+    game: 3714
+    height: 480
+    image_id: "auhvdsgje4dgkiyl07gq"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/auhvdsgje4dgkiyl07gq.jpg"
+    width: 640
+slug: "aqua-gt"
+summary: "EU release"
+
+---
