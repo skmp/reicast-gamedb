@@ -1,0 +1,48 @@
+[
+  {
+    "view": "game",
+    "layout": "game",
+    "author": "reicast",
+    "created_at": "2018-03-25 09:00",
+    "updated_at": "2019-05-02 09:00",
+    "id": "izumo",
+    "title": "Izumo",
+    "gamedb-issue": 0,
+    "releases": [
+      {
+        "id": "7ED4",
+        "region": "JP",
+        "version": "1.002",
+        "discs": 1,
+        "medium": "gdrom"
+      }
+    ],
+    "test-videos": [
+      {
+        "fingerprint": "7ED4 GD-ROM1/1 JP",
+        "title": "Intro auto run",
+        "hw": "i7 2720qm, GeForce 540M",
+        "yt": "XgeElbC6ZcI",
+        "git": "d59197f84353d7d2b746383e9277d9ed7c8c4053",
+        "platform": "win86-release"
+      }
+    ],
+    "gotIGDBGame": 1,
+    "idIGDB": 58168,
+    "cover": [
+      {
+        "id": 35672,
+        "game": 58168,
+        "height": 300,
+        "image_id": "xgsnwy20szehlzjq8tkh",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xgsnwy20szehlzjq8tkh.jpg",
+        "width": 307
+      }
+    ],
+    "name": "Izumo",
+    "popularity": 1,
+    "slug": "izumo",
+    "summary": "An adult novel visual novel for Dreamcast and PC"
+  },
+  null
+]

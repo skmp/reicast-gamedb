@@ -1,0 +1,246 @@
+[
+  {
+    "view": "game",
+    "layout": "game",
+    "author": "reicast",
+    "created_at": "2018-03-25 09:00",
+    "updated_at": "2019-05-02 09:00",
+    "id": "shenmue-ii",
+    "title": "Shenmue II",
+    "gamedb-issue": 0,
+    "releases": [
+      {
+        "id": "EE1D",
+        "region": "JP",
+        "version": "1.003",
+        "discs": 4,
+        "medium": "gdrom"
+      },
+      {
+        "id": "378F",
+        "region": "EU",
+        "version": "1.001",
+        "discs": 4,
+        "medium": "gdrom"
+      }
+    ],
+    "test-videos": [
+      {
+        "fingerprint": "EE1D GD-ROM4/4 JP",
+        "title": "Intro auto run",
+        "hw": "i7 2720qm, GeForce 540M",
+        "yt": "xRYxKBAnCp0",
+        "git": "d59197f84353d7d2b746383e9277d9ed7c8c4053",
+        "platform": "win86-release"
+      },
+      {
+        "fingerprint": "EE1D GD-ROM3/4 JP",
+        "title": "Intro auto run",
+        "hw": "i7 2720qm, GeForce 540M",
+        "yt": "P9fgmqWAJ1s",
+        "git": "d59197f84353d7d2b746383e9277d9ed7c8c4053",
+        "platform": "win86-release"
+      },
+      {
+        "fingerprint": "EE1D GD-ROM2/4 JP",
+        "title": "Intro auto run",
+        "hw": "i7 2720qm, GeForce 540M",
+        "yt": "y2MSjU7ykBw",
+        "git": "d59197f84353d7d2b746383e9277d9ed7c8c4053",
+        "platform": "win86-release"
+      },
+      {
+        "fingerprint": "EE1D GD-ROM1/4 JP",
+        "title": "Intro auto run",
+        "hw": "i7 2720qm, GeForce 540M",
+        "yt": "3nbTUgQzVMk",
+        "git": "d59197f84353d7d2b746383e9277d9ed7c8c4053",
+        "platform": "win86-release"
+      },
+      {
+        "fingerprint": "378F GD-ROM4/4 EU",
+        "title": "Intro auto run",
+        "hw": "i7 2720qm, GeForce 540M",
+        "yt": "RA3Gg_3CVZY",
+        "git": "d59197f84353d7d2b746383e9277d9ed7c8c4053",
+        "platform": "win86-release"
+      },
+      {
+        "fingerprint": "378F GD-ROM3/4 EU",
+        "title": "Intro auto run",
+        "hw": "i7 2720qm, GeForce 540M",
+        "yt": "5tXFm_2Y4vA",
+        "git": "d59197f84353d7d2b746383e9277d9ed7c8c4053",
+        "platform": "win86-release"
+      },
+      {
+        "fingerprint": "378F GD-ROM2/4 EU",
+        "title": "Intro auto run",
+        "hw": "i7 2720qm, GeForce 540M",
+        "yt": "unTo1wjjkt8",
+        "git": "d59197f84353d7d2b746383e9277d9ed7c8c4053",
+        "platform": "win86-release"
+      },
+      {
+        "fingerprint": "378F GD-ROM1/4 EU",
+        "title": "Intro auto run",
+        "hw": "i7 2720qm, GeForce 540M",
+        "yt": "f830uV60VnI",
+        "git": "d59197f84353d7d2b746383e9277d9ed7c8c4053",
+        "platform": "win86-release"
+      }
+    ],
+    "gotIGDBGame": 1,
+    "idIGDB": 1218,
+    "age_ratings": [
+      {
+        "id": 19728,
+        "rating": 10
+      }
+    ],
+    "aggregated_rating": 70,
+    "aggregated_rating_count": 2,
+    "cover": [
+      {
+        "id": 70676,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 1218,
+        "height": 1800,
+        "image_id": "co1ij8",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1ij8.jpg",
+        "width": 1275
+      }
+    ],
+    "first_release_date": 999734400,
+    "game_modes": [
+      "Single player"
+    ],
+    "categories": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ],
+    "tags": [
+      "helicopter",
+      "martial arts",
+      "asian style",
+      "sandbox",
+      "hand-to-hand combat",
+      "action-adventure",
+      "karate",
+      "time limit",
+      "multiple endings",
+      "tea",
+      "artificial intelligence",
+      "crime",
+      "revenge",
+      "kung fu",
+      "sequel",
+      "high score",
+      "weather",
+      "day/night cycle",
+      "single-player only",
+      "alternate historical",
+      "hamburger",
+      "episodic content",
+      "voice acting",
+      "cat",
+      "polygonal 3d",
+      "collectibles",
+      "alcoholic beverages",
+      "third-person perspective",
+      "backpack",
+      "emulation",
+      "motion blur",
+      "non-player character",
+      "key",
+      "moral decisions",
+      "branching story line",
+      "real-time combat",
+      "vending machine",
+      "aluminum can",
+      "rpg elements",
+      "mercenary",
+      "coming of age",
+      "television",
+      "arcade cabinet",
+      "employment",
+      "interactive environments",
+      "dart board",
+      "bell",
+      "red herring",
+      "drunk character",
+      "realism",
+      "motion capture animation",
+      "wrestling moves in non-wrestling games",
+      "qipao",
+      "quick time event",
+      "interactive cutscene",
+      "timed decisions",
+      "quest tracking",
+      "spiky-haired protagonist",
+      "light bloom",
+      "ambient music",
+      "day-based narrative",
+      "forklift",
+      "cancelled episodic game series",
+      "street sign",
+      "hair physics",
+      "the 1980s",
+      "disc streaming",
+      "sleeping under the covers",
+      "persistent world",
+      "skybox",
+      "cliffhanger",
+      "tomboy",
+      "roman numerals",
+      "timeskip",
+      "tragic hero",
+      "character says the name of the game",
+      "product placement",
+      "dark second act",
+      "full reactive eyes entertainment",
+      "motion capture suit",
+      "metagame",
+      "the mob",
+      "sitting down",
+      "arm wrestling",
+      "vendor trash",
+      "capsule toy",
+      "normal mapping",
+      "teasquel",
+      "shaving",
+      "e3 2002",
+      "xbox 360 backwards compatibility",
+      "unresolved stories",
+      "phoenix mirror",
+      "dragon mirror"
+    ],
+    "name": "Shenmue II",
+    "player_perspectives": [
+      "Third person"
+    ],
+    "popularity": 2.516738767012881,
+    "screenshots": [
+      {
+        "id": 11328,
+        "game": 1218,
+        "height": 970,
+        "image_id": "ynxc7wqelxqg9hkwnr94",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ynxc7wqelxqg9hkwnr94.jpg",
+        "width": 1679
+      }
+    ],
+    "slug": "shenmue-ii",
+    "summary": "Yu Suzuki's cinematic masterpiece returns with more spellbinding adventure and an even more immersive world. The epic continues as Ryo Hazuki arrives in Hong Kong on his quest to avenge his father's murder by the warlord Lan Di and unravel the mystery of the Phoenix mirror. Set in Hong Kong, Kowloon, and Guilin, you'll travel through breathtaking scenery, rich with mountainous wilderness, traditional Taoist temples, and stunning tropical landscapes. As you move through massive, highly-detailed 3D worlds, you'll interact with almost every facet of your environment as well as a whole new cast of characters. \nOriginally released on Dreamcast in Europe and Japan, this Xbox edition marks the sequel's debut in the US and includes the Shenmue Movie chronicling the first episode in the series.",
+    "videos": [
+      {
+        "id": 920,
+        "game": 1218,
+        "name": "Trailer",
+        "video_id": "h0Izd2f6k2I"
+      }
+    ]
+  },
+  null
+]

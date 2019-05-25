@@ -1,0 +1,203 @@
+[
+  {
+    "view": "game",
+    "layout": "game",
+    "author": "reicast",
+    "created_at": "2018-03-25 09:00",
+    "updated_at": "2019-05-02 09:00",
+    "id": "skies-of-arcadia",
+    "title": "Skies of Arcadia",
+    "gamedb-issue": 0,
+    "releases": [
+      {
+        "id": "4F67",
+        "region": "US",
+        "version": "1.002",
+        "discs": 2,
+        "medium": "gdrom"
+      },
+      {
+        "id": "6F25",
+        "region": "EU",
+        "version": "1.000",
+        "discs": 2,
+        "medium": "gdrom"
+      }
+    ],
+    "test-videos": [
+      {
+        "fingerprint": "4F67 GD-ROM2/2 US",
+        "title": "Intro auto run",
+        "hw": "i7 2720qm, GeForce 540M",
+        "yt": "NsvN364yNFU",
+        "git": "d59197f84353d7d2b746383e9277d9ed7c8c4053",
+        "platform": "win86-release"
+      },
+      {
+        "fingerprint": "4F67 GD-ROM1/2 US",
+        "title": "Intro auto run",
+        "hw": "i7 2720qm, GeForce 540M",
+        "yt": "9FtqQCcrbW4",
+        "git": "d59197f84353d7d2b746383e9277d9ed7c8c4053",
+        "platform": "win86-release"
+      },
+      {
+        "fingerprint": "6F25 GD-ROM2/2 EU",
+        "title": "Intro auto run",
+        "hw": "i7 2720qm, GeForce 540M",
+        "yt": "a1k0hy_hwa8",
+        "git": "d59197f84353d7d2b746383e9277d9ed7c8c4053",
+        "platform": "win86-release"
+      },
+      {
+        "fingerprint": "6F25 GD-ROM1/2 EU",
+        "title": "Intro auto run",
+        "hw": "i7 2720qm, GeForce 540M",
+        "yt": "Ljg5YPN9jTg",
+        "git": "d59197f84353d7d2b746383e9277d9ed7c8c4053",
+        "platform": "win86-release"
+      }
+    ],
+    "gotIGDBGame": 1,
+    "idIGDB": 19007,
+    "age_ratings": [
+      {
+        "id": 19692,
+        "rating": 10
+      },
+      {
+        "id": 19693,
+        "rating": 3
+      }
+    ],
+    "aggregated_rating": 90,
+    "aggregated_rating_count": 1,
+    "cover": [
+      {
+        "id": 15455,
+        "game": 19007,
+        "height": 306,
+        "image_id": "xlji2hadpciboebl5dlb",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xlji2hadpciboebl5dlb.jpg",
+        "width": 300
+      }
+    ],
+    "first_release_date": 970704000,
+    "game_modes": [
+      "Single player"
+    ],
+    "categories": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ],
+    "tags": [
+      "pirates",
+      "sword",
+      "fantasy",
+      "health",
+      "romance",
+      "cannon",
+      "role playing",
+      "adventure",
+      "multiple protagonists",
+      "reading",
+      "open-world",
+      "dungeon crawling",
+      "ship",
+      "boomerang",
+      "love",
+      "boss fight",
+      "single-player only",
+      "bullet",
+      "leveling up",
+      "polygonal 3d",
+      "love triangle",
+      "currency",
+      "gun",
+      "special attacks",
+      "eyepatch",
+      "experience points",
+      "pirate ship",
+      "cutscene",
+      "non-player character",
+      "descendants of other characters",
+      "vehicle customization",
+      "key",
+      "slashing weapons",
+      "damage numbers",
+      "wooden chair",
+      "three-word game title with conjunction or preposition",
+      "coming of age",
+      "telescope",
+      "floating island",
+      "unbeatable bosses",
+      "can't swim",
+      "hugging",
+      "poverty",
+      "player owned houses",
+      "coordinated attack",
+      "teenager",
+      "light bloom",
+      "supernatural arm",
+      "random encounter",
+      "dual wielding",
+      "giant squid",
+      "enemies that spawn enemies",
+      "battle screen",
+      "airship",
+      "where are they now? ending",
+      "thumbs up",
+      "chopsticks",
+      "bounty hunting",
+      "world war iii",
+      "vmu support",
+      "ship deck battle",
+      "vanishing act",
+      "e3 2002",
+      "looper",
+      "gigas"
+    ],
+    "name": "Skies of Arcadia",
+    "player_perspectives": [
+      "Third person"
+    ],
+    "popularity": 1.636240014073141,
+    "screenshots": [
+      {
+        "id": 23530,
+        "game": 19007,
+        "height": 480,
+        "image_id": "onokeuxfi296repfeb5x",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/onokeuxfi296repfeb5x.jpg",
+        "width": 640
+      },
+      {
+        "id": 23531,
+        "game": 19007,
+        "height": 480,
+        "image_id": "k443kqo3nkhomr0pazhp",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/k443kqo3nkhomr0pazhp.jpg",
+        "width": 640
+      },
+      {
+        "id": 23532,
+        "game": 19007,
+        "height": 495,
+        "image_id": "ps0caguwnhzi0vaq4d0x",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ps0caguwnhzi0vaq4d0x.jpg",
+        "width": 600
+      }
+    ],
+    "slug": "skies-of-arcadia",
+    "summary": "Arcadia is a world where continents float high above, and people travel by airships. Among the countries of this world, the most powerful one is the Empire of Valua. Guided by its greedy admirals, Valua strives to possess all the power in Arcadia. The boy Vyse and the girl Aika are members of the Blue Rogues - noble pirates who attack only Valuan war ships. During one of their confrontations with a battle ship, they encounter a girl named Fina, who is on an important mission whose secret she cannot tell yet. Involved in the conflict with the Empire of Valua, the trio of the heroes must explore the whole world of Arcadia in order to defeat the admirals.",
+    "videos": [
+      {
+        "id": 8048,
+        "game": 19007,
+        "name": "Trailer",
+        "video_id": "KArr6LlfPJg"
+      }
+    ]
+  },
+  null
+]

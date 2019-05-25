@@ -1,0 +1,226 @@
+[
+  {
+    "view": "game",
+    "layout": "game",
+    "author": "reicast",
+    "created_at": "2018-03-25 09:00",
+    "updated_at": "2019-05-02 09:00",
+    "id": "tomb-raider-chronicles",
+    "title": "Tomb Raider Chronicles",
+    "gamedb-issue": 0,
+    "releases": [
+      {
+        "id": "6A12",
+        "region": "EU",
+        "version": "1.002",
+        "discs": 1,
+        "medium": "gdrom"
+      },
+      {
+        "id": "D1D8",
+        "region": "US",
+        "version": "1.000",
+        "discs": 1,
+        "medium": "gdrom"
+      }
+    ],
+    "test-videos": [
+      {
+        "fingerprint": "6A12 GD-ROM1/1 EU",
+        "title": "Intro auto run",
+        "hw": "i7 2720qm, GeForce 540M",
+        "yt": "vrjrwK7C9Yk",
+        "git": "d59197f84353d7d2b746383e9277d9ed7c8c4053",
+        "platform": "win86-release"
+      },
+      {
+        "fingerprint": "D1D8 GD-ROM1/1 US",
+        "title": "Intro auto run",
+        "hw": "i7 2720qm, GeForce 540M",
+        "yt": "8SWneFimE00",
+        "git": "d59197f84353d7d2b746383e9277d9ed7c8c4053",
+        "platform": "win86-release"
+      }
+    ],
+    "gotIGDBGame": 1,
+    "idIGDB": 1160,
+    "age_ratings": [
+      {
+        "id": 3452,
+        "rating": 10
+      }
+    ],
+    "aggregated_rating": 60,
+    "aggregated_rating_count": 1,
+    "cover": [
+      {
+        "id": 1156,
+        "game": 1160,
+        "height": 684,
+        "image_id": "rnfhnna060s5bjbaq6oy",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rnfhnna060s5bjbaq6oy.jpg",
+        "width": 480
+      }
+    ],
+    "first_release_date": 974419200,
+    "game_modes": [
+      "Single player"
+    ],
+    "categories": [
+      "Shooter",
+      "Adventure"
+    ],
+    "tags": [
+      "female hero ( heroine )",
+      "motorcycle",
+      "stealth",
+      "mascot",
+      "shark",
+      "artifact",
+      "jeep",
+      "female protagonist",
+      "bridge",
+      "cyborg",
+      "button",
+      "steam",
+      "playstation",
+      "wolf",
+      "inventory",
+      "dog",
+      "climbing",
+      "swimming",
+      "spear",
+      "switch",
+      "digital distribution",
+      "female protagonists",
+      "train",
+      "jump",
+      "health pack",
+      "hammer",
+      "bullet",
+      "rope",
+      "ladder",
+      "flashlight",
+      "bink video",
+      "polygonal 3d",
+      "sexualized women",
+      "psone classics",
+      "roll",
+      "briefcase",
+      "door",
+      "gun",
+      "ramp",
+      "third-person perspective",
+      "shotgun",
+      "skull",
+      "crouching",
+      "cutscene",
+      "gog.com",
+      "elevator",
+      "pistol",
+      "tigers",
+      "lightning",
+      "key",
+      "fountain",
+      "torch",
+      "auto-aim",
+      "gloves",
+      "real-time combat",
+      "pushable block",
+      "statue",
+      "wilhelm scream",
+      "quicksaving",
+      "quickloading",
+      "phone",
+      "mercenary",
+      "ponytail",
+      "compass",
+      "wheel",
+      "english accent",
+      "boots",
+      "bell",
+      "item combination",
+      "blunt weapons",
+      "controversy",
+      "crossbow",
+      "submarine",
+      "particle system",
+      "fingerless gloves",
+      "breath meter",
+      "gun holster",
+      "fire extinguisher",
+      "flare",
+      "idle animations",
+      "ledge grab",
+      "crowbar",
+      "pitchfork",
+      "revolver",
+      "short shorts",
+      "vent crawling",
+      "ammo",
+      "crawling",
+      "archeology",
+      "amulet",
+      "binoculars",
+      "uzi",
+      "crank",
+      "treasure hunting",
+      "desert eagle",
+      "mp5",
+      "secretly a robot",
+      "edge wobble",
+      "tank controls",
+      "latex"
+    ],
+    "name": "Tomb Raider Chronicles",
+    "player_perspectives": [
+      "Third person"
+    ],
+    "popularity": 1.424853559775131,
+    "screenshots": [
+      {
+        "id": 101194,
+        "game": 1160,
+        "height": 480,
+        "image_id": "tf0ivks0lhi2huvhsqer",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/tf0ivks0lhi2huvhsqer.jpg",
+        "width": 640
+      },
+      {
+        "id": 101195,
+        "game": 1160,
+        "height": 300,
+        "image_id": "fhcub52zqwirjjaenzpz",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fhcub52zqwirjjaenzpz.jpg",
+        "width": 400
+      },
+      {
+        "id": 101196,
+        "game": 1160,
+        "height": 600,
+        "image_id": "oqn5rej02azeer1ghvej",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/oqn5rej02azeer1ghvej.jpg",
+        "width": 800
+      },
+      {
+        "id": 101197,
+        "game": 1160,
+        "height": 453,
+        "image_id": "bn5npsoeiv6kksgnnejf",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/bn5npsoeiv6kksgnnejf.jpg",
+        "width": 604
+      },
+      {
+        "id": 101198,
+        "game": 1160,
+        "height": 1080,
+        "image_id": "h5hblufiume3gflwmk43",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/h5hblufiume3gflwmk43.jpg",
+        "width": 1920
+      }
+    ],
+    "slug": "tomb-raider-chronicles",
+    "summary": "Uncover the secret history of Lara Croft in Tomb Raider: Chronicles. Lara Croft is missing in Egypt - presumed dead. Those closest to her gather together at the Croft Estate on a grey, rainy day for a memorial service in her honour. Afterwards, the friends sit quietly together in the study of the Croft Mansion and reminisce about Lara's past exploits; exploits that have until now remained a secret..."
+  },
+  null
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "view": "game",
+    "layout": "game",
+    "author": "reicast",
+    "created_at": "2018-03-25 09:00",
+    "updated_at": "2019-05-02 09:00",
+    "id": "street-fighter-iii-double-impact",
+    "title": "Street Fighter III - Double Impact",
+    "gamedb-issue": 0,
+    "releases": [
+      {
+        "id": "28C9",
+        "region": "EU",
+        "version": "1.001",
+        "discs": 1,
+        "medium": "gdrom"
+      },
+      {
+        "id": "0671",
+        "region": "US",
+        "version": "1.001",
+        "discs": 1,
+        "medium": "gdrom"
+      }
+    ],
+    "test-videos": [
+      {
+        "fingerprint": "28C9 GD-ROM1/1 EU",
+        "title": "Intro auto run",
+        "hw": "i7 2720qm, GeForce 540M",
+        "yt": "4fdwom44o4Y",
+        "git": "d59197f84353d7d2b746383e9277d9ed7c8c4053",
+        "platform": "win86-release"
+      },
+      {
+        "fingerprint": "0671 GD-ROM1/1 US",
+        "title": "Intro auto run",
+        "hw": "i7 2720qm, GeForce 540M",
+        "yt": "h9A5dpzjVeI",
+        "git": "d59197f84353d7d2b746383e9277d9ed7c8c4053",
+        "platform": "win86-release"
+      }
+    ],
+    "gotIGDBGame": 1,
+    "idIGDB": 45194,
+    "age_ratings": [
+      {
+        "id": 17073,
+        "rating": 10
+      }
+    ],
+    "cover": [
+      {
+        "id": 28044,
+        "game": 45194,
+        "height": 1419,
+        "image_id": "pfybr3o5ukmuchutno8f",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/pfybr3o5ukmuchutno8f.jpg",
+        "width": 1427
+      }
+    ],
+    "first_release_date": 947980800,
+    "game_modes": [
+      "Single player",
+      "Multiplayer"
+    ],
+    "categories": [
+      "Fighting"
+    ],
+    "tags": [
+      "martial arts",
+      "fighting",
+      "shadow",
+      "karate",
+      "electronic music",
+      "high score",
+      "jump",
+      "shun goku satsu",
+      "suspenders",
+      "negative edge",
+      "chip damage",
+      "particle system",
+      "charge character",
+      "divekick",
+      "ansatsuken",
+      "boxing gloves",
+      "book adaptation",
+      "super meter",
+      "tanuki",
+      "kunoichi",
+      "revenge meter"
+    ],
+    "name": "Street Fighter III: Double Impact",
+    "player_perspectives": [
+      "Side view"
+    ],
+    "popularity": 1.840157565682484,
+    "slug": "street-fighter-iii-double-impact",
+    "summary": "Street Fighter III: Double Impact, is a versus fighting game developed by Capcom exclusively for the Sega Dreamcast. It is a compilation of two arcade fighters - Street Fighter III: New Generation and its update, Street Fighter III 2nd Impact: Giant Attack. As the name suggests, Street Fighter III is a sequel to Street Fighter II. The game was not released in North America. \nThe Dreamcast would receive Street Fighter III: 3rd Strike, the second update to Street Fighter III."
+  },
+  null
+]

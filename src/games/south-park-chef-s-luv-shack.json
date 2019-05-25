@@ -1,0 +1,132 @@
+[
+  {
+    "view": "game",
+    "layout": "game",
+    "author": "reicast",
+    "created_at": "2018-03-25 09:00",
+    "updated_at": "2019-05-02 09:00",
+    "id": "south-park-chef-s-luv-shack",
+    "title": "South Park - Chef's Luv Shack",
+    "gamedb-issue": 0,
+    "releases": [
+      {
+        "id": "6202",
+        "region": "EU",
+        "version": "1.000",
+        "discs": 1,
+        "medium": "gdrom"
+      },
+      {
+        "id": "EA81",
+        "region": "US",
+        "version": "1.000",
+        "discs": 1,
+        "medium": "gdrom"
+      }
+    ],
+    "test-videos": [
+      {
+        "fingerprint": "6202 GD-ROM1/1 EU",
+        "title": "Intro auto run",
+        "hw": "i7 2720qm, GeForce 540M",
+        "yt": "zjsrYxsf-6s",
+        "git": "d59197f84353d7d2b746383e9277d9ed7c8c4053",
+        "platform": "win86-release"
+      },
+      {
+        "fingerprint": "EA81 GD-ROM1/1 US",
+        "title": "Intro auto run",
+        "hw": "i7 2720qm, GeForce 540M",
+        "yt": "8AwubJB7LQo",
+        "git": "d59197f84353d7d2b746383e9277d9ed7c8c4053",
+        "platform": "win86-release"
+      }
+    ],
+    "gotIGDBGame": 1,
+    "idIGDB": 1258,
+    "age_ratings": [
+      {
+        "id": 19654,
+        "rating": 11
+      }
+    ],
+    "cover": [
+      {
+        "id": 1250,
+        "game": 1258,
+        "height": 1387,
+        "image_id": "kch5zdfqz2uaqzbyupkc",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/kch5zdfqz2uaqzbyupkc.jpg",
+        "width": 1398
+      }
+    ],
+    "first_release_date": 941328000,
+    "game_modes": [
+      "Single player",
+      "Multiplayer"
+    ],
+    "categories": [
+      "Puzzle",
+      "Quiz/Trivia"
+    ],
+    "tags": [
+      "minigames",
+      "comedy",
+      "sex",
+      "text-based",
+      "trivia",
+      "quiz",
+      "puzzle",
+      "trivia/board game",
+      "licensed game",
+      "party games",
+      "scatological humor",
+      "minigame collection",
+      "adapted from television",
+      "cartoon character",
+      "fart",
+      "multiple characters on box art",
+      "lgbt",
+      "controversy",
+      "tie-in",
+      "tricycle",
+      "nazis",
+      "e3 1999"
+    ],
+    "name": "South Park: Chef's Luv Shack",
+    "player_perspectives": [
+      "First person",
+      "Side view"
+    ],
+    "popularity": 1.424928495992694,
+    "screenshots": [
+      {
+        "id": 1309,
+        "game": 1258,
+        "height": 478,
+        "image_id": "dbpygwmiz0ia0spphgx8",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/dbpygwmiz0ia0spphgx8.jpg",
+        "width": 630
+      },
+      {
+        "id": 1310,
+        "game": 1258,
+        "height": 300,
+        "image_id": "rzc1ljih45jcf2qbmsll",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rzc1ljih45jcf2qbmsll.jpg",
+        "width": 480
+      }
+    ],
+    "slug": "south-park-chef-s-luv-shack",
+    "summary": "South Park: Chef's Luv Shack is a 2D game-show style video game based on the television show South Park. It gained its popularity by having mini games and the ability to play against friends in a challenge for the most points. It also involves trivia questions about South Park and other topics.  The game intermittently switches between questions and minigames, with a minigame proceeding every three questions. Players score points by answering questions first (correctly) and based on minigame ranking. Players lose points for questions answered incorrectly. The game is exclusively multiplayer, as when played by one player, there is no AI, so that player always wins, even with a negative score",
+    "videos": [
+      {
+        "id": 857,
+        "game": 1258,
+        "name": "Game intro",
+        "video_id": "6Cfi51Re1IM"
+      }
+    ]
+  },
+  null
+]

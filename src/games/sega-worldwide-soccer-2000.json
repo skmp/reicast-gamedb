@@ -1,0 +1,59 @@
+[
+  {
+    "view": "game",
+    "layout": "game",
+    "author": "reicast",
+    "created_at": "2018-03-25 09:00",
+    "updated_at": "2019-05-02 09:00",
+    "id": "sega-worldwide-soccer-2000",
+    "title": "Sega Worldwide Soccer 2000",
+    "gamedb-issue": 0,
+    "releases": [
+      {
+        "id": "C124",
+        "region": "EU",
+        "version": "1.300",
+        "discs": 1,
+        "medium": "gdrom"
+      }
+    ],
+    "test-videos": [
+      {
+        "fingerprint": "C124 GD-ROM1/1 EU",
+        "title": "Intro auto run",
+        "hw": "i7 2720qm, GeForce 540M",
+        "yt": "QX6hxDac86s",
+        "git": "d59197f84353d7d2b746383e9277d9ed7c8c4053",
+        "platform": "win86-release"
+      }
+    ],
+    "gotIGDBGame": 1,
+    "idIGDB": 45790,
+    "cover": [
+      {
+        "id": 51224,
+        "game": 45790,
+        "height": 627,
+        "image_id": "i18rbeonm9asyamw0p5c",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/i18rbeonm9asyamw0p5c.jpg",
+        "width": 640
+      }
+    ],
+    "first_release_date": 946598400,
+    "categories": [
+      "Sport"
+    ],
+    "tags": [
+      "soccer",
+      "sports",
+      "high score",
+      "soccer player",
+      "goal"
+    ],
+    "name": "Sega Worldwide Soccer 2000",
+    "popularity": 1,
+    "slug": "sega-worldwide-soccer-2000",
+    "summary": "Sega and Silicon Dreams are on the ball to bring Sega WorldWide Soccer 2000 to Dreamcast. The beautiful game is brought to life in this fast action packed soccer simulation. Put on your old school kit and challenge all your friends - (up to four people can play). Sega WorldWide Soccer 2000 - miss out on this and you will be as sick as a parrot. Pick it up on a transfer and you will be over the moon."
+  },
+  null
+]
