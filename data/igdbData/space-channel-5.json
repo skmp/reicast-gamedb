@@ -1,0 +1,220 @@
+[
+  {
+    "id": 6602,
+    "age_ratings": [
+      {
+        "id": 23453,
+        "rating": 10
+      },
+      {
+        "id": 23454,
+        "rating": 10
+      }
+    ],
+    "cover": {
+      "id": 6759,
+      "game": 6602,
+      "height": 262,
+      "image_id": "xjv1mmzxvznjqplg2ti3",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/xjv1mmzxvznjqplg2ti3.jpg",
+      "width": 250
+    },
+    "first_release_date": 945302400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 7,
+        "name": "Music"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 78,
+        "name": "anime"
+      },
+      {
+        "id": 94,
+        "name": "visual novel"
+      },
+      {
+        "id": 201,
+        "name": "space station"
+      },
+      {
+        "id": 343,
+        "name": "adult"
+      },
+      {
+        "id": 488,
+        "name": "guitar"
+      },
+      {
+        "id": 732,
+        "name": "ufo"
+      },
+      {
+        "id": 847,
+        "name": "eroge"
+      },
+      {
+        "id": 947,
+        "name": "spaceship"
+      },
+      {
+        "id": 970,
+        "name": "sci-fi"
+      },
+      {
+        "id": 1027,
+        "name": "adventure"
+      },
+      {
+        "id": 1699,
+        "name": "dancing"
+      },
+      {
+        "id": 1834,
+        "name": "camera"
+      },
+      {
+        "id": 2104,
+        "name": "space suit"
+      },
+      {
+        "id": 2152,
+        "name": "high score"
+      },
+      {
+        "id": 3486,
+        "name": "boss fight"
+      },
+      {
+        "id": 4137,
+        "name": "music/rhythm"
+      },
+      {
+        "id": 4145,
+        "name": "female protagonists"
+      },
+      {
+        "id": 4287,
+        "name": "voice acting"
+      },
+      {
+        "id": 4477,
+        "name": "cameo appearance"
+      },
+      {
+        "id": 4484,
+        "name": "collectibles"
+      },
+      {
+        "id": 4541,
+        "name": "original soundtrack release"
+      },
+      {
+        "id": 4552,
+        "name": "helmet"
+      },
+      {
+        "id": 4560,
+        "name": "fan translation"
+      },
+      {
+        "id": 4839,
+        "name": "microphone"
+      },
+      {
+        "id": 4843,
+        "name": "saving the world"
+      },
+      {
+        "id": 4907,
+        "name": "gloves"
+      },
+      {
+        "id": 5420,
+        "name": "television"
+      },
+      {
+        "id": 6061,
+        "name": "e3 2000"
+      },
+      {
+        "id": 6137,
+        "name": "linear gameplay"
+      },
+      {
+        "id": 6165,
+        "name": "phong shading"
+      },
+      {
+        "id": 6365,
+        "name": "porting"
+      },
+      {
+        "id": 7286,
+        "name": "musicians"
+      },
+      {
+        "id": 7597,
+        "name": "simon says"
+      },
+      {
+        "id": 9331,
+        "name": "j-pop"
+      },
+      {
+        "id": 11631,
+        "name": "vmu support"
+      },
+      {
+        "id": 11855,
+        "name": "dance fighting"
+      },
+      {
+        "id": 12892,
+        "name": "lenticular box art"
+      },
+      {
+        "id": 13214,
+        "name": "morolian"
+      }
+    ],
+    "name": "Space Channel 5",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.848320018764188,
+    "slug": "space-channel-5",
+    "summary": "It\u0027s the 25th century and our intergalactic space reporter dives into an adventure where she must battle with a series of dastardly villains! Are you ready to save the universe through the medium of dance? You must first battle wicked space nasties, the Morolians, who have attacked and subdued innocent Earthlings with their dance-inflicting ray guns. In order to break the Morolian\u0027s hypnotic grasp, Ulala must mimic the aliens\u0027 exact dance moves by keeping the beat with pauses timed to perfection. But the adventure isn\u0027t over just yet; Ulala must also face another group of intergalactic terrorists who have designs on world domination.",
+    "videos": [
+      {
+        "id": 22928,
+        "game": 6602,
+        "name": "Trailer",
+        "video_id": "Wdnb_K8HaZQ"
+      }
+    ]
+  }
+]

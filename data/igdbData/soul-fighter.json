@@ -1,0 +1,138 @@
+[
+  {
+    "id": 45840,
+    "cover": {
+      "id": 52674,
+      "game": 45840,
+      "height": 640,
+      "image_id": "ywn9kg6gwds9exmfowd0",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/ywn9kg6gwds9exmfowd0.jpg",
+      "width": 640
+    },
+    "first_release_date": 943920000,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 176,
+        "name": "souls"
+      },
+      {
+        "id": 227,
+        "name": "sword"
+      },
+      {
+        "id": 296,
+        "name": "fantasy"
+      },
+      {
+        "id": 301,
+        "name": "health"
+      },
+      {
+        "id": 982,
+        "name": "brawler"
+      },
+      {
+        "id": 1186,
+        "name": "multiple protagonists"
+      },
+      {
+        "id": 1320,
+        "name": "undead"
+      },
+      {
+        "id": 2472,
+        "name": "sword \u0026 sorcery"
+      },
+      {
+        "id": 3486,
+        "name": "boss fight"
+      },
+      {
+        "id": 4130,
+        "name": "gold"
+      },
+      {
+        "id": 4287,
+        "name": "voice acting"
+      },
+      {
+        "id": 4330,
+        "name": "first-person perspective"
+      },
+      {
+        "id": 4359,
+        "name": "polygonal 3d"
+      },
+      {
+        "id": 4394,
+        "name": "dagger"
+      },
+      {
+        "id": 4419,
+        "name": "axe"
+      },
+      {
+        "id": 4425,
+        "name": "health potion"
+      },
+      {
+        "id": 4525,
+        "name": "third-person perspective"
+      },
+      {
+        "id": 4540,
+        "name": "club"
+      },
+      {
+        "id": 4611,
+        "name": "cutscene"
+      },
+      {
+        "id": 4826,
+        "name": "classes"
+      },
+      {
+        "id": 5354,
+        "name": "combo"
+      },
+      {
+        "id": 5374,
+        "name": "magic staff"
+      },
+      {
+        "id": 5440,
+        "name": "projectiles"
+      },
+      {
+        "id": 5820,
+        "name": "reptilian humanoid"
+      },
+      {
+        "id": 6494,
+        "name": "button mashing"
+      },
+      {
+        "id": 7122,
+        "name": "throwing knife"
+      },
+      {
+        "id": 9086,
+        "name": "mana potion"
+      }
+    ],
+    "name": "Soul Fighter",
+    "popularity": 1.0,
+    "slug": "soul-fighter",
+    "summary": "Soul Fighter is a beat \u0027em up video game developed by Toka for the Sega Dreamcast home console in 1999."
+  }
+]

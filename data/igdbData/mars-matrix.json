@@ -1,0 +1,106 @@
+[
+  {
+    "id": 4356,
+    "age_ratings": [
+      {
+        "id": 2500,
+        "rating": 8
+      }
+    ],
+    "cover": {
+      "id": 67938,
+      "game": 4356,
+      "height": 538,
+      "image_id": "txojmt1trsc7vprnb80e",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/txojmt1trsc7vprnb80e.jpg",
+      "width": 380
+    },
+    "first_release_date": 954547200,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 166,
+        "name": "shoot \u0027em up"
+      },
+      {
+        "id": 911,
+        "name": "bullet hell"
+      },
+      {
+        "id": 970,
+        "name": "sci-fi"
+      },
+      {
+        "id": 1025,
+        "name": "shooter"
+      },
+      {
+        "id": 2152,
+        "name": "high score"
+      },
+      {
+        "id": 3486,
+        "name": "boss fight"
+      },
+      {
+        "id": 4144,
+        "name": "power up"
+      },
+      {
+        "id": 4284,
+        "name": "leveling up"
+      },
+      {
+        "id": 4958,
+        "name": "game over"
+      },
+      {
+        "id": 4967,
+        "name": "vertical scrolling"
+      },
+      {
+        "id": 7037,
+        "name": "bullet pattern"
+      },
+      {
+        "id": 7280,
+        "name": "continue"
+      },
+      {
+        "id": 7441,
+        "name": "q-sound"
+      },
+      {
+        "id": 7654,
+        "name": "barrier"
+      },
+      {
+        "id": 9167,
+        "name": "spread gun"
+      },
+      {
+        "id": 12435,
+        "name": "tank boss"
+      }
+    ],
+    "name": "Mars Matrix",
+    "popularity": 1.0,
+    "screenshots": [
+      {
+        "id": 243587,
+        "game": 4356,
+        "height": 194,
+        "image_id": "by9u9vafh5pykj4inzbf",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/by9u9vafh5pykj4inzbf.jpg",
+        "width": 259
+      }
+    ],
+    "slug": "mars-matrix",
+    "summary": "A prediction is that before human civilization, there was once an advanced civilization on Mars. A sorceress destroyed the civilization and everything that was remembered of it, except a chip called \"INFINITY\". In 2100, millions of people were starving due to massive food shortages and has caused civil wars around the world. Centuries later, however, the world government had sent colonists to Mars which began to solve these problems. At a nearby farm, the Infinity chip was discovered and it revealed all the technology of the advanced civilization. In 2309, a Declaration of Independence has been sent to Earth. Large armies have been amassed on Mars, and a gigantic armada was waiting for any attack from Earth. The Earth government sends out a fleet of battleships followed by a special air raid unit called ACID; ACID is equipped with a new fighter ship known as the Mosquito. Their mission is to enter Mars, stop the rebel violence, locate and destroy the rebel leader, whoever... or whatever it may be..."
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 21968,
+    "age_ratings": [
+      {
+        "id": 12460,
+        "rating": 10
+      }
+    ],
+    "aggregated_rating": 90.0,
+    "aggregated_rating_count": 1,
+    "cover": {
+      "id": 23966,
+      "game": 21968,
+      "height": 411,
+      "image_id": "vhsejkjhtcdesr450zuk",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/vhsejkjhtcdesr450zuk.jpg",
+      "width": 420
+    },
+    "first_release_date": 977356800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 5,
+        "name": "Massively Multiplayer Online (MMO)"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 900,
+        "name": "mmorpg"
+      },
+      {
+        "id": 970,
+        "name": "sci-fi"
+      },
+      {
+        "id": 1333,
+        "name": "online"
+      },
+      {
+        "id": 4826,
+        "name": "classes"
+      },
+      {
+        "id": 6250,
+        "name": "role-playing shooter"
+      },
+      {
+        "id": 9637,
+        "name": "gender exclusive equipment"
+      },
+      {
+        "id": 12425,
+        "name": "mag"
+      }
+    ],
+    "name": "Phantasy Star Online",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.636240014073141,
+    "slug": "phantasy-star-online",
+    "summary": "Pioneer 2 finally completed it\u0027s long voyage to the new home world. But as the ship entered orbit, an enormous explosion shook the entire planet, and all contact with the thousands of people already there was lost. Now, in the first worldwide online console RPG, players from around the globe must unite to discover what has happened. Phantasy Star Online continues in the tradition of one of the most popular series of all time, and becomes a revolutionary and truly global gaming experience in an online, persistent world.",
+    "videos": [
+      {
+        "id": 13807,
+        "game": 21968,
+        "name": "Trailer",
+        "video_id": "dyEnJCgTZds"
+      }
+    ]
+  }
+]

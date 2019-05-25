@@ -1,0 +1,524 @@
+[
+  {
+    "id": 7858,
+    "age_ratings": [
+      {
+        "id": 4608,
+        "rating": 8
+      },
+      {
+        "id": 23831,
+        "rating": 2
+      }
+    ],
+    "aggregated_rating": 79.0,
+    "aggregated_rating_count": 2,
+    "cover": {
+      "id": 8263,
+      "game": 7858,
+      "height": 223,
+      "image_id": "zlf9si8h6ixnqa4dnz23",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/zlf9si8h6ixnqa4dnz23.jpg",
+      "width": 220
+    },
+    "first_release_date": 993254400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 137,
+        "name": "gravity"
+      },
+      {
+        "id": 274,
+        "name": "minigames"
+      },
+      {
+        "id": 394,
+        "name": "mascot"
+      },
+      {
+        "id": 558,
+        "name": "death"
+      },
+      {
+        "id": 575,
+        "name": "robots"
+      },
+      {
+        "id": 612,
+        "name": "chopper"
+      },
+      {
+        "id": 818,
+        "name": "virtual pet"
+      },
+      {
+        "id": 1052,
+        "name": "speed"
+      },
+      {
+        "id": 1186,
+        "name": "multiple protagonists"
+      },
+      {
+        "id": 1293,
+        "name": "achievements"
+      },
+      {
+        "id": 1478,
+        "name": "on-rails"
+      },
+      {
+        "id": 1881,
+        "name": "amnesia"
+      },
+      {
+        "id": 2049,
+        "name": "platformer"
+      },
+      {
+        "id": 2071,
+        "name": "sequel"
+      },
+      {
+        "id": 2152,
+        "name": "high score"
+      },
+      {
+        "id": 2184,
+        "name": "talking animals"
+      },
+      {
+        "id": 2280,
+        "name": "climbing"
+      },
+      {
+        "id": 2415,
+        "name": "bats"
+      },
+      {
+        "id": 2898,
+        "name": "action game"
+      },
+      {
+        "id": 3831,
+        "name": "explosion"
+      },
+      {
+        "id": 3833,
+        "name": "bosses"
+      },
+      {
+        "id": 3912,
+        "name": "boost"
+      },
+      {
+        "id": 4161,
+        "name": "jump"
+      },
+      {
+        "id": 4162,
+        "name": "anthropomorphism"
+      },
+      {
+        "id": 4210,
+        "name": "split-screen multiplayer"
+      },
+      {
+        "id": 4245,
+        "name": "playstation trophies"
+      },
+      {
+        "id": 4282,
+        "name": "60 fps on consoles"
+      },
+      {
+        "id": 4286,
+        "name": "character select screen"
+      },
+      {
+        "id": 4287,
+        "name": "voice acting"
+      },
+      {
+        "id": 4297,
+        "name": "protagonist\u0027s name in the title"
+      },
+      {
+        "id": 4329,
+        "name": "cat"
+      },
+      {
+        "id": 4359,
+        "name": "polygonal 3d"
+      },
+      {
+        "id": 4389,
+        "name": "roll"
+      },
+      {
+        "id": 4405,
+        "name": "transforming boss"
+      },
+      {
+        "id": 4452,
+        "name": "licensed soundtrack"
+      },
+      {
+        "id": 4454,
+        "name": "chao"
+      },
+      {
+        "id": 4455,
+        "name": "hedgehog"
+      },
+      {
+        "id": 4463,
+        "name": "evil twin"
+      },
+      {
+        "id": 4471,
+        "name": "multiple storylines"
+      },
+      {
+        "id": 4484,
+        "name": "collectibles"
+      },
+      {
+        "id": 4525,
+        "name": "third-person perspective"
+      },
+      {
+        "id": 4541,
+        "name": "original soundtrack release"
+      },
+      {
+        "id": 4611,
+        "name": "cutscene"
+      },
+      {
+        "id": 4644,
+        "name": "breast bounce"
+      },
+      {
+        "id": 4711,
+        "name": "sprinting"
+      },
+      {
+        "id": 4766,
+        "name": "totem pole"
+      },
+      {
+        "id": 4777,
+        "name": "checkpoints"
+      },
+      {
+        "id": 4869,
+        "name": "downloadable content"
+      },
+      {
+        "id": 4884,
+        "name": "black market"
+      },
+      {
+        "id": 4959,
+        "name": "sound test"
+      },
+      {
+        "id": 4971,
+        "name": "super form"
+      },
+      {
+        "id": 4990,
+        "name": "instant kill"
+      },
+      {
+        "id": 5009,
+        "name": "level select map"
+      },
+      {
+        "id": 5022,
+        "name": "final boss"
+      },
+      {
+        "id": 5042,
+        "name": "s-rank"
+      },
+      {
+        "id": 5279,
+        "name": "theme song"
+      },
+      {
+        "id": 5287,
+        "name": "rock music"
+      },
+      {
+        "id": 5302,
+        "name": "speed boost"
+      },
+      {
+        "id": 5441,
+        "name": "moving platforms"
+      },
+      {
+        "id": 5518,
+        "name": "punctuation mark above head"
+      },
+      {
+        "id": 5534,
+        "name": "lens flare"
+      },
+      {
+        "id": 5587,
+        "name": "villain"
+      },
+      {
+        "id": 5633,
+        "name": "xbox one backwards compatibility"
+      },
+      {
+        "id": 5672,
+        "name": "sidekick"
+      },
+      {
+        "id": 5801,
+        "name": "temporary invincibility"
+      },
+      {
+        "id": 6015,
+        "name": "multi-species roster"
+      },
+      {
+        "id": 6040,
+        "name": "head jumping"
+      },
+      {
+        "id": 6084,
+        "name": "not-so-bad guys"
+      },
+      {
+        "id": 6088,
+        "name": "villain turned good"
+      },
+      {
+        "id": 6094,
+        "name": "spiky-haired protagonist"
+      },
+      {
+        "id": 6109,
+        "name": "floating rings"
+      },
+      {
+        "id": 6117,
+        "name": "teenager"
+      },
+      {
+        "id": 6185,
+        "name": "kart racer"
+      },
+      {
+        "id": 6318,
+        "name": "idle animations"
+      },
+      {
+        "id": 6461,
+        "name": "flashback"
+      },
+      {
+        "id": 6471,
+        "name": "women in refrigerators"
+      },
+      {
+        "id": 6487,
+        "name": "grind"
+      },
+      {
+        "id": 6738,
+        "name": "charging heavyweight enemies"
+      },
+      {
+        "id": 6811,
+        "name": "spin dash"
+      },
+      {
+        "id": 7220,
+        "name": "item container"
+      },
+      {
+        "id": 7222,
+        "name": "living collectible"
+      },
+      {
+        "id": 7403,
+        "name": "pax prime 2012"
+      },
+      {
+        "id": 7441,
+        "name": "q-sound"
+      },
+      {
+        "id": 7600,
+        "name": "playstation 3"
+      },
+      {
+        "id": 8272,
+        "name": "police chase"
+      },
+      {
+        "id": 8894,
+        "name": "partners"
+      },
+      {
+        "id": 9209,
+        "name": "fodder enemies"
+      },
+      {
+        "id": 9222,
+        "name": "product placement"
+      },
+      {
+        "id": 9364,
+        "name": "running towards the screen"
+      },
+      {
+        "id": 9396,
+        "name": "comic sans"
+      },
+      {
+        "id": 9412,
+        "name": "industrial level"
+      },
+      {
+        "id": 10031,
+        "name": "planet destruction"
+      },
+      {
+        "id": 10245,
+        "name": "silent protagonists who talk in sequels"
+      },
+      {
+        "id": 11396,
+        "name": "re-numbered franchise"
+      },
+      {
+        "id": 11631,
+        "name": "vmu support"
+      },
+      {
+        "id": 11739,
+        "name": "missile riding"
+      },
+      {
+        "id": 11767,
+        "name": "unknown age"
+      },
+      {
+        "id": 12431,
+        "name": "walking on walls"
+      },
+      {
+        "id": 12819,
+        "name": "faceship"
+      },
+      {
+        "id": 14576,
+        "name": "poser"
+      },
+      {
+        "id": 17215,
+        "name": "ps3"
+      },
+      {
+        "id": 20941,
+        "name": "sonic adventure 2"
+      },
+      {
+        "id": 20942,
+        "name": "sonic adventure 2 game"
+      }
+    ],
+    "name": "Sonic Adventure 2",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 3.166769667161259,
+    "screenshots": [
+      {
+        "id": 101565,
+        "game": 7858,
+        "height": 1080,
+        "image_id": "y3mkxblyftdjplwtqhgu",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/y3mkxblyftdjplwtqhgu.jpg",
+        "width": 1920
+      },
+      {
+        "id": 101566,
+        "game": 7858,
+        "height": 1080,
+        "image_id": "luv3d1wz3z0kwtnyndgf",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/luv3d1wz3z0kwtnyndgf.jpg",
+        "width": 1920
+      },
+      {
+        "id": 101567,
+        "game": 7858,
+        "height": 1080,
+        "image_id": "dfb8fyfhyzjuceen9d7n",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/dfb8fyfhyzjuceen9d7n.jpg",
+        "width": 1920
+      },
+      {
+        "id": 101568,
+        "game": 7858,
+        "height": 1080,
+        "image_id": "ot42hlgunyofyugscogp",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ot42hlgunyofyugscogp.jpg",
+        "width": 1920
+      },
+      {
+        "id": 101569,
+        "game": 7858,
+        "height": 1080,
+        "image_id": "ay9wh0m7e06f6ayvefdg",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ay9wh0m7e06f6ayvefdg.jpg",
+        "width": 1920
+      }
+    ],
+    "slug": "sonic-adventure-2",
+    "summary": "Experience two unique adventures featuring both long-time heroes and new and returning villains as they battle for the fate of the world!",
+    "videos": [
+      {
+        "id": 13380,
+        "game": 7858,
+        "name": "Trailer",
+        "video_id": "0koY8weGmBI"
+      }
+    ]
+  }
+]

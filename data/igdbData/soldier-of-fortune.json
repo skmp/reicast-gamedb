@@ -1,0 +1,542 @@
+[
+  {
+    "id": 3111,
+    "age_ratings": [
+      {
+        "id": 6000,
+        "rating": 11
+      },
+      {
+        "id": 24072,
+        "rating": 5
+      }
+    ],
+    "aggregated_rating": 90.0,
+    "aggregated_rating_count": 1,
+    "cover": {
+      "id": 9196,
+      "game": 3111,
+      "height": 500,
+      "image_id": "qnym0ghqiaxthsvl1zrf",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/qnym0ghqiaxthsvl1zrf.jpg",
+      "width": 414
+    },
+    "first_release_date": 951782400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 1,
+        "name": "modern warfare"
+      },
+      {
+        "id": 129,
+        "name": "blood"
+      },
+      {
+        "id": 132,
+        "name": "stealth"
+      },
+      {
+        "id": 301,
+        "name": "health"
+      },
+      {
+        "id": 453,
+        "name": "first person shooter"
+      },
+      {
+        "id": 466,
+        "name": "fps"
+      },
+      {
+        "id": 558,
+        "name": "death"
+      },
+      {
+        "id": 1025,
+        "name": "shooter"
+      },
+      {
+        "id": 1219,
+        "name": "espionage"
+      },
+      {
+        "id": 1333,
+        "name": "online"
+      },
+      {
+        "id": 1368,
+        "name": "modern"
+      },
+      {
+        "id": 1403,
+        "name": "building"
+      },
+      {
+        "id": 1710,
+        "name": "snow"
+      },
+      {
+        "id": 2324,
+        "name": "swimming"
+      },
+      {
+        "id": 2440,
+        "name": "graffiti"
+      },
+      {
+        "id": 3087,
+        "name": "one-man army"
+      },
+      {
+        "id": 3270,
+        "name": "flamethrower"
+      },
+      {
+        "id": 3486,
+        "name": "boss fight"
+      },
+      {
+        "id": 3988,
+        "name": "deathmatch"
+      },
+      {
+        "id": 4178,
+        "name": "options menu"
+      },
+      {
+        "id": 4179,
+        "name": "throwing weapons"
+      },
+      {
+        "id": 4183,
+        "name": "crate"
+      },
+      {
+        "id": 4244,
+        "name": "train level"
+      },
+      {
+        "id": 4259,
+        "name": "modern military"
+      },
+      {
+        "id": 4287,
+        "name": "voice acting"
+      },
+      {
+        "id": 4330,
+        "name": "first-person perspective"
+      },
+      {
+        "id": 4446,
+        "name": "gun"
+      },
+      {
+        "id": 4508,
+        "name": "knife"
+      },
+      {
+        "id": 4571,
+        "name": "shotgun"
+      },
+      {
+        "id": 4572,
+        "name": "rocket launcher"
+      },
+      {
+        "id": 4614,
+        "name": "extreme violence"
+      },
+      {
+        "id": 4660,
+        "name": "pistol"
+      },
+      {
+        "id": 4697,
+        "name": "lightning"
+      },
+      {
+        "id": 4713,
+        "name": "light machine gun"
+      },
+      {
+        "id": 4730,
+        "name": "sniping"
+      },
+      {
+        "id": 4760,
+        "name": "ice stage"
+      },
+      {
+        "id": 4833,
+        "name": "staircase"
+      },
+      {
+        "id": 4859,
+        "name": "disarm"
+      },
+      {
+        "id": 4875,
+        "name": "magnum"
+      },
+      {
+        "id": 4896,
+        "name": "subtitles"
+      },
+      {
+        "id": 4902,
+        "name": "first person melee"
+      },
+      {
+        "id": 4906,
+        "name": "c4"
+      },
+      {
+        "id": 4907,
+        "name": "gloves"
+      },
+      {
+        "id": 4910,
+        "name": "heads up display"
+      },
+      {
+        "id": 5142,
+        "name": "historical figures in fictional settings"
+      },
+      {
+        "id": 5156,
+        "name": "breakable glass"
+      },
+      {
+        "id": 5309,
+        "name": "reloading"
+      },
+      {
+        "id": 5323,
+        "name": "mercenary"
+      },
+      {
+        "id": 5350,
+        "name": "sniper rifle"
+      },
+      {
+        "id": 5444,
+        "name": "blood splatter"
+      },
+      {
+        "id": 5466,
+        "name": "terrorists"
+      },
+      {
+        "id": 5468,
+        "name": "banned"
+      },
+      {
+        "id": 5500,
+        "name": "nuclear bomb"
+      },
+      {
+        "id": 5565,
+        "name": "line of sight stealth"
+      },
+      {
+        "id": 5730,
+        "name": "controversy"
+      },
+      {
+        "id": 5773,
+        "name": "helicopter boss"
+      },
+      {
+        "id": 5775,
+        "name": "grenade"
+      },
+      {
+        "id": 5813,
+        "name": "ski mask"
+      },
+      {
+        "id": 5943,
+        "name": "bizarre weapons"
+      },
+      {
+        "id": 5945,
+        "name": "energy weapons"
+      },
+      {
+        "id": 5987,
+        "name": "team deathmatch"
+      },
+      {
+        "id": 6258,
+        "name": "fire extinguisher"
+      },
+      {
+        "id": 6296,
+        "name": "griefing"
+      },
+      {
+        "id": 6298,
+        "name": "camping"
+      },
+      {
+        "id": 6322,
+        "name": "automated grenade throw"
+      },
+      {
+        "id": 6327,
+        "name": "enemy reaction"
+      },
+      {
+        "id": 6370,
+        "name": "gore system"
+      },
+      {
+        "id": 6371,
+        "name": "dismemberment"
+      },
+      {
+        "id": 6374,
+        "name": "light up crosshair"
+      },
+      {
+        "id": 6400,
+        "name": "flashbang"
+      },
+      {
+        "id": 6495,
+        "name": "body armor"
+      },
+      {
+        "id": 6600,
+        "name": "retrievable projectiles"
+      },
+      {
+        "id": 6621,
+        "name": "vent crawling"
+      },
+      {
+        "id": 6625,
+        "name": "scope"
+      },
+      {
+        "id": 6942,
+        "name": "bust"
+      },
+      {
+        "id": 7016,
+        "name": "nazis"
+      },
+      {
+        "id": 7026,
+        "name": "bots"
+      },
+      {
+        "id": 7038,
+        "name": "headshot"
+      },
+      {
+        "id": 7040,
+        "name": "alternate fire"
+      },
+      {
+        "id": 7090,
+        "name": "gibs"
+      },
+      {
+        "id": 7092,
+        "name": "run \u0027n gun"
+      },
+      {
+        "id": 7099,
+        "name": "leaning"
+      },
+      {
+        "id": 7118,
+        "name": "attack dog"
+      },
+      {
+        "id": 7488,
+        "name": "optional censorship"
+      },
+      {
+        "id": 8795,
+        "name": "persistent bullet holes"
+      },
+      {
+        "id": 8806,
+        "name": "persistent corpses"
+      },
+      {
+        "id": 8874,
+        "name": "kunoichi"
+      },
+      {
+        "id": 9154,
+        "name": "night vision goggles"
+      },
+      {
+        "id": 9310,
+        "name": "limb targeting"
+      },
+      {
+        "id": 9321,
+        "name": "nuclear war"
+      },
+      {
+        "id": 9425,
+        "name": "m202 flash"
+      },
+      {
+        "id": 9713,
+        "name": "chemical warfare"
+      },
+      {
+        "id": 9730,
+        "name": "glock 17"
+      },
+      {
+        "id": 9763,
+        "name": "energy cell"
+      },
+      {
+        "id": 9799,
+        "name": "crotch damage"
+      },
+      {
+        "id": 9813,
+        "name": "battle dress uniform"
+      },
+      {
+        "id": 9874,
+        "name": "spas-12"
+      },
+      {
+        "id": 10048,
+        "name": "pc to console port"
+      },
+      {
+        "id": 10378,
+        "name": "5.56mm round"
+      },
+      {
+        "id": 11786,
+        "name": "multifunctional ammo"
+      },
+      {
+        "id": 12123,
+        "name": "xfire"
+      },
+      {
+        "id": 12195,
+        "name": "health station"
+      },
+      {
+        "id": 13119,
+        "name": "e3 1999"
+      },
+      {
+        "id": 13561,
+        "name": "wound tags"
+      },
+      {
+        "id": 14041,
+        "name": "id tech 2"
+      },
+      {
+        "id": 14042,
+        "name": "preventing disaster"
+      },
+      {
+        "id": 14043,
+        "name": "sound meter"
+      },
+      {
+        "id": 14044,
+        "name": "covert machinegun"
+      },
+      {
+        "id": 14046,
+        "name": "microwave pulse gun"
+      },
+      {
+        "id": 14047,
+        "name": "h-24 slugthrower"
+      },
+      {
+        "id": 14048,
+        "name": "beretta 501 sniper"
+      },
+      {
+        "id": 14049,
+        "name": "famae s.a.f"
+      }
+    ],
+    "name": "Soldier of Fortune",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "popularity": 2.271608689470999,
+    "screenshots": [
+      {
+        "id": 22999,
+        "game": 3111,
+        "height": 768,
+        "image_id": "cd3lwrubqmltwmdlvsxv",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cd3lwrubqmltwmdlvsxv.jpg",
+        "width": 1024
+      },
+      {
+        "id": 283739,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 3111,
+        "height": 480,
+        "image_id": "sc62xn",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc62xn.jpg",
+        "width": 640
+      },
+      {
+        "id": 283740,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 3111,
+        "height": 768,
+        "image_id": "sc62xo",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc62xo.jpg",
+        "width": 1024
+      },
+      {
+        "id": 283741,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 3111,
+        "height": 480,
+        "image_id": "sc62xp",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc62xp.jpg",
+        "width": 640
+      }
+    ],
+    "slug": "soldier-of-fortune",
+    "summary": "John Mullins, working for a U.S.-based mercenary (\"soldier of fortune\") organization known only as \"The Shop\", and his partner, Aaron \"Hawk\" Parsons, are assigned to prevent the nukes from falling into the wrong hands, and stop the terrorists in their plans."
+  }
+]

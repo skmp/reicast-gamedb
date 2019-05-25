@@ -1,0 +1,376 @@
+[
+  {
+    "id": 1843,
+    "age_ratings": [
+      {
+        "id": 13559,
+        "rating": 10
+      }
+    ],
+    "aggregated_rating": 75.0,
+    "aggregated_rating_count": 2,
+    "cover": {
+      "id": 1859,
+      "game": 1843,
+      "height": 773,
+      "image_id": "igvjoyldgrwhwfjgx1pv",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/igvjoyldgrwhwfjgx1pv.jpg",
+      "width": 640
+    },
+    "first_release_date": 936057600,
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 1,
+        "name": "modern warfare"
+      },
+      {
+        "id": 221,
+        "name": "murder"
+      },
+      {
+        "id": 301,
+        "name": "health"
+      },
+      {
+        "id": 453,
+        "name": "first person shooter"
+      },
+      {
+        "id": 558,
+        "name": "death"
+      },
+      {
+        "id": 563,
+        "name": "military"
+      },
+      {
+        "id": 1148,
+        "name": "simulation"
+      },
+      {
+        "id": 1329,
+        "name": "special forces"
+      },
+      {
+        "id": 1333,
+        "name": "online"
+      },
+      {
+        "id": 1373,
+        "name": "hostages"
+      },
+      {
+        "id": 1537,
+        "name": "expansion"
+      },
+      {
+        "id": 1710,
+        "name": "snow"
+      },
+      {
+        "id": 4259,
+        "name": "modern military"
+      },
+      {
+        "id": 4330,
+        "name": "first-person perspective"
+      },
+      {
+        "id": 4359,
+        "name": "polygonal 3d"
+      },
+      {
+        "id": 4363,
+        "name": "book"
+      },
+      {
+        "id": 4418,
+        "name": "door"
+      },
+      {
+        "id": 4428,
+        "name": "bed"
+      },
+      {
+        "id": 4446,
+        "name": "gun"
+      },
+      {
+        "id": 4552,
+        "name": "helmet"
+      },
+      {
+        "id": 4591,
+        "name": "paintings"
+      },
+      {
+        "id": 4613,
+        "name": "non-player character"
+      },
+      {
+        "id": 4625,
+        "name": "table"
+      },
+      {
+        "id": 4698,
+        "name": "cooperative play"
+      },
+      {
+        "id": 4730,
+        "name": "sniping"
+      },
+      {
+        "id": 4880,
+        "name": "barrel"
+      },
+      {
+        "id": 4920,
+        "name": "pants"
+      },
+      {
+        "id": 5186,
+        "name": "couch"
+      },
+      {
+        "id": 5267,
+        "name": "phone"
+      },
+      {
+        "id": 5309,
+        "name": "reloading"
+      },
+      {
+        "id": 5350,
+        "name": "sniper rifle"
+      },
+      {
+        "id": 5362,
+        "name": "boat"
+      },
+      {
+        "id": 5369,
+        "name": "minimap"
+      },
+      {
+        "id": 5455,
+        "name": "squad"
+      },
+      {
+        "id": 5466,
+        "name": "terrorists"
+      },
+      {
+        "id": 5775,
+        "name": "grenade"
+      },
+      {
+        "id": 5782,
+        "name": "tie-in"
+      },
+      {
+        "id": 5813,
+        "name": "ski mask"
+      },
+      {
+        "id": 5836,
+        "name": "mod support"
+      },
+      {
+        "id": 6021,
+        "name": "guerilla warfare"
+      },
+      {
+        "id": 6061,
+        "name": "e3 2000"
+      },
+      {
+        "id": 6244,
+        "name": "squad based shooter"
+      },
+      {
+        "id": 6296,
+        "name": "griefing"
+      },
+      {
+        "id": 6298,
+        "name": "camping"
+      },
+      {
+        "id": 6352,
+        "name": "submachine gun"
+      },
+      {
+        "id": 6400,
+        "name": "flashbang"
+      },
+      {
+        "id": 6589,
+        "name": "rifle"
+      },
+      {
+        "id": 6624,
+        "name": "silencer"
+      },
+      {
+        "id": 7038,
+        "name": "headshot"
+      },
+      {
+        "id": 7123,
+        "name": "hand rail"
+      },
+      {
+        "id": 7392,
+        "name": "steel chair"
+      },
+      {
+        "id": 7405,
+        "name": "ammo"
+      },
+      {
+        "id": 7419,
+        "name": "close quarters combat"
+      },
+      {
+        "id": 8133,
+        "name": "tea-bagging"
+      },
+      {
+        "id": 8766,
+        "name": "desert eagle"
+      },
+      {
+        "id": 8917,
+        "name": "m16a4"
+      },
+      {
+        "id": 8976,
+        "name": "recoil"
+      },
+      {
+        "id": 9022,
+        "name": "mp5"
+      },
+      {
+        "id": 9072,
+        "name": "beretta m9"
+      },
+      {
+        "id": 9278,
+        "name": "waypoint"
+      },
+      {
+        "id": 9813,
+        "name": "battle dress uniform"
+      },
+      {
+        "id": 9874,
+        "name": "spas-12"
+      },
+      {
+        "id": 9906,
+        "name": "selective fire weapons"
+      },
+      {
+        "id": 10379,
+        "name": "h\u0026k g3"
+      },
+      {
+        "id": 10460,
+        "name": "team killing"
+      },
+      {
+        "id": 10602,
+        "name": "no scope"
+      },
+      {
+        "id": 13118,
+        "name": "e3 2001"
+      },
+      {
+        "id": 14544,
+        "name": "heartbeat sensor"
+      }
+    ],
+    "name": "Tom Clancy\u0027s Rainbow Six: Rogue Spear",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "popularity": 3.120800046910471,
+    "screenshots": [
+      {
+        "id": 1759,
+        "game": 1843,
+        "height": 675,
+        "image_id": "nppph1jye6htmu7oxwkv",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/nppph1jye6htmu7oxwkv.jpg",
+        "width": 900
+      },
+      {
+        "id": 1760,
+        "game": 1843,
+        "height": 675,
+        "image_id": "o1vdlw4ffrfc9in2mbat",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/o1vdlw4ffrfc9in2mbat.jpg",
+        "width": 900
+      },
+      {
+        "id": 1761,
+        "game": 1843,
+        "height": 675,
+        "image_id": "lvseo9giswcwbpj1wacx",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/lvseo9giswcwbpj1wacx.jpg",
+        "width": 900
+      },
+      {
+        "id": 1762,
+        "game": 1843,
+        "height": 675,
+        "image_id": "gqakfob165vyv9u1qjsm",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/gqakfob165vyv9u1qjsm.jpg",
+        "width": 900
+      },
+      {
+        "id": 1763,
+        "game": 1843,
+        "height": 675,
+        "image_id": "bahgvlczptsl4bnrnt2m",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/bahgvlczptsl4bnrnt2m.jpg",
+        "width": 900
+      }
+    ],
+    "slug": "tom-clancy-s-rainbow-six-rogue-spear",
+    "summary": "Following the collapse of the Soviet Union in 1991, the economic situation in Russia and the former Eastern Europe falls into chaos. Terrorism in the region is commonplace as people fight a seemingly endless stream of battles for supplies and other necessities. In this power vacuum though a dangerous a situation arises: the Russian mafia has begun buying up surplus military equipment with the assistance of current members of the Russian Army. During one such arms deal Rainbow forces raid the meeting grounds and recover weapons grade plutonium, tracing the fissile material to a nearby naval base.",
+    "videos": [
+      {
+        "id": 25914,
+        "game": 1843,
+        "name": "Gameplay video",
+        "video_id": "H-7Fdq7-9t4"
+      }
+    ]
+  }
+]

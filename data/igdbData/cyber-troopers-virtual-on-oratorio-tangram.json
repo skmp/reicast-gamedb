@@ -1,0 +1,122 @@
+[
+  {
+    "id": 9190,
+    "age_ratings": [
+      {
+        "id": 6291,
+        "rating": 10
+      }
+    ],
+    "aggregated_rating": 92.0,
+    "aggregated_rating_count": 1,
+    "cover": {
+      "id": 9482,
+      "game": 9190,
+      "height": 256,
+      "image_id": "buofipujubsxlqlnjskq",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/buofipujubsxlqlnjskq.jpg",
+      "width": 256
+    },
+    "first_release_date": 915062400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 25,
+        "name": "vehicular combat"
+      },
+      {
+        "id": 107,
+        "name": "fighting"
+      },
+      {
+        "id": 167,
+        "name": "mech"
+      },
+      {
+        "id": 575,
+        "name": "robots"
+      },
+      {
+        "id": 970,
+        "name": "sci-fi"
+      },
+      {
+        "id": 1333,
+        "name": "online"
+      },
+      {
+        "id": 3627,
+        "name": "vehicle combat"
+      },
+      {
+        "id": 3831,
+        "name": "explosion"
+      },
+      {
+        "id": 4273,
+        "name": "customization"
+      },
+      {
+        "id": 4333,
+        "name": "ranking system"
+      },
+      {
+        "id": 4359,
+        "name": "polygonal 3d"
+      },
+      {
+        "id": 4836,
+        "name": "robot protagonist"
+      },
+      {
+        "id": 4860,
+        "name": "duel"
+      },
+      {
+        "id": 5633,
+        "name": "xbox one backwards compatibility"
+      },
+      {
+        "id": 5906,
+        "name": "gouraud shading"
+      },
+      {
+        "id": 9630,
+        "name": "keyboard and mouse support for consoles"
+      },
+      {
+        "id": 10448,
+        "name": "dreamcast"
+      },
+      {
+        "id": 10919,
+        "name": "online multiplayer achievements"
+      }
+    ],
+    "name": "Cyber Troopers Virtual-On Oratorio Tangram",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.6358043447355,
+    "slug": "cyber-troopers-virtual-on-oratorio-tangram",
+    "summary": "Cyber Troopers Virtual-On: Oratorio Tangram is the first of three major revisions to Cyber Troopers Virtual-On: Oratorio Tangram, a sequel to Cyber Troopers Virtual-On. M.S.B.S. Ver. 5.2 was released for Sega Model 3 arcade hardware and is thought to have been exlusive to Japan."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 45822,
+    "first_release_date": 983318400,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Charge \u0027n Blast",
+    "popularity": 1.0,
+    "screenshots": [
+      {
+        "id": 112419,
+        "game": 45822,
+        "height": 1080,
+        "image_id": "dhq5snkgzyt8uingbnko",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/dhq5snkgzyt8uingbnko.jpg",
+        "width": 1440
+      }
+    ],
+    "slug": "charge-n-blast",
+    "summary": "Charge \u0027N Blast is a shooting game where you play as one of three marines who have to rid the earth of alien scum. The gameplay is similar to Cabal, you move left and right dodging enemies while charging up you weapons to blast them away. \n \nThere are three different marines you can choose from, each with their own set of weapons. As usual there is the balanced character (Johnny Rock), a weaker but faster one (Pamela Hewitt) and a slower but stronger one (Nicholas Woods). \n \nYou can choose to play in one player mode, time attack or two player mode. The missions are broken up into small areas where you have to kill all enemies before moving on to the next area. Each mission ends with a boss character such as a giant insect or a Godzilla-like monster. \n \nUse the X, Y or B buttons to choose a weapon, press A to charge and shoot and aim with analog stick. There are different types of weapons that can be used on the different types of enemies. For example the single missiles for far away targets and torpedoes for underwater enemies. \n \nYou can fire your weapon continuously, but this doesn\u0027t do as much damage compared to a fully charged shot. Charging each shot means you have to aim a little more carefully, but you\u0027ll especially need this in the later levels. You can dodge enemies with the L and R buttons."
+  }
+]

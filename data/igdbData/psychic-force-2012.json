@@ -1,0 +1,56 @@
+[
+  {
+    "id": 22849,
+    "age_ratings": [
+      {
+        "id": 19555,
+        "rating": 10
+      }
+    ],
+    "cover": {
+      "id": 54195,
+      "game": 22849,
+      "height": 280,
+      "image_id": "fkwxqq0kpnhgyxj6grq4",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/fkwxqq0kpnhgyxj6grq4.jpg",
+      "width": 280
+    },
+    "first_release_date": 944006400,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 107,
+        "name": "fighting"
+      },
+      {
+        "id": 992,
+        "name": "flight"
+      },
+      {
+        "id": 2071,
+        "name": "sequel"
+      },
+      {
+        "id": 4372,
+        "name": "psone classics"
+      },
+      {
+        "id": 5384,
+        "name": "aerial combat"
+      },
+      {
+        "id": 10974,
+        "name": "nesicaxlive"
+      }
+    ],
+    "name": "Psychic Force 2012",
+    "popularity": 1.0,
+    "slug": "psychic-force-2012",
+    "summary": "Psychic Force 2012, the sequel to Psychic Force, is a one-on-one fighting game with a twist. The matches take place inside a giant floating cube. You are able to fly, using your psychic abilities, around a 3D arena with six walls. Each of the ten available characters, Might, Regina, Wendy, Emilio, Setsuna, Patty, Gudeath, Genshin, Carlo, and Gates, are controlled with three buttons: guard, weak attack and strong attack. The effect varies with the distance. Next to the regular life meter, there is also a power meter. By using special moves, the meter is drained and your moves are limited. It is possible to recharge, and the capacity of the power meter expands when you lose a lot of health. \n \nAdditionally, each fighter has its own unique moves, energy attacks and a weapon, which they use, mid-flight, to pummel their opponent. There are three main game modes: training, versus and a story mode using static anime-inspired images and in-engine cut scenes to tell the story. The story centers around two groups of psychics with differing ideals about co-existence with humans. In the middle of this are several neutral psychics with ties to members in either group."
+  }
+]

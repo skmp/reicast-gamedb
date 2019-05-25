@@ -1,0 +1,45 @@
+[
+  {
+    "id": 62388,
+    "cover": {
+      "id": 42379,
+      "game": 62388,
+      "height": 338,
+      "image_id": "oczrixcfchuvll8eeh8f",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/oczrixcfchuvll8eeh8f.jpg",
+      "width": 342
+    },
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 26,
+        "name": "Quiz/Trivia"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 1010,
+        "name": "reversi"
+      },
+      {
+        "id": 1148,
+        "name": "simulation"
+      },
+      {
+        "id": 2601,
+        "name": "trivia"
+      },
+      {
+        "id": 4139,
+        "name": "trivia/board game"
+      }
+    ],
+    "name": "Net Versus Reversi",
+    "popularity": 1.0,
+    "slug": "net-versus-reversi",
+    "summary": "Net Versus Reversi is a Dreamcast version of reversi with netplay."
+  }
+]

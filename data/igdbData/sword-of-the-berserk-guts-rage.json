@@ -1,0 +1,384 @@
+[
+  {
+    "id": 28840,
+    "age_ratings": [
+      {
+        "id": 14534,
+        "rating": 11
+      }
+    ],
+    "cover": {
+      "id": 23970,
+      "game": 28840,
+      "height": 420,
+      "image_id": "mw5cdlozqdcfymjytbld",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/mw5cdlozqdcfymjytbld.jpg",
+      "width": 420
+    },
+    "first_release_date": 945302400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 16,
+        "name": "ghosts"
+      },
+      {
+        "id": 72,
+        "name": "exploration"
+      },
+      {
+        "id": 78,
+        "name": "anime"
+      },
+      {
+        "id": 129,
+        "name": "blood"
+      },
+      {
+        "id": 227,
+        "name": "sword"
+      },
+      {
+        "id": 301,
+        "name": "health"
+      },
+      {
+        "id": 389,
+        "name": "hack and slash"
+      },
+      {
+        "id": 558,
+        "name": "death"
+      },
+      {
+        "id": 592,
+        "name": "elves"
+      },
+      {
+        "id": 594,
+        "name": "fire"
+      },
+      {
+        "id": 623,
+        "name": "horse"
+      },
+      {
+        "id": 669,
+        "name": "frog"
+      },
+      {
+        "id": 982,
+        "name": "brawler"
+      },
+      {
+        "id": 1019,
+        "name": "bridge"
+      },
+      {
+        "id": 1102,
+        "name": "religion"
+      },
+      {
+        "id": 1181,
+        "name": "fairy"
+      },
+      {
+        "id": 1299,
+        "name": "time limit"
+      },
+      {
+        "id": 1320,
+        "name": "undead"
+      },
+      {
+        "id": 1322,
+        "name": "mutants"
+      },
+      {
+        "id": 1373,
+        "name": "hostages"
+      },
+      {
+        "id": 1528,
+        "name": "sacrifice"
+      },
+      {
+        "id": 1716,
+        "name": "wolf"
+      },
+      {
+        "id": 1935,
+        "name": "dog"
+      },
+      {
+        "id": 2045,
+        "name": "love"
+      },
+      {
+        "id": 3486,
+        "name": "boss fight"
+      },
+      {
+        "id": 3776,
+        "name": "shuriken"
+      },
+      {
+        "id": 3833,
+        "name": "bosses"
+      },
+      {
+        "id": 4141,
+        "name": "games based on anime"
+      },
+      {
+        "id": 4142,
+        "name": "licensed game"
+      },
+      {
+        "id": 4161,
+        "name": "jump"
+      },
+      {
+        "id": 4165,
+        "name": "boss rush"
+      },
+      {
+        "id": 4166,
+        "name": "bears"
+      },
+      {
+        "id": 4169,
+        "name": "male protagonists"
+      },
+      {
+        "id": 4183,
+        "name": "crate"
+      },
+      {
+        "id": 4193,
+        "name": "cane"
+      },
+      {
+        "id": 4194,
+        "name": "cape"
+      },
+      {
+        "id": 4213,
+        "name": "countdown timer"
+      },
+      {
+        "id": 4287,
+        "name": "voice acting"
+      },
+      {
+        "id": 4310,
+        "name": "games based on comic books"
+      },
+      {
+        "id": 4359,
+        "name": "polygonal 3d"
+      },
+      {
+        "id": 4406,
+        "name": "love triangle"
+      },
+      {
+        "id": 4418,
+        "name": "door"
+      },
+      {
+        "id": 4425,
+        "name": "health potion"
+      },
+      {
+        "id": 4446,
+        "name": "gun"
+      },
+      {
+        "id": 4544,
+        "name": "unlockables"
+      },
+      {
+        "id": 4611,
+        "name": "cutscene"
+      },
+      {
+        "id": 4614,
+        "name": "extreme violence"
+      },
+      {
+        "id": 4625,
+        "name": "table"
+      },
+      {
+        "id": 4737,
+        "name": "bench"
+      },
+      {
+        "id": 4855,
+        "name": "branching story line"
+      },
+      {
+        "id": 4857,
+        "name": "resistance"
+      },
+      {
+        "id": 4880,
+        "name": "barrel"
+      },
+      {
+        "id": 4958,
+        "name": "game over"
+      },
+      {
+        "id": 5006,
+        "name": "well"
+      },
+      {
+        "id": 5022,
+        "name": "final boss"
+      },
+      {
+        "id": 5029,
+        "name": "difficulty level"
+      },
+      {
+        "id": 5095,
+        "name": "knight"
+      },
+      {
+        "id": 5277,
+        "name": "post-credits plot twist"
+      },
+      {
+        "id": 5323,
+        "name": "mercenary"
+      },
+      {
+        "id": 5405,
+        "name": "crying"
+      },
+      {
+        "id": 5485,
+        "name": "rebels"
+      },
+      {
+        "id": 5487,
+        "name": "peasants"
+      },
+      {
+        "id": 5559,
+        "name": "blocking"
+      },
+      {
+        "id": 5775,
+        "name": "grenade"
+      },
+      {
+        "id": 5794,
+        "name": "crossbow"
+      },
+      {
+        "id": 5799,
+        "name": "vase"
+      },
+      {
+        "id": 5989,
+        "name": "quick time event"
+      },
+      {
+        "id": 6000,
+        "name": "bandit"
+      },
+      {
+        "id": 6010,
+        "name": "interactive cutscene"
+      },
+      {
+        "id": 6012,
+        "name": "timed decisions"
+      },
+      {
+        "id": 6137,
+        "name": "linear gameplay"
+      },
+      {
+        "id": 6370,
+        "name": "gore system"
+      },
+      {
+        "id": 6891,
+        "name": "covered wagon"
+      },
+      {
+        "id": 7122,
+        "name": "throwing knife"
+      },
+      {
+        "id": 7171,
+        "name": "my father\u0027s sword"
+      },
+      {
+        "id": 7280,
+        "name": "continue"
+      },
+      {
+        "id": 7305,
+        "name": "falling object"
+      },
+      {
+        "id": 9448,
+        "name": "henchmen"
+      },
+      {
+        "id": 9597,
+        "name": "monologue"
+      },
+      {
+        "id": 10046,
+        "name": "fury"
+      },
+      {
+        "id": 10047,
+        "name": "ultimate weapon"
+      },
+      {
+        "id": 10251,
+        "name": "arm cannon"
+      },
+      {
+        "id": 13544,
+        "name": "soft reset"
+      }
+    ],
+    "name": "Sword of the Berserk: Guts\u0027 Rage",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 2.516738767012881,
+    "slug": "sword-of-the-berserk-guts-rage",
+    "summary": "An outcast warrior enters a land plagued by an evil curse. Guts is unlike ordinary men for he carries the Dragon Slayer, a mighty blade of retribution whose fury knows no equal. His enemies will know true fear once they encounter his Berserk rage!",
+    "videos": [
+      {
+        "id": 13810,
+        "game": 28840,
+        "name": "Game intro",
+        "video_id": "nxpJp6Bym8o"
+      }
+    ]
+  }
+]

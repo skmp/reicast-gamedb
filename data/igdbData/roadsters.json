@@ -1,0 +1,70 @@
+[
+  {
+    "id": 3590,
+    "age_ratings": [
+      {
+        "id": 1701,
+        "rating": 8
+      }
+    ],
+    "cover": {
+      "id": 3704,
+      "game": 3590,
+      "height": 171,
+      "image_id": "hwoiz4ke8opwcfcqrjnu",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/hwoiz4ke8opwcfcqrjnu.jpg",
+      "width": 250
+    },
+    "first_release_date": 656294400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 735,
+        "name": "street racing"
+      },
+      {
+        "id": 4157,
+        "name": "driving/racing"
+      },
+      {
+        "id": 4239,
+        "name": "platform exclusive"
+      },
+      {
+        "id": 4286,
+        "name": "character select screen"
+      },
+      {
+        "id": 6765,
+        "name": "time trials"
+      },
+      {
+        "id": 8281,
+        "name": "sports car"
+      },
+      {
+        "id": 13120,
+        "name": "e3 1998"
+      }
+    ],
+    "name": "Roadsters",
+    "popularity": 1.636240014073141,
+    "slug": "roadsters",
+    "summary": "Buckle up and brace yourself for the big time baby. This isn\u0027t just high speed racing on 10 different adrenaline pumping tracks with changing weather conditions and super responsible vehicle handling. It\u0027s street smarts. With Roadsters, the best driver, doesn\u0027t always win. Betting and trading cars are a major part of gameplay. Earning cash gives you the chance to upgrade your vehicle and change divisions. So pull down your top and put your foot to the floor. We\u0027re off!"
+  }
+]

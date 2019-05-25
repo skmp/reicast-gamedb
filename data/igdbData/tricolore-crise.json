@@ -1,0 +1,23 @@
+[
+  {
+    "id": 58170,
+    "cover": {
+      "id": 35670,
+      "game": 58170,
+      "height": 240,
+      "image_id": "etzajkycr9pvi1xt99q7",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/etzajkycr9pvi1xt99q7.jpg",
+      "width": 320
+    },
+    "keywords": [
+      {
+        "id": 1026,
+        "name": "role playing"
+      }
+    ],
+    "name": "Tricolore Crise",
+    "popularity": 1.0,
+    "slug": "tricolore-crise",
+    "summary": "A Sega Dreamcast RPG released exclusively in Japan"
+  }
+]

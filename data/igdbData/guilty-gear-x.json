@@ -1,0 +1,256 @@
+[
+  {
+    "id": 9141,
+    "age_ratings": [
+      {
+        "id": 19471,
+        "rating": 10
+      }
+    ],
+    "cover": {
+      "id": 10308,
+      "game": 9141,
+      "height": 283,
+      "image_id": "i5a2x3xl9zqc6je7kgeo",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/i5a2x3xl9zqc6je7kgeo.jpg",
+      "width": 220
+    },
+    "first_release_date": 976752000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 61,
+        "name": "martial arts"
+      },
+      {
+        "id": 78,
+        "name": "anime"
+      },
+      {
+        "id": 107,
+        "name": "fighting"
+      },
+      {
+        "id": 227,
+        "name": "sword"
+      },
+      {
+        "id": 296,
+        "name": "fantasy"
+      },
+      {
+        "id": 488,
+        "name": "guitar"
+      },
+      {
+        "id": 2065,
+        "name": "yo-yo"
+      },
+      {
+        "id": 2153,
+        "name": "heavy metal"
+      },
+      {
+        "id": 2296,
+        "name": "dash"
+      },
+      {
+        "id": 4163,
+        "name": "sprite"
+      },
+      {
+        "id": 4286,
+        "name": "character select screen"
+      },
+      {
+        "id": 4362,
+        "name": "system voice"
+      },
+      {
+        "id": 4386,
+        "name": "double jump"
+      },
+      {
+        "id": 4415,
+        "name": "scythe"
+      },
+      {
+        "id": 4508,
+        "name": "knife"
+      },
+      {
+        "id": 4619,
+        "name": "gog.com"
+      },
+      {
+        "id": 4644,
+        "name": "breast bounce"
+      },
+      {
+        "id": 4678,
+        "name": "multiple characters on box art"
+      },
+      {
+        "id": 4779,
+        "name": "instant death"
+      },
+      {
+        "id": 4891,
+        "name": "melee"
+      },
+      {
+        "id": 4942,
+        "name": "release upgrade"
+      },
+      {
+        "id": 4980,
+        "name": "baton"
+      },
+      {
+        "id": 5035,
+        "name": "sai"
+      },
+      {
+        "id": 5287,
+        "name": "rock music"
+      },
+      {
+        "id": 5354,
+        "name": "combo"
+      },
+      {
+        "id": 5398,
+        "name": "evo championship series"
+      },
+      {
+        "id": 5440,
+        "name": "projectiles"
+      },
+      {
+        "id": 5719,
+        "name": "j-horror"
+      },
+      {
+        "id": 5783,
+        "name": "games on demand"
+      },
+      {
+        "id": 5895,
+        "name": "negative edge"
+      },
+      {
+        "id": 5907,
+        "name": "air dash"
+      },
+      {
+        "id": 6100,
+        "name": "mirror match"
+      },
+      {
+        "id": 6104,
+        "name": "launching enemies into the air"
+      },
+      {
+        "id": 6221,
+        "name": "androgyny"
+      },
+      {
+        "id": 6383,
+        "name": "cross-dressing"
+      },
+      {
+        "id": 6493,
+        "name": "finishing move"
+      },
+      {
+        "id": 6504,
+        "name": "rushdown"
+      },
+      {
+        "id": 6529,
+        "name": "flawless victory"
+      },
+      {
+        "id": 6537,
+        "name": "in-game moves list"
+      },
+      {
+        "id": 6783,
+        "name": "hair attack"
+      },
+      {
+        "id": 6784,
+        "name": "super meter"
+      },
+      {
+        "id": 6786,
+        "name": "gears"
+      },
+      {
+        "id": 7481,
+        "name": "random character selection"
+      },
+      {
+        "id": 9404,
+        "name": "retroactive achievements"
+      },
+      {
+        "id": 10009,
+        "name": "air combo"
+      },
+      {
+        "id": 11537,
+        "name": "naru punch"
+      },
+      {
+        "id": 11895,
+        "name": "budget title"
+      },
+      {
+        "id": 12123,
+        "name": "xfire"
+      },
+      {
+        "id": 13110,
+        "name": "e3 2004"
+      },
+      {
+        "id": 13295,
+        "name": "xbox 360 backwards compatibility"
+      },
+      {
+        "id": 14149,
+        "name": "xbox originals"
+      }
+    ],
+    "name": "Guilty Gear X",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "popularity": 1.848355434634137,
+    "slug": "guilty-gear-x",
+    "summary": "Guilty Gear X is the sequel to 1998\u0027s Guilty Gear, a 2D fighting game for the Sony PlayStation that became extremely popular in Japan. Featuring beautiful hand-drawn artwork and animation, as well as balanced, fun, high-energy gameplay, Guilty Gear X aspires to be the king of 2D fighters.\n\nThe goal in Guilty Gear X is simple: get your opponent\u0027s Life Bar down to zero within the allotted time to win. Winning a round nets you a point; getting two points will win you the match. There are 14 different characters to choose from, each with their own personal style and moves. There might even be some hidden ones, too..."
+  }
+]

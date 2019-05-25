@@ -1,0 +1,182 @@
+[
+  {
+    "id": 3325,
+    "age_ratings": [
+      {
+        "id": 1492,
+        "rating": 8
+      }
+    ],
+    "cover": {
+      "id": 3421,
+      "game": 3325,
+      "height": 343,
+      "image_id": "vcx20za7m7nsskdvxpco",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/vcx20za7m7nsskdvxpco.jpg",
+      "width": 250
+    },
+    "first_release_date": 378691200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 14,
+        "name": "super hero"
+      },
+      {
+        "id": 977,
+        "name": "hand-to-hand combat"
+      },
+      {
+        "id": 1373,
+        "name": "hostages"
+      },
+      {
+        "id": 2387,
+        "name": "superhero"
+      },
+      {
+        "id": 3486,
+        "name": "boss fight"
+      },
+      {
+        "id": 3540,
+        "name": "comic book"
+      },
+      {
+        "id": 3833,
+        "name": "bosses"
+      },
+      {
+        "id": 4142,
+        "name": "licensed game"
+      },
+      {
+        "id": 4161,
+        "name": "jump"
+      },
+      {
+        "id": 4169,
+        "name": "male protagonists"
+      },
+      {
+        "id": 4187,
+        "name": "mask"
+      },
+      {
+        "id": 4235,
+        "name": "spider"
+      },
+      {
+        "id": 4310,
+        "name": "games based on comic books"
+      },
+      {
+        "id": 4350,
+        "name": "bomb"
+      },
+      {
+        "id": 4673,
+        "name": "spandex"
+      },
+      {
+        "id": 4805,
+        "name": "comic book character"
+      },
+      {
+        "id": 4810,
+        "name": "pumpkin bomb"
+      },
+      {
+        "id": 4831,
+        "name": "street light"
+      },
+      {
+        "id": 4891,
+        "name": "melee"
+      },
+      {
+        "id": 4907,
+        "name": "gloves"
+      },
+      {
+        "id": 5022,
+        "name": "final boss"
+      },
+      {
+        "id": 5581,
+        "name": "spider web"
+      },
+      {
+        "id": 5587,
+        "name": "villain"
+      },
+      {
+        "id": 5597,
+        "name": "comic book onomatopoeia"
+      },
+      {
+        "id": 5616,
+        "name": "boots"
+      },
+      {
+        "id": 5775,
+        "name": "grenade"
+      },
+      {
+        "id": 5782,
+        "name": "tie-in"
+      },
+      {
+        "id": 5940,
+        "name": "swinging"
+      },
+      {
+        "id": 7348,
+        "name": "secret identity"
+      },
+      {
+        "id": 9449,
+        "name": "web shooters"
+      },
+      {
+        "id": 9661,
+        "name": "comic relief"
+      },
+      {
+        "id": 9672,
+        "name": "goblin glider"
+      },
+      {
+        "id": 11121,
+        "name": "pseudonym"
+      }
+    ],
+    "name": "Spider-Man",
+    "popularity": 1.0,
+    "slug": "spider-man",
+    "summary": "Spider-Man released in 1982 by Parker Brothers was the first video game to feature SpiderMan and also the first video game based on a Marvel Comics character.",
+    "videos": [
+      {
+        "id": 1822,
+        "game": 3325,
+        "name": "Gameplay video",
+        "video_id": "hZzGaFiyezY"
+      }
+    ]
+  }
+]

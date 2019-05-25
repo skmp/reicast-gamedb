@@ -1,0 +1,176 @@
+[
+  {
+    "id": 21969,
+    "age_ratings": [
+      {
+        "id": 13861,
+        "rating": 8
+      }
+    ],
+    "aggregated_rating": 40.0,
+    "aggregated_rating_count": 1,
+    "cover": {
+      "id": 28037,
+      "game": 21969,
+      "height": 2151,
+      "image_id": "cqb6xbaatwkdighhhrbq",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cqb6xbaatwkdighhhrbq.jpg",
+      "width": 1533
+    },
+    "first_release_date": 976665600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 26,
+        "name": "Quiz/Trivia"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 274,
+        "name": "minigames"
+      },
+      {
+        "id": 415,
+        "name": "turn-based"
+      },
+      {
+        "id": 1186,
+        "name": "multiple protagonists"
+      },
+      {
+        "id": 1361,
+        "name": "board game"
+      },
+      {
+        "id": 1682,
+        "name": "spin-off"
+      },
+      {
+        "id": 2152,
+        "name": "high score"
+      },
+      {
+        "id": 2184,
+        "name": "talking animals"
+      },
+      {
+        "id": 2601,
+        "name": "trivia"
+      },
+      {
+        "id": 3486,
+        "name": "boss fight"
+      },
+      {
+        "id": 3833,
+        "name": "bosses"
+      },
+      {
+        "id": 4139,
+        "name": "trivia/board game"
+      },
+      {
+        "id": 4162,
+        "name": "anthropomorphism"
+      },
+      {
+        "id": 4211,
+        "name": "party games"
+      },
+      {
+        "id": 4214,
+        "name": "card based combat"
+      },
+      {
+        "id": 4270,
+        "name": "playing cards"
+      },
+      {
+        "id": 4287,
+        "name": "voice acting"
+      },
+      {
+        "id": 4328,
+        "name": "minigame collection"
+      },
+      {
+        "id": 4454,
+        "name": "chao"
+      },
+      {
+        "id": 4455,
+        "name": "hedgehog"
+      },
+      {
+        "id": 4458,
+        "name": "gold rings"
+      },
+      {
+        "id": 4678,
+        "name": "multiple characters on box art"
+      },
+      {
+        "id": 4747,
+        "name": "scoreboard"
+      },
+      {
+        "id": 4897,
+        "name": "auto-save"
+      },
+      {
+        "id": 4943,
+        "name": "ring"
+      },
+      {
+        "id": 4971,
+        "name": "super form"
+      },
+      {
+        "id": 5331,
+        "name": "cel-shading"
+      },
+      {
+        "id": 6015,
+        "name": "multi-species roster"
+      },
+      {
+        "id": 6061,
+        "name": "e3 2000"
+      },
+      {
+        "id": 6094,
+        "name": "spiky-haired protagonist"
+      },
+      {
+        "id": 11378,
+        "name": "flattening"
+      }
+    ],
+    "name": "Sonic Shuffle",
+    "popularity": 1.0,
+    "screenshots": [
+      {
+        "id": 269049,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 21969,
+        "height": 480,
+        "image_id": "sc5rll",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5rll.jpg",
+        "width": 640
+      }
+    ],
+    "slug": "sonic-shuffle",
+    "summary": "Sonic Shuffle is a party game developed by Sonic Team and Hudson Soft and published by Sega for the Dreamcast video game console. The game is based on the prospect of advancing characters around a board game while playing mini-games in between turns, much in the same vein as Nintendo\u0027s Mario Party. \n \nSonic Shuffle is the first Sonic the Hedgehog game in the party genre. The game\u0027s story centers on Sonic and his friends as they attempt to restore a dream world by gathering the shards of a powerful object dubbed the Master Precioustone. Sonic Shuffle received mixed reviews upon its release."
+  }
+]

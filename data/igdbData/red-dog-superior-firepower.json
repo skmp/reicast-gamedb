@@ -1,0 +1,38 @@
+[
+  {
+    "id": 45835,
+    "age_ratings": [
+      {
+        "id": 19356,
+        "rating": 10
+      }
+    ],
+    "cover": {
+      "id": 53720,
+      "game": 45835,
+      "height": 266,
+      "image_id": "ivp1syitfypmgwxttqrd",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/ivp1syitfypmgwxttqrd.jpg",
+      "width": 290
+    },
+    "first_release_date": 975542400,
+    "keywords": [
+      {
+        "id": 25,
+        "name": "vehicular combat"
+      },
+      {
+        "id": 3627,
+        "name": "vehicle combat"
+      },
+      {
+        "id": 16337,
+        "name": "red dog"
+      }
+    ],
+    "name": "Red Dog: Superior Firepower",
+    "popularity": 1.0,
+    "slug": "red-dog-superior-firepower",
+    "summary": "Red Dog: Superior Firepower is a video game released in 2000 for the Sega Dreamcast, it was developed by Argonaut Games PLC."
+  }
+]

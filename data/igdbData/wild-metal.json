@@ -1,0 +1,71 @@
+[
+  {
+    "id": 80092,
+    "age_ratings": [
+      {
+        "id": 20209,
+        "rating": 10
+      }
+    ],
+    "cover": {
+      "id": 56211,
+      "game": 80092,
+      "height": 640,
+      "image_id": "x0iy4maaoxbk7i82q9av",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/x0iy4maaoxbk7i82q9av.jpg",
+      "width": 640
+    },
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 25,
+        "name": "vehicular combat"
+      },
+      {
+        "id": 1375,
+        "name": "freeware"
+      },
+      {
+        "id": 1783,
+        "name": "car"
+      },
+      {
+        "id": 3627,
+        "name": "vehicle combat"
+      },
+      {
+        "id": 3782,
+        "name": "strategy"
+      },
+      {
+        "id": 4035,
+        "name": "machine gun"
+      },
+      {
+        "id": 4134,
+        "name": "digital distribution"
+      },
+      {
+        "id": 4183,
+        "name": "crate"
+      },
+      {
+        "id": 4393,
+        "name": "explosives"
+      },
+      {
+        "id": 4446,
+        "name": "gun"
+      }
+    ],
+    "name": "Wild Metal",
+    "popularity": 1.0,
+    "slug": "wild-metal",
+    "summary": "Wild Metal is a 3D strategic vehicular combat game set in a distant land, in which you command armed roving vehicles to disrupt dangerous automated military units that have overtaken the Tehric planetary system."
+  }
+]

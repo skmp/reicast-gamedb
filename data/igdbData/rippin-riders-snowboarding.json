@@ -1,0 +1,48 @@
+[
+  {
+    "id": 26132,
+    "age_ratings": [
+      {
+        "id": 10209,
+        "rating": 8
+      }
+    ],
+    "cover": {
+      "id": 19185,
+      "game": 26132,
+      "height": 266,
+      "image_id": "k2fngesfj01glts695ec",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/k2fngesfj01glts695ec.jpg",
+      "width": 266
+    },
+    "first_release_date": 935625600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 637,
+        "name": "snowboard"
+      }
+    ],
+    "name": "Rippin\u0027 Riders Snowboarding",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.422200137348066,
+    "slug": "rippin-riders-snowboarding",
+    "summary": "Rippin\u0027 Riders Snowboarding (also known as Cool Boarders Burrrn in Japan and Snow Surfers in Europe) is a snowboard game developed by UEP Systems, the creators of the Cool Boarders series. It was released in 1999 for the Dreamcast."
+  }
+]

@@ -1,0 +1,449 @@
+[
+  {
+    "id": 880,
+    "age_ratings": [
+      {
+        "id": 11976,
+        "rating": 11
+      },
+      {
+        "id": 11977,
+        "rating": 5
+      }
+    ],
+    "aggregated_rating": 55.0,
+    "aggregated_rating_count": 3,
+    "cover": {
+      "id": 745,
+      "game": 880,
+      "height": 610,
+      "image_id": "faclthu4xdtdavkiflau",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/faclthu4xdtdavkiflau.jpg",
+      "width": 542
+    },
+    "first_release_date": 885340800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 5,
+        "name": "zombies"
+      },
+      {
+        "id": 477,
+        "name": "metroidvania"
+      },
+      {
+        "id": 1033,
+        "name": "action-adventure"
+      },
+      {
+        "id": 1120,
+        "name": "horror"
+      },
+      {
+        "id": 1836,
+        "name": "survival horror"
+      },
+      {
+        "id": 1898,
+        "name": "easter egg"
+      },
+      {
+        "id": 2071,
+        "name": "sequel"
+      },
+      {
+        "id": 3270,
+        "name": "flamethrower"
+      },
+      {
+        "id": 3815,
+        "name": "fixed camera"
+      },
+      {
+        "id": 4372,
+        "name": "psone classics"
+      },
+      {
+        "id": 4414,
+        "name": "computer"
+      },
+      {
+        "id": 4428,
+        "name": "bed"
+      },
+      {
+        "id": 4572,
+        "name": "rocket launcher"
+      },
+      {
+        "id": 4625,
+        "name": "table"
+      },
+      {
+        "id": 4661,
+        "name": "gatling gun"
+      },
+      {
+        "id": 4726,
+        "name": "playstation plus"
+      },
+      {
+        "id": 4829,
+        "name": "bottle"
+      },
+      {
+        "id": 4885,
+        "name": "auto-aim"
+      },
+      {
+        "id": 4907,
+        "name": "gloves"
+      },
+      {
+        "id": 4908,
+        "name": "combat knife"
+      },
+      {
+        "id": 4918,
+        "name": "real-time combat"
+      },
+      {
+        "id": 4974,
+        "name": "male antagonist"
+      },
+      {
+        "id": 5172,
+        "name": "facial hair"
+      },
+      {
+        "id": 5323,
+        "name": "mercenary"
+      },
+      {
+        "id": 5328,
+        "name": "playstation tv support"
+      },
+      {
+        "id": 5391,
+        "name": "ponytail"
+      },
+      {
+        "id": 5443,
+        "name": "decapitation"
+      },
+      {
+        "id": 5533,
+        "name": "no hud"
+      },
+      {
+        "id": 5542,
+        "name": "interactive environments"
+      },
+      {
+        "id": 5634,
+        "name": "shoes"
+      },
+      {
+        "id": 5794,
+        "name": "crossbow"
+      },
+      {
+        "id": 5920,
+        "name": "fingerless gloves"
+      },
+      {
+        "id": 5998,
+        "name": "evil organization"
+      },
+      {
+        "id": 6206,
+        "name": "item box"
+      },
+      {
+        "id": 6216,
+        "name": "gun holster"
+      },
+      {
+        "id": 6397,
+        "name": "grenade launcher"
+      },
+      {
+        "id": 6468,
+        "name": "end credits songs"
+      },
+      {
+        "id": 6582,
+        "name": "lock on"
+      },
+      {
+        "id": 6745,
+        "name": "surprising character switches"
+      },
+      {
+        "id": 6792,
+        "name": "typewriter"
+      },
+      {
+        "id": 7074,
+        "name": "hair physics"
+      },
+      {
+        "id": 7157,
+        "name": "incest"
+      },
+      {
+        "id": 7185,
+        "name": "innocent people die"
+      },
+      {
+        "id": 7590,
+        "name": "bad parents"
+      },
+      {
+        "id": 7640,
+        "name": "joke character"
+      },
+      {
+        "id": 7655,
+        "name": "multiple death animations"
+      },
+      {
+        "id": 8766,
+        "name": "desert eagle"
+      },
+      {
+        "id": 8775,
+        "name": "umbrella corporation"
+      },
+      {
+        "id": 9282,
+        "name": "holding hands"
+      },
+      {
+        "id": 9286,
+        "name": "false death"
+      },
+      {
+        "id": 9307,
+        "name": "stationary aiming"
+      },
+      {
+        "id": 9344,
+        "name": "pre-rendered backgrounds"
+      },
+      {
+        "id": 9732,
+        "name": "the 1990s"
+      },
+      {
+        "id": 10149,
+        "name": "tank controls"
+      },
+      {
+        "id": 10336,
+        "name": "isolation"
+      },
+      {
+        "id": 10374,
+        "name": "remington 870"
+      },
+      {
+        "id": 10476,
+        "name": "no longer banned"
+      },
+      {
+        "id": 10520,
+        "name": "special tactics and rescue service"
+      },
+      {
+        "id": 10527,
+        "name": "first aid spray"
+      },
+      {
+        "id": 10529,
+        "name": "samurai edge"
+      },
+      {
+        "id": 11106,
+        "name": "napkin dispenser"
+      },
+      {
+        "id": 11249,
+        "name": "blood type"
+      },
+      {
+        "id": 11872,
+        "name": "licker"
+      },
+      {
+        "id": 11877,
+        "name": "tyrant"
+      },
+      {
+        "id": 12172,
+        "name": "t-virus"
+      },
+      {
+        "id": 13112,
+        "name": "bio-organic weapon"
+      },
+      {
+        "id": 13113,
+        "name": "ink ribbon"
+      },
+      {
+        "id": 13479,
+        "name": "g-virus"
+      },
+      {
+        "id": 16096,
+        "name": "g"
+      }
+    ],
+    "name": "Resident Evil 2",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 7.362400140731412,
+    "screenshots": [
+      {
+        "id": 41039,
+        "game": 880,
+        "height": 480,
+        "image_id": "q1ohxzlcaam7ik1pf549",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/q1ohxzlcaam7ik1pf549.jpg",
+        "width": 640
+      },
+      {
+        "id": 41040,
+        "game": 880,
+        "height": 448,
+        "image_id": "wp9a1ivrbgcf2raao2nw",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/wp9a1ivrbgcf2raao2nw.jpg",
+        "width": 640
+      },
+      {
+        "id": 41041,
+        "game": 880,
+        "height": 468,
+        "image_id": "rx3gqzck6ugqnfzd06is",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rx3gqzck6ugqnfzd06is.jpg",
+        "width": 624
+      },
+      {
+        "id": 41042,
+        "game": 880,
+        "height": 468,
+        "image_id": "vj4dgbhgsz2vvgbquccp",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vj4dgbhgsz2vvgbquccp.jpg",
+        "width": 624
+      },
+      {
+        "id": 41043,
+        "game": 880,
+        "height": 675,
+        "image_id": "nhtvdmbxludisrqytsfa",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/nhtvdmbxludisrqytsfa.jpg",
+        "width": 900
+      },
+      {
+        "id": 170938,
+        "game": 880,
+        "height": 448,
+        "image_id": "fdzttkeo8gvcusoljgcf",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fdzttkeo8gvcusoljgcf.jpg",
+        "width": 640
+      },
+      {
+        "id": 170939,
+        "game": 880,
+        "height": 448,
+        "image_id": "vtlzx6q9vpob4cbumnwb",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vtlzx6q9vpob4cbumnwb.jpg",
+        "width": 640
+      },
+      {
+        "id": 170940,
+        "game": 880,
+        "height": 448,
+        "image_id": "wy9wxle1pos0qa94qw6o",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/wy9wxle1pos0qa94qw6o.jpg",
+        "width": 640
+      },
+      {
+        "id": 170941,
+        "game": 880,
+        "height": 448,
+        "image_id": "t7rb8e9pqjsams4pti78",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/t7rb8e9pqjsams4pti78.jpg",
+        "width": 640
+      },
+      {
+        "id": 170942,
+        "game": 880,
+        "height": 448,
+        "image_id": "iwq1qkpdbrjka5lrnl7f",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/iwq1qkpdbrjka5lrnl7f.jpg",
+        "width": 640
+      },
+      {
+        "id": 170943,
+        "game": 880,
+        "height": 448,
+        "image_id": "wcknejzzmc5dnb9nzwch",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/wcknejzzmc5dnb9nzwch.jpg",
+        "width": 640
+      },
+      {
+        "id": 170944,
+        "game": 880,
+        "height": 448,
+        "image_id": "bupn3qznkja4lcngzmcb",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/bupn3qznkja4lcngzmcb.jpg",
+        "width": 640
+      }
+    ],
+    "slug": "resident-evil-2",
+    "storyline": "The game is set on September 29, 1998. Zombies have infested Raccoon City. A biological weapon known as the T-Virus was released into the sewer system. Rats then spread the virus to the city\u0027s population. Two people make their way to Raccoon City: Leon S. Kennedy, a rookie police officer on his first day on the job, and Claire Redfield, a college student looking for her brother. Leon and Claire quickly find themselves fighting for their lives against hordes of creatures in their search for survival.",
+    "summary": "Resident Evil 2, known in Japan as biohazard 2, is a sequel to the first Resident Evil title. It was originally released in 1998 for the Playstation - however as of 2016, a remake is the in works for XB1, PS4 and PC. Set in Raccoon City, you take on the role of Leon S. Kennedy and Claire Redfield as you try to escape the city, which has come under a zombie virus thanks to Umbrella Corporation. The gameplay of Resident Evil 2 focuses on a combination of puzzle solving and combat.",
+    "videos": [
+      {
+        "id": 3888,
+        "game": 880,
+        "name": "Trailer",
+        "video_id": "NW7DmsRKrDA"
+      },
+      {
+        "id": 13041,
+        "game": 880,
+        "name": "Game intro",
+        "video_id": "ujZY6MSCBII"
+      },
+      {
+        "id": 13042,
+        "game": 880,
+        "name": "Gameplay video",
+        "video_id": "cvxS3Vne708"
+      }
+    ]
+  }
+]

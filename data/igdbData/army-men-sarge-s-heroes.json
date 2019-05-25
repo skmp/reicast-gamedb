@@ -1,0 +1,366 @@
+[
+  {
+    "id": 3440,
+    "age_ratings": [
+      {
+        "id": 1601,
+        "rating": 10
+      }
+    ],
+    "cover": {
+      "id": 62748,
+      "game": 3440,
+      "height": 786,
+      "image_id": "p068e3popwwq4htclsdn",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/p068e3popwwq4htclsdn.jpg",
+      "width": 679
+    },
+    "first_release_date": 938649600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 1,
+        "name": "modern warfare"
+      },
+      {
+        "id": 21,
+        "name": "helicopter"
+      },
+      {
+        "id": 67,
+        "name": "robot"
+      },
+      {
+        "id": 301,
+        "name": "health"
+      },
+      {
+        "id": 328,
+        "name": "ants"
+      },
+      {
+        "id": 350,
+        "name": "comedy"
+      },
+      {
+        "id": 558,
+        "name": "death"
+      },
+      {
+        "id": 563,
+        "name": "military"
+      },
+      {
+        "id": 1025,
+        "name": "shooter"
+      },
+      {
+        "id": 1033,
+        "name": "action-adventure"
+      },
+      {
+        "id": 1107,
+        "name": "war"
+      },
+      {
+        "id": 1422,
+        "name": "portals"
+      },
+      {
+        "id": 1440,
+        "name": "artificial intelligence"
+      },
+      {
+        "id": 1463,
+        "name": "capture the flag"
+      },
+      {
+        "id": 1710,
+        "name": "snow"
+      },
+      {
+        "id": 1821,
+        "name": "tank"
+      },
+      {
+        "id": 2337,
+        "name": "flowers"
+      },
+      {
+        "id": 3270,
+        "name": "flamethrower"
+      },
+      {
+        "id": 3794,
+        "name": "tree"
+      },
+      {
+        "id": 3831,
+        "name": "explosion"
+      },
+      {
+        "id": 3988,
+        "name": "deathmatch"
+      },
+      {
+        "id": 4035,
+        "name": "machine gun"
+      },
+      {
+        "id": 4161,
+        "name": "jump"
+      },
+      {
+        "id": 4183,
+        "name": "crate"
+      },
+      {
+        "id": 4210,
+        "name": "split-screen multiplayer"
+      },
+      {
+        "id": 4259,
+        "name": "modern military"
+      },
+      {
+        "id": 4359,
+        "name": "polygonal 3d"
+      },
+      {
+        "id": 4428,
+        "name": "bed"
+      },
+      {
+        "id": 4446,
+        "name": "gun"
+      },
+      {
+        "id": 4525,
+        "name": "third-person perspective"
+      },
+      {
+        "id": 4544,
+        "name": "unlockables"
+      },
+      {
+        "id": 4552,
+        "name": "helmet"
+      },
+      {
+        "id": 4571,
+        "name": "shotgun"
+      },
+      {
+        "id": 4572,
+        "name": "rocket launcher"
+      },
+      {
+        "id": 4576,
+        "name": "loading screens"
+      },
+      {
+        "id": 4579,
+        "name": "crouching"
+      },
+      {
+        "id": 4594,
+        "name": "sink"
+      },
+      {
+        "id": 4599,
+        "name": "window"
+      },
+      {
+        "id": 4611,
+        "name": "cutscene"
+      },
+      {
+        "id": 4712,
+        "name": "assault rifle"
+      },
+      {
+        "id": 4776,
+        "name": "escort mission"
+      },
+      {
+        "id": 4892,
+        "name": "crosshair"
+      },
+      {
+        "id": 4910,
+        "name": "heads up display"
+      },
+      {
+        "id": 4958,
+        "name": "game over"
+      },
+      {
+        "id": 4991,
+        "name": "secret area"
+      },
+      {
+        "id": 5177,
+        "name": "living toys"
+      },
+      {
+        "id": 5309,
+        "name": "reloading"
+      },
+      {
+        "id": 5310,
+        "name": "respawn"
+      },
+      {
+        "id": 5350,
+        "name": "sniper rifle"
+      },
+      {
+        "id": 5371,
+        "name": "pick ups"
+      },
+      {
+        "id": 5436,
+        "name": "cheat code"
+      },
+      {
+        "id": 5453,
+        "name": "destructible environment"
+      },
+      {
+        "id": 5503,
+        "name": "rocket"
+      },
+      {
+        "id": 5504,
+        "name": "wood"
+      },
+      {
+        "id": 5592,
+        "name": "weak spot"
+      },
+      {
+        "id": 5775,
+        "name": "grenade"
+      },
+      {
+        "id": 5987,
+        "name": "team deathmatch"
+      },
+      {
+        "id": 6308,
+        "name": "kill stealing"
+      },
+      {
+        "id": 6397,
+        "name": "grenade launcher"
+      },
+      {
+        "id": 6480,
+        "name": "cereal"
+      },
+      {
+        "id": 6624,
+        "name": "silencer"
+      },
+      {
+        "id": 6625,
+        "name": "scope"
+      },
+      {
+        "id": 6742,
+        "name": "electric fence"
+      },
+      {
+        "id": 6870,
+        "name": "cutscene menu"
+      },
+      {
+        "id": 7038,
+        "name": "headshot"
+      },
+      {
+        "id": 7091,
+        "name": "prone"
+      },
+      {
+        "id": 7494,
+        "name": "crawling"
+      },
+      {
+        "id": 7680,
+        "name": "letter block"
+      },
+      {
+        "id": 8958,
+        "name": "strafing"
+      },
+      {
+        "id": 9023,
+        "name": "m60"
+      },
+      {
+        "id": 9568,
+        "name": "toy soldier"
+      },
+      {
+        "id": 9813,
+        "name": "battle dress uniform"
+      },
+      {
+        "id": 10368,
+        "name": "m16a1"
+      },
+      {
+        "id": 13119,
+        "name": "e3 1999"
+      },
+      {
+        "id": 13120,
+        "name": "e3 1998"
+      }
+    ],
+    "name": "Army Men: Sarge\u0027s Heroes",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 2.272480028146282,
+    "screenshots": [
+      {
+        "id": 111359,
+        "game": 3440,
+        "height": 1080,
+        "image_id": "n7y8d0cosazg8paqloe0",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/n7y8d0cosazg8paqloe0.jpg",
+        "width": 1920
+      }
+    ],
+    "slug": "army-men-sarge-s-heroes",
+    "summary": "One morning Sarge is resting in his cot when the Tan launch a surprise attack on the Green base. Sarge and the Colonel are forced to retreat just as the base is overrun. But in the chaos, Sarge\u0027s entire team of elite soldiers, Bravo Company, has been captured by the Tan. Worse yet, the Tan have made an amazing discovery: blue portals that lead to the real world! They use these portals to take amazing weapons of war from the real world into the plastic world including magnifying glasses, deadly robot action figures, and fire crackers. It\u0027s up to you, as Sarge, to rescue your team and put an end to the blue portals and Tan\u0027s evil schemes.\n\nControl Sarge in this Army Men third-person shooter. You will wage war across Tan-infested territories, both in the real and plastic world. Make Sarge proud as you battle the Tan army across 14 levels, utilizing 13 unique weapons like sky rockets and spray cans. Fight against not only infantrymen, tanks, and helicopters, but also killer toy robots and insects. This third game in the Army Men series adds several new features, including 3DO\u0027s unique Plastosheen lighting effects, which give the army men a real-life plastic shine.\n\nAlso included is a multiplayer mode. Choose your character and even your color and duke it out with your friends. You can choose from many different weapons and battle each other in areas from the game or exclusive multiplayer levels. Even incorporated is the portal system, by which you can enter blue portals and come out anywhere in the level.",
+    "videos": [
+      {
+        "id": 10540,
+        "game": 3440,
+        "name": "Game intro",
+        "video_id": "PNu-yrAFcpY"
+      }
+    ]
+  }
+]

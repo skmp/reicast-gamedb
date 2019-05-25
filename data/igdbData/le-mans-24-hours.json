@@ -1,0 +1,40 @@
+[
+  {
+    "id": 27556,
+    "cover": {
+      "id": 20728,
+      "game": 27556,
+      "height": 650,
+      "image_id": "q0h1sh9tnqkvqd8wnbvs",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/q0h1sh9tnqkvqd8wnbvs.jpg",
+      "width": 660
+    },
+    "first_release_date": 886291200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 3435,
+        "name": "le mans"
+      }
+    ],
+    "name": "Le Mans 24 Hours",
+    "popularity": 1.426091005480974,
+    "slug": "le-mans-24-hours",
+    "summary": "Take on the LeMans endurance racing challenge! Join one of the 25 factory teams take one of the over 50 vehicles (designed with assistance of actual teams) on the eight different LeMans circuits. The actual wear and tear are simulated. Tire wear, oil and fuel consumptions... Day and night and back to day driving."
+  }
+]

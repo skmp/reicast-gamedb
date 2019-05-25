@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1572,
+    "age_ratings": [
+      {
+        "id": 5819,
+        "rating": 8
+      }
+    ],
+    "aggregated_rating": 88.0,
+    "aggregated_rating_count": 1,
+    "cover": {
+      "id": 1578,
+      "game": 1572,
+      "height": 1104,
+      "image_id": "gfecxjwr7rgjgsjdcued",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/gfecxjwr7rgjgsjdcued.jpg",
+      "width": 850
+    },
+    "first_release_date": 886291200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 28,
+        "name": "rally"
+      },
+      {
+        "id": 155,
+        "name": "cars"
+      },
+      {
+        "id": 484,
+        "name": "racing"
+      },
+      {
+        "id": 778,
+        "name": "driving"
+      },
+      {
+        "id": 969,
+        "name": "arcade"
+      },
+      {
+        "id": 1098,
+        "name": "water"
+      },
+      {
+        "id": 1710,
+        "name": "snow"
+      },
+      {
+        "id": 2152,
+        "name": "high score"
+      },
+      {
+        "id": 3425,
+        "name": "driving-simulator"
+      },
+      {
+        "id": 4157,
+        "name": "driving/racing"
+      },
+      {
+        "id": 4181,
+        "name": "company name in title"
+      },
+      {
+        "id": 4205,
+        "name": "motorsports"
+      },
+      {
+        "id": 4210,
+        "name": "split-screen multiplayer"
+      },
+      {
+        "id": 4359,
+        "name": "polygonal 3d"
+      },
+      {
+        "id": 4364,
+        "name": "sand"
+      },
+      {
+        "id": 4777,
+        "name": "checkpoints"
+      },
+      {
+        "id": 5043,
+        "name": "laps"
+      },
+      {
+        "id": 5639,
+        "name": "invisible wall"
+      },
+      {
+        "id": 5786,
+        "name": "cornering"
+      },
+      {
+        "id": 5906,
+        "name": "gouraud shading"
+      },
+      {
+        "id": 7441,
+        "name": "q-sound"
+      },
+      {
+        "id": 8281,
+        "name": "sports car"
+      },
+      {
+        "id": 9051,
+        "name": "sega model 3"
+      },
+      {
+        "id": 9442,
+        "name": "swatch internet time"
+      },
+      {
+        "id": 10437,
+        "name": "bumper cam"
+      },
+      {
+        "id": 11631,
+        "name": "vmu support"
+      },
+      {
+        "id": 12694,
+        "name": "lancia stratos"
+      },
+      {
+        "id": 12817,
+        "name": "track deformation"
+      },
+      {
+        "id": 13119,
+        "name": "e3 1999"
+      },
+      {
+        "id": 13120,
+        "name": "e3 1998"
+      }
+    ],
+    "name": "Sega Rally 2",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.424160009382094,
+    "slug": "sega-rally-2",
+    "summary": "Sega Rally 2 is the sequel to Sega Rally Championship. It was released in 1998 in the arcades and was later ported to the Dreamcast and PC."
+  }
+]

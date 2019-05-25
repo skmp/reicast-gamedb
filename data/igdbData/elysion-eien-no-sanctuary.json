@@ -1,0 +1,27 @@
+[
+  {
+    "id": 77756,
+    "cover": {
+      "id": 60099,
+      "game": 77756,
+      "height": 329,
+      "image_id": "e03iirf3bmnxkyvnfwoo",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/e03iirf3bmnxkyvnfwoo.jpg",
+      "width": 256
+    },
+    "keywords": [
+      {
+        "id": 78,
+        "name": "anime"
+      },
+      {
+        "id": 847,
+        "name": "eroge"
+      }
+    ],
+    "name": "Elysion: Eien no Sanctuary",
+    "popularity": 1.0,
+    "slug": "elysion-eien-no-sanctuary",
+    "summary": "A visual novel from Terios."
+  }
+]

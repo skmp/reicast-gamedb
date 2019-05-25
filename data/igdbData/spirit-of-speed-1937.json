@@ -1,0 +1,84 @@
+[
+  {
+    "id": 16303,
+    "cover": {
+      "id": 13885,
+      "game": 16303,
+      "height": 250,
+      "image_id": "g5iqt3qwnqf6flaj8ros",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/g5iqt3qwnqf6flaj8ros.jpg",
+      "width": 250
+    },
+    "first_release_date": 960508800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 155,
+        "name": "cars"
+      },
+      {
+        "id": 381,
+        "name": "vintage"
+      },
+      {
+        "id": 1728,
+        "name": "historical"
+      },
+      {
+        "id": 4157,
+        "name": "driving/racing"
+      },
+      {
+        "id": 4650,
+        "name": "year in the title"
+      }
+    ],
+    "name": "Spirit of Speed 1937",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.422200137348066,
+    "screenshots": [
+      {
+        "id": 19720,
+        "game": 16303,
+        "height": 360,
+        "image_id": "fdfmwxnxvqbpmqyouyh5",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fdfmwxnxvqbpmqyouyh5.jpg",
+        "width": 480
+      },
+      {
+        "id": 19721,
+        "game": 16303,
+        "height": 360,
+        "image_id": "atxpwe8ypje0ewpobuu3",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/atxpwe8ypje0ewpobuu3.jpg",
+        "width": 480
+      }
+    ],
+    "slug": "spirit-of-speed-1937",
+    "summary": "Spirit of Speed 1937 is a racing video game developed by Broadsword Interactive and published by both Acclaim Entertainment for the Dreamcast and by Microprose for PC. The game was released in North America on June 29, 2000. Spirit of Speed 1937 allegedly takes gamers back to the 1930s when motorsports were in their infancy and drivers raced for the thrill of speed, the danger, and the glamor that came with it."
+  }
+]

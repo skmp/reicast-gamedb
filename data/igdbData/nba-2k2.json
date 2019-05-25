@@ -1,0 +1,150 @@
+[
+  {
+    "id": 4029,
+    "age_ratings": [
+      {
+        "id": 2064,
+        "rating": 8
+      }
+    ],
+    "aggregated_rating": 78.3333333333333,
+    "aggregated_rating_count": 3,
+    "cover": {
+      "id": 4254,
+      "game": 4029,
+      "height": 322,
+      "image_id": "kyszqu1h6xfab6n0jebc",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/kyszqu1h6xfab6n0jebc.jpg",
+      "width": 250
+    },
+    "first_release_date": 1014768000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 58,
+        "name": "basketball"
+      },
+      {
+        "id": 274,
+        "name": "minigames"
+      },
+      {
+        "id": 1148,
+        "name": "simulation"
+      },
+      {
+        "id": 1166,
+        "name": "sports"
+      },
+      {
+        "id": 1440,
+        "name": "artificial intelligence"
+      },
+      {
+        "id": 2362,
+        "name": "instant replay"
+      },
+      {
+        "id": 4226,
+        "name": "cover athlete"
+      },
+      {
+        "id": 4274,
+        "name": "referees"
+      },
+      {
+        "id": 4576,
+        "name": "loading screens"
+      },
+      {
+        "id": 4613,
+        "name": "non-player character"
+      },
+      {
+        "id": 4650,
+        "name": "year in the title"
+      },
+      {
+        "id": 4703,
+        "name": "national basketball association"
+      },
+      {
+        "id": 5278,
+        "name": "commentary"
+      },
+      {
+        "id": 6547,
+        "name": "indiana pacers"
+      },
+      {
+        "id": 6551,
+        "name": "los angeles lakers"
+      },
+      {
+        "id": 6554,
+        "name": "san antonio spurs"
+      },
+      {
+        "id": 6563,
+        "name": "chicago bulls"
+      },
+      {
+        "id": 6566,
+        "name": "portland trail blazers"
+      },
+      {
+        "id": 7199,
+        "name": "penalties"
+      },
+      {
+        "id": 7410,
+        "name": "text chat"
+      },
+      {
+        "id": 11945,
+        "name": "seattle supersonics"
+      },
+      {
+        "id": 13118,
+        "name": "e3 2001"
+      }
+    ],
+    "name": "NBA 2K2",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.424160009382094,
+    "slug": "nba-2k2",
+    "summary": "NBA 2K2 is a basketball video game. It is the third installment in the NBA 2K series of video games and it was developed by Visual Concepts and published by Sega Sports. It was released on October 24, 2001 on the Sega Dreamcast and later ported to the Sony PlayStation 2, Nintendo GameCube, and the Xbox in 2002. NBA 2K2 featured more street courts such as Mosswood, Fonde Rec Center, Venice Beach, etc. The game still featured the old street courts like in the previous game NBA 2K1. It was the first NBA 2K game to be released multi-platform on the series, and also the last to be on the Sega Dreamcast. The cover athlete is Allen Iverson",
+    "videos": [
+      {
+        "id": 20350,
+        "game": 4029,
+        "name": "Gameplay video",
+        "video_id": "Zxtli3wAReQ"
+      }
+    ]
+  }
+]

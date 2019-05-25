@@ -1,0 +1,224 @@
+[
+  {
+    "id": 9188,
+    "age_ratings": [
+      {
+        "id": 6289,
+        "rating": 8
+      }
+    ],
+    "aggregated_rating": 74.0,
+    "aggregated_rating_count": 2,
+    "cover": {
+      "id": 64653,
+      "game": 9188,
+      "height": 500,
+      "image_id": "hqco2num6zilpsnyu9zh",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/hqco2num6zilpsnyu9zh.jpg",
+      "width": 500
+    },
+    "first_release_date": 961113600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 170,
+        "name": "time travel"
+      },
+      {
+        "id": 403,
+        "name": "shark"
+      },
+      {
+        "id": 558,
+        "name": "death"
+      },
+      {
+        "id": 839,
+        "name": "dolphin"
+      },
+      {
+        "id": 1059,
+        "name": "side-scrolling"
+      },
+      {
+        "id": 1098,
+        "name": "water"
+      },
+      {
+        "id": 1507,
+        "name": "rock"
+      },
+      {
+        "id": 2040,
+        "name": "echolocation"
+      },
+      {
+        "id": 2324,
+        "name": "swimming"
+      },
+      {
+        "id": 2759,
+        "name": "turtle"
+      },
+      {
+        "id": 4169,
+        "name": "male protagonists"
+      },
+      {
+        "id": 4176,
+        "name": "animal protagonists"
+      },
+      {
+        "id": 4297,
+        "name": "protagonist\u0027s name in the title"
+      },
+      {
+        "id": 4320,
+        "name": "fish"
+      },
+      {
+        "id": 4359,
+        "name": "polygonal 3d"
+      },
+      {
+        "id": 4364,
+        "name": "sand"
+      },
+      {
+        "id": 4484,
+        "name": "collectibles"
+      },
+      {
+        "id": 4492,
+        "name": "non-humanoid protagonist"
+      },
+      {
+        "id": 4576,
+        "name": "loading screens"
+      },
+      {
+        "id": 4577,
+        "name": "bubble"
+      },
+      {
+        "id": 4611,
+        "name": "cutscene"
+      },
+      {
+        "id": 4687,
+        "name": "manta ray"
+      },
+      {
+        "id": 4910,
+        "name": "heads up display"
+      },
+      {
+        "id": 4940,
+        "name": "underwater gameplay"
+      },
+      {
+        "id": 4960,
+        "name": "octopus"
+      },
+      {
+        "id": 5534,
+        "name": "lens flare"
+      },
+      {
+        "id": 5578,
+        "name": "healing food"
+      },
+      {
+        "id": 5596,
+        "name": "jellyfish"
+      },
+      {
+        "id": 6059,
+        "name": "space whale"
+      },
+      {
+        "id": 6061,
+        "name": "e3 2000"
+      },
+      {
+        "id": 6128,
+        "name": "breath meter"
+      },
+      {
+        "id": 6137,
+        "name": "linear gameplay"
+      },
+      {
+        "id": 6304,
+        "name": "ancient advanced civilization technology"
+      },
+      {
+        "id": 6778,
+        "name": "whale"
+      },
+      {
+        "id": 7284,
+        "name": "flips"
+      },
+      {
+        "id": 7441,
+        "name": "q-sound"
+      },
+      {
+        "id": 10211,
+        "name": "record breakers"
+      },
+      {
+        "id": 13119,
+        "name": "e3 1999"
+      }
+    ],
+    "name": "Ecco the Dolphin: Defender of the Future",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.632210151290865,
+    "screenshots": [
+      {
+        "id": 23004,
+        "game": 9188,
+        "height": 245,
+        "image_id": "mmxuaxv8cdyleutvbidp",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mmxuaxv8cdyleutvbidp.jpg",
+        "width": 300
+      },
+      {
+        "id": 23005,
+        "game": 9188,
+        "height": 325,
+        "image_id": "exeo0av4crmjzjyekpiv",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/exeo0av4crmjzjyekpiv.jpg",
+        "width": 452
+      }
+    ],
+    "slug": "ecco-the-dolphin-defender-of-the-future",
+    "summary": "At the dawn of the 30th Century, dolphins and humans had been together in a cross-species society for 500 years. Together, they had set out to explore space, offering peace and friendship to all who would welcome it. But space had its dangers; a violent species known as the Foe decided to conquer Earth. However, the dolphins and humans drove them to the brink of defeat, and so the Foe sought vengeance on Earth. The few caretaker dolphins who had been left behind on Earth were not entirely defenseless; they were protected by their creation called the Guardian—a gigantic, sentient being made of a crystalline substance which projected a forcefield over the entire planet. Undeterred, the Foe made suicide attacks on the field, searching for a weak point."
+  }
+]

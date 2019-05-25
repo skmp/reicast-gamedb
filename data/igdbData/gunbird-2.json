@@ -1,0 +1,148 @@
+[
+  {
+    "id": 40150,
+    "age_ratings": [
+      {
+        "id": 13483,
+        "rating": 10
+      }
+    ],
+    "aggregated_rating": 76.0,
+    "aggregated_rating_count": 1,
+    "cover": {
+      "id": 26223,
+      "game": 40150,
+      "height": 2376,
+      "image_id": "z6qzkfocmaso406dhyec",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/z6qzkfocmaso406dhyec.jpg",
+      "width": 3508
+    },
+    "first_release_date": 886291200,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 78,
+        "name": "anime"
+      },
+      {
+        "id": 166,
+        "name": "shoot \u0027em up"
+      },
+      {
+        "id": 211,
+        "name": "vampire"
+      },
+      {
+        "id": 226,
+        "name": "magic"
+      },
+      {
+        "id": 253,
+        "name": "samurai"
+      },
+      {
+        "id": 350,
+        "name": "comedy"
+      },
+      {
+        "id": 575,
+        "name": "robots"
+      },
+      {
+        "id": 584,
+        "name": "angel"
+      },
+      {
+        "id": 669,
+        "name": "frog"
+      },
+      {
+        "id": 911,
+        "name": "bullet hell"
+      },
+      {
+        "id": 1025,
+        "name": "shooter"
+      },
+      {
+        "id": 1180,
+        "name": "witch"
+      },
+      {
+        "id": 2600,
+        "name": "wish"
+      },
+      {
+        "id": 3431,
+        "name": "succubus"
+      },
+      {
+        "id": 3741,
+        "name": "jet pack"
+      },
+      {
+        "id": 4144,
+        "name": "power up"
+      },
+      {
+        "id": 4230,
+        "name": "elephants"
+      },
+      {
+        "id": 4879,
+        "name": "potion"
+      },
+      {
+        "id": 4891,
+        "name": "melee"
+      },
+      {
+        "id": 4967,
+        "name": "vertical scrolling"
+      },
+      {
+        "id": 5374,
+        "name": "magic staff"
+      },
+      {
+        "id": 5384,
+        "name": "aerial combat"
+      },
+      {
+        "id": 5721,
+        "name": "charge"
+      },
+      {
+        "id": 8249,
+        "name": "cute \u0027em up"
+      },
+      {
+        "id": 8928,
+        "name": "smart bomb"
+      },
+      {
+        "id": 9942,
+        "name": "magic carpet"
+      }
+    ],
+    "name": "Gunbird 2",
+    "popularity": 1.64789218496891,
+    "screenshots": [
+      {
+        "id": 214947,
+        "game": 40150,
+        "height": 416,
+        "image_id": "wi9ct7o4s3cdayzhb1j1",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/wi9ct7o4s3cdayzhb1j1.jpg",
+        "width": 291
+      }
+    ],
+    "slug": "gunbird-2",
+    "summary": "Seven warriors are challenged to head on a quest to find three powerful elements of Sun, Moon and Stars. Whoever brings the elements to the Potion God will be rewarded the legendary Almighty Potion and all its magical powers.[3] \n \nThrough gameplay cutscenes (and endings) it appears that the zany, uproarious (and at times rather adult) humor has considerably increased since the original Gunbird. The game has numerous similarities to the Parodius series, including the final boss in the game, a cartoon elephant playing a trumpet."
+  }
+]

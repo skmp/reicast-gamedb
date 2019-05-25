@@ -1,0 +1,161 @@
+[
+  {
+    "id": 26012,
+    "age_ratings": [
+      {
+        "id": 10179,
+        "rating": 8
+      }
+    ],
+    "cover": {
+      "id": 19020,
+      "game": 26012,
+      "height": 640,
+      "image_id": "cunj7d2auluednhpano4",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cunj7d2auluednhpano4.jpg",
+      "width": 640
+    },
+    "first_release_date": 969926400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 130,
+        "name": "extreme"
+      },
+      {
+        "id": 661,
+        "name": "bmx"
+      },
+      {
+        "id": 662,
+        "name": "bike"
+      },
+      {
+        "id": 1166,
+        "name": "sports"
+      },
+      {
+        "id": 1783,
+        "name": "car"
+      },
+      {
+        "id": 1800,
+        "name": "bicycle"
+      },
+      {
+        "id": 2152,
+        "name": "high score"
+      },
+      {
+        "id": 2337,
+        "name": "flowers"
+      },
+      {
+        "id": 4161,
+        "name": "jump"
+      },
+      {
+        "id": 4183,
+        "name": "crate"
+      },
+      {
+        "id": 4215,
+        "name": "challenges"
+      },
+      {
+        "id": 4227,
+        "name": "celebrity tie-in"
+      },
+      {
+        "id": 4228,
+        "name": "real photos on cover art"
+      },
+      {
+        "id": 4242,
+        "name": "police car"
+      },
+      {
+        "id": 4359,
+        "name": "polygonal 3d"
+      },
+      {
+        "id": 4452,
+        "name": "licensed soundtrack"
+      },
+      {
+        "id": 4501,
+        "name": "ramp"
+      },
+      {
+        "id": 4544,
+        "name": "unlockables"
+      },
+      {
+        "id": 4552,
+        "name": "helmet"
+      },
+      {
+        "id": 4737,
+        "name": "bench"
+      },
+      {
+        "id": 5354,
+        "name": "combo"
+      },
+      {
+        "id": 6061,
+        "name": "e3 2000"
+      },
+      {
+        "id": 6187,
+        "name": "tricks"
+      },
+      {
+        "id": 6487,
+        "name": "grind"
+      },
+      {
+        "id": 7123,
+        "name": "hand rail"
+      },
+      {
+        "id": 8258,
+        "name": "half-pipe"
+      },
+      {
+        "id": 13951,
+        "name": "playstation underground"
+      }
+    ],
+    "name": "Dave Mirra Freestyle BMX",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.84294686838782,
+    "slug": "dave-mirra-freestyle-bmx",
+    "storyline": "N/A",
+    "summary": "Dave Mirra Freestyle BMX is a video game released in 2000 featuring BMX Rider Dave Mirra and other professional BMX riders. It was developed by Z-Axis Ltd. and published by Acclaim Entertainment under their Acclaim Max Sports label. The game was released on the PlayStation, Game Boy Color, Dreamcast and Microsoft Windows. The player\u0027s main objective in the game is to choose one of the riders and work their way through a total of 12 different levels, completing objectives to unlock new equipment. A sequel was released in 2001 entitled Dave Mirra Freestyle BMX 2.",
+    "videos": [
+      {
+        "id": 20321,
+        "game": 26012,
+        "name": "Gameplay video",
+        "video_id": "n5QiSEFseOg"
+      }
+    ]
+  }
+]

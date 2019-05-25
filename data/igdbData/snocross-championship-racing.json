@@ -1,0 +1,24 @@
+[
+  {
+    "id": 45035,
+    "cover": {
+      "id": 28345,
+      "game": 45035,
+      "height": 980,
+      "image_id": "xibcyqllwwmrx9b31mxj",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/xibcyqllwwmrx9b31mxj.jpg",
+      "width": 1000
+    },
+    "first_release_date": 969494400,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "name": "SnoCross Championship Racing",
+    "popularity": 1.0,
+    "slug": "snocross-championship-racing",
+    "summary": "Sno-Cross Championship Racing provides players with the opportunity to race 12 snowmobiles by Yamaha. In the championship mode snowmobiles can be upgraded with money won by winning races and performing tricks. There are 10 racing circuits set in such locations as Nagano, Aspen, and Munich. A track editor is included as well so that users can modify current tracks or create their own. \n \nStrap on your goggles and helmet, choose your favorite Yamaha sled, and hit the courses. Gain experience day and night, sun rain or snow, racing on the icy flats of Vladivostok, the slopes of Aspen, and the tunnels of Nagano."
+  }
+]

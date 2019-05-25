@@ -1,0 +1,217 @@
+[
+  {
+    "id": 2235,
+    "age_ratings": [
+      {
+        "id": 249,
+        "rating": 8
+      },
+      {
+        "id": 15776,
+        "rating": 2
+      }
+    ],
+    "aggregated_rating": 70.0,
+    "aggregated_rating_count": 1,
+    "cover": {
+      "id": 14058,
+      "game": 2235,
+      "height": 835,
+      "image_id": "donvmaeyhirkc4juafev",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/donvmaeyhirkc4juafev.jpg",
+      "width": 600
+    },
+    "first_release_date": 362793600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 166,
+        "name": "shoot \u0027em up"
+      },
+      {
+        "id": 970,
+        "name": "sci-fi"
+      },
+      {
+        "id": 2111,
+        "name": "giant insects"
+      },
+      {
+        "id": 2152,
+        "name": "high score"
+      },
+      {
+        "id": 4177,
+        "name": "credits menu option"
+      },
+      {
+        "id": 4235,
+        "name": "spider"
+      },
+      {
+        "id": 4236,
+        "name": "centipede"
+      },
+      {
+        "id": 4237,
+        "name": "flea"
+      },
+      {
+        "id": 4238,
+        "name": "scorpions"
+      },
+      {
+        "id": 4371,
+        "name": "animal antagonist"
+      },
+      {
+        "id": 4523,
+        "name": "launch titles"
+      },
+      {
+        "id": 4754,
+        "name": "single-screen level"
+      },
+      {
+        "id": 4779,
+        "name": "instant death"
+      },
+      {
+        "id": 4877,
+        "name": "titular antagonist"
+      },
+      {
+        "id": 4890,
+        "name": "xbox live"
+      },
+      {
+        "id": 5093,
+        "name": "cga graphics"
+      },
+      {
+        "id": 5208,
+        "name": "lives"
+      },
+      {
+        "id": 5450,
+        "name": "digital rights management"
+      },
+      {
+        "id": 5806,
+        "name": "never-ending"
+      },
+      {
+        "id": 6160,
+        "name": "segmented creature"
+      },
+      {
+        "id": 6365,
+        "name": "porting"
+      },
+      {
+        "id": 6541,
+        "name": "poison"
+      },
+      {
+        "id": 6658,
+        "name": "mitotic entity"
+      },
+      {
+        "id": 7369,
+        "name": "secret achievements"
+      },
+      {
+        "id": 9407,
+        "name": "comic book included"
+      },
+      {
+        "id": 11061,
+        "name": "trackball"
+      },
+      {
+        "id": 16412,
+        "name": "atari 5200 trakball support"
+      }
+    ],
+    "name": "Centipede",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view"
+      }
+    ],
+    "popularity": 1.650030900148378,
+    "screenshots": [
+      {
+        "id": 12998,
+        "game": 2235,
+        "height": 427,
+        "image_id": "lhhltxqzdhr20csii5vj",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/lhhltxqzdhr20csii5vj.jpg",
+        "width": 640
+      },
+      {
+        "id": 12999,
+        "game": 2235,
+        "height": 427,
+        "image_id": "goodwcawbskbndznocjd",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/goodwcawbskbndznocjd.jpg",
+        "width": 640
+      },
+      {
+        "id": 13000,
+        "game": 2235,
+        "height": 427,
+        "image_id": "i0sovjj5wa9hxbdorzf5",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/i0sovjj5wa9hxbdorzf5.jpg",
+        "width": 640
+      },
+      {
+        "id": 13001,
+        "game": 2235,
+        "height": 225,
+        "image_id": "z96i2mmg7q6hdubwqjkp",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/z96i2mmg7q6hdubwqjkp.jpg",
+        "width": 320
+      },
+      {
+        "id": 13002,
+        "game": 2235,
+        "height": 225,
+        "image_id": "cadpc4pbmiwru9r66xt6",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cadpc4pbmiwru9r66xt6.jpg",
+        "width": 320
+      }
+    ],
+    "slug": "centipede",
+    "storyline": "The Enchanted Forest \n \n \nOnce upon a time in a misty, enchanted forest, there lived a colony of good elves. These elves had a major problem, though. Their prized mushroom garden was infested with pests--a giant Centipede, a poison-spreading scorpion, a mischief-making spider, and a pesky flea. The good elves tried everything they could to rid their garden of these bugs. But nothing worked. \n \n \nOne day, an elf named Oliver was hacking away at a poisoned mushroom in the garden. Suddenly, he saw an unusual stick gleaming in the dirt. Just as Oliver picked up the stick, a spider jumped out from behind a mushroom and rushed at him. When Oliver waved his hands wildly to try to scare the spider away, sparks flew from his stick and the spider disappeared! \n \n \n\"How did that happen?\" Oliver wondered out loud. \"Could this be a magic wand?\" \n \n \nSoon Oliver had another chance to try the wand. When the scorpion scurried across a row of mushroom, poisoning every mushroom it touched, Oliver pointed the wand at the scorpion and shouted, \"Be gone!\" Instantly, the scorpion disappeared and the poisoned mushrooms were transformed back into normal mushrooms. \n \n \n\"This is great! This is the tool we need to clean up our mushroom garden\" Oliver shouted ecstatically. \n \n \nWith his new found magic wand, Oliver hid behind a mushroom. \"OK, you great big Centipede,\" he said. \"Come out wherever you are. I\u0027m ready for you now!\" \n \n \n \n \n \n--From the Atari 2600 Centipede instruction manual.",
+    "summary": "Centipede is a vertically-oriented shoot \u0027em up arcade game produced by Atari, Inc. in 1980. The game was designed by Ed Logg along with Dona Bailey, one of the few female game programmers in the industry at this time. It was also the first arcade coin-operated game to have a significant female player base. The player defends against swarms of insects, completing a round after eliminating the centipede that winds down the playing field.",
+    "videos": [
+      {
+        "id": 1297,
+        "game": 2235,
+        "name": "Gameplay video",
+        "video_id": "ss_qH3ADb70"
+      }
+    ]
+  }
+]

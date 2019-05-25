@@ -1,0 +1,122 @@
+[
+  {
+    "id": 8129,
+    "age_ratings": [
+      {
+        "id": 5084,
+        "rating": 8
+      }
+    ],
+    "aggregated_rating": 80.0,
+    "aggregated_rating_count": 2,
+    "cover": {
+      "id": 8576,
+      "game": 8129,
+      "height": 254,
+      "image_id": "g0mgn5hgbsul5txlu9hx",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/g0mgn5hgbsul5txlu9hx.jpg",
+      "width": 256
+    },
+    "first_release_date": 953769600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 25,
+        "name": "vehicular combat"
+      },
+      {
+        "id": 280,
+        "name": "go-kart"
+      },
+      {
+        "id": 645,
+        "name": "disney"
+      },
+      {
+        "id": 1030,
+        "name": "roller coaster"
+      },
+      {
+        "id": 1563,
+        "name": "kid friendly"
+      },
+      {
+        "id": 2184,
+        "name": "talking animals"
+      },
+      {
+        "id": 3627,
+        "name": "vehicle combat"
+      },
+      {
+        "id": 4142,
+        "name": "licensed game"
+      },
+      {
+        "id": 4157,
+        "name": "driving/racing"
+      },
+      {
+        "id": 4379,
+        "name": "adapted from television"
+      },
+      {
+        "id": 4380,
+        "name": "cartoon character"
+      },
+      {
+        "id": 4382,
+        "name": "games based on movies"
+      },
+      {
+        "id": 4958,
+        "name": "game over"
+      },
+      {
+        "id": 5043,
+        "name": "laps"
+      },
+      {
+        "id": 5786,
+        "name": "cornering"
+      },
+      {
+        "id": 6185,
+        "name": "kart racer"
+      },
+      {
+        "id": 8668,
+        "name": "chipmunk"
+      }
+    ],
+    "name": "Walt Disney World Quest: Magical Racing Tour",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.849756597345666,
+    "slug": "walt-disney-world-quest-magical-racing-tour",
+    "summary": "Walt Disney World Quest Magical Racing Tour boasts more playable characters than any kart racer before it (a total of 13 are offered), and each of the game\u0027s tracks allows you to maneuver a different vehicle. Instead of being confined to just a go-kart, you\u0027ll get a bobsled, or a rocket ship, and several others. Collect a myriad of power-ups to your vehicle such as Mickey coins which allow you to race a little faster with each additional coin you collect. Or use the guided bottle rocket to get a speed boost and home in on your opponent. You can also collect items that can be used against your opponents like the frog spell, which will leave them hopping in your dust. Or launch an acorn at them and send them flying out of control."
+  }
+]

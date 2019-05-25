@@ -1,0 +1,128 @@
+[
+  {
+    "id": 49182,
+    "age_ratings": [
+      {
+        "id": 18944,
+        "rating": 10
+      }
+    ],
+    "cover": {
+      "id": 27511,
+      "game": 49182,
+      "height": 1370,
+      "image_id": "bhlynk5nci7eehwijpzy",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/bhlynk5nci7eehwijpzy.jpg",
+      "width": 1530
+    },
+    "first_release_date": 1033603200,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 6,
+        "name": "rail shooter"
+      },
+      {
+        "id": 301,
+        "name": "health"
+      },
+      {
+        "id": 558,
+        "name": "death"
+      },
+      {
+        "id": 1025,
+        "name": "shooter"
+      },
+      {
+        "id": 1299,
+        "name": "time limit"
+      },
+      {
+        "id": 1373,
+        "name": "hostages"
+      },
+      {
+        "id": 1478,
+        "name": "on-rails"
+      },
+      {
+        "id": 1669,
+        "name": "crime"
+      },
+      {
+        "id": 1784,
+        "name": "light gun"
+      },
+      {
+        "id": 4294,
+        "name": "game title announcer"
+      },
+      {
+        "id": 4446,
+        "name": "gun"
+      },
+      {
+        "id": 4523,
+        "name": "launch titles"
+      },
+      {
+        "id": 4646,
+        "name": "light-gun shooter"
+      },
+      {
+        "id": 4730,
+        "name": "sniping"
+      },
+      {
+        "id": 5350,
+        "name": "sniper rifle"
+      },
+      {
+        "id": 5466,
+        "name": "terrorists"
+      },
+      {
+        "id": 5773,
+        "name": "helicopter boss"
+      },
+      {
+        "id": 5813,
+        "name": "ski mask"
+      },
+      {
+        "id": 6061,
+        "name": "e3 2000"
+      },
+      {
+        "id": 7038,
+        "name": "headshot"
+      },
+      {
+        "id": 10211,
+        "name": "record breakers"
+      },
+      {
+        "id": 11631,
+        "name": "vmu support"
+      },
+      {
+        "id": 13117,
+        "name": "e3 2002"
+      },
+      {
+        "id": 13951,
+        "name": "playstation underground"
+      }
+    ],
+    "name": "Silent Scope",
+    "popularity": 1.0,
+    "slug": "silent-scope",
+    "summary": "Silent Scope for the Game Boy Advance marks the first time the popular arcade shooter has appeared on any hand-held console since its 1999 arcade debut. With an easy learning curve, the game features exclusive Game Boy Advance content, as well as additional Training and Challenge modes. Up to four players can play in Multiplayer mode."
+  }
+]

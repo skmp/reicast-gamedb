@@ -1,0 +1,84 @@
+[
+  {
+    "id": 10961,
+    "age_ratings": [
+      {
+        "id": 6932,
+        "rating": 8
+      }
+    ],
+    "cover": {
+      "id": 10389,
+      "game": 10961,
+      "height": 271,
+      "image_id": "ehrcx5hytmav2nfplaey",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/ehrcx5hytmav2nfplaey.jpg",
+      "width": 275
+    },
+    "first_release_date": 1000339200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 30,
+        "name": "Pinball"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 274,
+        "name": "minigames"
+      },
+      {
+        "id": 301,
+        "name": "health"
+      },
+      {
+        "id": 350,
+        "name": "comedy"
+      },
+      {
+        "id": 1333,
+        "name": "online"
+      },
+      {
+        "id": 1370,
+        "name": "prehistoric"
+      },
+      {
+        "id": 4211,
+        "name": "party games"
+      },
+      {
+        "id": 4328,
+        "name": "minigame collection"
+      },
+      {
+        "id": 12678,
+        "name": "tiki mask"
+      }
+    ],
+    "name": "Ooga Booga",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.0,
+    "slug": "ooga-booga",
+    "summary": "Ooga Booga takes place on a set of mystical islands in the tropics. Named after the Volcano Goddess, the Ooga Booga Island rises from the sea once every full moon and during this time, four tribes compete in a series of games. You take control of the witch doctor of your tribe where competing in various strategic games will power up your Island magic (called Mojo) thus appeasing Ooga Booga and sparing your tribe from her volcano wrath. Online matches have several modes of play including Capture the Flag, King of the Hill, Tiki Wars, Domination, and Deathmatch."
+  }
+]

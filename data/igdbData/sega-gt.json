@@ -1,0 +1,82 @@
+[
+  {
+    "id": 28838,
+    "age_ratings": [
+      {
+        "id": 12462,
+        "rating": 8
+      },
+      {
+        "id": 12463,
+        "rating": 1
+      }
+    ],
+    "cover": {
+      "id": 23968,
+      "game": 28838,
+      "height": 419,
+      "image_id": "ky4qj8rbltoqddbgngyv",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/ky4qj8rbltoqddbgngyv.jpg",
+      "width": 420
+    },
+    "first_release_date": 967420800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 56,
+        "name": "flight simulator"
+      },
+      {
+        "id": 970,
+        "name": "sci-fi"
+      },
+      {
+        "id": 992,
+        "name": "flight"
+      },
+      {
+        "id": 1025,
+        "name": "shooter"
+      }
+    ],
+    "name": "Sega GT",
+    "popularity": 1.0,
+    "slug": "sega-gt",
+    "summary": "With a nod towards GT2, Sega tosses in their entry in the race-career-category, meaning that this game is all about racing. Racing to win competitions, cars, money and other prizes (such as licenses for bigger cars), buying new cars to race in, upgrading cars to race in and gaining licenses to race with. \n \nIt features realistic controls, graphic and physics, and spans over career, multiplayer or arcade modes, and hundreds of cars to boot.",
+    "videos": [
+      {
+        "id": 13809,
+        "game": 28838,
+        "name": "Game intro",
+        "video_id": "2F9YIR1ioyI"
+      }
+    ]
+  }
+]

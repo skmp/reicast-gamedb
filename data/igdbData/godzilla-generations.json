@@ -1,0 +1,50 @@
+[
+  {
+    "id": 45824,
+    "cover": {
+      "id": 44617,
+      "game": 45824,
+      "height": 256,
+      "image_id": "vygxleiassaeylejbcei",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/vygxleiassaeylejbcei.jpg",
+      "width": 260
+    },
+    "first_release_date": 888537600,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 296,
+        "name": "fantasy"
+      },
+      {
+        "id": 1060,
+        "name": "kaiju"
+      },
+      {
+        "id": 4142,
+        "name": "licensed game"
+      },
+      {
+        "id": 4523,
+        "name": "launch titles"
+      },
+      {
+        "id": 11631,
+        "name": "vmu support"
+      },
+      {
+        "id": 14000,
+        "name": "oxygen destroyer"
+      }
+    ],
+    "name": "Godzilla Generations",
+    "popularity": 1.0,
+    "slug": "godzilla-generations",
+    "summary": "In Godzilla Generations you play as either Godzilla or Mechagodzilla and have to rage havoc in the city and fend of the army before time runs out. \n \nYou can unlock other monsters such as First Generation Godzilla, USA Godzilla and Minira by playing through the game. There are five cities that you can lay to ashes, all located in Japan. Each city has two stages to play through. \n \nEach monster has a range of moves which range from swiping his tail, using his claws or shooting rays from his eyes or hands. Each monster can also heal himself."
+  }
+]

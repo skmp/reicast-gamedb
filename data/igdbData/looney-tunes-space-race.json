@@ -1,0 +1,112 @@
+[
+  {
+    "id": 8136,
+    "age_ratings": [
+      {
+        "id": 5090,
+        "rating": 8
+      }
+    ],
+    "cover": {
+      "id": 8583,
+      "game": 8136,
+      "height": 250,
+      "image_id": "aeqe23wyli81dfi0zx2c",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/aeqe23wyli81dfi0zx2c.jpg",
+      "width": 250
+    },
+    "first_release_date": 974419200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 25,
+        "name": "vehicular combat"
+      },
+      {
+        "id": 280,
+        "name": "go-kart"
+      },
+      {
+        "id": 695,
+        "name": "kart race"
+      },
+      {
+        "id": 2184,
+        "name": "talking animals"
+      },
+      {
+        "id": 3627,
+        "name": "vehicle combat"
+      },
+      {
+        "id": 4142,
+        "name": "licensed game"
+      },
+      {
+        "id": 4157,
+        "name": "driving/racing"
+      },
+      {
+        "id": 4162,
+        "name": "anthropomorphism"
+      },
+      {
+        "id": 4176,
+        "name": "animal protagonists"
+      },
+      {
+        "id": 5043,
+        "name": "laps"
+      },
+      {
+        "id": 5196,
+        "name": "tire"
+      },
+      {
+        "id": 5782,
+        "name": "tie-in"
+      },
+      {
+        "id": 6015,
+        "name": "multi-species roster"
+      },
+      {
+        "id": 6185,
+        "name": "kart racer"
+      },
+      {
+        "id": 13120,
+        "name": "e3 1998"
+      }
+    ],
+    "name": "Looney Tunes: Space Race",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.0,
+    "slug": "looney-tunes-space-race",
+    "summary": "Looney Tunes: Space Race features eight all-time favorite characters, including Bugs Bunny, Daffy Duck, Taz, Sylvester, Yosemite Sam, and Wile E. Coyote. The 12 tracks include shortcuts, jumps, and traps, and there are over 40 competitive events. Players can pummel opponents with gags like the portable hole, falling elephants, retractable boxing glove, and instant storm. Up to four players can race at a time."
+  }
+]

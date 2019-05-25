@@ -1,0 +1,548 @@
+[
+  {
+    "id": 948,
+    "age_ratings": [
+      {
+        "id": 18346,
+        "rating": 1
+      }
+    ],
+    "cover": {
+      "id": 69825,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 948,
+      "height": 600,
+      "image_id": "co1hvl",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1hvl.jpg",
+      "width": 484
+    },
+    "first_release_date": 917568000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 55,
+        "name": "artillery game"
+      },
+      {
+        "id": 350,
+        "name": "comedy"
+      },
+      {
+        "id": 415,
+        "name": "turn-based"
+      },
+      {
+        "id": 558,
+        "name": "death"
+      },
+      {
+        "id": 598,
+        "name": "parachute"
+      },
+      {
+        "id": 701,
+        "name": "archery"
+      },
+      {
+        "id": 1025,
+        "name": "shooter"
+      },
+      {
+        "id": 1158,
+        "name": "steam"
+      },
+      {
+        "id": 1299,
+        "name": "time limit"
+      },
+      {
+        "id": 1757,
+        "name": "worm"
+      },
+      {
+        "id": 1986,
+        "name": "teleportation"
+      },
+      {
+        "id": 2184,
+        "name": "talking animals"
+      },
+      {
+        "id": 2422,
+        "name": "donkey"
+      },
+      {
+        "id": 3270,
+        "name": "flamethrower"
+      },
+      {
+        "id": 3630,
+        "name": "sheep"
+      },
+      {
+        "id": 3741,
+        "name": "jet pack"
+      },
+      {
+        "id": 3782,
+        "name": "strategy"
+      },
+      {
+        "id": 3831,
+        "name": "explosion"
+      },
+      {
+        "id": 4035,
+        "name": "machine gun"
+      },
+      {
+        "id": 4161,
+        "name": "jump"
+      },
+      {
+        "id": 4183,
+        "name": "crate"
+      },
+      {
+        "id": 4185,
+        "name": "health pack"
+      },
+      {
+        "id": 4211,
+        "name": "party games"
+      },
+      {
+        "id": 4248,
+        "name": "tactical turn-based combat"
+      },
+      {
+        "id": 4273,
+        "name": "customization"
+      },
+      {
+        "id": 4287,
+        "name": "voice acting"
+      },
+      {
+        "id": 4324,
+        "name": "banana"
+      },
+      {
+        "id": 4392,
+        "name": "bow"
+      },
+      {
+        "id": 4393,
+        "name": "explosives"
+      },
+      {
+        "id": 4413,
+        "name": "briefcase"
+      },
+      {
+        "id": 4419,
+        "name": "axe"
+      },
+      {
+        "id": 4446,
+        "name": "gun"
+      },
+      {
+        "id": 4476,
+        "name": "digging"
+      },
+      {
+        "id": 4492,
+        "name": "non-humanoid protagonist"
+      },
+      {
+        "id": 4496,
+        "name": "bazooka"
+      },
+      {
+        "id": 4509,
+        "name": "item throw"
+      },
+      {
+        "id": 4571,
+        "name": "shotgun"
+      },
+      {
+        "id": 4572,
+        "name": "rocket launcher"
+      },
+      {
+        "id": 4658,
+        "name": "baseball bat"
+      },
+      {
+        "id": 4660,
+        "name": "pistol"
+      },
+      {
+        "id": 4716,
+        "name": "pigeon"
+      },
+      {
+        "id": 4748,
+        "name": "target"
+      },
+      {
+        "id": 4795,
+        "name": "homing missile"
+      },
+      {
+        "id": 4797,
+        "name": "hotseat"
+      },
+      {
+        "id": 4903,
+        "name": "grapple"
+      },
+      {
+        "id": 4914,
+        "name": "holiday themes"
+      },
+      {
+        "id": 5120,
+        "name": "tombstone"
+      },
+      {
+        "id": 5349,
+        "name": "exploding barrel"
+      },
+      {
+        "id": 5370,
+        "name": "randomly generated maps"
+      },
+      {
+        "id": 5406,
+        "name": "drowning"
+      },
+      {
+        "id": 5444,
+        "name": "blood splatter"
+      },
+      {
+        "id": 5453,
+        "name": "destructible environment"
+      },
+      {
+        "id": 5500,
+        "name": "nuclear bomb"
+      },
+      {
+        "id": 5618,
+        "name": "hard hat"
+      },
+      {
+        "id": 5630,
+        "name": "misrepresentative box art"
+      },
+      {
+        "id": 5644,
+        "name": "wind"
+      },
+      {
+        "id": 5652,
+        "name": "dynamite"
+      },
+      {
+        "id": 5658,
+        "name": "can\u0027t swim"
+      },
+      {
+        "id": 5681,
+        "name": "persistent ailments"
+      },
+      {
+        "id": 5694,
+        "name": "blunt weapons"
+      },
+      {
+        "id": 5749,
+        "name": "happy killing"
+      },
+      {
+        "id": 5766,
+        "name": "pumpkin"
+      },
+      {
+        "id": 5775,
+        "name": "grenade"
+      },
+      {
+        "id": 5799,
+        "name": "vase"
+      },
+      {
+        "id": 5894,
+        "name": "hadouken"
+      },
+      {
+        "id": 5940,
+        "name": "swinging"
+      },
+      {
+        "id": 5943,
+        "name": "bizarre weapons"
+      },
+      {
+        "id": 5980,
+        "name": "weighing scale"
+      },
+      {
+        "id": 6078,
+        "name": "explosions on the cover"
+      },
+      {
+        "id": 6104,
+        "name": "launching enemies into the air"
+      },
+      {
+        "id": 6303,
+        "name": "double kill"
+      },
+      {
+        "id": 6326,
+        "name": "ambient music"
+      },
+      {
+        "id": 6352,
+        "name": "submachine gun"
+      },
+      {
+        "id": 6372,
+        "name": "fictional locations based on real ones"
+      },
+      {
+        "id": 6389,
+        "name": "weaponized musical instruments"
+      },
+      {
+        "id": 6407,
+        "name": "revolver"
+      },
+      {
+        "id": 6582,
+        "name": "lock on"
+      },
+      {
+        "id": 6628,
+        "name": "laser sight"
+      },
+      {
+        "id": 6691,
+        "name": "exploding crates"
+      },
+      {
+        "id": 6730,
+        "name": "air strike"
+      },
+      {
+        "id": 6850,
+        "name": "deadly gas"
+      },
+      {
+        "id": 6889,
+        "name": "tommy gun"
+      },
+      {
+        "id": 7017,
+        "name": "kamikaze"
+      },
+      {
+        "id": 7026,
+        "name": "bots"
+      },
+      {
+        "id": 7125,
+        "name": "girders"
+      },
+      {
+        "id": 7405,
+        "name": "ammo"
+      },
+      {
+        "id": 7655,
+        "name": "multiple death animations"
+      },
+      {
+        "id": 8130,
+        "name": "uzi"
+      },
+      {
+        "id": 8278,
+        "name": "death description"
+      },
+      {
+        "id": 9053,
+        "name": "concrete donkey"
+      },
+      {
+        "id": 9054,
+        "name": "ninja rope"
+      },
+      {
+        "id": 9075,
+        "name": "sudden death"
+      },
+      {
+        "id": 9342,
+        "name": "nuclear fallout"
+      },
+      {
+        "id": 9433,
+        "name": "blow torch"
+      },
+      {
+        "id": 9494,
+        "name": "lack of visible body parts"
+      },
+      {
+        "id": 9505,
+        "name": "tide"
+      },
+      {
+        "id": 9713,
+        "name": "chemical warfare"
+      },
+      {
+        "id": 9968,
+        "name": "homing projectile"
+      },
+      {
+        "id": 9974,
+        "name": "roping"
+      },
+      {
+        "id": 10032,
+        "name": "superweapon"
+      },
+      {
+        "id": 10090,
+        "name": "carpet"
+      },
+      {
+        "id": 10460,
+        "name": "team killing"
+      },
+      {
+        "id": 10757,
+        "name": "holy hand grenade"
+      },
+      {
+        "id": 10758,
+        "name": "banana bomb"
+      },
+      {
+        "id": 11173,
+        "name": "earthworm"
+      },
+      {
+        "id": 11452,
+        "name": "double damage"
+      },
+      {
+        "id": 11890,
+        "name": "bungee jumping"
+      },
+      {
+        "id": 12460,
+        "name": "jackhammer"
+      },
+      {
+        "id": 13132,
+        "name": "mills bomb"
+      },
+      {
+        "id": 13259,
+        "name": "napalm strike"
+      },
+      {
+        "id": 15082,
+        "name": "doomsday device"
+      }
+    ],
+    "name": "Worms Armageddon",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "popularity": 2.733415733729007,
+    "screenshots": [
+      {
+        "id": 129011,
+        "game": 948,
+        "height": 1080,
+        "image_id": "ec0hct002fnnddaf5wbt",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ec0hct002fnnddaf5wbt.jpg",
+        "width": 1920
+      },
+      {
+        "id": 129012,
+        "game": 948,
+        "height": 1080,
+        "image_id": "rpfgg4p7cxb3bnucqvrt",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rpfgg4p7cxb3bnucqvrt.jpg",
+        "width": 1920
+      },
+      {
+        "id": 129013,
+        "game": 948,
+        "height": 1080,
+        "image_id": "mb6vch8neihpntatvzne",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mb6vch8neihpntatvzne.jpg",
+        "width": 1920
+      },
+      {
+        "id": 129014,
+        "game": 948,
+        "height": 1080,
+        "image_id": "frh8cmm00ffarv1dotqi",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/frh8cmm00ffarv1dotqi.jpg",
+        "width": 1920
+      },
+      {
+        "id": 129015,
+        "game": 948,
+        "height": 1080,
+        "image_id": "fawtkmi1yij9u4edbtfz",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fawtkmi1yij9u4edbtfz.jpg",
+        "width": 1920
+      }
+    ],
+    "slug": "worms-armageddon",
+    "summary": "Those intrepid invertebrates return with a vengeance in the much-loved Worms™ Armageddon. It’s a whole new can of worms! It’s hilarious fun that you can enjoy on your own or with all your friends."
+  }
+]

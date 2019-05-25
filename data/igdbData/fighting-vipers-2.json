@@ -1,0 +1,134 @@
+[
+  {
+    "id": 39447,
+    "cover": {
+      "id": 64658,
+      "game": 39447,
+      "height": 500,
+      "image_id": "nmtqjgudcecsthl2ycxk",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/nmtqjgudcecsthl2ycxk.jpg",
+      "width": 500
+    },
+    "first_release_date": 893980800,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 61,
+        "name": "martial arts"
+      },
+      {
+        "id": 107,
+        "name": "fighting"
+      },
+      {
+        "id": 977,
+        "name": "hand-to-hand combat"
+      },
+      {
+        "id": 2152,
+        "name": "high score"
+      },
+      {
+        "id": 3143,
+        "name": "maid"
+      },
+      {
+        "id": 4145,
+        "name": "female protagonists"
+      },
+      {
+        "id": 4164,
+        "name": "bonus stage"
+      },
+      {
+        "id": 4169,
+        "name": "male protagonists"
+      },
+      {
+        "id": 4241,
+        "name": "students"
+      },
+      {
+        "id": 4359,
+        "name": "polygonal 3d"
+      },
+      {
+        "id": 4369,
+        "name": "sexualized women"
+      },
+      {
+        "id": 4506,
+        "name": "destructible clothing"
+      },
+      {
+        "id": 4574,
+        "name": "headband"
+      },
+      {
+        "id": 4891,
+        "name": "melee"
+      },
+      {
+        "id": 4907,
+        "name": "gloves"
+      },
+      {
+        "id": 4921,
+        "name": "miniskirt"
+      },
+      {
+        "id": 5847,
+        "name": "skyscraper"
+      },
+      {
+        "id": 5904,
+        "name": "particle system"
+      },
+      {
+        "id": 5906,
+        "name": "gouraud shading"
+      },
+      {
+        "id": 6117,
+        "name": "teenager"
+      },
+      {
+        "id": 6474,
+        "name": "high heels"
+      },
+      {
+        "id": 6482,
+        "name": "skirt"
+      },
+      {
+        "id": 6631,
+        "name": "dress"
+      },
+      {
+        "id": 6929,
+        "name": "maid uniform"
+      },
+      {
+        "id": 7044,
+        "name": "sweeping vista"
+      },
+      {
+        "id": 9051,
+        "name": "sega model 3"
+      },
+      {
+        "id": 9842,
+        "name": "roller skates"
+      }
+    ],
+    "name": "Fighting Vipers 2",
+    "popularity": 1.450860721800441,
+    "slug": "fighting-vipers-2",
+    "summary": "The sequel to the innovative Fighting Vipers has arrived and is set to ignite the world of beat \u0027em ups once again. Revenge has conquered your mind and aggression has poisoned your blood as you take control of a band of \u0027Vipers\u0027, each boasting distinct weapons in a fight to remove dictatorship from the city\u0027s Mayor. Fighting Vipers 2 is sure to put your pulse into overload!"
+  }
+]

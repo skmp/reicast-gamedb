@@ -1,0 +1,126 @@
+[
+  {
+    "id": 6715,
+    "age_ratings": [
+      {
+        "id": 3856,
+        "rating": 11
+      }
+    ],
+    "aggregated_rating": 63.0,
+    "aggregated_rating_count": 1,
+    "cover": {
+      "id": 64644,
+      "game": 6715,
+      "height": 497,
+      "image_id": "agvjkkmqk2noipfppp7f",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/agvjkkmqk2noipfppp7f.jpg",
+      "width": 500
+    },
+    "first_release_date": 922320000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 558,
+        "name": "death"
+      },
+      {
+        "id": 832,
+        "name": "christmas"
+      },
+      {
+        "id": 1033,
+        "name": "action-adventure"
+      },
+      {
+        "id": 1120,
+        "name": "horror"
+      },
+      {
+        "id": 1186,
+        "name": "multiple protagonists"
+      },
+      {
+        "id": 1836,
+        "name": "survival horror"
+      },
+      {
+        "id": 4031,
+        "name": "block puzzle"
+      },
+      {
+        "id": 4169,
+        "name": "male protagonists"
+      },
+      {
+        "id": 4239,
+        "name": "platform exclusive"
+      },
+      {
+        "id": 4359,
+        "name": "polygonal 3d"
+      },
+      {
+        "id": 4388,
+        "name": "shopping"
+      },
+      {
+        "id": 4523,
+        "name": "launch titles"
+      },
+      {
+        "id": 4525,
+        "name": "third-person perspective"
+      },
+      {
+        "id": 5264,
+        "name": "vending machine"
+      },
+      {
+        "id": 6638,
+        "name": "animation priority"
+      },
+      {
+        "id": 7001,
+        "name": "bunny suit"
+      },
+      {
+        "id": 10177,
+        "name": "hassy"
+      }
+    ],
+    "name": "Blue Stinger",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.636240014073141,
+    "slug": "blue-stinger",
+    "summary": "Awakening shipwrecked just after a meteor collides with a remote biotech research island, you begin to discover an uncontrollable madness unleashed in the meteor\u0027s wake. As one secret uncovers another, you piece together a horrifying revelation that could lead to the end of life on Earth.",
+    "videos": [
+      {
+        "id": 17864,
+        "game": 6715,
+        "name": "Gameplay video",
+        "video_id": "OVd2yvX4rSc"
+      }
+    ]
+  }
+]

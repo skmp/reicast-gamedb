@@ -1,0 +1,34 @@
+[
+  {
+    "id": 45155,
+    "cover": {
+      "id": 28038,
+      "game": 45155,
+      "height": 1560,
+      "image_id": "dbtrustvmkgr480i4l22",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/dbtrustvmkgr480i4l22.jpg",
+      "width": 1728
+    },
+    "first_release_date": 939427200,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "name": "Mortal Kombat Gold",
+    "popularity": 1.650030900148378,
+    "screenshots": [
+      {
+        "id": 112409,
+        "game": 45155,
+        "height": 1050,
+        "image_id": "joqsc8pquzgecj2wa0ww",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/joqsc8pquzgecj2wa0ww.jpg",
+        "width": 1680
+      }
+    ],
+    "slug": "mortal-kombat-gold",
+    "summary": "Gameplay of Mortal Kombat Gold is largely based on that in Mortal Kombat 4 and includes several additional characters and stages not seen in Mortal Kombat 4 and a new weapon select mechanism. A second revision of the game, Hot New, was released about a month after the initial release intending to address some of the major issues in it. This version fixed the most severe bugs and glitches in the game and added the VMU memory card support, which allowed the save feature to function properly."
+  }
+]

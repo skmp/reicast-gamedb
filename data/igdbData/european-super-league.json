@@ -1,0 +1,50 @@
+[
+  {
+    "id": 4363,
+    "cover": {
+      "id": 7659,
+      "game": 4363,
+      "height": 597,
+      "image_id": "kqji83lkqfz4oempcbez",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/kqji83lkqfz4oempcbez.jpg",
+      "width": 605
+    },
+    "first_release_date": 986169600,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 26,
+        "name": "soccer"
+      },
+      {
+        "id": 1166,
+        "name": "sports"
+      },
+      {
+        "id": 4518,
+        "name": "real madrid club de fútbol"
+      },
+      {
+        "id": 4519,
+        "name": "chelsea football club"
+      },
+      {
+        "id": 7198,
+        "name": "liverpool football club"
+      },
+      {
+        "id": 11483,
+        "name": "sl benfica"
+      }
+    ],
+    "name": "European Super League",
+    "popularity": 1.0,
+    "slug": "european-super-league",
+    "summary": "European Super League brings together the talent from the very finest teams in Europe to create a \"European Super League Championship\". Ronaldo, Zidane and Edgar Davids are names to excite the most fanatical football fan and they, along with countless other world class footballers, are the foundation of this game."
+  }
+]

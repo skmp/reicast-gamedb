@@ -1,0 +1,154 @@
+[
+  {
+    "id": 3710,
+    "age_ratings": [
+      {
+        "id": 1788,
+        "rating": 8
+      }
+    ],
+    "cover": {
+      "id": 3848,
+      "game": 3710,
+      "height": 248,
+      "image_id": "fgfge86vjqlsnzhhqj4t",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/fgfge86vjqlsnzhhqj4t.jpg",
+      "width": 250
+    },
+    "first_release_date": 933206400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 1,
+        "name": "modern warfare"
+      },
+      {
+        "id": 25,
+        "name": "vehicular combat"
+      },
+      {
+        "id": 56,
+        "name": "flight simulator"
+      },
+      {
+        "id": 563,
+        "name": "military"
+      },
+      {
+        "id": 992,
+        "name": "flight"
+      },
+      {
+        "id": 1299,
+        "name": "time limit"
+      },
+      {
+        "id": 1739,
+        "name": "missile"
+      },
+      {
+        "id": 2362,
+        "name": "instant replay"
+      },
+      {
+        "id": 2841,
+        "name": "airplane"
+      },
+      {
+        "id": 3627,
+        "name": "vehicle combat"
+      },
+      {
+        "id": 4213,
+        "name": "countdown timer"
+      },
+      {
+        "id": 4259,
+        "name": "modern military"
+      },
+      {
+        "id": 4333,
+        "name": "ranking system"
+      },
+      {
+        "id": 4359,
+        "name": "polygonal 3d"
+      },
+      {
+        "id": 4388,
+        "name": "shopping"
+      },
+      {
+        "id": 4910,
+        "name": "heads up display"
+      },
+      {
+        "id": 5216,
+        "name": "clock"
+      },
+      {
+        "id": 5323,
+        "name": "mercenary"
+      },
+      {
+        "id": 5523,
+        "name": "leaderboard"
+      },
+      {
+        "id": 5827,
+        "name": "f-15 strike eagle"
+      },
+      {
+        "id": 5828,
+        "name": "f-14 tomcat"
+      },
+      {
+        "id": 5829,
+        "name": "f/a-18e/f super hornet"
+      },
+      {
+        "id": 6052,
+        "name": "radar"
+      },
+      {
+        "id": 10359,
+        "name": "greek alphabet"
+      },
+      {
+        "id": 10390,
+        "name": "a10"
+      },
+      {
+        "id": 13118,
+        "name": "e3 2001"
+      },
+      {
+        "id": 13119,
+        "name": "e3 1999"
+      }
+    ],
+    "name": "Airforce Delta",
+    "popularity": 1.424160009382094,
+    "slug": "airforce-delta",
+    "summary": "Ever been screaming along at Mach 2 and ordered to drop 6,000 pounds of bombs on a target no bigger than a Yugo? Or get that feeling of multiple bogeys closing in on your tail for a lock-on to blow you out of the sky? You\u0027ve been contracted by a mercenary group to fuel-up, strap-in and snuff out the enemy. And to sweeten the pot in this \"The more you take out, the more you take home\" deal, you can upgrade your ride, choosing from over 30 different aircraft to get the job done. You in? Then get ready to grab some serious air!",
+    "videos": [
+      {
+        "id": 13804,
+        "game": 3710,
+        "name": "Game intro",
+        "video_id": "rEZuPU0p9g0"
+      }
+    ]
+  }
+]

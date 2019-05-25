@@ -1,0 +1,209 @@
+[
+  {
+    "id": 1980,
+    "age_ratings": [
+      {
+        "id": 18013,
+        "rating": 8
+      }
+    ],
+    "aggregated_rating": 64.0,
+    "aggregated_rating_count": 2,
+    "cover": {
+      "id": 65653,
+      "game": 1980,
+      "height": 600,
+      "image_id": "ilkqbfxu6qb6ojdkgquf",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/ilkqbfxu6qb6ojdkgquf.jpg",
+      "width": 437
+    },
+    "first_release_date": 410140800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 16,
+        "name": "ghosts"
+      },
+      {
+        "id": 126,
+        "name": "retro"
+      },
+      {
+        "id": 128,
+        "name": "1980s"
+      },
+      {
+        "id": 137,
+        "name": "gravity"
+      },
+      {
+        "id": 332,
+        "name": "dragons"
+      },
+      {
+        "id": 589,
+        "name": "2.5d"
+      },
+      {
+        "id": 658,
+        "name": "egg"
+      },
+      {
+        "id": 1395,
+        "name": "blocks"
+      },
+      {
+        "id": 1495,
+        "name": "abstract"
+      },
+      {
+        "id": 1756,
+        "name": "snakes"
+      },
+      {
+        "id": 1761,
+        "name": "ball"
+      },
+      {
+        "id": 2049,
+        "name": "platformer"
+      },
+      {
+        "id": 2875,
+        "name": "puzzle"
+      },
+      {
+        "id": 3079,
+        "name": "8-bit"
+      },
+      {
+        "id": 4161,
+        "name": "jump"
+      },
+      {
+        "id": 4212,
+        "name": "random number generation"
+      },
+      {
+        "id": 4245,
+        "name": "playstation trophies"
+      },
+      {
+        "id": 4297,
+        "name": "protagonist\u0027s name in the title"
+      },
+      {
+        "id": 4449,
+        "name": "isometric viewpoint"
+      },
+      {
+        "id": 4492,
+        "name": "non-humanoid protagonist"
+      },
+      {
+        "id": 4615,
+        "name": "profanity"
+      },
+      {
+        "id": 4754,
+        "name": "single-screen level"
+      },
+      {
+        "id": 4958,
+        "name": "game over"
+      },
+      {
+        "id": 5436,
+        "name": "cheat code"
+      },
+      {
+        "id": 5543,
+        "name": "moai head"
+      },
+      {
+        "id": 5801,
+        "name": "temporary invincibility"
+      },
+      {
+        "id": 5806,
+        "name": "never-ending"
+      },
+      {
+        "id": 6365,
+        "name": "porting"
+      },
+      {
+        "id": 7028,
+        "name": "adapted into television"
+      },
+      {
+        "id": 8236,
+        "name": "platform"
+      },
+      {
+        "id": 9935,
+        "name": "gibberish"
+      },
+      {
+        "id": 10211,
+        "name": "record breakers"
+      },
+      {
+        "id": 11247,
+        "name": "sixaxis support"
+      },
+      {
+        "id": 14006,
+        "name": "intermission"
+      }
+    ],
+    "name": "Q*bert",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view"
+      },
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "popularity": 1.433353933432252,
+    "screenshots": [
+      {
+        "id": 2246,
+        "game": 1980,
+        "height": 499,
+        "image_id": "klxfadpqmfrqj3qb5odr",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/klxfadpqmfrqj3qb5odr.jpg",
+        "width": 610
+      }
+    ],
+    "slug": "q-bert",
+    "storyline": "Q*bert is primarily a puzzle game where the title character must alter the colour of each cube in a pyramid by jumping on it, while avoiding the various monsters that seek to get in his way. No significant story was developed for the game, partly due to the original inception as an arcade game.",
+    "summary": "Q*bert was a popular arcade game that was released on a large number of consoles in the early 1980s. It was developed and published by Gottlieb, and became their most successful game. The concept serves as a precursor to the isometric platformer genre, where the title character must work to turn all cubes to a certain colour in a psuedo-3D world, made 3D through isometric graphics in the same way that the Penrose Stairs was made. The game was widely successful and has become a highly recognizable brand of the 1980s gaming era."
+  }
+]

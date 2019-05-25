@@ -1,0 +1,116 @@
+[
+  {
+    "id": 10908,
+    "cover": {
+      "id": 10364,
+      "game": 10908,
+      "height": 640,
+      "image_id": "ti1upyw1gkpr3jtot8x9",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/ti1upyw1gkpr3jtot8x9.jpg",
+      "width": 640
+    },
+    "first_release_date": 931996800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 18,
+        "name": "battlemech"
+      },
+      {
+        "id": 25,
+        "name": "vehicular combat"
+      },
+      {
+        "id": 107,
+        "name": "fighting"
+      },
+      {
+        "id": 151,
+        "name": "medieval"
+      },
+      {
+        "id": 167,
+        "name": "mech"
+      },
+      {
+        "id": 296,
+        "name": "fantasy"
+      },
+      {
+        "id": 849,
+        "name": "mech combat"
+      },
+      {
+        "id": 923,
+        "name": "futuristic"
+      },
+      {
+        "id": 970,
+        "name": "sci-fi"
+      },
+      {
+        "id": 1025,
+        "name": "shooter"
+      },
+      {
+        "id": 1333,
+        "name": "online"
+      },
+      {
+        "id": 3627,
+        "name": "vehicle combat"
+      }
+    ],
+    "name": "Frame Gride",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.421821754560315,
+    "slug": "frame-gride",
+    "summary": "From Software\u0027s attempt to create a fantasy-themed take on Armored Core. The first game of it\u0027s type to feature online multiplayer for a console, years before Armored Core would include it.",
+    "videos": [
+      {
+        "id": 13002,
+        "game": 10908,
+        "name": "Game intro",
+        "video_id": "a9nqeW3RZkM"
+      },
+      {
+        "id": 13003,
+        "game": 10908,
+        "name": "Gameplay video",
+        "video_id": "K8KYS2pDuX4"
+      }
+    ]
+  }
+]

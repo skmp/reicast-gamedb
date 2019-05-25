@@ -1,0 +1,25 @@
+[
+  {
+    "id": 46368,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 296,
+        "name": "fantasy"
+      },
+      {
+        "id": 1025,
+        "name": "shooter"
+      }
+    ],
+    "name": "Rainbow Cotton",
+    "popularity": 1.0,
+    "slug": "rainbow-cotton",
+    "summary": "Rainbow Cotton is an Action game, developed and published by Success, which was released in Japan in 2000."
+  }
+]

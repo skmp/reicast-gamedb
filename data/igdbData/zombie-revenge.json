@@ -1,0 +1,242 @@
+[
+  {
+    "id": 24798,
+    "age_ratings": [
+      {
+        "id": 13482,
+        "rating": 11
+      }
+    ],
+    "cover": {
+      "id": 17906,
+      "game": 24798,
+      "height": 287,
+      "image_id": "cd0yvmouffbip0tmcgta",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cd0yvmouffbip0tmcgta.jpg",
+      "width": 222
+    },
+    "first_release_date": 946598400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 5,
+        "name": "zombies"
+      },
+      {
+        "id": 69,
+        "name": "post-apocalyptic"
+      },
+      {
+        "id": 339,
+        "name": "survival"
+      },
+      {
+        "id": 488,
+        "name": "guitar"
+      },
+      {
+        "id": 558,
+        "name": "death"
+      },
+      {
+        "id": 1027,
+        "name": "adventure"
+      },
+      {
+        "id": 1120,
+        "name": "horror"
+      },
+      {
+        "id": 1186,
+        "name": "multiple protagonists"
+      },
+      {
+        "id": 1299,
+        "name": "time limit"
+      },
+      {
+        "id": 1313,
+        "name": "multiple endings"
+      },
+      {
+        "id": 2137,
+        "name": "melee combat"
+      },
+      {
+        "id": 2152,
+        "name": "high score"
+      },
+      {
+        "id": 3270,
+        "name": "flamethrower"
+      },
+      {
+        "id": 3486,
+        "name": "boss fight"
+      },
+      {
+        "id": 4161,
+        "name": "jump"
+      },
+      {
+        "id": 4185,
+        "name": "health pack"
+      },
+      {
+        "id": 4246,
+        "name": "bullet"
+      },
+      {
+        "id": 4374,
+        "name": "pipe"
+      },
+      {
+        "id": 4508,
+        "name": "knife"
+      },
+      {
+        "id": 4525,
+        "name": "third-person perspective"
+      },
+      {
+        "id": 4571,
+        "name": "shotgun"
+      },
+      {
+        "id": 4572,
+        "name": "rocket launcher"
+      },
+      {
+        "id": 4613,
+        "name": "non-player character"
+      },
+      {
+        "id": 4660,
+        "name": "pistol"
+      },
+      {
+        "id": 4661,
+        "name": "gatling gun"
+      },
+      {
+        "id": 4903,
+        "name": "grapple"
+      },
+      {
+        "id": 4991,
+        "name": "secret area"
+      },
+      {
+        "id": 5116,
+        "name": "laser"
+      },
+      {
+        "id": 5501,
+        "name": "meat"
+      },
+      {
+        "id": 5617,
+        "name": "gasoline can"
+      },
+      {
+        "id": 5775,
+        "name": "grenade"
+      },
+      {
+        "id": 5941,
+        "name": "weapons swap"
+      },
+      {
+        "id": 6005,
+        "name": "taser"
+      },
+      {
+        "id": 6380,
+        "name": "undead invasion"
+      },
+      {
+        "id": 6419,
+        "name": "compact disc"
+      },
+      {
+        "id": 6716,
+        "name": "dual wielding"
+      },
+      {
+        "id": 6718,
+        "name": "proximity mines"
+      },
+      {
+        "id": 7092,
+        "name": "run \u0027n gun"
+      },
+      {
+        "id": 7447,
+        "name": "giant axe"
+      },
+      {
+        "id": 8130,
+        "name": "uzi"
+      },
+      {
+        "id": 11391,
+        "name": "rebar"
+      },
+      {
+        "id": 11631,
+        "name": "vmu support"
+      }
+    ],
+    "name": "Zombie Revenge",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.0,
+    "screenshots": [
+      {
+        "id": 32453,
+        "game": 24798,
+        "height": 287,
+        "image_id": "ao4altraiklpgyfxwtqm",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ao4altraiklpgyfxwtqm.jpg",
+        "width": 222
+      }
+    ],
+    "slug": "zombie-revenge",
+    "summary": "A 3D beat\u0027em up released as an Arcade and later ported to Dreamcast. It served as a House of the Dead spin-off, where players had to take down hordes of zombies and monsters using not only their fists, but also melee and ranged weapons.",
+    "videos": [
+      {
+        "id": 10189,
+        "game": 24798,
+        "name": "Gameplay video",
+        "video_id": "ne37UXflHqw"
+      }
+    ]
+  }
+]

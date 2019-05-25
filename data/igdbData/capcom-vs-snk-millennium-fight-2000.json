@@ -1,0 +1,142 @@
+[
+  {
+    "id": 39593,
+    "age_ratings": [
+      {
+        "id": 19331,
+        "rating": 10
+      }
+    ],
+    "cover": {
+      "id": 25347,
+      "game": 39593,
+      "height": 1095,
+      "image_id": "p8by2emrnflufblckiay",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/p8by2emrnflufblckiay.jpg",
+      "width": 850
+    },
+    "first_release_date": 949363200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 61,
+        "name": "martial arts"
+      },
+      {
+        "id": 107,
+        "name": "fighting"
+      },
+      {
+        "id": 301,
+        "name": "health"
+      },
+      {
+        "id": 872,
+        "name": "shadow"
+      },
+      {
+        "id": 1075,
+        "name": "crossover"
+      },
+      {
+        "id": 1231,
+        "name": "karate"
+      },
+      {
+        "id": 1682,
+        "name": "spin-off"
+      },
+      {
+        "id": 2152,
+        "name": "high score"
+      },
+      {
+        "id": 3486,
+        "name": "boss fight"
+      },
+      {
+        "id": 4161,
+        "name": "jump"
+      },
+      {
+        "id": 4181,
+        "name": "company name in title"
+      },
+      {
+        "id": 4417,
+        "name": "claw"
+      },
+      {
+        "id": 4650,
+        "name": "year in the title"
+      },
+      {
+        "id": 4804,
+        "name": "tag teaming"
+      },
+      {
+        "id": 4891,
+        "name": "melee"
+      },
+      {
+        "id": 4942,
+        "name": "release upgrade"
+      },
+      {
+        "id": 5201,
+        "name": "shun goku satsu"
+      },
+      {
+        "id": 5354,
+        "name": "combo"
+      },
+      {
+        "id": 5894,
+        "name": "hadouken"
+      },
+      {
+        "id": 5917,
+        "name": "muay thai"
+      },
+      {
+        "id": 5918,
+        "name": "ansatsuken"
+      },
+      {
+        "id": 5920,
+        "name": "fingerless gloves"
+      },
+      {
+        "id": 6100,
+        "name": "mirror match"
+      },
+      {
+        "id": 6784,
+        "name": "super meter"
+      },
+      {
+        "id": 8874,
+        "name": "kunoichi"
+      }
+    ],
+    "name": "Capcom Vs. SNK: Millennium Fight 2000",
+    "popularity": 2.062321239981735,
+    "slug": "capcom-vs-snk-millennium-fight-2000",
+    "summary": "Two of the worlds greatest arcade fighter developers, Capcom and SNK, join forces to finally answer the question asked by many for years: Who is the dominant fighter? \n \nA range of fighters from both worlds are available to choose from, with two different fighting styles (Capcom and SNK, of course) meaning that players of both worlds can fit into the game easily, while new gamers can try Ryu using the SNK format."
+  }
+]

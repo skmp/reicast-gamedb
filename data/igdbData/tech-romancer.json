@@ -1,0 +1,83 @@
+[
+  {
+    "id": 39313,
+    "age_ratings": [
+      {
+        "id": 19132,
+        "rating": 10
+      }
+    ],
+    "cover": {
+      "id": 25226,
+      "game": 39313,
+      "height": 1654,
+      "image_id": "eodvhownr1ncav8ycp5h",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/eodvhownr1ncav8ycp5h.jpg",
+      "width": 1263
+    },
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 67,
+        "name": "robot"
+      },
+      {
+        "id": 78,
+        "name": "anime"
+      },
+      {
+        "id": 107,
+        "name": "fighting"
+      },
+      {
+        "id": 167,
+        "name": "mech"
+      },
+      {
+        "id": 227,
+        "name": "sword"
+      },
+      {
+        "id": 301,
+        "name": "health"
+      },
+      {
+        "id": 970,
+        "name": "sci-fi"
+      },
+      {
+        "id": 4294,
+        "name": "game title announcer"
+      },
+      {
+        "id": 4359,
+        "name": "polygonal 3d"
+      },
+      {
+        "id": 5354,
+        "name": "combo"
+      },
+      {
+        "id": 6073,
+        "name": "super robot"
+      },
+      {
+        "id": 10714,
+        "name": "blodia"
+      },
+      {
+        "id": 11631,
+        "name": "vmu support"
+      }
+    ],
+    "name": "Tech Romancer",
+    "popularity": 1.0,
+    "slug": "tech-romancer",
+    "summary": "Tech Romancer (Japanese: 超鋼戦紀キカイオー Hepburn: Chōkō Senki Kikaiōh?, \"Chronicle of Super Steel Warrior Kikaioh\") is a 1998 3D fighting arcade game by Capcom that draws heavily from the various subgenres of mecha anime. It has been ported to the Dreamcast console. The player controls a giant robot which is used to fight another robot in one-on-one combat. Studio Nue (the animation studio responsible for the mechanical designs for many anime series including The Super Dimension Fortress Macross, Gunbuster, and Mobile Suit Gundam 0083: Stardust Memory) designed the robots in this game."
+  }
+]

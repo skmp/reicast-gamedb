@@ -1,0 +1,148 @@
+[
+  {
+    "id": 143,
+    "age_ratings": [
+      {
+        "id": 15771,
+        "rating": 10
+      }
+    ],
+    "aggregated_rating": 40.0,
+    "aggregated_rating_count": 1,
+    "cover": {
+      "id": 142,
+      "game": 143,
+      "height": 646,
+      "image_id": "swaoo7lk3fqghefhio8e",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/swaoo7lk3fqghefhio8e.jpg",
+      "width": 500
+    },
+    "first_release_date": 973987200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 25,
+        "name": "vehicular combat"
+      },
+      {
+        "id": 970,
+        "name": "sci-fi"
+      },
+      {
+        "id": 3627,
+        "name": "vehicle combat"
+      },
+      {
+        "id": 3919,
+        "name": "mounts"
+      },
+      {
+        "id": 4157,
+        "name": "driving/racing"
+      },
+      {
+        "id": 4210,
+        "name": "split-screen multiplayer"
+      },
+      {
+        "id": 4929,
+        "name": "wampa"
+      },
+      {
+        "id": 4935,
+        "name": "lightsaber"
+      },
+      {
+        "id": 5357,
+        "name": "galactic civil war"
+      },
+      {
+        "id": 6061,
+        "name": "e3 2000"
+      },
+      {
+        "id": 6373,
+        "name": "exploding vehicles"
+      },
+      {
+        "id": 8840,
+        "name": "divinity explained by aliens"
+      },
+      {
+        "id": 9297,
+        "name": "vehicle performance degradation"
+      },
+      {
+        "id": 9849,
+        "name": "redbook audio"
+      },
+      {
+        "id": 10726,
+        "name": "rancor"
+      },
+      {
+        "id": 12453,
+        "name": "at-at"
+      },
+      {
+        "id": 13951,
+        "name": "playstation underground"
+      }
+    ],
+    "name": "Star Wars: Demolition",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.0,
+    "screenshots": [
+      {
+        "id": 131269,
+        "game": 143,
+        "height": 270,
+        "image_id": "u8ltzjeekyfhrxc7bgjo",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/u8ltzjeekyfhrxc7bgjo.jpg",
+        "width": 480
+      },
+      {
+        "id": 131270,
+        "game": 143,
+        "height": 236,
+        "image_id": "asdtquaxpguqutrw2rau",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/asdtquaxpguqutrw2rau.jpg",
+        "width": 312
+      }
+    ],
+    "slug": "star-wars-demolition",
+    "summary": "Star Wars: Demolition is created by the same team that brought PlayStation owners Vigilante 8 and its sequel. The dangerous sport of Podracing has been outlawed by the Empire, but Jabba the Hutt has decided to devise an even more dangerous contest in order to provide entertainment, and more importantly, to gain a profit. Combatants from across the galaxy compete in familiar Star Wars locations, such as Tatooine, Hoth, Dagobah, Naboo and Cloud City. \n \nThe game was released on both PlayStation and Dreamcast consoles. The game was released on PlayStation on November 12, 2000 and on November 19, 2000 for Dreamcast.",
+    "videos": [
+      {
+        "id": 52,
+        "game": 143,
+        "name": "Trailer",
+        "video_id": "cn2HhkmPQPI"
+      }
+    ]
+  }
+]

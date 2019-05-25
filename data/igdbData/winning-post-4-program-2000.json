@@ -1,0 +1,46 @@
+[
+  {
+    "id": 63595,
+    "cover": {
+      "id": 37303,
+      "game": 63595,
+      "height": 640,
+      "image_id": "s4ysardfvnfjzkd2tvk4",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/s4ysardfvnfjzkd2tvk4.jpg",
+      "width": 640
+    },
+    "first_release_date": 953683200,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 623,
+        "name": "horse"
+      },
+      {
+        "id": 1148,
+        "name": "simulation"
+      },
+      {
+        "id": 3433,
+        "name": "horse riding"
+      },
+      {
+        "id": 4157,
+        "name": "driving/racing"
+      }
+    ],
+    "name": "Winning Post 4: Program 2000",
+    "popularity": 1.0,
+    "slug": "winning-post-4-program-2000",
+    "summary": "Winning Post comes to the Dreamcast for the first time (as well as returning to the PlayStation) with an update to Winning Post 4."
+  }
+]

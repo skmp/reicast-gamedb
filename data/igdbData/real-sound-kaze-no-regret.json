@@ -1,0 +1,69 @@
+[
+  {
+    "id": 66624,
+    "cover": {
+      "id": 48037,
+      "game": 66624,
+      "height": 424,
+      "image_id": "hcklyzgxinkuvsi5m9ls",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/hcklyzgxinkuvsi5m9ls.jpg",
+      "width": 500
+    },
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 94,
+        "name": "visual novel"
+      },
+      {
+        "id": 358,
+        "name": "dating"
+      },
+      {
+        "id": 846,
+        "name": "romance"
+      },
+      {
+        "id": 1027,
+        "name": "adventure"
+      },
+      {
+        "id": 2045,
+        "name": "love"
+      },
+      {
+        "id": 4287,
+        "name": "voice acting"
+      },
+      {
+        "id": 4541,
+        "name": "original soundtrack release"
+      },
+      {
+        "id": 5256,
+        "name": "loud ambient noises"
+      },
+      {
+        "id": 6291,
+        "name": "ambient wildlife"
+      },
+      {
+        "id": 6326,
+        "name": "ambient music"
+      },
+      {
+        "id": 9303,
+        "name": "audio game"
+      }
+    ],
+    "name": "Real Sound: Kaze no Regret",
+    "popularity": 1.0,
+    "slug": "real-sound-kaze-no-regret",
+    "summary": "A romantic audio game from Kenji Eno and WARP, makers of Enemy Zero and the D series. It is remarkable for using no visuals in its original release for the Saturn, and was marketed to both the blind and the sighted."
+  }
+]

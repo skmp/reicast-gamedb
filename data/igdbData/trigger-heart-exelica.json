@@ -1,0 +1,26 @@
+[
+  {
+    "id": 45850,
+    "cover": {
+      "id": 73330,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 45850,
+      "height": 1080,
+      "image_id": "co1kky",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1kky.jpg",
+      "width": 767
+    },
+    "first_release_date": 1174521600,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Trigger Heart Exelica",
+    "popularity": 1.844927699954813,
+    "slug": "trigger-heart-exelica",
+    "summary": "Trigger Heart Exelica is a vertical shoot-\u0027em-up game released exclusively in Japan for the Sega NAOMI and Sega Dreamcast. Being released in 2007 it remains one of the last officially licensed Dreamcast games to hit the market. A port on Xbox Live Arcade was eventually released internationally as Triggerheart Exelica."
+  }
+]

@@ -1,0 +1,280 @@
+[
+  {
+    "id": 47078,
+    "age_ratings": [
+      {
+        "id": 20088,
+        "rating": 11
+      }
+    ],
+    "cover": {
+      "id": 57161,
+      "game": 47078,
+      "height": 400,
+      "image_id": "nmqo75iwo4hcu1lvszny",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/nmqo75iwo4hcu1lvszny.jpg",
+      "width": 276
+    },
+    "first_release_date": 988329600,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 69,
+        "name": "post-apocalyptic"
+      },
+      {
+        "id": 79,
+        "name": "chainsaw"
+      },
+      {
+        "id": 129,
+        "name": "blood"
+      },
+      {
+        "id": 170,
+        "name": "time travel"
+      },
+      {
+        "id": 339,
+        "name": "survival"
+      },
+      {
+        "id": 350,
+        "name": "comedy"
+      },
+      {
+        "id": 558,
+        "name": "death"
+      },
+      {
+        "id": 687,
+        "name": "maze"
+      },
+      {
+        "id": 966,
+        "name": "puzzles"
+      },
+      {
+        "id": 1033,
+        "name": "action-adventure"
+      },
+      {
+        "id": 1120,
+        "name": "horror"
+      },
+      {
+        "id": 1289,
+        "name": "backtracking"
+      },
+      {
+        "id": 1320,
+        "name": "undead"
+      },
+      {
+        "id": 1322,
+        "name": "mutants"
+      },
+      {
+        "id": 1836,
+        "name": "survival horror"
+      },
+      {
+        "id": 2112,
+        "name": "mushroom"
+      },
+      {
+        "id": 2992,
+        "name": "no jumping"
+      },
+      {
+        "id": 3087,
+        "name": "one-man army"
+      },
+      {
+        "id": 3203,
+        "name": "darkness"
+      },
+      {
+        "id": 3815,
+        "name": "fixed camera"
+      },
+      {
+        "id": 4169,
+        "name": "male protagonists"
+      },
+      {
+        "id": 4185,
+        "name": "health pack"
+      },
+      {
+        "id": 4287,
+        "name": "voice acting"
+      },
+      {
+        "id": 4304,
+        "name": "toilet"
+      },
+      {
+        "id": 4319,
+        "name": "log"
+      },
+      {
+        "id": 4351,
+        "name": "demon invasion"
+      },
+      {
+        "id": 4359,
+        "name": "polygonal 3d"
+      },
+      {
+        "id": 4375,
+        "name": "bathtub"
+      },
+      {
+        "id": 4382,
+        "name": "games based on movies"
+      },
+      {
+        "id": 4398,
+        "name": "breaking the fourth wall"
+      },
+      {
+        "id": 4418,
+        "name": "door"
+      },
+      {
+        "id": 4419,
+        "name": "axe"
+      },
+      {
+        "id": 4428,
+        "name": "bed"
+      },
+      {
+        "id": 4525,
+        "name": "third-person perspective"
+      },
+      {
+        "id": 4582,
+        "name": "rain"
+      },
+      {
+        "id": 4594,
+        "name": "sink"
+      },
+      {
+        "id": 4611,
+        "name": "cutscene"
+      },
+      {
+        "id": 4612,
+        "name": "the locked door"
+      },
+      {
+        "id": 4614,
+        "name": "extreme violence"
+      },
+      {
+        "id": 4660,
+        "name": "pistol"
+      },
+      {
+        "id": 4708,
+        "name": "sandwich"
+      },
+      {
+        "id": 4709,
+        "name": "save point"
+      },
+      {
+        "id": 4738,
+        "name": "fence"
+      },
+      {
+        "id": 4891,
+        "name": "melee"
+      },
+      {
+        "id": 4958,
+        "name": "game over"
+      },
+      {
+        "id": 5153,
+        "name": "lawnmower"
+      },
+      {
+        "id": 5186,
+        "name": "couch"
+      },
+      {
+        "id": 5256,
+        "name": "loud ambient noises"
+      },
+      {
+        "id": 5542,
+        "name": "interactive environments"
+      },
+      {
+        "id": 5617,
+        "name": "gasoline can"
+      },
+      {
+        "id": 5714,
+        "name": "fireplace"
+      },
+      {
+        "id": 6061,
+        "name": "e3 2000"
+      },
+      {
+        "id": 6394,
+        "name": "crowbar"
+      },
+      {
+        "id": 6417,
+        "name": "sawed-off shotgun"
+      },
+      {
+        "id": 6837,
+        "name": "trap door"
+      },
+      {
+        "id": 6936,
+        "name": "necronomicon"
+      },
+      {
+        "id": 7065,
+        "name": "generator"
+      },
+      {
+        "id": 7393,
+        "name": "rocking chair"
+      },
+      {
+        "id": 7695,
+        "name": "biscuit"
+      },
+      {
+        "id": 8180,
+        "name": "crank"
+      },
+      {
+        "id": 9344,
+        "name": "pre-rendered backgrounds"
+      },
+      {
+        "id": 10149,
+        "name": "tank controls"
+      }
+    ],
+    "name": "Evil Dead: Hail to the King",
+    "popularity": 1.0,
+    "slug": "evil-dead-hail-to-the-king",
+    "summary": "Chainsaws, boomsticks, and Deadites, oh my! Slice and dice the undead with a weapon in each hand. Fight evil across the spans of time: from the infamous cabin to ancient Damascus. Over 20 evil, grisly Deadites attempt to swallow your soul! Best of all... Bruce Campbell as Ash!"
+  }
+]
