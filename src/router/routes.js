@@ -4,16 +4,19 @@ const routes = [
     path: '/',
     component: () => import('layouts/MainLayout.vue'),
     children: [
-      { path: '', component: () => import('pages/Index.vue') }
+      { path: '', component: () => import('pages/Games.vue') }
     ]
   },
   {
-    path: '/game/:id',
+    path: '/games/:id',
     component: () => import('layouts/MainLayout.vue'),
     children: [
       { path: '', component: () => import('pages/Game.vue') },
       { path: 'reports', component: () => import('pages/GameReports.vue') }
-    ]
+    ],
+    meta: {
+      isGame: true
+    }
   }
 ]
 

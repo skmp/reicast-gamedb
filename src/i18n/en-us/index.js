@@ -41,5 +41,11 @@ export default {
       url: 'https://www.facebook.com/reicastdc',
       icon: 'fab fa-facebook'
     }
-  }
+  },
+  gamesIndexTitle: 'Games Database Table',
+  game: 'Game',
+  categories: 'Categories',
+  first_release_date: 'Released',
+  'status-tests': 'Status (tests)',
+  popularity: 'Popularity'
 }
