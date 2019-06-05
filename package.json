@@ -8,7 +8,8 @@
   "private": true,
   "scripts": {
     "lint": "eslint --ext .js,.vue src",
-    "makeData": "node -e 'require(\"./mergedData2JSON\").data2JSON()'",
+    "makeData": "node -e 'require(\"./makeData\").mergedData2JSON()'",
+    "makeListData": "node -e 'require(\"./makeData\").data2IndexList()'",
     "test": "echo \"No test specified\" && exit 0"
   },
   "dependencies": {
