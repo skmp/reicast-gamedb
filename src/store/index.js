@@ -2,6 +2,7 @@ import Vue from 'vue'
 import Vuex from 'vuex'
 
 import example from './module-example'
+import routing from './routing'
 
 Vue.use(Vuex)
 
@@ -10,12 +11,9 @@ Vue.use(Vuex)
  * directly export the Store instantiation
  */
 
-export default function (/* { ssrContext } */) {
-  const Store = new Vuex.Store({
-    modules: {
-      example
-    }
-  })
-
-  return Store
-}
+export default new Vuex.Store({
+  modules: {
+    example,
+    routing
+  }
+})
