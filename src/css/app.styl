@@ -1,1 +1,131 @@
-// app global css
+*
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+
+body
+  margin:0!important;
+  min-height: 275px;
+  min-width: 300px;
+  scrollbar-width: none!important; /* Firefox */
+  -ms-overflow-style: none!important;  /* IE 10+ */
+  resize: none;
+
+::-webkit-scrollbar /* WebKit */
+  width: 0!important;
+  height: 0!important;
+  background: transparent;
+
+::-webkit-resizer
+  display: none;
+  -webkit-appearance: none;
+
+textarea
+  resize: none;
+
+#app
+  width: 100%;
+  height: 100%;
+  font-family: 'Oswald';
+  font-weight: 300;
+  color: #333333;
+  background-color: #fff;
+  overflow-x: hidden;
+
+html
+  width: 100%;
+  height: 100%;
+
+p
+  margin: 15px;
+
+section.contact
+  color: #666;
+
+.section-heading
+  margin-bottom: 1.5em;
+
+.btn:hover, .btn:focus
+  outline: none;
+
+
+.centered
+  resize: vertical;
+  overflow: inherit;
+
+.center
+  text-align: center;
+  overflow: inherit;
+
+
+.page-scroll
+  text-align: center;
+
+
+@media screen and (max-width: 575px)
+  h2
+    font-size: 26px;
+
+
+@media screen and (min-width: 768px) and (max-width: 991px)
+  h2
+    font-size: 42px;
+
+
+@media (max-height: 499px)
+  body
+    font-size: 14px;
+
+  footer .btn-circle
+    width: 28px;
+    height: 28px;
+    margin-top: 0;
+    padding: 1px 0;
+    font-size: 13px;
+
+@media (min-height: 499px) and (max-height: 599px)
+  body
+    font-size: 15px;
+
+  footer .btn-circle
+    width: 38px;
+    height: 38px;
+    margin-top: 0;
+    padding: 4px 0;
+    font-size: 15px;
+
+@media (max-height: 299px)
+  .hidden-xsh
+    display: none;
+
+  .about .section-heading
+    display: none;
+
+  h2
+    font-size: 22px;
+
+.fade-enter-active,
+.fade-leave-active
+  transition: opacity 1.3s ease;
+
+.fade-enter,
+.fade-leave-to
+  opacity: 0
+
+.spin
+  animation: spin;
+  animation-duration: 5s;
+  animation-iteration-count: 1;
+
+@keyframes spin
+  0%
+    transform: rotate(0deg)
+
+  100%
+    transform: rotate(3600deg)
+
+@keyframes shadow-pulse
+  0%
+    box-shadow: 0 0 0 0px rgba(0, 0, 0, 0.2);
+  100%
+    box-shadow: 0 0 0 35px rgba(0, 0, 0, 0);

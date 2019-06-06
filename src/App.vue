@@ -1,6 +1,8 @@
 <template>
   <div id="q-app">
-    <router-view />
+    <transition name="fade" mode="out-in">
+      <router-view />
+    </transition>
   </div>
 </template>
 
@@ -9,6 +11,19 @@ import { metaTags, linkTags, DESCRIPTION } from './constants/head'
 
 export default {
   name: 'App',
+  created () {
+    window.addEventListener('resize', this.handleResize)
+    this.handleResize()
+  },
+  destroyed () {
+    window.removeEventListener('resize', this.handleResize)
+  },
+  methods: {
+    handleResize () {
+      this.$store.commit('heightResize', window.innerHeight)
+      this.$store.commit('widthResize', window.innerWidth)
+    }
+  },
   mounted () {
     // to be later moved into a more complete 'meta instantiation' method in head.js directly
     metaTags.push({
@@ -34,6 +49,3 @@ export default {
   }
 }
 </script>
-
-<style>
-</style>

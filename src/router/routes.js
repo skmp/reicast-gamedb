@@ -2,14 +2,18 @@
 const routes = [
   {
     path: '/',
-    component: () => import('layouts/MainLayout.vue'),
+    component: () => import('layouts/Jadzia.vue'),
     children: [
-      { path: '', component: () => import('pages/Games.vue') }
+      { path: '', component: () => import('pages/Index.vue') }
     ]
   },
   {
+    path: '/games',
+    component: () => import('pages/Games.vue')
+  },
+  {
     path: '/games/:id',
-    component: () => import('layouts/MainLayout.vue'),
+    component: () => import('layouts/Jadzia.vue'),
     children: [
       { path: '', component: () => import('pages/Game.vue') },
       { path: 'reports', component: () => import('pages/GameReports.vue') }
