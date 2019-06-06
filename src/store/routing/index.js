@@ -8,7 +8,7 @@ const mutations = {
 }
 
 const state = () => ({
-  currentGame: null
+  currentGame: {}
 })
 
 export default {

@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
 
-import example from './module-example'
+import window from './window/'
 import routing from './routing'
 
 Vue.use(Vuex)
@@ -13,7 +13,7 @@ Vue.use(Vuex)
 
 export default new Vuex.Store({
   modules: {
-    example,
+    window,
     routing
   }
 })
