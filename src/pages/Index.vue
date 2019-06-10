@@ -70,4 +70,7 @@ export default {
     animation: shadow-pulse 1s infinite;
     animation-delay: 5s;
   }
+  .home .centered {
+    overflow: visible;
+  }
 </style>

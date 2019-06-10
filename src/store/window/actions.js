@@ -79,6 +79,18 @@ const actions = {
         '.section')
     }
     return active
+  },
+  scrollPageToFromClick ({ commit, dispatch }, to) {
+    commit('setScroll', {
+      active: null
+    })
+    dispatch(
+      'scrollPageTo',
+      {
+        to: to,
+        duration: 2000
+      }
+    )
   }
 }
 

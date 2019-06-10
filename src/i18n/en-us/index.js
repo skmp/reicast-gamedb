@@ -1,3 +1,4 @@
+import { SECTION_CLASSES } from '../../constants/general'
 export default {
   app: {
     name: 'Reicast db',
@@ -47,8 +48,20 @@ export default {
   },
   gamesIndexTitle: 'Games Database Table',
   game: 'Game',
+  gamePage: {
+    [SECTION_CLASSES.OVERVIEW]: 'overview',
+    [SECTION_CLASSES.SCREENSHOTS]: 'screenshots',
+    [SECTION_CLASSES.VIDEOS]: 'videos',
+    [SECTION_CLASSES.TESTS]: 'tests',
+    [SECTION_CLASSES.TEST_VIDEOS]: 'video test runs',
+    [SECTION_CLASSES.CHEAT_SHEETS]: 'cheatsheets'
+  },
   categories: 'Categories',
   first_release_date: 'Released',
   'status-tests': 'Status (tests)',
-  popularity: 'Popularity'
+  popularity: 'Popularity',
+  game_modes: 'Game Modes',
+  player_perspectives: 'Player Perspectives',
+  already_here: 'Hey, you are already here!',
+  navigation_already_in_progress: 'Navigation is already in progress!'
 }

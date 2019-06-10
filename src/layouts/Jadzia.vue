@@ -62,12 +62,12 @@ export default {
     },
     getScrollToNext () {
       let next = null
-      const worksCount = this.sections.length
+      let worksCount = this.sections.length
       const active = this.scrollStatus.active
       if (active === worksCount) {
         next = -1
       } else if (active !== worksCount) {
-        next = `.${this.pageClass}.${this.sections[active]}`
+        next = `.${this.sections[active + 1]}`
       }
       return next
     },
@@ -77,7 +77,7 @@ export default {
       if (active === 1) {
         prev = 0
       } else if (active !== 0) {
-        prev = `.${this.pageClass}.${this.sections[active - 2]}`
+        prev = `.${this.sections[active - 1]}`
       }
       return prev
     }

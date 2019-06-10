@@ -5,7 +5,7 @@
 
       <div v-if="heading" :class="headingClass">
         <slot name="heading">
-          <div class="centered">
+          <div class="heading centered">
             <div class="section-heading">
               <h2>
                 {{ title }}
@@ -41,14 +41,14 @@ export default {
     },
     height: {
       type: [ Number, String ],
-      default: 0,
+      default: 1,
       validator: function (value) {
         return value >= 0 && value <= 1
       }
     },
     width: {
       type: [ Number, String ],
-      default: 0,
+      default: 1,
       validator: function (value) {
         return value >= 0 && value <= 1
       }
@@ -56,7 +56,7 @@ export default {
   },
   data () {
     return {
-      headingClass: `heading-${this.sectionId}`
+      headingClass: `heading-${this.sectionClass}`
     }
   },
   computed: {
@@ -111,6 +111,6 @@ export default {
     flex-direction: column;
     justify-content: center;
     resize: vertical;
-    overflow: auto;
+    overflow: hidden;
   }
 </style>
