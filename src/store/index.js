@@ -3,6 +3,7 @@ import Vuex from 'vuex'
 
 import window from './window/'
 import routing from './routing'
+import games from './gameList'
 
 Vue.use(Vuex)
 
@@ -14,6 +15,7 @@ Vue.use(Vuex)
 export default new Vuex.Store({
   modules: {
     window,
-    routing
+    routing,
+    games
   }
 })
