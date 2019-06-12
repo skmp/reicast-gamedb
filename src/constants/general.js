@@ -7,6 +7,7 @@ export const GOOGLE_REPORT_FORM =
   'https://docs.google.com/forms/d/e/1FAIpQLSfCfkQUzPD89abWhkcB2hAjKaZJffZps4-q8b0EG26vpBf_Lw/viewform?entry.316024931='
 export const SECTION_CLASSES = {
   OVERVIEW: 'overview',
+  INFO: 'info',
   SCREENSHOTS: 'screenshots',
   VIDEOS: 'videos',
   TESTS: 'game-tests',

@@ -3,6 +3,8 @@
     <MainNavigation :menuItems="menuItems" />
     <game-overview :section-class="sectionClasses.OVERVIEW"
                    :status="gameListData.status"/>
+    <info v-if="infoAlias"
+          :section-class="sectionClasses.INFO" />
     <gallery v-if="screenshotsAlias"
              :objectKey="sectionClasses.SCREENSHOTS"/>
     <videos v-if="videosAlias"
@@ -21,6 +23,7 @@
 import { DESCRIPTION } from '../constants/head'
 import MainNavigation from '../components/TopNavbar'
 import GameOverview from '../components/GameOverview'
+import Info from '../components/Info'
 import Gallery from '../components/Gallery'
 import Videos from '../components/Videos'
 import Tests from '../components/Tests'
@@ -32,6 +35,7 @@ export default {
   components: {
     MainNavigation,
     GameOverview,
+    Info,
     Gallery,
     Videos,
     Tests,
@@ -62,6 +66,9 @@ export default {
     gameListData () {
       return this.$store.state.games.filter(game => game.id === this.gameData.id)[0]
     },
+    infoAlias () {
+      return this[SECTION_CLASSES.INFO]
+    },
     screenshotsAlias () {
       return this[SECTION_CLASSES.SCREENSHOTS]
     },
@@ -73,6 +80,9 @@ export default {
     },
     [SECTION_CLASSES.SCREENSHOTS] () {
       return this.gameData[SECTION_CLASSES.SCREENSHOTS]
+    },
+    [SECTION_CLASSES.INFO] () {
+      return this.gameData.releases.length
     },
     [SECTION_CLASSES.VIDEOS] () {
       return this.gameData[SECTION_CLASSES.VIDEOS]

@@ -51,6 +51,7 @@ export default {
   game: 'Game',
   gamePage: {
     [SECTION_CLASSES.OVERVIEW]: 'overview',
+    [SECTION_CLASSES.INFO]: 'info',
     [SECTION_CLASSES.SCREENSHOTS]: 'screenshots',
     [SECTION_CLASSES.VIDEOS]: 'videos',
     [SECTION_CLASSES.TESTS]: 'tests',
