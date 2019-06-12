@@ -13,15 +13,15 @@
           autoplay
           infinite
           quick-nav>
-          <q-carousel-slide  v-for="(shot, i) in game[objectKey]"
-                             :name="`Shot ${i + 1}`"
-                             :key="i"
-                             :selected="i === 0">
+          <q-carousel-slide
+            v-for="(shot, i) in game[objectKey]"
+            :name="`Shot ${i + 1}`"
+            :key="i">
 
             <img overlay-position="full"
                  itemprop="url"
                  :style="playerHeightStyle"
-                 :src="getBigScreenshotUrl(shot.url)"
+                 :src="getScreenShotUrl(shot.url)"
                  :title="`${game.title} - ${objectKey}-${i}`"
                  :alt="`${game.title} - ${objectKey}-${i}`">
           </q-carousel-slide>
@@ -34,6 +34,7 @@
 
 <script>
 import SectionComponent from './Section.vue'
+import { getImage } from '../utils/gameHelpers'
 
 export default {
   components: { SectionComponent },
@@ -58,8 +59,11 @@ export default {
     }
   },
   methods: {
-    getBigScreenshotUrl (url, size = 'screenshot') {
-      return url.replace('t_thumb', `t_${size}_big`)
+    getScreenShotUrl (url, size = 'screenshot_huge') {
+      if (this.$q.platform.is.mobile) {
+        size = 'screenshot_big'
+      }
+      return getImage(url, size)
     }
   }
 }
