@@ -96,7 +96,11 @@ export default {
       return `height: ${this.height * multiplier}px;`
     },
     logoBgStyle () {
-      const imageUrl = getImage(this.game.cover[0].url, 'cover_big')
+      let imageUrl = null
+      if (this.game.cover) {
+        imageUrl = this.game.cover[0].url
+      }
+      imageUrl = getImage(imageUrl, 'cover_big')
       return `background: #04575d url(${imageUrl}) no-repeat center;`
     },
     logoStyle () {
