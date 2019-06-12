@@ -22,8 +22,9 @@ module.exports = function (ctx) {
     ],
     supportIE: true,
     build: {
+      distDir: path.join(__dirname, 'docs/'),
       scopeHoisting: true,
-      vueRouterMode: 'history',
+      // vueRouterMode: 'history',
       // vueCompiler: true,
       // gzip: true,
       // analyze: true,
@@ -38,7 +39,7 @@ module.exports = function (ctx) {
         cfg.plugins.push(
           new PrerenderSpaPlugin({
             staticDir:
-              path.join(__dirname, 'dist/' + ctx.modeName + '-' + ctx.themeName),
+              path.join(__dirname, 'docs/' + ctx.modeName + '-' + ctx.themeName),
             routes: routes,
             renderer: new Renderer({
               captureAfterElementExists: "meta[name='description']"

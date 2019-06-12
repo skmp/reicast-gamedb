@@ -91,3 +91,22 @@ function getStrFieldValue (val, defValue = null) {
   }
   return defValue
 }
+
+module.exports.setRoutes = function () {
+  let gamePath
+  let routes = [
+    '/',
+    '/games'
+  ]
+  fs.readdir(inputFolder, (err, files) => {
+    files.forEach(file => {
+      if (err) {
+        console.log(err)
+      }
+      gamePath = `/games/${file.replace('.md', '')}`
+      routes.push(gamePath)
+    })
+    fs.writeFileSync('src/constants/routes.js', JSON.stringify(routes, null, 2))
+  })
+
+}

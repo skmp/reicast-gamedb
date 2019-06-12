@@ -6,7 +6,7 @@
       <i class="fas fa-bars"></i>
     </span>
 
-      <a class="navbar-brand" href="/games">
+      <a class="navbar-brand" @click="$router.push('/games')" href="#">
         <h1>{{ $t('app.name') }}</h1>
       </a>
       <span class="navbar-active">
