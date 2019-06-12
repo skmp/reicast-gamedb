@@ -19,6 +19,7 @@
                    @click.native="openURL($t(link.url))"/>
           </div>
         </div>
+        <p>{{ $t('igdb_attribution') }}</p>
       </div>
     </template>
   </section-component>
