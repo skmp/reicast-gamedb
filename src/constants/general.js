@@ -1,3 +1,4 @@
+export const SITE_URL = 'http://gamedb.reicast.com'
 export const SMALL_COVER_PLACEHOLDER = '/statics/icons/icon-128x128.png'
 export const LARGE_COVER_PLACEHOLDER = '/statics/reicast-logo.png'
 export const UNTESTED_LABEL = 'Untested'
@@ -10,6 +11,7 @@ export const SECTION_CLASSES = {
   VIDEOS: 'videos',
   TESTS: 'game-tests',
   TEST_VIDEOS: 'test-videos',
+  DISCUSS: 'discuss',
   CHEAT_SHEETS: 'cheat-sheets'
 }
 export const GAME_STATUSES = {

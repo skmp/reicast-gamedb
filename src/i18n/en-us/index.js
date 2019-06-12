@@ -55,6 +55,7 @@ export default {
     [SECTION_CLASSES.VIDEOS]: 'videos',
     [SECTION_CLASSES.TESTS]: 'tests',
     [SECTION_CLASSES.TEST_VIDEOS]: 'automated tests',
+    [SECTION_CLASSES.DISCUSS]: 'discuss',
     [SECTION_CLASSES.CHEAT_SHEETS]: 'cheatsheets'
   },
   categories: 'Categories',

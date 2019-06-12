@@ -13,15 +13,18 @@
     <videos v-if="testVideosAlias"
             videoKey="yt"
             :objectKey="sectionClasses.TEST_VIDEOS"/>
+    <discuss :game-i-d="gameData.slug"
+             :section-class="sectionClasses.DISCUSS"/>
   </div>
 </template>
 <script>
 import { DESCRIPTION } from '../constants/head'
-import MainNavigation from '../components/TopNavbar.vue'
-import GameOverview from '../components/GameOverview.vue'
-import Gallery from '../components/Gallery.vue'
-import Videos from '../components/Videos.vue'
-import Tests from '../components/Tests.vue'
+import MainNavigation from '../components/TopNavbar'
+import GameOverview from '../components/GameOverview'
+import Gallery from '../components/Gallery'
+import Videos from '../components/Videos'
+import Tests from '../components/Tests'
+import Discuss from '../components/Discuss'
 import { SECTION_CLASSES } from '../constants/general'
 
 export default {
@@ -31,7 +34,8 @@ export default {
     GameOverview,
     Gallery,
     Videos,
-    Tests
+    Tests,
+    Discuss
   },
   mounted () {
     this.$store.commit('setPageClass', this.gameData.slug)
@@ -44,7 +48,8 @@ export default {
     return {
       sectionClasses: SECTION_CLASSES,
       [SECTION_CLASSES.OVERVIEW]: true,
-      [SECTION_CLASSES.TESTS]: true
+      [SECTION_CLASSES.TESTS]: true,
+      [SECTION_CLASSES.DISCUSS]: true
     }
   },
   computed: {
@@ -102,6 +107,7 @@ export default {
     }
   },
   metaInfo () {
+    // TODO: generate and feed appropriate meta desc, etc
     return {
       title: this.title,
       game: '',
