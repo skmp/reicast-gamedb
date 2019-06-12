@@ -13,24 +13,23 @@
                     quick-nav>
           <q-carousel-slide  v-for="(video, i) in game[objectKey]"
                              :name="`${$t(`gamePage.${objectKey}`)} ${i + 1}`"
-                             :key="i"
-                             :selected="i === 0">
+                             :key="i">
             <div class="custom-caption" v-if="video.hw">
               <div>
                 <v-table :fields="['Game Release', 'Hardware','Platform']"
                          :wrapperClass="objectKey"
                          :rows="[{
-                                             'Game Release': getRelease(video.fingerprint).id ,
-                                             Hardware: video.hw ,
-                                             Platform: video.platform
-                                             }]">
+                             'Game Release': getRelease(video.fingerprint).id ,
+                              Hardware: video.hw ,
+                              Platform: video.platform
+                         }]">
                 </v-table>
               </div>
             </div>
             <iframe
               :width="playerWidth"
               :height="playerHeight"
-              :src="`https://www.youtube.com/embed/${video[videoKey]}?rel=0`"
+              :src="`https://www.youtube-nocookie.com/embed/${video[videoKey]}?rel=0`"
               frameborder="0"
               allowfullscreen
             ></iframe>
