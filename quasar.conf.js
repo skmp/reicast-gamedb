@@ -63,6 +63,7 @@ module.exports = function (ctx) {
         'QRating',
         'QToolbar',
         'QToolbarTitle',
+        'QTooltip',
         'QBtn',
         'QIcon',
         'QList',
@@ -79,6 +80,7 @@ module.exports = function (ctx) {
         'QCardMedia',
         'QTable',
         'QTd',
+        'QTr',
         'QSearch'
       ],
       directives: [

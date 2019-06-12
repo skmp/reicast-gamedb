@@ -1,26 +1,81 @@
-import { GAME_LIST_IMG_PLACEHOLDER, UNAVAILABLE_LABEL } from '../constants/general'
+import {
+  SMALL_COVER_PLACEHOLDER,
+  LARGE_COVER_PLACEHOLDER,
+  UNAVAILABLE_LABEL,
+  UNTESTED_LABEL,
+  GAME_STATUSES
+} from '../constants/general'
 
-function getTestCount (tests) {
+/**
+ *
+ * @param tests
+ * @returns {number}
+ */
+export function getTestCount (tests) {
   let count = 0
   if (tests) {
     count = tests.length
   }
   return count
 }
-function getCover (cover) {
-  let imgUrl = GAME_LIST_IMG_PLACEHOLDER
-  if (cover) {
-    imgUrl = cover
+
+/*eslint-disable */
+/**
+ * igdb image sizes
+ * https://igdb.github.io/api/references/images/
+ *
+ * Name	            Size	         Extra
+ * ---------------------------------------------------
+ * cover_small	    90 x 128	    Fit
+ * screenshot_med	  569 x 320	    Lfill, Center gravity
+ * cover_big	      264 x 374	    Fit
+ * logo_med	        284 x 160	    Fit
+ * screenshot_big	  889 x 500	    Lfill, Center gravity
+ * screenshot_huge	1280 x 720	  Lfill, Center gravity
+ * thumb	          90 x 90	      Thumb, Center gravity
+ * micro	           35 x 35	    Thumb, Center gravity
+ * 720p	            1280 x 720	   Fit, Center gravity
+ * 1080p	          1920 x 1080	   Fit, Center gravity
+ * ----------------------------------------------------
+ * appending _2x to any size, you can get retina (DPR 2.0) sizes
+ *
+ * @param url
+ * @param size
+ * @returns {string}
+ */
+/* eslint-enable */
+export function getImage (url, size = null) {
+  let imgUrl = SMALL_COVER_PLACEHOLDER
+  if (url) {
+    if (size) {
+      imgUrl = url.replace('t_thumb', `t_${size}_2x`)
+    } else {
+      imgUrl = url
+    }
+  } else if (size) {
+    imgUrl = LARGE_COVER_PLACEHOLDER
   }
   return imgUrl
 }
-function getCategories (val) {
+
+/**
+ *
+ * @param val
+ * @returns {string}
+ */
+export function getCategories (val) {
   if (val) {
     return val.join(', ')
   }
   return UNAVAILABLE_LABEL
 }
-function getDate (UnixTimestamp) {
+
+/**
+ *
+ * @param UnixTimestamp
+ * @returns {string}
+ */
+export function getDate (UnixTimestamp) {
   let date
   let months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
   if (UnixTimestamp) {
@@ -30,9 +85,39 @@ function getDate (UnixTimestamp) {
   return UNAVAILABLE_LABEL
 }
 
-export default {
-  getTestCount,
-  getCover,
-  getCategories,
-  getDate
+/**
+ *
+ * @param status
+ * @returns {number}
+ */
+export function getStars (status) {
+  if (status === UNTESTED_LABEL) {
+    return 0
+  }
+  return parseInt(status)
+}
+
+/**
+ *
+ * @param status
+ * @returns {string}
+ */
+
+export function computeStatusClass (status) {
+  status = parseInt(status)
+  if (status < 1) {
+    return GAME_STATUSES.STATUS__0
+  } else if (status < 2) {
+    return GAME_STATUSES.STATUS__1
+  } else if (status < 3) {
+    return GAME_STATUSES.STATUS__2
+  } else if (status < 4) {
+    return GAME_STATUSES.STATUS__3
+  } else if (status < 5) {
+    return GAME_STATUSES.STATUS__4
+  } else if (status < 6) {
+    return GAME_STATUSES.STATUS__5
+  } else {
+    return GAME_STATUSES.STATUS__X
+  }
 }

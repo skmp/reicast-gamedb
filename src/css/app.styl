@@ -20,6 +20,17 @@ body
   display: none
   -webkit-appearance: none
 
+.q-table-middle.scroll
+  scrollbar-width: unset!important /* Firefox */
+  -ms-overflow-style: unset!important  /* IE 10+ */
+
+.q-table-middle.scroll::-webkit-scrollbar
+  width: unset!important
+  height: unset!important
+
+.q-table-container
+  background: white
+
 textarea
   resize: none
 
@@ -46,11 +57,14 @@ section
   .section-heading
     margin-bottom: 1.5em
 
-  .q-card
-    width:inherit
-    max-width: 1440px
-    height: 100%
-    margin: auto
+  &.overview
+
+    .q-card
+      width:inherit
+      max-width: 1440px
+      height: 100%
+      margin: auto
+      overflow: hidden
 
   .inherit-width
     width: inherit
@@ -69,9 +83,6 @@ section
 .page-scroll
   text-align: center
 
-.q-card
-  overflow: hidden
-
 .q-carousel
   background: #D2D4C8;
   padding-top: 35px;
@@ -84,12 +95,29 @@ section
 .q-carousel-right-arrow
   right: 2%
 
+.q-btn
+  padding: 4px 8px;
+
+.games-list
+  td
+    &.game-status
+      .q-btn
+        padding: 4px 8px 4px 0px
+    &.game-categories
+      .q-btn
+        font-size: 12px
 @media screen and (max-width: 575px)
   h2
     font-size: 26px
   .q-carousel-left-arrow, .q-carousel-right-arrow
     display none
-
+  .games-list
+    td
+      .q-btn
+        font-size: 13px
+      &.game-categories
+        .q-btn
+          font-size: 10px
 
 @media screen and (min-width: 768px) and (max-width: 991px)
   h2
@@ -155,3 +183,61 @@ section
     box-shadow: 0 0 0 0px rgba(0, 0, 0, 0.2)
   100%
     box-shadow: 0 0 0 35px rgba(0, 0, 0, 0)
+
+.basic-container
+  width: 90%
+  margin: 0 auto
+
+@media (max-height: 699px)
+  .game .heading-section
+    display: none
+
+$untestedColor = #C0C0C0
+$darkColor = #232b2b
+$errorColor = rgba(189,8,68,1)
+$warningColor = rgb(255, 255, 51)
+$averageColor = #bece67
+$goodColor = #21BA45
+$greatColor = #65ab65
+
+.status
+
+  &__X
+    background: $untestedColor
+    color: black;
+  &__0
+    background: $darkColor
+    color: white;
+  &__1
+    background: $errorColor
+    color: white;
+  &__2
+    background: $warningColor
+    color: black;
+  &__3
+    background: $averageColor
+    color: white;
+  &__4
+    background: $goodColor
+    color: white;
+  &__5
+    background: $greatColor
+    color: white;
+
+.q-rating
+  background: inherit
+  &.status
+    &__X
+      color: $untestedColor;
+    &__0
+      color: $darkColor;
+    &__1
+      color: $errorColor;
+    &__2
+      color: $warningColor;
+    &__3
+      color: $averageColor;
+    &__4
+      color: $goodColor;
+    &__5
+      color: $greatColor;

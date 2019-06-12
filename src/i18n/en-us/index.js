@@ -1,4 +1,4 @@
-import { SECTION_CLASSES } from '../../constants/general'
+import { SECTION_CLASSES, GAME_STATUSES, UNTESTED_LABEL } from '../../constants/general'
 export default {
   app: {
     name: 'Reicast db',
@@ -46,14 +46,15 @@ export default {
       icon: 'fab fa-facebook'
     }
   },
-  gamesIndexTitle: 'Games Database Table',
+  gamesIndexTitle: 'Game Compatibility Database',
+  all_games: 'All Games',
   game: 'Game',
   gamePage: {
     [SECTION_CLASSES.OVERVIEW]: 'overview',
     [SECTION_CLASSES.SCREENSHOTS]: 'screenshots',
     [SECTION_CLASSES.VIDEOS]: 'videos',
     [SECTION_CLASSES.TESTS]: 'tests',
-    [SECTION_CLASSES.TEST_VIDEOS]: 'video test runs',
+    [SECTION_CLASSES.TEST_VIDEOS]: 'automated tests',
     [SECTION_CLASSES.CHEAT_SHEETS]: 'cheatsheets'
   },
   categories: 'Categories',
@@ -63,5 +64,30 @@ export default {
   game_modes: 'Game Modes',
   player_perspectives: 'Player Perspectives',
   already_here: 'Hey, you are already here!',
-  navigation_already_in_progress: 'Navigation is already in progress!'
+  navigation_already_in_progress: 'Navigation is already in progress!',
+  addtest: 'Add Test',
+  average: 'Average',
+  Status: 'Status',
+  Speed: 'Speed',
+  'Rom Type': 'Rom Type',
+  'Tested By': 'Tested By',
+  'Reicast Version': 'Reicast Version',
+  'Tested OS': 'Tested OS',
+  'Tested Renderer': 'Tested Renderer',
+  'Test Hardware': 'Test Hardware',
+  'Test Duration': 'Test Duration',
+  'Comment': 'Comment',
+  'Test date': 'Test Date',
+  game_tests: 'Game Tests',
+  igdb_attribution: 'Game information and media on this site come from the igdb.com API. So hats off to igdb.',
+  reset_filter: 'Reset Filter',
+  gameStatus: {
+    [GAME_STATUSES.STATUS__5]: '5 - Fully Working',
+    [GAME_STATUSES.STATUS__4]: '4 - Has Quirks',
+    [GAME_STATUSES.STATUS__3]: '3 - Has Glitches',
+    [GAME_STATUSES.STATUS__2]: '2 - Partially Working',
+    [GAME_STATUSES.STATUS__1]: '1 - No Ingame',
+    [GAME_STATUSES.STATUS__0]: '0 - No Boot',
+    [GAME_STATUSES.STATUS__X]: UNTESTED_LABEL
+  }
 }

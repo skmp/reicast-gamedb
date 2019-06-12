@@ -1,4 +1,5 @@
-export const GAME_LIST_IMG_PLACEHOLDER = 'http://localhost:8080/statics/icons/icon-128x128.png'
+export const SMALL_COVER_PLACEHOLDER = '/statics/icons/icon-128x128.png'
+export const LARGE_COVER_PLACEHOLDER = '/statics/reicast-logo.png'
 export const UNTESTED_LABEL = 'Untested'
 export const UNAVAILABLE_LABEL = 'N/A'
 export const GOOGLE_REPORT_FORM =
@@ -7,7 +8,16 @@ export const SECTION_CLASSES = {
   OVERVIEW: 'overview',
   SCREENSHOTS: 'screenshots',
   VIDEOS: 'videos',
-  TESTS: 'tests',
+  TESTS: 'game-tests',
   TEST_VIDEOS: 'test-videos',
   CHEAT_SHEETS: 'cheat-sheets'
+}
+export const GAME_STATUSES = {
+  STATUS__5: 'status__5',
+  STATUS__4: 'status__4',
+  STATUS__3: 'status__3',
+  STATUS__2: 'status__2',
+  STATUS__1: 'status__1',
+  STATUS__0: 'status__0',
+  STATUS__X: 'status__X'
 }

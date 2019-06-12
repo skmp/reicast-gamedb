@@ -1,6 +1,6 @@
 <template>
     <section-component
-      class="overview"
+      :class="sectionClass"
       :heading="false"
       bg="#38478c"
       color="white"
@@ -18,7 +18,15 @@
               <div class="center-vertical">
                 <q-card-title>
                   <h3>{{ title }}</h3>
-                  <q-rating slot="subtitle" v-model="stars" :max="5" />
+                  <q-rating v-if="isTested()"
+                            icon="fa fa-gamepad"
+                            slot="subtitle"
+                            :class="computeClass(stars)"
+                            v-model="stars"
+                            :max="5" />
+                  <span v-else>
+                    {{ status }}
+                  </span>
                 </q-card-title>
                 <q-card-main>
                   <p v-if="game.first_release_date">
@@ -26,14 +34,9 @@
                   </p>
                   <div v-for="(field, index) in csvFieldsData" :key="index">
                     <p v-if="game[field]">
-                      <span class="label">{{ $t(field) }}:</span>
-                      <span
-                        v-for="(category, index) in game[field]"
-                        :key="index">
-                        {{ category }}
-                     <span class="separator" v-if="game[field].length - 1 !== index">,
+                      <span class="label">{{ $t(field) }}: </span>
+                      <span>{{ getCategories(game[field]) }}
                      </span>
-                  </span>
                     </p>
                   </div>
 
@@ -49,10 +52,21 @@
 
 <script>
 import SectionComponent from './Section.vue'
-import helpers from '../utils/gameHelpers'
+import { getStars, getDate, getImage, getCategories, computeStatusClass } from '../utils/gameHelpers'
+import { UNTESTED_LABEL } from '../constants/general'
 
 export default {
   components: { SectionComponent },
+  props: {
+    sectionClass: {
+      type: String,
+      required: true
+    },
+    status: {
+      type: String,
+      required: true
+    }
+  },
   data () {
     return {
       csvFieldsData: ['categories', 'game_modes', 'player_perspectives']
@@ -66,7 +80,7 @@ export default {
       return this.game.title
     },
     stars () {
-      return 4
+      return getStars(this.status)
     },
     height () {
       return this.$store.getters.getHeight
@@ -74,30 +88,33 @@ export default {
     width () {
       return this.$store.getters.getWidth
     },
-    logoHeightCss () {
+    logoHeightStyle () {
       let multiplier = 1
       if (this.width < 576) {
         multiplier = 0.45
       }
       return `height: ${this.height * multiplier}px;`
     },
-    logoBgCss () {
-      let imageUrl = '../statics/reicast-logo.png'
-      if (this.game.cover) {
-        imageUrl = this.getCoverUrl(this.game.cover[0].url)
-      }
+    logoBgStyle () {
+      const imageUrl = getImage(this.game.cover[0].url, 'cover_big')
       return `background: #04575d url(${imageUrl}) no-repeat center;`
     },
     logoStyle () {
-      return `${this.logoHeightCss} ${this.logoBgCss}`
+      return `${this.logoHeightStyle} ${this.logoBgStyle}`
     }
   },
   methods: {
-    getCoverUrl (url, size = 'cover_big') {
-      return url.replace('t_thumb', `t_${size}`)
-    },
     timeConverter (unixTimestamp) {
-      return helpers.getDate(unixTimestamp)
+      return getDate(unixTimestamp)
+    },
+    isTested () {
+      return this.status !== UNTESTED_LABEL
+    },
+    getCategories (cats) {
+      return getCategories(cats)
+    },
+    computeClass (status) {
+      return computeStatusClass(status)
     }
   }
 }

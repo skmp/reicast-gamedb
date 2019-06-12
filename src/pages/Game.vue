@@ -1,17 +1,18 @@
 <template>
-  <div>
+  <div class="game">
     <MainNavigation :menuItems="menuItems" />
-    <game-overview/>
+    <game-overview :section-class="sectionClasses.OVERVIEW"
+                   :status="gameListData.status"/>
     <gallery v-if="screenshotsAlias"
-             objectKey="screenshots"/>
+             :objectKey="sectionClasses.SCREENSHOTS"/>
     <videos v-if="videosAlias"
             videoKey="video_id"
-            objectKey="videos"/>
-    <tests v-if="testsAlias"
-            objectKey="tests"/>
+            :objectKey="sectionClasses.VIDEOS"/>
+    <tests :game="gameListData"
+           :section-class="sectionClasses.TESTS"/>
     <videos v-if="testVideosAlias"
             videoKey="yt"
-            objectKey="test-videos"/>
+            :objectKey="sectionClasses.TEST_VIDEOS"/>
   </div>
 </template>
 <script>
@@ -39,6 +40,13 @@ export default {
       Array.from(this.menuItems, x => x.name)
     )
   },
+  data () {
+    return {
+      sectionClasses: SECTION_CLASSES,
+      [SECTION_CLASSES.OVERVIEW]: true,
+      [SECTION_CLASSES.TESTS]: true
+    }
+  },
   computed: {
     gameData () {
       return this.$store.state.routing.currentGame
@@ -46,29 +54,23 @@ export default {
     title () {
       return this.gameData.title
     },
+    gameListData () {
+      return this.$store.state.games.filter(game => game.id === this.gameData.id)[0]
+    },
     screenshotsAlias () {
       return this[SECTION_CLASSES.SCREENSHOTS]
     },
     videosAlias () {
       return this[SECTION_CLASSES.VIDEOS]
     },
-    testsAlias () {
-      return this[SECTION_CLASSES.TESTS]
-    },
     testVideosAlias () {
       return this[SECTION_CLASSES.TEST_VIDEOS]
-    },
-    [SECTION_CLASSES.OVERVIEW] () {
-      return true
     },
     [SECTION_CLASSES.SCREENSHOTS] () {
       return this.gameData[SECTION_CLASSES.SCREENSHOTS]
     },
     [SECTION_CLASSES.VIDEOS] () {
       return this.gameData[SECTION_CLASSES.VIDEOS]
-    },
-    [SECTION_CLASSES.TESTS] () {
-      return this.gameData[SECTION_CLASSES.TESTS]
     },
     [SECTION_CLASSES.TEST_VIDEOS] () {
       return this.gameData[SECTION_CLASSES.TEST_VIDEOS]
