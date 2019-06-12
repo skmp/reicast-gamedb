@@ -122,7 +122,7 @@ export default {
     -moz-transition: all .5s ease-in-out,padding .5s ease-in-out
     transition: all .5s ease-in-out,padding .5s ease-in-out
     &.top-nav-collapse
-      background: $menu-background
+      background: rgba(56, 71, 140, 0.8)
       ul.main-nav li a
         color: #fff
 
@@ -136,7 +136,7 @@ export default {
       margin:0
 
     li a
-      font-size: 0.85em
+      font-size: 0.80em
       letter-spacing: 0.1em
       text-transform: uppercase
       font-weight: 700
@@ -267,7 +267,7 @@ export default {
         background-color: rgba(0,0,0,0)
 
       .nav-links
-        padding: 20px
+        padding: 20px 12px
 
       .navbar-toggle
         display: none
