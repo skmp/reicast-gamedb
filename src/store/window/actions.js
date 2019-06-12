@@ -62,6 +62,7 @@ const actions = {
         scrollStarted: false,
         lastScrollTop: offset
       })
+      commit('setLoading', false)
       document.body.style.overflowY = 'scroll'
     } catch (err) {
       console.log(err)

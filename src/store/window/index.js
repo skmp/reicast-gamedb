@@ -22,6 +22,9 @@ const mutations = {
   },
   resetWindowProps (state) {
     state = new WindowProps()
+  },
+  setLoading (state, loading) {
+    state.loading = loading
   }
 }
 

@@ -1,27 +1,33 @@
 <template>
-  <nav :class="setNavClasses" ref="navbar">
+  <transition name="bounce" mode="out-in">
+    <nav v-if="!loading" :class="setNavClasses" ref="navbar">
+
     <span class="navbar-toggle" @click="toggleMenu">
       <i class="fas fa-bars"></i>
     </span>
-    <a class="navbar-brand" href="/games">
-      <h1>{{ $t('app.name') }}</h1>
-    </a>
-    <span class="navbar-active">
+
+      <a class="navbar-brand" href="/games">
+        <h1>{{ $t('app.name') }}</h1>
+      </a>
+      <span class="navbar-active">
       {{ activeLabel }}
     </span>
-    <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
-      <ul class="main-nav" ref="navBarToggle">
-        <li v-for="(menuItem, index) in menuItems"
-          :key="index"
-          :class="menuItemClass(index)"
-          @click="goTo(index)">
-          <a class="nav-links">
-            {{ menuItem.label }}
-          </a>
-        </li>
-      </ul>
-    </div>
-  </nav>
+      <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+
+        <ul class="main-nav" ref="navBarToggle">
+          <li v-for="(menuItem, index) in menuItems"
+              :key="index"
+              :class="menuItemClass(index)"
+              @click="goTo(index)">
+            <a class="nav-links">
+              {{ menuItem.label }}
+            </a>
+          </li>
+        </ul>
+
+      </div>
+    </nav>
+  </transition>
 </template>
 
 <script>
@@ -35,6 +41,9 @@ export default {
       type: Array,
       required: true
     }
+  },
+  beforeMount () {
+    this.$store.commit('setLoading', true)
   },
   data () {
     return {
@@ -51,6 +60,9 @@ export default {
         return topNavClasses
       }
       return `${topNavClasses} ${topNavCollapseClass}`
+    },
+    loading () {
+      return this.$store.state.window.loading
     }
   },
   methods: {
@@ -183,7 +195,7 @@ export default {
 
   @media screen and (max-width: 991px), screen and (max-height: 398px)
     .navbar
-      background: rgba(255,255,255,0.3)
+      background: rgba(0,0,0,0.2)
 
     .collapse.navbar-collapse
       clear: both
