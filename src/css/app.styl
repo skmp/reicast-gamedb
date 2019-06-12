@@ -98,26 +98,17 @@ section
 .q-btn
   padding: 4px 8px;
 
-.games-list
-  td
-    &.game-status
-      .q-btn
-        padding: 4px 8px 4px 0px
-    &.game-categories
-      .q-btn
-        font-size: 12px
+.q-table th, .q-table td
+  white-space: normal
+
+.q-table th.nowrap, .q-table td.nowrap
+  white-space: nowrap
+
 @media screen and (max-width: 575px)
   h2
     font-size: 26px
   .q-carousel-left-arrow, .q-carousel-right-arrow
     display none
-  .games-list
-    td
-      .q-btn
-        font-size: 13px
-      &.game-categories
-        .q-btn
-          font-size: 10px
 
 @media screen and (min-width: 768px) and (max-width: 991px)
   h2

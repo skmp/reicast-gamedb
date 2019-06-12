@@ -3,7 +3,8 @@
     <header class="center games-list-header">
       <img class="spin"
            alt="Reicast logo"
-           src="statics/icons/icon-128x128.png">
+           src="statics/icons/icon-128x128.png"
+           @click="$router.push('/')">
       <h2>
         {{ $t(tableTitle) }}
       </h2>
@@ -159,42 +160,51 @@ export default {
   }
 }
 </script>
-<style>
-  header {
+<style lang="stylus">
+
+.games-list
+  header
     padding: 25px;
     width: 100%;
     background: rgb(25, 57, 96);
     color: white;
-  }
-  .q-table th, .q-table td {
-    white-space: normal;
-  }
 
-  .q-table th.nowrap, .q-table td.nowrap {
-    white-space: nowrap;
-  }
+  td
+    &.game-categories
+      .q-btn
+        font-size: 12px
 
-  .cover {
-    height: 100px
-  }
+    &.game-status
+      i
+        display:none
 
-  .q-table-title {
+  .cover
+    padding: 10px 0
+
+  .q-table-title
     font-size: 18px
-  }
-  @media (max-width: 848px) {
-     .released {
+
+  .games-list-header img
+    cursor: pointer
+
+  @media (max-width: 848px)
+    .released
       display: none;
-    }
-    .games-list-header img {
+
+    .games-list-header img
       height: 96px
-    }
-  }
-  @media (max-width: 576px) {
-    .popularity {
+
+  @media (max-width: 575px)
+    .popularity
       display: none;
-    }
-    .games-list-header img {
+
+    .games-list-header img
       height: 64px
-    }
-  }
+
+    td
+      .q-btn
+        font-size: 13px
+      &.game-categories
+        .q-btn
+         font-size: 10px
 </style>

@@ -101,12 +101,3 @@ export default {
   }
 }
 </script>
-<style>
-  .q-table th, .q-table td {
-    white-space: normal;
-  }
-
-  .q-table th.nowrap, .q-table td.nowrap {
-    white-space: nowrap;
-  }
-</style>
