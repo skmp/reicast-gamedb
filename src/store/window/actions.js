@@ -88,7 +88,7 @@ const actions = {
       'scrollPageTo',
       {
         to: to,
-        duration: 2000
+        duration: 1000
       }
     )
   }

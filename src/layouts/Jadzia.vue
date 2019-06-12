@@ -7,7 +7,7 @@
 <script>
 export default {
   mounted () {
-    this.$store.dispatch('scrollPageTo', { to: 0, duration: 2000 })
+    this.$store.dispatch('scrollPageTo', { to: 0, duration: 1000 })
     window.addEventListener('scroll', this.handleScroll)
   },
   beforeDestroy () {
