@@ -15,8 +15,7 @@ const routes = [
     path: '/games/:id',
     component: () => import('layouts/Jadzia.vue'),
     children: [
-      { path: '', component: () => import('pages/Game.vue') },
-      { path: 'reports', component: () => import('pages/GameReports.vue') }
+      { path: '', component: () => import('pages/Game.vue') }
     ],
     meta: {
       isGame: true

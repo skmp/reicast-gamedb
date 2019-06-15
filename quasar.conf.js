@@ -1,9 +1,43 @@
 const path = require('path')
 const PrerenderSpaPlugin = require('prerender-spa-plugin')
 const Renderer = PrerenderSpaPlugin.PuppeteerRenderer
-const routes = require('./src/constants/routes.js')
+const spaDistFolder = 'docs'
+const platformsRootDistFolder = 'dist'
 
+function preRenderRounds (output) {
+  const inputFolder = './data/buildRoutes/'
+  const routeBuildFilesNumber = 10
+  let renderRounds = []
+  let routes
+  let i
+  for (i = 0; i < routeBuildFilesNumber;) {
+    i++
+    routes = require(`${inputFolder}routes${i}.js`)
+    renderRounds.push(
+      new PrerenderSpaPlugin({
+        staticDir: output,
+        outputDir: output,
+        routes: routes,
+        renderer: new Renderer({
+          maxConcurrentRoutes: 2,
+          captureAfterElementExists: "input[name='spaPreRenderElement']"
+        })
+      })
+    )
+  }
+  return renderRounds
+}
+
+function getDistFolder (mode) {
+  let outputFolder = `${spaDistFolder}/`
+  if (mode !== 'spa') {
+    outputFolder = `${platformsRootDistFolder}/${mode}/`
+  }
+  return path.join(__dirname, outputFolder)
+}
 module.exports = function (ctx) {
+  const output = getDistFolder(ctx.modeName)
+  const routerMode = ctx.modeName === 'spa' ? 'history' : 'hash'
   return {
     // app plugins (/src/plugins)
     plugins: [
@@ -22,9 +56,9 @@ module.exports = function (ctx) {
     ],
     supportIE: true,
     build: {
-      distDir: path.join(__dirname, 'docs/'),
+      distDir: output,
       scopeHoisting: true,
-      // vueRouterMode: 'history',
+      vueRouterMode: routerMode,
       // vueCompiler: true,
       // gzip: true,
       // analyze: true,
@@ -36,16 +70,9 @@ module.exports = function (ctx) {
           loader: 'eslint-loader',
           exclude: /node_modules/
         })
-        cfg.plugins.push(
-          new PrerenderSpaPlugin({
-            staticDir:
-              path.join(__dirname, 'docs/' + ctx.modeName + '-' + ctx.themeName),
-            routes: routes,
-            renderer: new Renderer({
-              captureAfterElementExists: "meta[name='description']"
-            })
-          })
-        )
+        if (ctx.modeName === 'spa' && ctx.prod) {
+          cfg.plugins.push.apply(cfg.plugins, preRenderRounds(output))
+        }
       }
     },
     devServer: {

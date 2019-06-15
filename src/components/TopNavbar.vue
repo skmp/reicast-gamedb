@@ -1,17 +1,14 @@
 <template>
   <transition name="bounce" mode="out-in">
     <nav v-if="!loading" :class="setNavClasses" ref="navbar">
-
-    <span class="navbar-toggle" @click="toggleMenu">
-      <i class="fas fa-bars"></i>
-    </span>
+      <span class="navbar-toggle" @click="toggleMenu">
+        <i class="fas fa-bars"></i>
+      </span>
 
       <a class="navbar-brand" @click="$router.push('/games')" href="#">
         <h1>{{ $t('app.name') }}</h1>
       </a>
-      <span class="navbar-active">
-      {{ activeLabel }}
-    </span>
+      <span class="navbar-active">{{ activeLabel }}</span>
       <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
 
         <ul class="main-nav" ref="navBarToggle">
@@ -26,6 +23,8 @@
         </ul>
 
       </div>
+      <input v-if="!$q.platform.is.cordova && !$q.platform.is.electron"
+             type="hidden" name="spaPreRenderElement" value=""/>
     </nav>
   </transition>
 </template>

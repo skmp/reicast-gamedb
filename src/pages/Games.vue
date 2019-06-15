@@ -65,6 +65,8 @@
       </q-td>
     </q-table>
     <Footer/>
+    <input v-if="!$q.platform.is.cordova && !$q.platform.is.electron"
+           type="hidden" name="spaPreRenderElement" value=""/>
   </div>
 
 </template>
