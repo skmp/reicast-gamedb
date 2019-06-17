@@ -5,7 +5,7 @@
         <i class="fas fa-bars"></i>
       </span>
 
-      <a class="navbar-brand" @click="$router.push('/games')" href="#">
+      <a class="navbar-brand" @click="$router.push('/games')">
         <h1>{{ $t('app.name') }}</h1>
       </a>
       <span class="navbar-active">{{ activeLabel }}</span>
@@ -25,16 +25,20 @@
       </div>
       <input v-if="!$q.platform.is.cordova && !$q.platform.is.electron"
              type="hidden" name="spaPreRenderElement" value=""/>
+      <scroll-nav/>
     </nav>
   </transition>
 </template>
 
 <script>
+import ScrollNav from '../components/ScrollNav'
+
 const topNavCollapseClass = 'top-nav-collapse'
 const topNavClasses = 'navbar navbar-fixed-top'
 
 export default {
   name: 'GameNavigation',
+  components: { ScrollNav },
   props: {
     menuItems: {
       type: Array,
@@ -156,6 +160,7 @@ export default {
     float: left
     font-size: 0.8em
     padding: 1em 2em
+    cursor: pointer
     h1
       margin:0
       font-size: 23px

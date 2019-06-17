@@ -74,7 +74,7 @@ export default {
     },
     widthStyle () {
       if (this.width === 0) {
-        return ''
+        return this.styleUnitFactory('width', 100, '%')
       }
       return this.styleUnitFactory('width', this.calcWidth)
     },

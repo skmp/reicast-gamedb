@@ -3,8 +3,6 @@
     <section-component
       class="home"
       :heading="true"
-      :height="1"
-      :width="1"
       bg="#193960"
       color="#f7f7f7"
       :title="$t('app.description')">
@@ -25,6 +23,7 @@
                  label="Enter"
                  @click="$router.push('/games')"/>
         </div>
+        <scroll-nav/>
         <input v-if="!$q.platform.is.cordova && !$q.platform.is.electron"
                type="hidden" name="spaPreRenderElement" value=""/>
       </template>
@@ -40,6 +39,7 @@
 import SectionComponent from '../components/Section.vue'
 import About from '../components/About.vue'
 import Footer from '../components/Footer.vue'
+import ScrollNav from '../components/ScrollNav'
 
 export default {
   name: 'HomePage',
@@ -49,7 +49,8 @@ export default {
   components: {
     SectionComponent,
     About,
-    Footer
+    Footer,
+    ScrollNav
   },
   computed: {
     height () {

@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-center" v-if="true">
+  <div class="jadzia flex flex-center" v-if="true">
     <router-view />
   </div>
 </template>
@@ -7,6 +7,7 @@
 <script>
 export default {
   mounted () {
+    document.body.classList.add('no-scroll-bar')
     this.$store.dispatch('scrollPageTo', { to: 0, duration: 1000 })
     window.addEventListener('scroll', this.handleScroll)
   },
@@ -15,15 +16,10 @@ export default {
       .then(() => this.$store.commit('resetWindowProps'))
   },
   destroyed () {
+    document.body.classList.remove('no-scroll-bar')
     window.removeEventListener('scroll', this.handleScroll)
   },
   computed: {
-    height () {
-      return this.$store.getters.getHeight
-    },
-    width () {
-      return this.$store.getters.getWidth
-    },
     topOffset () {
       return this.$store.getters.getTopOffset
     },
@@ -32,9 +28,6 @@ export default {
     },
     sections () {
       return this.scrollStatus.items
-    },
-    pageClass () {
-      return this.$store.getters.getPageClass
     }
   },
   methods: {

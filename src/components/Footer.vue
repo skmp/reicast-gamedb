@@ -1,6 +1,7 @@
 <template>
   <section-component
     height="0.2"
+    :width="0"
     bg="#193960"
     color="white"
     class="footer">

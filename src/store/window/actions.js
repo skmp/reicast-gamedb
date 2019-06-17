@@ -63,7 +63,7 @@ const actions = {
         lastScrollTop: offset
       })
       commit('setLoading', false)
-      document.body.style.overflowY = 'scroll'
+      document.body.style.overflowY = 'auto'
     } catch (err) {
       console.log(err)
     }

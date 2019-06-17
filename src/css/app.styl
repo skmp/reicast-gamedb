@@ -10,26 +10,16 @@ body
   margin:0!important
   min-height: 275px
   min-width: 300px
-  scrollbar-width: none!important /* Firefox */
-  -ms-overflow-style: none!important  /* IE 10+ */
-  resize: none
 
-::-webkit-scrollbar /* WebKit */
-  width: 0!important
-  height: 0!important
-  background: transparent
+  &.no-scroll-bar
+    scrollbar-width: none!important /* Firefox */
+    -ms-overflow-style: none!important  /* IE 10+ */
+    resize: none
 
-::-webkit-resizer
-  display: none
-  -webkit-appearance: none
-
-.q-table-middle.scroll
-  scrollbar-width: unset!important /* Firefox */
-  -ms-overflow-style: unset!important  /* IE 10+ */
-
-.q-table-middle.scroll::-webkit-scrollbar
-  width: unset!important
-  height: unset!important
+  &.no-scroll-bar::-webkit-scrollbar /* WebKit */
+    width: 0!important
+    height: 0!important
+    background: transparent
 
 .q-table-container
   background: $lightTxtColor
@@ -89,7 +79,8 @@ section
 .basic-container
   overflow: auto
   margin: 65px auto 30px;
-  width: 90%
+  width: 100%
+  padding: 0 22px;
 
 .q-carousel
   background: #D2D4C8;
@@ -255,3 +246,6 @@ $greatColor = #65ab65
 
 .animate-popup
   background: #666
+
+.q-carousel-slide
+  padding: 0
