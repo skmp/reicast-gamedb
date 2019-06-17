@@ -41,7 +41,7 @@ export function getTestCount (tests) {
  *
  * @param url
  * @param size
- * @returns {string}
+ * @returns string
  */
 /* eslint-enable */
 export function getImage (url, size = null) {
@@ -61,7 +61,7 @@ export function getImage (url, size = null) {
 /**
  *
  * @param val
- * @returns {string}
+ * @returns string
  */
 export function getCategories (val) {
   if (val) {
@@ -73,7 +73,7 @@ export function getCategories (val) {
 /**
  *
  * @param UnixTimestamp
- * @returns {string}
+ * @returns string
  */
 export function getDate (UnixTimestamp) {
   let date
@@ -88,7 +88,7 @@ export function getDate (UnixTimestamp) {
 /**
  *
  * @param status
- * @returns {number}
+ * @returns number
  */
 export function getStars (status) {
   if (status === UNTESTED_LABEL) {
@@ -100,24 +100,26 @@ export function getStars (status) {
 /**
  *
  * @param status
- * @returns {string}
+ * @returns string | null
  */
 
 export function computeStatusClass (status) {
-  status = parseInt(status)
-  if (status < 1) {
+  const statusInt = parseInt(status)
+  if (status === UNTESTED_LABEL) {
+    return GAME_STATUSES.STATUS__X
+  } else if (statusInt < 1) {
     return GAME_STATUSES.STATUS__0
-  } else if (status < 2) {
+  } else if (statusInt < 2) {
     return GAME_STATUSES.STATUS__1
-  } else if (status < 3) {
+  } else if (statusInt < 3) {
     return GAME_STATUSES.STATUS__2
-  } else if (status < 4) {
+  } else if (statusInt < 4) {
     return GAME_STATUSES.STATUS__3
-  } else if (status < 5) {
+  } else if (statusInt < 5) {
     return GAME_STATUSES.STATUS__4
-  } else if (status < 6) {
+  } else if (statusInt < 6) {
     return GAME_STATUSES.STATUS__5
   } else {
-    return GAME_STATUSES.STATUS__X
+    return null
   }
 }

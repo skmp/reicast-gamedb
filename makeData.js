@@ -3,6 +3,7 @@ const outputFolder = './src/games/'
 const fs = require('fs')
 const yaml = require('js-yaml')
 const testData = require('./data/testData')
+const gamesListPath = 'src/games/.gameList.json'
 
 module.exports.mergedData2JSON = function () {
   let output
@@ -48,21 +49,21 @@ module.exports.data2IndexList = async function () {
         }
         output.push(game)
       })
-      fs.writeFileSync('src/games/.gameList.json', JSON.stringify(output, null, 2))
+      fs.writeFileSync(gamesListPath, JSON.stringify(output, null, 2))
     })
   } catch (err) {
     console.log(err)
   }
 }
 
-function getAverageTestStatus(tests) {
+function getAverageTestStatus (tests) {
   let totals = 0
   if (!tests) {
     return 'Untested'
   }
   tests.forEach((key) => {
     const rating = key['Status'].charAt(0)
-    if (rating && !isNaN(rating) && rating !==  '') {
+    if (rating && !isNaN(rating) && rating !== '') {
       totals += parseInt(rating)
     }
   })
@@ -93,6 +94,7 @@ function getStrFieldValue (val, defValue = null) {
 }
 
 module.exports.setRoutes = function () {
+  const gameRoutesListPath = 'src/constants/routes.js'
   let gamePath
   let routes = [
     '/',
@@ -106,7 +108,25 @@ module.exports.setRoutes = function () {
       gamePath = `/games/${file.replace('.md', '')}`
       routes.push(gamePath)
     })
-    fs.writeFileSync('src/constants/routes.js', JSON.stringify(routes, null, 2))
+    fs.writeFileSync(gameRoutesListPath, JSON.stringify(routes, null, 2))
   })
+}
 
+module.exports.makeValidCategories = function () {
+  const categoriesListPath = 'src/constants/categories.js'
+  const games = require('./' + gamesListPath)
+  let categoryList = []
+  if (games) {
+    games.forEach(game => {
+      if (game.categories) {
+        game.categories.forEach(cat => {
+          if (!categoryList.includes(cat)) {
+            categoryList.push(cat)
+          }
+        })
+      }
+    })
+  }
+
+  fs.writeFileSync(categoriesListPath, 'export const validCategories = ' + JSON.stringify(categoryList, null, 2))
 }

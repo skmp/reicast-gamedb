@@ -15,12 +15,14 @@ export const SECTION_CLASSES = {
   DISCUSS: 'discuss',
   CHEAT_SHEETS: 'cheat-sheets'
 }
+export const STATUS = 'status'
+export const STATUS_SEPARATOR = '__'
 export const GAME_STATUSES = {
-  STATUS__5: 'status__5',
-  STATUS__4: 'status__4',
-  STATUS__3: 'status__3',
-  STATUS__2: 'status__2',
-  STATUS__1: 'status__1',
-  STATUS__0: 'status__0',
-  STATUS__X: 'status__X'
+  STATUS__5: `${STATUS}${STATUS_SEPARATOR}5`,
+  STATUS__4: `${STATUS}${STATUS_SEPARATOR}4`,
+  STATUS__3: `${STATUS}${STATUS_SEPARATOR}3`,
+  STATUS__2: `${STATUS}${STATUS_SEPARATOR}2`,
+  STATUS__1: `${STATUS}${STATUS_SEPARATOR}1`,
+  STATUS__0: `${STATUS}${STATUS_SEPARATOR}0`,
+  STATUS__X: `${STATUS}${STATUS_SEPARATOR}X`
 }

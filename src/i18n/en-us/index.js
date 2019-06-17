@@ -59,15 +59,16 @@ export default {
     [SECTION_CLASSES.DISCUSS]: 'discuss',
     [SECTION_CLASSES.CHEAT_SHEETS]: 'cheatsheets'
   },
+  title: 'Title',
   categories: 'Categories',
   first_release_date: 'Released',
-  'status-tests': 'Status (tests)',
+  'status-tests': 'Status (reports)',
   popularity: 'Popularity',
   game_modes: 'Game Modes',
   player_perspectives: 'Player Perspectives',
   already_here: 'Hey, you are already here!',
   navigation_already_in_progress: 'Navigation is already in progress!',
-  addtest: 'Add Test',
+  addtest: 'Add report',
   average: 'Average',
   Status: 'Status',
   Speed: 'Speed',
@@ -80,9 +81,9 @@ export default {
   'Test Duration': 'Test Duration',
   'Comment': 'Comment',
   'Test date': 'Test Date',
-  game_tests: 'Game Tests',
+  game_tests: 'Game Test Reports',
   igdb_attribution: 'Game information and media on this site come from the igdb.com API. So hats off to igdb.',
-  reset_filter: 'Reset Filter',
+  reset_filters: 'Reset Filters',
   gameStatus: {
     [GAME_STATUSES.STATUS__5]: '5 - Fully Working',
     [GAME_STATUSES.STATUS__4]: '4 - Has Quirks',
@@ -91,5 +92,8 @@ export default {
     [GAME_STATUSES.STATUS__1]: '1 - No Ingame',
     [GAME_STATUSES.STATUS__0]: '0 - No Boot',
     [GAME_STATUSES.STATUS__X]: UNTESTED_LABEL
-  }
+  },
+  removeFilter: 'Remove filter',
+  addFilter: 'Add filter',
+  in: 'in'
 }

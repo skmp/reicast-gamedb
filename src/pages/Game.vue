@@ -32,6 +32,12 @@ import { SECTION_CLASSES } from '../constants/general'
 
 export default {
   name: 'Game',
+  props: {
+    gameListData: {
+      type: Object,
+      required: true
+    }
+  },
   components: {
     MainNavigation,
     GameOverview,
@@ -62,9 +68,6 @@ export default {
     },
     title () {
       return this.gameData.title
-    },
-    gameListData () {
-      return this.$store.state.games.filter(game => game.id === this.gameData.id)[0]
     },
     infoAlias () {
       return this[SECTION_CLASSES.INFO]

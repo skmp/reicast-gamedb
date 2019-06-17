@@ -1,3 +1,6 @@
+$darkTxtColor = #333
+$lightTxtColor = #fff
+
 *
   box-sizing: border-box
   padding: 0
@@ -29,7 +32,7 @@ body
   height: unset!important
 
 .q-table-container
-  background: white
+  background: $lightTxtColor
 
 textarea
   resize: none
@@ -39,8 +42,8 @@ textarea
   height: 100%
   font-family: 'Oswald'
   font-weight: 300
-  color: #333333
-  background-color: #fff
+  color: $darkTxtColor
+  background-color: $lightTxtColor
   overflow-x: hidden
 
 html
@@ -212,25 +215,25 @@ $greatColor = #65ab65
 
   &__X
     background: $untestedColor
-    color: black;
+    color: $lightTxtColor;
   &__0
     background: $darkColor
-    color: white;
+    color: $lightTxtColor;
   &__1
     background: $errorColor
-    color: white;
+    color: $lightTxtColor;
   &__2
     background: $warningColor
-    color: black;
+    color: $darkTxtColor
   &__3
     background: $averageColor
-    color: white;
+    color: $darkTxtColor
   &__4
     background: $goodColor
-    color: white;
+    color: $lightTxtColor;
   &__5
     background: $greatColor
-    color: white;
+    color: $lightTxtColor;
 
 .q-rating
   background: inherit
@@ -249,3 +252,6 @@ $greatColor = #65ab65
       color: $goodColor;
     &__5
       color: $greatColor;
+
+.animate-popup
+  background: #666

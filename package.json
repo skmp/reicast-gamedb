@@ -10,6 +10,7 @@
     "lint": "eslint --ext .js,.vue src",
     "makeData": "node -e 'require(\"./makeData\").mergedData2JSON()'",
     "makeListData": "node -e 'require(\"./makeData\").data2IndexList()'",
+    "makeCatList": "node -e 'require(\"./makeData\").makeValidCategories()'",
     "test": "echo \"No test specified\" && exit 0"
   },
   "dependencies": {

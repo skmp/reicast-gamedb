@@ -1,17 +1,6 @@
 <template>
   <div class="games-list">
-    <header class="center games-list-header">
-      <img class="spin"
-           alt="Reicast logo"
-           src="statics/icons/icon-128x128.png"
-           @click="$router.push('/')">
-      <h2>
-        {{ $t(tableTitle) }}
-      </h2>
-      <status-legend
-        @statusClick="statusFilter"
-      />
-    </header>
+    <games-header/>
     <q-table
       :data="tableData"
       :columns="columns"
@@ -19,20 +8,30 @@
       :visible-columns="visibleColumns"
       row-key="id"
       :pagination.sync="paginationControl"
-      color="secondary"
-      :title="tableTitle">
+      color="secondary">
       <template slot="top-left" slot-scope="props"> <!--eslint-disable-line vue/no-unused-vars-->
-        <q-btn :label="$t('reset_filter')"
+        <q-btn :label="$t('reset_filters')"
                color="primary"
-               class="q-mr-md"
+               class="q-mr-md reset"
                @click="resetFilter()"/>
+        <q-btn v-for="(item, index) in filteredCategories"
+               :key="index"
+               :label="item"
+               icon="fas fa-times"
+               class="filtered-categories"
+               @click="removeCategory(item)">
+          <q-tooltip :delay="500"
+                     :offset="[0, 10]">
+            {{ $t('removeFilter') }}
+          </q-tooltip>
+        </q-btn>
       </template>
-      <template slot="top-right" slot-scope="props"> <!--eslint-disable-line vue/no-unused-vars-->
+      <div class="filter-wrapper" slot="top-right" slot-scope="props"> <!--eslint-disable-line vue/no-unused-vars-->
         <q-search
           hide-underline
           color="secondary"
           v-model="filter"/>
-      </template>
+      </div>
       <q-td slot="body-cell-cover"
             slot-scope="props">
         <img class="cover" :src="getCover(props.row.cover)" @click="viewGame(props.row)"/>
@@ -50,7 +49,15 @@
         <q-btn v-for="(item, index) in props.row.categories"
                :key="index"
                :label="item"
-               @click="catFilter(item)"/>
+               class="categories"
+               :color="activeCategory(item) ? 'primary' : ''"
+               @click="addCategory(item)">
+          <q-tooltip v-if="!activeCategory(item)"
+                     :delay="500"
+                     :offset="[0, 10]">
+            {{ $t('addFilter') }}
+          </q-tooltip>
+        </q-btn>
       </q-td>
       <q-td slot="body-cell-status"
             slot-scope="props"
@@ -61,7 +68,6 @@
           :icon="null"
           :color="null"
           :game="(props.row.id)"/>
-        <q-tooltip>{{ $t('addtest') }}</q-tooltip>
       </q-td>
     </q-table>
     <Footer/>
@@ -72,16 +78,20 @@
 </template>
 <script>
 import * as helpers from '../utils/gameHelpers'
+import GamesHeader from '../components/GamesHeader'
 import SubmitTestButton from '../components/SubmitTestButton'
 import Footer from '../components/Footer'
-import StatusLegend from '../components/StatusLegend'
 
 export default {
-  components: { SubmitTestButton, Footer, StatusLegend },
+  components: { GamesHeader, SubmitTestButton, Footer },
+  props: {
+    tableData: {
+      type: Array,
+      required: true
+    }
+  },
   data () {
     return {
-      tableData: this.$store.state.games,
-      tableTitle: 'gamesIndexTitle',
       columns: [
         { name: 'id', field: 'id' },
         { name: 'cover' },
@@ -132,6 +142,15 @@ export default {
       }
     }
   },
+  computed: {
+    filteredCategories () {
+      const category = this.$route.query.category
+      if (category) {
+        return category.split(',')
+      }
+      return []
+    }
+  },
   methods: {
     getCover (cover) {
       return helpers.getImage(cover)
@@ -145,19 +164,31 @@ export default {
     computeClass (status) {
       return helpers.computeStatusClass(status)
     },
-    statusFilter (status) {
-      this.tableTitle = `gameStatus.${status}`
-      this.tableData = this.$store.state.games.filter(game => helpers.computeStatusClass(game.status) === status)
+    catFilter (cats) {
+      this.$router.push({ query: { category: cats, status: this.$route.query.status } })
     },
-    catFilter (cat) {
-      this.tableTitle = cat
-      this.tableData = this.$store.state.games.filter(game => {
-        if (game.categories && game.categories.includes(cat)) { return game }
-      })
+    addCategory (cat) {
+      let categories = this.filteredCategories
+      if (!categories.includes(cat)) {
+        categories.push(cat)
+        this.catFilter(categories.join())
+      }
+    },
+    removeCategory (cat) {
+      let categories = this.filteredCategories
+      if (categories.includes(cat)) {
+        this.catFilter(
+          categories.filter(
+            cats => cats !== cat
+          ).join()
+        )
+      }
     },
     resetFilter () {
-      this.tableTitle = 'all_games'
-      this.tableData = this.$store.state.games
+      this.$router.push({ path: '' })
+    },
+    activeCategory (cat) {
+      return this.filteredCategories.includes(cat)
     }
   }
 }
@@ -209,4 +240,23 @@ export default {
       &.game-categories
         .q-btn
          font-size: 10px
+  .filtered-categories, .reset, .categories
+    margin-bottom: 5px
+    margin-right: 5px
+
+  .filter-wrapper
+    background: rgba(0,0,0,0.03)
+    padding: 7px;
+
+.status-legend
+  min-height: 110px
+  button
+    height: 62px
+    width: 100px
+    i
+      display: none
+      margin-right: unset
+
+    &.active
+      height: 85px
 </style>

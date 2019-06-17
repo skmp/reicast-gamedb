@@ -3,8 +3,13 @@
          :label="label"
          :icon="icon"
          :color="color"
-         :class="styleClasses"
-  />
+         :class="styleClasses">
+    <q-tooltip v-if="tooltip"
+               :offset="[0, 10]">
+      {{ $t('addtest') }}
+    </q-tooltip>
+  </q-btn>
+
 </template>
 <script>
 import { openURL } from 'quasar'
@@ -33,6 +38,10 @@ export default {
     icon: {
       type: String,
       default: 'fa fa-user-edit'
+    },
+    tooltip: {
+      type: Boolean,
+      default: true
     }
   },
   methods: {
