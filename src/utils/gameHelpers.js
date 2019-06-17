@@ -3,7 +3,9 @@ import {
   LARGE_COVER_PLACEHOLDER,
   UNAVAILABLE_LABEL,
   UNTESTED_LABEL,
-  GAME_STATUSES
+  GAME_STATUSES,
+  STATUS,
+  STATUS_SEPARATOR
 } from '../constants/general'
 
 /**
@@ -95,6 +97,22 @@ export function getStars (status) {
     return 0
   }
   return parseInt(status)
+}
+
+/**
+ *
+ * @param statusClass
+ * @returns null | number
+ */
+export function getStarsFromClass (statusClass) {
+  if (statusClass) {
+    if (statusClass === GAME_STATUSES.STATUS__X) {
+      return null
+    } else {
+      return parseInt(statusClass.replace(`${STATUS}${STATUS_SEPARATOR}`, ''))
+    }
+  }
+  return 5
 }
 
 /**

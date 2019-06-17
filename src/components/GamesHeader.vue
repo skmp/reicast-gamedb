@@ -1,13 +1,16 @@
 <template>
   <header class="center games-list-header">
-    <img class="spin"
-         alt="Reicast logo"
-         src="statics/icons/icon-128x128.png"
-         @click="$router.push('/')">
     <h2>
       {{ $t(tableTitle) }}
     </h2>
-    <h4 v-if="tableSubTitle">
+    <h4>
+      <q-rating
+        icon="fa fa-gamepad"
+        :class="$route.query.status"
+        v-model="getStars"
+        :max="5" />
+    </h4>
+    <h4>
       {{ $t(tableSubTitle) }}
     </h4>
     <status-legend
@@ -17,6 +20,7 @@
 </template>
 <script>
 import StatusLegend from '../components/StatusLegend'
+import { getStarsFromClass } from '../utils/gameHelpers'
 
 export default {
   components: { StatusLegend },
@@ -33,7 +37,10 @@ export default {
       if (categories) {
         return `${'in'} ${categories.replace(/,/g, ', ')}`
       }
-      return null
+      return this.$t('allCategories')
+    },
+    getStars () {
+      return getStarsFromClass(this.$route.query.status)
     }
   },
   methods: {
@@ -45,7 +52,17 @@ export default {
 </script>
 <style lang="stylus">
 .games-list-header
+  padding: 25px;
+  width: 100%;
+  background: rgb(25, 57, 96)
+  color: white
+  background-image: url('/statics/reicast-logo.png')
+  background-position: center
+  background-repeat: no-repeat
+  background-size: contain
   h4
     line-height: unset
     margin-bottom: 10px
+.q-rating
+  color: #c0c0c0;
 </style>

@@ -47,7 +47,7 @@ export default {
     }
   },
   gamesIndexTitle: 'Game Compatibility Database',
-  all_games: 'All Games',
+  allCategories: 'All Categories',
   game: 'Game',
   gamePage: {
     [SECTION_CLASSES.OVERVIEW]: 'overview',

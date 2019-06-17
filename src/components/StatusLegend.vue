@@ -26,7 +26,7 @@ export default {
     },
     getClass (status) {
       if (this.active(status)) {
-        return `active ${status}`
+        return `active-status ${status}`
       }
       return status
     }
@@ -42,7 +42,7 @@ export default {
       display: none
       margin-right: unset
 
-    &.active
+    &.active-status
       i
         display: block
         margin-bottom 5px

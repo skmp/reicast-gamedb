@@ -7,8 +7,7 @@
       :filter="filter"
       :visible-columns="visibleColumns"
       row-key="id"
-      :pagination.sync="paginationControl"
-      color="secondary">
+      :pagination.sync="paginationControl">
       <template slot="top-left" slot-scope="props"> <!--eslint-disable-line vue/no-unused-vars-->
         <q-btn :label="$t('reset_filters')"
                color="primary"
@@ -196,12 +195,6 @@ export default {
 <style lang="stylus">
 
 .games-list
-  header
-    padding: 25px;
-    width: 100%;
-    background: rgb(25, 57, 96);
-    color: white;
-
   td
     &.game-categories
       .q-btn
@@ -213,26 +206,24 @@ export default {
 
   .cover
     padding: 10px 0
+    cursor: pointer
 
   .q-table-title
     font-size: 18px
 
-  .games-list-header img
-    cursor: pointer
+  @media (min-width: 576px) and (max-width: 767px)
+    .status-legend
+      min-height: 175px
 
   @media (max-width: 848px)
     .released
-      display: none;
-
-    .games-list-header img
-      height: 96px
+      display: none
 
   @media (max-width: 575px)
     .popularity
-      display: none;
-
-    .games-list-header img
-      height: 64px
+      display: none
+    .status-legend
+      min-height: 245px
 
     td
       .q-btn
@@ -249,14 +240,14 @@ export default {
     padding: 7px;
 
 .status-legend
-  min-height: 110px
+  min-height: 120px
   button
     height: 62px
-    width: 100px
+    width: 92px
     i
       display: none
       margin-right: unset
 
-    &.active
+    &.active-status
       height: 85px
 </style>
