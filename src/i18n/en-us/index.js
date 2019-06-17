@@ -68,7 +68,7 @@ export default {
   player_perspectives: 'Player Perspectives',
   already_here: 'Hey, you are already here!',
   navigation_already_in_progress: 'Navigation is already in progress!',
-  addtest: 'Add report',
+  addTest: 'Add report',
   average: 'Average',
   Status: 'Status',
   Speed: 'Speed',

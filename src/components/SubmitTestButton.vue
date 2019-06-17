@@ -6,7 +6,7 @@
          :class="styleClasses">
     <q-tooltip v-if="tooltip"
                :offset="[0, 10]">
-      {{ $t('addtest') }}
+      {{ $t('addTest') }}
     </q-tooltip>
   </q-btn>
 

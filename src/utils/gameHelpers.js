@@ -90,11 +90,11 @@ export function getDate (UnixTimestamp) {
 /**
  *
  * @param status
- * @returns number
+ * @returns number | null
  */
 export function getStars (status) {
   if (status === UNTESTED_LABEL) {
-    return 0
+    return null
   }
   return parseInt(status)
 }

@@ -1,13 +1,30 @@
 <template>
   <div>
-    <q-table
+    <q-table v-if="tableData.length"
       :data="tableData"
       :columns="columns"
       :filter="filter"
       :visible-columns="visibleColumns"
       :row-key="uniqueKeyField"
-      :pagination.sync="paginationControl"
-      color="secondary">
+      :pagination.sync="paginationControl">
+      <template slot="top-left" slot-scope="props"> <!--eslint-disable-line vue/no-unused-vars-->
+        <div class="average-wrapper">
+          <q-btn :label="game.status"
+                 icon="fa fa-calculator"
+                 color="primary">
+            <q-rating icon="fa fa-gamepad"
+                      :class="computeClass(game.status, 'average stars hidden-xs')"
+                      v-model="stars"
+                      :max="5" />
+          </q-btn>
+        </div>
+      </template>
+      <template slot="top-right" slot-scope="props"> <!--eslint-disable-line vue/no-unused-vars-->
+        <submit-test-button
+          class="float-right"
+          color="secondary"
+          :game="game.id"/>
+      </template>
       <q-td slot="body-cell-Comment"
             slot-scope="props"
             class="test-comment">
@@ -22,32 +39,36 @@
       </q-td>
       <q-tr slot="bottom-row" slot-scope="props"> <!--eslint-disable-line vue/no-unused-vars-->
         <q-td colspan="100%">
-          <span class="float-left">
-          <q-btn :label="status"
-                 :class="computeClass(status)"
-          />
+          <span class="float-left average">
+        <status-legend :read-only="true" class-list="small"/>
           </span>
-          <status-legend/>
         </q-td>
       </q-tr>
     </q-table>
-
+    <div v-else>
+      <p>{{ game.status }}</p>
+      <h4 class="rating">
+        <q-rating icon="fa fa-gamepad"
+                  :class="computeClass(game.stars)"
+                  v-model="stars"
+                  :max="5" />
+      </h4>
+      <p><submit-test-button :game="game.id"/></p>
+    </div>
   </div>
 
 </template>
+
 <script>
 import StatusLegend from '../components/StatusLegend'
-import { computeStatusClass } from '../utils/gameHelpers'
+import { computeStatusClass, getStars } from '../utils/gameHelpers'
+import SubmitTestButton from './SubmitTestButton'
 
 export default {
-  components: { StatusLegend },
+  components: { StatusLegend, SubmitTestButton },
   props: {
-    testData: {
-      type: Array,
-      required: true
-    },
-    status: {
-      type: String,
+    game: {
+      type: Object,
       required: true
     }
   },
@@ -66,7 +87,6 @@ export default {
   data () {
     return {
       uniqueKeyField: '__index',
-      tableData: this.testData,
       columns: [],
       filter: '',
       paginationControl: {
@@ -74,12 +94,13 @@ export default {
         page: 1,
         sortBy: 'Test date',
         descending: true
-      }
+      },
+      stars: getStars(this.game.status)
     }
   },
   computed: {
     fields () {
-      if (this.tableData) {
+      if (this.tableData.length) {
         return Object.keys(this.tableData[0])
       }
       return []
@@ -92,11 +113,18 @@ export default {
           return field
         }
       })
+    },
+    tableData () {
+      const tests = this.game.tests
+      if (tests) {
+        return tests
+      }
+      return []
     }
   },
   methods: {
-    computeClass (status) {
-      return `q-mr-md ${computeStatusClass(status)}`
+    computeClass (status, extraClass = '') {
+      return `q-mr-md ${extraClass} ${computeStatusClass(status)}`
     }
   }
 }

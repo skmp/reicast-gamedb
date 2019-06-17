@@ -239,15 +239,15 @@ export default {
     background: rgba(0,0,0,0.03)
     padding: 7px;
 
-.status-legend
-  min-height: 120px
-  button
-    height: 62px
-    width: 92px
-    i
-      display: none
-      margin-right: unset
+  .status-legend
+    min-height: 120px
+    button
+      height: 62px
+      width: 92px
+      i
+        display: none
+        margin-right: unset
 
-    &.active-status
-      height: 85px
+      &.active-status
+        height: 85px
 </style>
