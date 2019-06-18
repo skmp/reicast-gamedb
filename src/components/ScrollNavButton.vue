@@ -30,13 +30,7 @@ export default {
       }
       const scrollStatus = this.$store.getters.getScrollStatus
       if (this.directionDown) {
-        // page has multiple sections
-        if (scrollStatus.items.length) {
-          return scrollStatus.items.length !== scrollStatus.active + 1
-        // this is a 2 section page
-        } else {
-          return scrollStatus.active !== 1
-        }
+        return scrollStatus.items.length !== scrollStatus.active + 1
       } else {
         return scrollStatus.active !== 0
       }

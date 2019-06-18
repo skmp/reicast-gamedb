@@ -89,6 +89,10 @@ export default {
       required: true
     }
   },
+  mounted () {
+    // this line will be moved to a new layout used to wrap 'non-Jadzia' pages in upcoming commit
+    document.body.classList.remove('no-scroll-bar')
+  },
   data () {
     return {
       columns: [

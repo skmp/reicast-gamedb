@@ -8,15 +8,16 @@
 export default {
   mounted () {
     document.body.classList.add('no-scroll-bar')
-    this.$store.dispatch('scrollPageTo', { to: 0, duration: 1000 })
+    this.$store.commit('setTopOffset', window.scrollY)
+    this.$store.commit('setScroll', {
+      active: this.getCurrentActiveSection(),
+      lastScrollTop: this.topOffset
+    })
     window.addEventListener('scroll', this.handleScroll)
-  },
-  beforeDestroy () {
-    this.$store.dispatch('scrollPageTo', { to: 0, duration: 0 })
-      .then(() => this.$store.commit('resetWindowProps'))
+    this.$store.commit('setLoading', false)
   },
   destroyed () {
-    document.body.classList.remove('no-scroll-bar')
+    this.$store.commit('resetWindowProps')
     window.removeEventListener('scroll', this.handleScroll)
   },
   computed: {
@@ -73,6 +74,13 @@ export default {
         prev = `.${this.sections[active - 1]}`
       }
       return prev
+    },
+    getCurrentActiveSection () {
+      if (this.sections.length) {
+        return Math.floor(this.topOffset / this.$store.getters.getHeight)
+      } else {
+        throw new Error('Jadzia sections have not been set')
+      }
     }
   }
 }

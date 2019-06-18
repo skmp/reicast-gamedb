@@ -45,6 +45,8 @@ export default {
   name: 'HomePage',
   mounted () {
     this.$store.commit('setPageClass', 'home')
+    this.$store.commit('setScrollItems', [ 'home', 'about' ]
+    )
   },
   components: {
     SectionComponent,
