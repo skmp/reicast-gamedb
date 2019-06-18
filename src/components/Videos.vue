@@ -101,7 +101,7 @@ export default {
 <style>
   @media screen and (max-height: 576px) {
     section.test-videos .q-carousel.video-carousel {
-      padding-top: 45px;
+      padding-top: 65px;
     }
   }
 </style>

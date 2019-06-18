@@ -6,7 +6,8 @@
       </span>
 
       <a class="navbar-brand" @click="$router.push('/games')">
-        <h1>{{ $t('app.name') }}</h1>
+        <h1 class="hidden-xs">{{ $t('app.name') }}</h1>
+        <img class="display-xs" src="/statics/icons/favicon-32x32.png" alt="Reicast Logo">
       </a>
       <span class="navbar-active">{{ activeLabel }}</span>
       <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
@@ -139,7 +140,7 @@ export default {
       margin:0
 
     li a
-      font-size: 0.80em
+      font-size: 0.7em
       letter-spacing: 0.1em
       text-transform: uppercase
       font-weight: 700
@@ -158,12 +159,13 @@ export default {
 
   .navbar-brand
     float: left
-    font-size: 0.8em
-    padding: 1em 2em
+    font-size: 0.7em
+    padding: 1em 2em 0
     cursor: pointer
     h1
       margin:0
       font-size: 23px
+      line-height: unset
 
   .navbar-toggle
     position: absolute
@@ -174,14 +176,14 @@ export default {
     font-size: 1em
 
   .navbar-active
-    font-size: 17px;
-    width: 240px;
-    margin: auto;
-    display: none;
-    text-align: center;
-    padding: 1em 2em;
+    font-size: 17px
+    width: 240px
+    margin: auto
+    display: none
+    text-align: center
+    padding: 1em 2em
     text-transform: capitalize
-    color: white;
+    color: white
 
   .active
     display: block
@@ -191,7 +193,7 @@ export default {
     .navbar.top-nav-collapse
       background: transparent!important
 
-    .navbar-brand, footer .btn-circle
+    footer .btn-circle
       display:none
 
     body
@@ -271,7 +273,7 @@ export default {
         background-color: rgba(0,0,0,0)
 
       .nav-links
-        padding: 20px 12px
+        padding: 18px 10px
 
       .navbar-toggle
         display: none

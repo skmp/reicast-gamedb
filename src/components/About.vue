@@ -18,6 +18,14 @@
                    :label="$t(link.label)"
                    @click.native="openURL($t(link.url))"/>
           </div>
+          <div class="margin-auto">
+            <a href="mailto:team@reicast.com">
+              <q-btn class="link"
+                     color="primary"
+                     icon="fas fa-envelope"
+                     label="email"/>
+            </a>
+          </div>
         </div>
         <p>{{ $t('igdb_attribution') }}</p>
       </div>

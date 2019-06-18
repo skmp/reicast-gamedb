@@ -83,22 +83,10 @@ module.exports = function (ctx) {
     // framework: 'all' --- includes everything; for dev only!
     framework: {
       components: [
-        'QLayout',
-        'QLayoutHeader',
-        'QLayoutDrawer',
-        'QPageContainer',
-        'QPage',
         'QRating',
-        'QToolbar',
-        'QToolbarTitle',
         'QTooltip',
         'QBtn',
         'QIcon',
-        'QList',
-        'QListHeader',
-        'QItem',
-        'QItemMain',
-        'QItemSide',
         'QCarousel',
         'QCarouselSlide',
         'QCarouselControl',
@@ -109,7 +97,8 @@ module.exports = function (ctx) {
         'QTable',
         'QTd',
         'QTr',
-        'QSearch'
+        'QSearch',
+        'QPageSticky'
       ],
       directives: [
         'Ripple'

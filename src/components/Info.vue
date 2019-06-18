@@ -6,7 +6,7 @@
 
     <div class="basic-container" slot="content">
       <div>
-        <h4>{{ $t('Game Releases') }}</h4>
+        <h3>{{ $t('Game Releases') }}</h3>
         <p>
           <v-table :fields="Object.keys(gameData.releases[0])"
                    wrapperClass="other"
@@ -16,12 +16,12 @@
       </div>
 
       <div v-if="gameData.summary">
-        <h4>{{ $t('Summary') }}</h4>
+        <h3>{{ $t('Summary') }}</h3>
         <p>{{ gameData.summary }}</p>
       </div>
 
       <div v-if="gameData.storyline">
-        <h4>{{ $t('Storyline') }}</h4>
+        <h3>{{ $t('Storyline') }}</h3>
         <p>{{ gameData.storyline }}</p>
       </div>
     </div>

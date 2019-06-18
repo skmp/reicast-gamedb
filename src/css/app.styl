@@ -1,16 +1,36 @@
 $darkTxtColor = #333
 $lightTxtColor = #fff
 
+/* latin-ext */
+@font-face
+  font-family: 'Audiowide'
+  font-style: normal
+  font-weight: 400
+  font-display: swap
+  src: local('Audiowide Regular'), local('Audiowide-Regular'), url('../statics/fonts/Audiowide-Regular-ext.woff2') format('woff2')
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF
+/* latin */
+@font-face
+  font-family: 'Audiowide'
+  font-style: normal
+  font-weight: 400
+  font-display: swap
+  src: local('Audiowide Regular'), local('Audiowide-Regular'), url('../statics/fonts/Audiowide-Regular.woff2') format('woff2')
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD
 *
   box-sizing: border-box
   padding: 0
   margin: 0
 
+html
+  width: 100%
+  height: 100%
+
 body
   margin:0!important
   min-height: 275px
   min-width: 300px
-
+  font-family: 'Audiowide', cursive;
   &.no-scroll-bar
     scrollbar-width: none!important /* Firefox */
     -ms-overflow-style: none!important  /* IE 10+ */
@@ -21,99 +41,113 @@ body
     height: 0!important
     background: transparent
 
-.q-table-container
-  background: $lightTxtColor
+  .q-table-container
+    background: $lightTxtColor
 
-textarea
-  resize: none
+  textarea
+    resize: none
 
-#app
-  width: 100%
-  height: 100%
-  font-family: 'Oswald'
-  font-weight: 300
-  color: $darkTxtColor
-  background-color: $lightTxtColor
-  overflow-x: hidden
+  #app
+    width: 100%
+    height: 100%
+    font-weight: 300
+    color: $darkTxtColor
+    background-color: $lightTxtColor
+  //overflow-x: hidden
 
-html
-  width: 100%
-  height: 100%
+  p
+    margin: 15px
 
-p
-  margin: 15px
+  section
+    &.contact
+      color: #666
 
-section
-  &.contact
-    color: #666
+    .section-heading
+      margin-bottom: 1.5em
+      padding: 0 20px
 
-  .section-heading
-    margin-bottom: 1.5em
+    &.overview
 
-  &.overview
+      .q-card
+        width:inherit
+        max-width: 1440px
+        height: 100%
+        margin: auto
+        overflow: hidden
 
-    .q-card
-      width:inherit
-      max-width: 1440px
-      height: 100%
-      margin: auto
-      overflow: hidden
+    .inherit-width
+      width: inherit
 
-  .inherit-width
-    width: inherit
+    .basic-container
+      margin: 65px auto 30px
 
-.btn:hover, .btn:focus
-  outline: none
+  .btn:hover, .btn:focus
+    outline: none
 
-.centered
-  resize: vertical
-  overflow: inherit
+  .centered
+    resize: vertical
+    overflow: inherit
 
-.center
-  text-align: center
-  overflow: inherit
+  .center
+    text-align: center
+    overflow: inherit
 
-.page-scroll
-  text-align: center
+  .margin-auto
+    margin: auto
 
-.basic-container
-  overflow: auto
-  width: 100%
-  padding: 0 22px;
+  .basic-container
+    overflow: auto
+    width: 100%
+    padding: 0 22px;
 
-.q-carousel
-  background: #D2D4C8;
-  padding-top: 35px;
-.q-carousel-quick-nav
-  background: none
-.q-carousel-inner
-  padding: 0 0 2em;
-.q-carousel-left-arrow
-  left: 2%
-.q-carousel-right-arrow
-  right: 2%
+  .q-carousel
+    background: #D2D4C8;
+    padding-top: 35px;
+  .q-carousel-quick-nav
+    background: none
+  .q-carousel-inner
+    padding: 0 0 2em;
+  .q-carousel-left-arrow
+    left: 2%
+  .q-carousel-right-arrow
+    right: 2%
 
-.q-btn
-  padding: 4px 8px;
+  .q-btn
+    padding: 4px 8px;
 
-.q-table th, .q-table td
-  white-space: normal
+  .q-table th, .q-table td
+    font-size: 12px;
+    white-space: normal
 
-.q-table th.nowrap, .q-table td.nowrap
-  white-space: nowrap
+  .q-table th.nowrap, .q-table td.nowrap
+    white-space: nowrap
 
-.small
-  font-size: 80%
+  .small
+    font-size: 80%
+
 @media screen and (max-width: 575px)
-  h2
-    font-size: 26px
-  .q-carousel-left-arrow, .q-carousel-right-arrow
+  body
+    h2
+      font-size: 26px
+    .q-carousel-left-arrow, .q-carousel-right-arrow
+      display: none
+
+    .hidden-xs
+      display: none!important
+
+    .shown-xs
+      display: block
+
+@media screen and (min-width: 576px)
+  .display-xs
     display: none
 
-  .hidden-xs
-    display: none!important
-
 @media screen and (min-width: 768px) and (max-width: 991px)
+  body
+    font-size: 95%
+
+    .q-btn
+      font-size: 13px
   h2
     font-size: 42px
 
@@ -127,9 +161,6 @@ section
     margin-top: 0
     padding: 1px 0
     font-size: 13px
-
-  .basic-container
-    margin: 65px auto 30px;
 
 @media (min-height: 499px) and (max-height: 599px)
   body

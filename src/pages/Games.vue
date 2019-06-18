@@ -207,15 +207,17 @@ export default {
   .cover
     padding: 10px 0
     cursor: pointer
+    max-width: 90px
 
   .q-table-title
     font-size: 18px
 
   @media (min-width: 576px) and (max-width: 767px)
+
     .status-legend
       min-height: 175px
 
-  @media (max-width: 848px)
+  @media (max-width: 879px)
     .released
       display: none
 
@@ -227,7 +229,7 @@ export default {
 
     td
       .q-btn
-        font-size: 13px
+        font-size: 12px
       &.game-categories
         .q-btn
          font-size: 10px
@@ -250,4 +252,20 @@ export default {
 
       &.active-status
         height: 85px
+
+  @media (max-width: 499px)
+    td
+      .q-btn
+        font-size: 11px
+        padding: 4px
+      &.game-categories
+        .q-btn
+          font-size: 9px
+
+   @media (max-width: 429px)
+    td
+      .q-btn
+        font-size: 10px
+    img.cover
+      max-width:80px
 </style>
