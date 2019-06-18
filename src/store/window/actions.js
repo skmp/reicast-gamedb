@@ -73,7 +73,7 @@ const actions = {
     if (to === 0) {
       active = 0
     } else if (to === -1) {
-      active = state.scroll.items.length + 1
+      active = state.scrollNav.items.length + 1
     } else {
       active = getMatchingPreviousSiblingsCount(
         document.querySelector(to),

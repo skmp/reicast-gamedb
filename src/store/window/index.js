@@ -15,10 +15,10 @@ const mutations = {
     state.pageClass = pageClass
   },
   setScroll (state, data) {
-    state.scroll = Object.assign(state.scroll, data)
+    state.scrollNav = Object.assign(state.scrollNav, data)
   },
   setScrollItems (state, items) {
-    state.scroll.items = items
+    state.scrollNav.items = items
   },
   resetWindowProps (state) {
     state = new WindowProps()
@@ -39,7 +39,7 @@ const getters = {
     return state.offsetTop
   },
   getScrollStatus: state => {
-    return state.scroll
+    return state.scrollNav
   },
   getPageClass: state => {
     return state.pageClass

@@ -56,7 +56,7 @@ export default {
   },
   computed: {
     active () {
-      return this.$store.state.window.scroll.active
+      return this.$store.state.appWindow.scrollNav.active
     },
     setNavClasses () {
       let active = this.active
@@ -66,7 +66,7 @@ export default {
       return `${topNavClasses} ${topNavCollapseClass}`
     },
     loading () {
-      return this.$store.state.window.loading
+      return this.$store.state.appWindow.loading
     }
   },
   methods: {
@@ -88,7 +88,7 @@ export default {
           type: 'info',
           message: this.$t('already_here')
         })
-      } else if (this.$store.state.window.scroll.scrollStarted) {
+      } else if (this.$store.state.appWindow.scrollNav.scrollStarted) {
         this.$q.notify({
           type: 'warning',
           message: this.$t('navigation_already_in_progress')
