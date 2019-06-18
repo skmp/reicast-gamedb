@@ -11,18 +11,18 @@
         <div class="average-wrapper">
           <q-btn :label="game.status"
                  icon="fa fa-calculator"
-                 color="primary">
-            <q-rating icon="fa fa-gamepad"
-                      :class="computeClass(game.status, 'average stars hidden-xs')"
-                      v-model="stars"
-                      :max="5" />
-          </q-btn>
+                 :class="computeClass(game.status)"/>
+          <q-rating icon="fa fa-gamepad"
+                    :class="computeClass(game.status, 'average stars hidden-xs')"
+                    size="21px"
+                    v-model="stars"
+                    :max="5" />
         </div>
       </template>
       <template slot="top-right" slot-scope="props"> <!--eslint-disable-line vue/no-unused-vars-->
         <submit-test-button
+          :tooltip="false"
           class="float-right"
-          color="secondary"
           :game="game.id"/>
       </template>
       <q-td slot="body-cell-Comment"
@@ -38,10 +38,15 @@
         </span>
       </q-td>
       <q-tr slot="bottom-row" slot-scope="props"> <!--eslint-disable-line vue/no-unused-vars-->
+        <!--<q-td>-->
+          <!--<q-table-columns-->
+            <!--class="q-mr-sm"-->
+            <!--v-model="visibleColumns"-->
+            <!--:columns="columns"-->
+          <!--/>-->
+        <!--</q-td>-->
         <q-td colspan="100%">
-          <span class="float-left average">
-        <status-legend :read-only="true" class-list="small"/>
-          </span>
+          <status-legend :read-only="true" class-list="small"/>
         </q-td>
       </q-tr>
     </q-table>
@@ -53,7 +58,7 @@
                   v-model="stars"
                   :max="5" />
       </h4>
-      <p><submit-test-button :game="game.id"/></p>
+      <p><submit-test-button :game="game.id" :tooltip="false"/></p>
     </div>
   </div>
 
@@ -83,11 +88,13 @@ export default {
       })
     })
     this.columns = columns
+    this.visibleColumns = this.getVisibleColumns()
   },
   data () {
     return {
       uniqueKeyField: '__index',
       columns: [],
+      visibleColumns: [],
       filter: '',
       paginationControl: {
         rowsPerPage: 15,
@@ -105,15 +112,6 @@ export default {
       }
       return []
     },
-    visibleColumns () {
-      const hideFields = [this.uniqueKeyField]
-
-      return this.fields.filter(field => {
-        if (!hideFields.includes(field)) {
-          return field
-        }
-      })
-    },
     tableData () {
       const tests = this.game.tests
       if (tests) {
@@ -125,6 +123,15 @@ export default {
   methods: {
     computeClass (status, extraClass = '') {
       return `q-mr-md ${extraClass} ${computeStatusClass(status)}`
+    },
+    getVisibleColumns () {
+      const hideFields = [this.uniqueKeyField]
+
+      return this.fields.filter(field => {
+        if (!hideFields.includes(field)) {
+          return field
+        }
+      })
     }
   }
 }
