@@ -197,7 +197,7 @@ export default {
       display:none
 
     body
-      font-size: 13px
+      font-size: 12px
 
   @media screen and (max-width: 991px), screen and (max-height: 398px)
     .navbar
@@ -215,6 +215,7 @@ export default {
           display: inline-block
           width:100%
           color: white
+          line-height: 40px;
 
     .navbar-active
       display: block;

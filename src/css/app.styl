@@ -27,6 +27,8 @@ html
   height: 100%
 
 body
+  h1, h2, h3
+    line-height: 1;
   margin:0!important
   min-height: 275px
   min-width: 300px
@@ -105,8 +107,18 @@ body
     padding-top: 35px;
   .q-carousel-quick-nav
     background: none
+
   .q-carousel-inner
-    padding: 0 0 2em;
+    overflow: hidden
+    background: #000;
+    border-top: 3px solid #888;
+    padding: 2% 2% 4% 2%;
+    border-radius: 26px;
+    margin: 0 5%
+    transition: margin-right 1s;
+
+  .q-carousel-slide
+    padding: 10px
   .q-carousel-left-arrow
     left: 2%
   .q-carousel-right-arrow
@@ -121,6 +133,10 @@ body
 
   .q-table th.nowrap, .q-table td.nowrap
     white-space: nowrap
+
+  .custom-caption
+    color: white
+    padding: 5px 8px 0
 
   .small
     font-size: 80%
@@ -153,7 +169,7 @@ body
 
 @media (max-height: 499px)
   body
-    font-size: 14px
+    font-size: 13px
 
   footer .btn-circle
     width: 28px
@@ -164,7 +180,7 @@ body
 
 @media (min-height: 499px) and (max-height: 599px)
   body
-    font-size: 15px
+    font-size: 13px
 
   footer .btn-circle
     width: 38px
@@ -284,16 +300,10 @@ $greatColor = #65ab65
 
 .animate-popup
   background: #666
-
-.q-carousel-slide
-  padding: 0
 .average-wrapper
   .average
     &.stars
       padding: 0 10px
-  //
-  //.q-rating
-  //  color: unset
 .game-tests
   .q-table-container
     padding: 10px;

@@ -20,7 +20,7 @@
 
             <img overlay-position="full"
                  itemprop="url"
-                 :style="playerHeightStyle"
+                 :style="playerStyle"
                  :src="getScreenShotUrl(shot.url)"
                  :title="`${game.title} - ${objectKey}-${i}`"
                  :alt="`${game.title} - ${objectKey}-${i}`">
@@ -50,12 +50,17 @@ export default {
     height () {
       return this.$store.getters.getHeight
     },
-    playerHeightStyle () {
+    width () {
+      return this.$store.getters.getWidth
+    },
+    playerStyle () {
+      const height = this.height
+      const width = this.width
       let multiplier = 0.7
-      if (this.width < 576) {
+      if (width < 576 || height < 499) {
         multiplier = 0.6
       }
-      return `max-height: ${this.height * multiplier}px`
+      return `max-height: ${height * multiplier}px; max-width: ${width * multiplier}px`
     }
   },
   methods: {
