@@ -24,8 +24,7 @@
                  @click="$router.push('/games')"/>
         </div>
         <scroll-nav/>
-        <input v-if="!$q.platform.is.cordova && !$q.platform.is.electron"
-               type="hidden" name="spaPreRenderElement" value=""/>
+        <pre-render-injection/>
       </template>
     </section-component>
 
@@ -40,6 +39,7 @@ import SectionComponent from '../components/Section.vue'
 import About from '../components/About.vue'
 import Footer from '../components/Footer.vue'
 import ScrollNav from '../components/ScrollNav'
+import PreRenderInjection from '../components/mini/PreRenderInjection'
 
 export default {
   name: 'HomePage',
@@ -52,7 +52,8 @@ export default {
     SectionComponent,
     About,
     Footer,
-    ScrollNav
+    ScrollNav,
+    PreRenderInjection
   },
   computed: {
     height () {

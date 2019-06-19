@@ -10,8 +10,20 @@ const routes = [
   },
   {
     path: '/games',
-    component: () => import('pages/Games.vue'),
-    props: routerHelpers.queryFilters,
+    component: () => import('layouts/Miles.vue'),
+    children: [
+      {
+        path: '',
+        component: () => import('pages/Games.vue'),
+        children: [
+          {
+            path: '',
+            component: () => import('components/GamesList.vue'),
+            props: routerHelpers.queryFilters
+          }
+        ]
+      }
+    ],
     beforeEnter: (to, from, next) => {
       const sanitizeCats = routerHelpers.sanitizeCategories(to.query.category)
       const statusWasInvalid = routerHelpers.isInvalidStatus(to.query.status)

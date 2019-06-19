@@ -24,8 +24,7 @@
         </ul>
 
       </div>
-      <input v-if="!$q.platform.is.cordova && !$q.platform.is.electron"
-             type="hidden" name="spaPreRenderElement" value=""/>
+      <pre-render-injection/>
       <scroll-nav/>
     </nav>
   </transition>
@@ -33,13 +32,14 @@
 
 <script>
 import ScrollNav from '../components/ScrollNav'
+import PreRenderInjection from '../components/mini/PreRenderInjection'
 
 const topNavCollapseClass = 'top-nav-collapse'
 const topNavClasses = 'navbar navbar-fixed-top'
 
 export default {
   name: 'GameNavigation',
-  components: { ScrollNav },
+  components: { ScrollNav, PreRenderInjection },
   props: {
     menuItems: {
       type: Array,
