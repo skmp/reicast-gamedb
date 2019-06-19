@@ -15,10 +15,10 @@
 </template>
 
 <script>
-import SectionComponent from './Section.vue'
-import Footer from './Footer.vue'
-import Disqus from './Disqus'
-import { SITE_URL } from '../constants/general'
+import SectionComponent from '../Section.vue'
+import Footer from '../../../common/Footer.vue'
+import Disqus from '../../../common/Disqus'
+import { SITE_URL } from '../../../../constants/general'
 
 export default {
   components: { SectionComponent, Footer, Disqus },

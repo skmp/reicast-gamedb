@@ -41,8 +41,8 @@
 </template>
 
 <script>
-import SectionComponent from './Section.vue'
-import VTable from './Table.vue'
+import SectionComponent from '../Section.vue'
+import VTable from '../../../common/Table.vue'
 
 export default {
   components: { SectionComponent, VTable },

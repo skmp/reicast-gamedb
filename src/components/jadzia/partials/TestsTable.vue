@@ -65,9 +65,9 @@
 </template>
 
 <script>
-import StatusLegend from '../components/StatusLegend'
-import { computeStatusClass, getStars } from '../utils/gameHelpers'
-import SubmitTestButton from './SubmitTestButton'
+import StatusLegend from '../../common/StatusLegend'
+import { computeStatusClass, getStars } from '../../../utils/gameHelpers'
+import SubmitTestButton from '../../common/SubmitTestButton'
 
 export default {
   components: { StatusLegend, SubmitTestButton },

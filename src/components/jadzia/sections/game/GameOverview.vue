@@ -51,9 +51,9 @@
 </template>
 
 <script>
-import SectionComponent from './Section.vue'
-import { getStars, getDate, getImage, getCategories, computeStatusClass } from '../utils/gameHelpers'
-import { UNTESTED_LABEL } from '../constants/general'
+import SectionComponent from '../Section.vue'
+import { getStars, getDate, getImage, getCategories, computeStatusClass } from '../../../../utils/gameHelpers'
+import { UNTESTED_LABEL } from '../../../../constants/general'
 
 export default {
   components: { SectionComponent },

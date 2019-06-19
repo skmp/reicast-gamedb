@@ -34,7 +34,7 @@
 </template>
 
 <script>
-import SectionComponent from './Section.vue'
+import SectionComponent from '../Section.vue'
 import { openURL } from 'quasar'
 
 export default {

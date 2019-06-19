@@ -33,8 +33,8 @@
 </template>
 
 <script>
-import SectionComponent from './Section.vue'
-import { getImage } from '../utils/gameHelpers'
+import SectionComponent from '../Section.vue'
+import { getImage } from '../../../../utils/gameHelpers'
 
 export default {
   components: { SectionComponent },

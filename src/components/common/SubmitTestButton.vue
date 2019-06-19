@@ -13,7 +13,7 @@
 </template>
 <script>
 import { openURL } from 'quasar'
-import { GOOGLE_REPORT_FORM } from '../constants/general'
+import { GOOGLE_REPORT_FORM } from '../../constants/general'
 
 export default {
   props: {

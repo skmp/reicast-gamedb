@@ -20,7 +20,7 @@
 </template>
 
 <script>
-import SectionComponent from './Section.vue'
+import SectionComponent from '../jadzia/sections/Section.vue'
 
 export default {
   components: { SectionComponent }

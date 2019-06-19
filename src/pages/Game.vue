@@ -21,13 +21,13 @@
 </template>
 <script>
 import { DESCRIPTION } from '../constants/head'
-import MainNavigation from '../components/TopNavbar'
-import GameOverview from '../components/GameOverview'
-import Info from '../components/Info'
-import Gallery from '../components/Gallery'
-import Videos from '../components/Videos'
-import Tests from '../components/Tests'
-import Discuss from '../components/Discuss'
+import MainNavigation from '../components/jadzia/partials/TopNavbar'
+import GameOverview from '../components/jadzia/sections/game/GameOverview'
+import Info from '../components/jadzia/sections/game/Info'
+import Gallery from '../components/jadzia/sections/game/Gallery'
+import Videos from '../components/jadzia/sections/game/Videos'
+import Tests from '../components/jadzia/sections/game/Tests'
+import Discuss from '../components/jadzia/sections/game/Discuss'
 import { SECTION_CLASSES } from '../constants/general'
 
 export default {

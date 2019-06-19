@@ -31,8 +31,8 @@
 </template>
 
 <script>
-import ScrollNav from '../components/ScrollNav'
-import PreRenderInjection from '../components/mini/PreRenderInjection'
+import ScrollNav from '../../common/ScrollNav'
+import PreRenderInjection from '../../common/PreRenderInjection'
 
 const topNavCollapseClass = 'top-nav-collapse'
 const topNavClasses = 'navbar navbar-fixed-top'

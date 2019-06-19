@@ -9,7 +9,7 @@
 </template>
 
 <script>
-import { scrollButtonProps } from '../constants/components'
+import { scrollButtonProps } from '../../constants/components'
 
 export default {
   props: scrollButtonProps,

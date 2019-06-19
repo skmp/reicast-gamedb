@@ -69,8 +69,8 @@
     </q-table>
 </template>
 <script>
-import * as helpers from '../utils/gameHelpers'
-import SubmitTestButton from '../components/SubmitTestButton'
+import * as helpers from '../../../utils/gameHelpers'
+import SubmitTestButton from '../../common/SubmitTestButton'
 
 export default {
   components: { SubmitTestButton },
@@ -78,9 +78,6 @@ export default {
     tableData: {
       type: Array
     }
-  },
-  mounted () {
-    console.log(this.tableData)
   },
   data () {
     return {

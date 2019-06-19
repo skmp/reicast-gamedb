@@ -18,7 +18,7 @@ const routes = [
         children: [
           {
             path: '',
-            component: () => import('components/GamesList.vue'),
+            component: () => import('components/miles/games/GamesList.vue'),
             props: routerHelpers.queryFilters
           }
         ]

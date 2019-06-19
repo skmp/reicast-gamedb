@@ -11,9 +11,9 @@
 </template>
 
 <script>
-import SectionComponent from './Section.vue'
-import TestTable from '../components/TestsTable'
-import { computeStatusClass } from '../utils/gameHelpers'
+import SectionComponent from '../Section.vue'
+import TestTable from '../../partials/TestsTable'
+import { computeStatusClass } from '../../../../utils/gameHelpers'
 
 export default {
   components: { SectionComponent, TestTable },

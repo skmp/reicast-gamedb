@@ -1,5 +1,5 @@
 <template>
-  <div class="jadzia flex flex-center" v-if="true">
+  <div class="jadzia flex flex-center">
     <router-view />
   </div>
 </template>

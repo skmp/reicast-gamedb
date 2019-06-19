@@ -16,7 +16,7 @@
 
 <script>
 import ScrollNavButton from './ScrollNavButton'
-import { scrollButtonProps } from '../constants/components'
+import { scrollButtonProps } from '../../constants/components'
 
 export default {
   components: { ScrollNavButton },

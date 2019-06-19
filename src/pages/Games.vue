@@ -11,9 +11,9 @@
 </template>
 <script>
 import { DESCRIPTION } from '../constants/head'
-import GamesHeader from '../components/GamesHeader'
-import Footer from '../components/Footer'
-import PreRenderInjection from '../components/mini/PreRenderInjection'
+import GamesHeader from '../components/miles/games/GamesHeader'
+import Footer from '../components/common/Footer'
+import PreRenderInjection from '../components/common/PreRenderInjection'
 
 export default {
   components: { GamesHeader, Footer, PreRenderInjection },

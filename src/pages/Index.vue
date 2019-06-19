@@ -35,11 +35,11 @@
 </template>
 
 <script>
-import SectionComponent from '../components/Section.vue'
-import About from '../components/About.vue'
-import Footer from '../components/Footer.vue'
-import ScrollNav from '../components/ScrollNav'
-import PreRenderInjection from '../components/mini/PreRenderInjection'
+import SectionComponent from '../components/jadzia/sections/Section.vue'
+import About from '../components/jadzia/sections/index/About.vue'
+import Footer from '../components/common/Footer.vue'
+import ScrollNav from '../components/common/ScrollNav'
+import PreRenderInjection from '../components/common/PreRenderInjection'
 
 export default {
   name: 'HomePage',

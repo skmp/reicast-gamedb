@@ -19,8 +19,8 @@
   </header>
 </template>
 <script>
-import StatusLegend from '../components/StatusLegend'
-import { getStarsFromClass } from '../utils/gameHelpers'
+import StatusLegend from '../../common/StatusLegend'
+import { getStarsFromClass } from '../../../utils/gameHelpers'
 
 export default {
   components: { StatusLegend },
