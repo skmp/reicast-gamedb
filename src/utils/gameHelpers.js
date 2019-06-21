@@ -48,6 +48,7 @@ export function getTestCount (tests) {
 /* eslint-enable */
 export function getImage (url, size = null) {
   let imgUrl = SMALL_COVER_PLACEHOLDER
+  url = `https:${url}`
   if (url) {
     if (size) {
       imgUrl = url.replace('t_thumb', `t_${size}_2x`)

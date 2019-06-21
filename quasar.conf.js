@@ -28,15 +28,16 @@ function preRenderRounds (output) {
   return renderRounds
 }
 
-function getDistFolder (mode) {
+function getDistFolder (ctx) {
   let outputFolder = `${spaDistFolder}/`
-  if (mode !== 'spa') {
-    outputFolder = `${platformsRootDistFolder}/${mode}/`
+  if (ctx.modeName !== 'spa') {
+    outputFolder =
+      `${platformsRootDistFolder}/${ctx.targetName}/`
   }
   return path.join(__dirname, outputFolder)
 }
 module.exports = function (ctx) {
-  const output = getDistFolder(ctx.modeName)
+  const output = getDistFolder(ctx)
   const routerMode = ctx.modeName === 'spa' ? 'history' : 'hash'
   return {
     // app plugins (/src/plugins)
@@ -56,6 +57,10 @@ module.exports = function (ctx) {
     ],
     supportIE: true,
     build: {
+      chainWebpack (chain) {
+        chain.output.set('globalObject', 'this')
+      },
+      publicPath: '/',
       distDir: output,
       scopeHoisting: true,
       vueRouterMode: routerMode,
@@ -167,6 +172,7 @@ module.exports = function (ctx) {
         // do something with Electron process Webpack cfg
       },
       packager: {
+        executableName: 'reicastdb'
         // https://github.com/electron-userland/electron-packager/blob/master/docs/api.md#options
 
         // OS X / Mac App Store
@@ -180,8 +186,12 @@ module.exports = function (ctx) {
       },
       builder: {
         // https://www.electron.build/configuration/configuration
-
-        // appId: 'reicast-db-app'
+        copyright: 'Copyright © 2019 reicast',
+        asar: true,
+        win: {
+          icon: 'src-electron/icons/icon.ico',
+          legalTrademarks: 'Copyright © 2019 reicast'
+        }
       }
     }
   }

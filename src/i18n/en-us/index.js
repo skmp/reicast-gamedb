@@ -6,7 +6,7 @@ export default {
     description: 'Reicast Game Compatibility Database',
     long_description: 'Discover how well your favorite Dreamcast games are supported on Reicast emulator' +
       ' and other useful info.',
-    version: '0.0.1',
+    version: '0.1.1',
     links: 'Reicast Links'
   },
   appLinks: {

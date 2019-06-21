@@ -7,7 +7,7 @@
 
       <a class="navbar-brand" @click="$router.push('/games')">
         <h1 class="hidden-xs">{{ $t('app.name') }}</h1>
-        <img class="display-xs" src="/statics/icons/favicon-32x32.png" alt="Reicast Logo">
+        <img class="display-xs" src="statics/icons/favicon-32x32.png" alt="Reicast Logo">
       </a>
       <span class="navbar-active">{{ activeLabel }}</span>
       <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
