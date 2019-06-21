@@ -1,0 +1,141 @@
+[
+  {
+    "view": "game",
+    "layout": "game",
+    "author": "reicast",
+    "created_at": "2018-03-25 09:00",
+    "updated_at": "2019-05-02 09:00",
+    "id": "ecco-the-dolphin-defender-of-the-future",
+    "title": "ECCO the Dolphin - Defender of the Future",
+    "gamedb-issue": 0,
+    "releases": [
+      {
+        "id": "85AB",
+        "region": "EU",
+        "version": "1.003",
+        "discs": 1,
+        "medium": "gdrom"
+      },
+      {
+        "id": "F7B9",
+        "region": "US",
+        "version": "1.000",
+        "discs": 1,
+        "medium": "gdrom"
+      }
+    ],
+    "test-videos": [
+      {
+        "fingerprint": "85AB GD-ROM1/1 EU",
+        "title": "Intro auto run",
+        "hw": "i7 2720qm, GeForce 540M",
+        "yt": "XcYGi4m9WhQ",
+        "git": "d59197f84353d7d2b746383e9277d9ed7c8c4053",
+        "platform": "win86-release"
+      },
+      {
+        "fingerprint": "F7B9 GD-ROM1/1 US",
+        "title": "Intro auto run",
+        "hw": "i7 2720qm, GeForce 540M",
+        "yt": "K9VWDUaGFO8",
+        "git": "d59197f84353d7d2b746383e9277d9ed7c8c4053",
+        "platform": "win86-release"
+      }
+    ],
+    "gotIGDBGame": 1,
+    "idIGDB": 9188,
+    "age_ratings": [
+      {
+        "id": 6289,
+        "rating": 8
+      }
+    ],
+    "aggregated_rating": 74,
+    "aggregated_rating_count": 2,
+    "cover": [
+      {
+        "id": 64653,
+        "game": 9188,
+        "height": 500,
+        "image_id": "hqco2num6zilpsnyu9zh",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hqco2num6zilpsnyu9zh.jpg",
+        "width": 500
+      }
+    ],
+    "first_release_date": 961113600,
+    "game_modes": [
+      "Single player"
+    ],
+    "categories": [
+      "Puzzle",
+      "Role-playing (RPG)",
+      "Adventure"
+    ],
+    "tags": [
+      "time travel",
+      "shark",
+      "death",
+      "dolphin",
+      "side-scrolling",
+      "water",
+      "rock",
+      "echolocation",
+      "swimming",
+      "turtle",
+      "male protagonists",
+      "animal protagonists",
+      "protagonist's name in the title",
+      "fish",
+      "polygonal 3d",
+      "sand",
+      "collectibles",
+      "non-humanoid protagonist",
+      "loading screens",
+      "bubble",
+      "cutscene",
+      "manta ray",
+      "heads up display",
+      "underwater gameplay",
+      "octopus",
+      "lens flare",
+      "healing food",
+      "jellyfish",
+      "space whale",
+      "e3 2000",
+      "breath meter",
+      "linear gameplay",
+      "ancient advanced civilization technology",
+      "whale",
+      "flips",
+      "q-sound",
+      "record breakers",
+      "e3 1999"
+    ],
+    "name": "Ecco the Dolphin: Defender of the Future",
+    "player_perspectives": [
+      "Third person"
+    ],
+    "popularity": 1.632210151290865,
+    "screenshots": [
+      {
+        "id": 23004,
+        "game": 9188,
+        "height": 245,
+        "image_id": "mmxuaxv8cdyleutvbidp",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mmxuaxv8cdyleutvbidp.jpg",
+        "width": 300
+      },
+      {
+        "id": 23005,
+        "game": 9188,
+        "height": 325,
+        "image_id": "exeo0av4crmjzjyekpiv",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/exeo0av4crmjzjyekpiv.jpg",
+        "width": 452
+      }
+    ],
+    "slug": "ecco-the-dolphin-defender-of-the-future",
+    "summary": "At the dawn of the 30th Century, dolphins and humans had been together in a cross-species society for 500 years. Together, they had set out to explore space, offering peace and friendship to all who would welcome it. But space had its dangers; a violent species known as the Foe decided to conquer Earth. However, the dolphins and humans drove them to the brink of defeat, and so the Foe sought vengeance on Earth. The few caretaker dolphins who had been left behind on Earth were not entirely defenseless; they were protected by their creation called the Guardian—a gigantic, sentient being made of a crystalline substance which projected a forcefield over the entire planet. Undeterred, the Foe made suicide attacks on the field, searching for a weak point."
+  },
+  null
+]

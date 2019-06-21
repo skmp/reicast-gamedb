@@ -1,0 +1,86 @@
+[
+  {
+    "id": 3709,
+    "age_ratings": [
+      {
+        "id": 1787,
+        "rating": 8
+      }
+    ],
+    "aggregated_rating": 66.0,
+    "aggregated_rating_count": 1,
+    "cover": {
+      "id": 3847,
+      "game": 3709,
+      "height": 252,
+      "image_id": "hk8enflyqrr3hqxbtzdw",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/hk8enflyqrr3hqxbtzdw.jpg",
+      "width": 250
+    },
+    "first_release_date": 920505600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 1,
+        "name": "modern warfare"
+      },
+      {
+        "id": 36,
+        "name": "combat flight simulator"
+      },
+      {
+        "id": 56,
+        "name": "flight simulator"
+      },
+      {
+        "id": 992,
+        "name": "flight"
+      },
+      {
+        "id": 1148,
+        "name": "simulation"
+      },
+      {
+        "id": 2841,
+        "name": "airplane"
+      },
+      {
+        "id": 4228,
+        "name": "real photos on cover art"
+      },
+      {
+        "id": 4259,
+        "name": "modern military"
+      },
+      {
+        "id": 5807,
+        "name": "training mode"
+      }
+    ],
+    "name": "AeroWings",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "popularity": 1.848320018764188,
+    "slug": "aerowings",
+    "summary": "AeroWings is a simulation that allows the player to fly as a member of a jet aerobatics team. The game contains a variety of jet-powered aircraft that the player can fly in several game modes. • Blue Impulse Mission: Learn 20 aerobatic maneuvers and become a member of the elite Blue Impulse team. Learn loops, rolls, and more while flying both solo and in formation. \n• Sky Mission Attack: Fly through a series of targets suspended in mid-air before time runs out. \n• Free Flight: Fly around and freely explore the landscape. \n• Multi Play: Up to 4 players can perform in formation simultaneously."
+  }
+]

@@ -1,0 +1,93 @@
+---
+view: game
+layout: game
+author: reicast
+created_at: 2018-03-25 09:00
+updated_at: 2019-05-02 09:00
+id: hydro-thunder
+title: "Hydro Thunder"
+gamedb-issue: 0
+
+releases:
+  - id: "5154"
+    region: US
+    version: "1.020"
+    discs: 1
+    medium: gdrom
+  - id: "2E9C"
+    region: EU
+    version: "1.009"
+    discs: 1
+    medium: gdrom
+
+test-videos:
+  - fingerprint: "5154 GD-ROM1/1 US"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: Byxtxj_DWM0
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+  - fingerprint: "2E9C GD-ROM1/1 EU"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: zfbrOimyvBM
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+
+gotIGDBGame: 1
+idIGDB: 3370
+age_ratings:
+  - id: 1532
+    rating: 8
+cover:
+  - id: 3471
+    game: 3370
+    height: 334
+    image_id: "lfcqi6ehpf6gt952ahyq"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/lfcqi6ehpf6gt952ahyq.jpg"
+    width: 256
+first_release_date: 915148800
+game_modes:
+  - "Single player"
+  - "Split screen"
+categories:
+  - "Racing"
+tags:
+  - "water"
+  - "time limit"
+  - "boost"
+  - "driving/racing"
+  - "bears"
+  - "penguins"
+  - "60 fps on consoles"
+  - "game title announcer"
+  - "cameo appearance"
+  - "launch titles"
+  - "lava"
+  - "laps"
+  - "commentary"
+  - "speed boost"
+  - "boat"
+  - "shortcut"
+  - "time trials"
+  - "buoy"
+  - "rocket start"
+  - "greatest hits"
+  - "speed boost arrows"
+  - "e3 1999"
+  - "playstation underground"
+name: "Hydro Thunder"
+player_perspectives:
+  - "Third person"
+popularity: 2.914015824998104
+screenshots:
+  - id: 111361
+    game: 3370
+    height: 692
+    image_id: "lkwrneynk7ymdvjausmd"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/lkwrneynk7ymdvjausmd.jpg"
+    width: 1278
+slug: "hydro-thunder"
+summary: "The gameplay of Hydro Thunder consists of racing high-tech speedboats through treacherous environments, from the cold seas of the Arctic Circle, to a post-apocalyptic, flooded version of New York City."
+
+---

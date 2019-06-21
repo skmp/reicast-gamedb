@@ -1,0 +1,33 @@
+[
+  {
+    "id": 62243,
+    "cover": {
+      "id": 42227,
+      "game": 62243,
+      "height": 314,
+      "image_id": "ggdzmaof4hazyajtq1ti",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/ggdzmaof4hazyajtq1ti.jpg",
+      "width": 320
+    },
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 1027,
+        "name": "adventure"
+      },
+      {
+        "id": 1120,
+        "name": "horror"
+      }
+    ],
+    "name": "July",
+    "popularity": 1.0,
+    "slug": "july",
+    "summary": "An adventure game that follows two Japanese kids as they try to solve a mysterious bombing attack"
+  }
+]

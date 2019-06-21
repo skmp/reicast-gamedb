@@ -1,0 +1,291 @@
+[
+  {
+    "id": 36737,
+    "age_ratings": [
+      {
+        "id": 12626,
+        "rating": 10
+      },
+      {
+        "id": 12627,
+        "rating": 4
+      }
+    ],
+    "cover": {
+      "id": 24377,
+      "game": 36737,
+      "height": 496,
+      "image_id": "ylcc4exytjvjxf3ohvy9",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/ylcc4exytjvjxf3ohvy9.jpg",
+      "width": 500
+    },
+    "first_release_date": 915062400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 4,
+        "name": "pirates"
+      },
+      {
+        "id": 107,
+        "name": "fighting"
+      },
+      {
+        "id": 301,
+        "name": "health"
+      },
+      {
+        "id": 383,
+        "name": "classic sega"
+      },
+      {
+        "id": 871,
+        "name": "arcade game"
+      },
+      {
+        "id": 969,
+        "name": "arcade"
+      },
+      {
+        "id": 982,
+        "name": "brawler"
+      },
+      {
+        "id": 1186,
+        "name": "multiple protagonists"
+      },
+      {
+        "id": 1358,
+        "name": "beat em up"
+      },
+      {
+        "id": 1669,
+        "name": "crime"
+      },
+      {
+        "id": 1737,
+        "name": "ship"
+      },
+      {
+        "id": 1739,
+        "name": "missile"
+      },
+      {
+        "id": 2152,
+        "name": "high score"
+      },
+      {
+        "id": 2561,
+        "name": "spear"
+      },
+      {
+        "id": 3486,
+        "name": "boss fight"
+      },
+      {
+        "id": 3833,
+        "name": "bosses"
+      },
+      {
+        "id": 4144,
+        "name": "power up"
+      },
+      {
+        "id": 4266,
+        "name": "alternate costumes"
+      },
+      {
+        "id": 4359,
+        "name": "polygonal 3d"
+      },
+      {
+        "id": 4405,
+        "name": "transforming boss"
+      },
+      {
+        "id": 4446,
+        "name": "gun"
+      },
+      {
+        "id": 4506,
+        "name": "destructible clothing"
+      },
+      {
+        "id": 4611,
+        "name": "cutscene"
+      },
+      {
+        "id": 4660,
+        "name": "pistol"
+      },
+      {
+        "id": 4698,
+        "name": "cooperative play"
+      },
+      {
+        "id": 4925,
+        "name": "player character"
+      },
+      {
+        "id": 4958,
+        "name": "game over"
+      },
+      {
+        "id": 5022,
+        "name": "final boss"
+      },
+      {
+        "id": 5032,
+        "name": "mini-boss"
+      },
+      {
+        "id": 5116,
+        "name": "laser"
+      },
+      {
+        "id": 5362,
+        "name": "boat"
+      },
+      {
+        "id": 5425,
+        "name": "arcade cabinet"
+      },
+      {
+        "id": 5452,
+        "name": "destructible cover"
+      },
+      {
+        "id": 5587,
+        "name": "villain"
+      },
+      {
+        "id": 5594,
+        "name": "recurring boss"
+      },
+      {
+        "id": 5753,
+        "name": "wrench"
+      },
+      {
+        "id": 5775,
+        "name": "grenade"
+      },
+      {
+        "id": 5906,
+        "name": "gouraud shading"
+      },
+      {
+        "id": 5911,
+        "name": "wrestling moves in non-wrestling games"
+      },
+      {
+        "id": 5989,
+        "name": "quick time event"
+      },
+      {
+        "id": 6017,
+        "name": "persistent character damage"
+      },
+      {
+        "id": 6352,
+        "name": "submachine gun"
+      },
+      {
+        "id": 6662,
+        "name": "self replicating enemy"
+      },
+      {
+        "id": 6890,
+        "name": "swimming pool"
+      },
+      {
+        "id": 7084,
+        "name": "roast chicken"
+      },
+      {
+        "id": 7280,
+        "name": "continue"
+      },
+      {
+        "id": 7392,
+        "name": "steel chair"
+      },
+      {
+        "id": 8149,
+        "name": "sea monster"
+      },
+      {
+        "id": 8969,
+        "name": "environment as weapons"
+      },
+      {
+        "id": 9841,
+        "name": "pay-to-play"
+      },
+      {
+        "id": 13119,
+        "name": "e3 1999"
+      }
+    ],
+    "name": "Dynamite Cop",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.433353933432252,
+    "screenshots": [
+      {
+        "id": 43827,
+        "game": 36737,
+        "height": 240,
+        "image_id": "m8zertju4aptwxxeuknh",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/m8zertju4aptwxxeuknh.jpg",
+        "width": 320
+      },
+      {
+        "id": 43828,
+        "game": 36737,
+        "height": 360,
+        "image_id": "djtytlmk98mzuscjp569",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/djtytlmk98mzuscjp569.jpg",
+        "width": 480
+      }
+    ],
+    "slug": "dynamite-cop",
+    "storyline": "Bruno Delinger, Jean Ivy, or Eddie Brown fight through levels on board a cruise ship and on a deserted island to save the President\u0027s daughter from a band of modern-day pirates led by Wolf \"White Fang\" Hongo, the main antagonist from the first game.",
+    "summary": "A beat \u0027em up video game published by Sega and initially released in arcades on Sega Model 2 hardware. It is the sequel to the 1996 game, Dynamite Deka which was released outside Japan as Die Hard Arcade. The game was ported to the Dreamcast and released internationally in 1999, this time without the Die Hard license. A third sequel, Asian Dynamite, was released only in arcades.",
+    "videos": [
+      {
+        "id": 14105,
+        "game": 36737,
+        "name": "Gameplay video",
+        "video_id": "drTpThFqbvI"
+      }
+    ]
+  }
+]

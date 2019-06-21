@@ -1,0 +1,62 @@
+---
+view: game
+layout: game
+author: reicast
+created_at: 2018-03-25 09:00
+updated_at: 2019-05-02 09:00
+id: armada
+title: "Armada"
+gamedb-issue: 0
+
+releases:
+  - id: "1797"
+    region: US
+    version: "1.000"
+    discs: 1
+    medium: gdrom
+
+test-videos:
+  - fingerprint: "1797 GD-ROM1/1 US"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: eMavChme0p4
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+
+gotIGDBGame: 1
+idIGDB: 6713
+age_ratings:
+  - id: 3855
+    rating: 8
+cover:
+  - id: 6854
+    game: 6713
+    height: 630
+    image_id: "imghiwkrpq9gh0cf1ywp"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/imghiwkrpq9gh0cf1ywp.jpg"
+    width: 640
+first_release_date: 941328000
+game_modes:
+  - "Single player"
+  - "Split screen"
+categories:
+  - "Shooter"
+  - "Role-playing (RPG)"
+tags:
+  - "sci-fi"
+  - "shooter"
+  - "open-world"
+  - "bink video"
+  - "top-down perspective"
+  - "shopping"
+  - "upgradeable weapons"
+  - "loot gathering"
+  - "cooperative play"
+  - "asteroid"
+  - "seed ship"
+name: "Armada"
+popularity: 1.636240014073141
+slug: "armada"
+summary: "Battle an ever growing alien threat while upgrading your ship and traveling to different planets to take on trade missions and tactical assaults. An early top down, free moving Dreamcast shooter."
+
+---

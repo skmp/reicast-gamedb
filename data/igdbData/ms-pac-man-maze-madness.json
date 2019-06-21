@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3338,
+    "age_ratings": [
+      {
+        "id": 1505,
+        "rating": 8
+      }
+    ],
+    "cover": {
+      "id": 3434,
+      "game": 3338,
+      "height": 252,
+      "image_id": "ftkfaojibz33kwnjt5nx",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/ftkfaojibz33kwnjt5nx.jpg",
+      "width": 252
+    },
+    "first_release_date": 968371200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 558,
+        "name": "death"
+      },
+      {
+        "id": 687,
+        "name": "maze"
+      },
+      {
+        "id": 1440,
+        "name": "artificial intelligence"
+      },
+      {
+        "id": 2152,
+        "name": "high score"
+      },
+      {
+        "id": 4145,
+        "name": "female protagonists"
+      },
+      {
+        "id": 4484,
+        "name": "collectibles"
+      },
+      {
+        "id": 4492,
+        "name": "non-humanoid protagonist"
+      },
+      {
+        "id": 4605,
+        "name": "eating"
+      },
+      {
+        "id": 4958,
+        "name": "game over"
+      },
+      {
+        "id": 5175,
+        "name": "female antagonists"
+      },
+      {
+        "id": 5523,
+        "name": "leaderboard"
+      },
+      {
+        "id": 5803,
+        "name": "vore"
+      },
+      {
+        "id": 5804,
+        "name": "eat or be eaten"
+      },
+      {
+        "id": 6827,
+        "name": "fireworks"
+      }
+    ],
+    "name": "Ms. Pac-Man Maze Madness",
+    "popularity": 1.64789218496891,
+    "slug": "ms-pac-man-maze-madness",
+    "summary": "Professor Pac learns that the witch, Mesmerelda, has seized control of the Enchanted Castle using black magic and from there is planning on stealing all four Gems of Virtue (Generosity; Truth; Wisdom; Courage) to control the \"four wonders\" (areas of Pac-Land). He creates a device called a Pactrometer which allows Ms. Pac-Man to go to these areas to recover the gems before Mesmerelda can get them first."
+  }
+]

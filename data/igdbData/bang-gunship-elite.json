@@ -1,0 +1,96 @@
+[
+  {
+    "id": 1861,
+    "cover": {
+      "id": 1878,
+      "game": 1861,
+      "height": 1805,
+      "image_id": "efdvkmi80lomaz1ofqj5",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/efdvkmi80lomaz1ofqj5.jpg",
+      "width": 1600
+    },
+    "first_release_date": 963964800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 23,
+        "name": "space simulation"
+      },
+      {
+        "id": 24,
+        "name": "space combat"
+      }
+    ],
+    "name": "BANG! Gunship Elite",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "popularity": 1.0,
+    "screenshots": [
+      {
+        "id": 1831,
+        "game": 1861,
+        "height": 468,
+        "image_id": "e5jcwhfh5aagnyrsjkft",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/e5jcwhfh5aagnyrsjkft.jpg",
+        "width": 624
+      },
+      {
+        "id": 1832,
+        "game": 1861,
+        "height": 480,
+        "image_id": "whd8azdwvkunvbo7uoak",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/whd8azdwvkunvbo7uoak.jpg",
+        "width": 640
+      },
+      {
+        "id": 1833,
+        "game": 1861,
+        "height": 512,
+        "image_id": "se90sxadgrvfiwpj02az",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/se90sxadgrvfiwpj02az.jpg",
+        "width": 640
+      },
+      {
+        "id": 1834,
+        "game": 1861,
+        "height": 512,
+        "image_id": "lupgzjkthyl33at1fdim",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/lupgzjkthyl33at1fdim.jpg",
+        "width": 640
+      },
+      {
+        "id": 1835,
+        "game": 1861,
+        "height": 512,
+        "image_id": "qhcxe7ogkyhpdoeu4my9",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qhcxe7ogkyhpdoeu4my9.jpg",
+        "width": 640
+      }
+    ],
+    "slug": "bang-gunship-elite",
+    "summary": "A local multiplayer game for 2-4 players. \nOnly the fastest guns and the fastest on their feet can win!"
+  }
+]

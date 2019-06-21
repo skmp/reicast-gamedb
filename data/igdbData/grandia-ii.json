@@ -1,0 +1,148 @@
+[
+  {
+    "id": 9580,
+    "age_ratings": [
+      {
+        "id": 18907,
+        "rating": 10
+      },
+      {
+        "id": 18908,
+        "rating": 3
+      }
+    ],
+    "aggregated_rating": 74.5,
+    "aggregated_rating_count": 3,
+    "cover": {
+      "id": 9772,
+      "game": 9580,
+      "height": 1925,
+      "image_id": "tnkosexbo3tr597f6wae",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/tnkosexbo3tr597f6wae.jpg",
+      "width": 1521
+    },
+    "first_release_date": 965088000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 296,
+        "name": "fantasy"
+      },
+      {
+        "id": 1026,
+        "name": "role playing"
+      },
+      {
+        "id": 1027,
+        "name": "adventure"
+      },
+      {
+        "id": 1158,
+        "name": "steam"
+      },
+      {
+        "id": 1208,
+        "name": "overworld"
+      },
+      {
+        "id": 2052,
+        "name": "singing"
+      },
+      {
+        "id": 2071,
+        "name": "sequel"
+      },
+      {
+        "id": 5095,
+        "name": "knight"
+      },
+      {
+        "id": 5379,
+        "name": "pax prime 2015"
+      },
+      {
+        "id": 5610,
+        "name": "dialogue portraits"
+      },
+      {
+        "id": 6682,
+        "name": "angelic bosses"
+      },
+      {
+        "id": 6684,
+        "name": "optional dialogue skits"
+      },
+      {
+        "id": 9306,
+        "name": "nonlinear development"
+      },
+      {
+        "id": 10056,
+        "name": "in-field enemy"
+      }
+    ],
+    "name": "Grandia II",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.0,
+    "screenshots": [
+      {
+        "id": 269039,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 9580,
+        "height": 1080,
+        "image_id": "sc5rlb",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5rlb.jpg",
+        "width": 1920
+      },
+      {
+        "id": 269040,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 9580,
+        "height": 1080,
+        "image_id": "sc5rlc",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5rlc.jpg",
+        "width": 1920
+      },
+      {
+        "id": 269041,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 9580,
+        "height": 768,
+        "image_id": "sc5rld",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5rld.jpg",
+        "width": 1024
+      },
+      {
+        "id": 269042,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 9580,
+        "height": 1080,
+        "image_id": "sc5rle",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5rle.jpg",
+        "width": 1920
+      }
+    ],
+    "slug": "grandia-ii",
+    "summary": "The story focuses on Ryudo the Geohound (a kind of mercenary) and his talking bird, Skye. Together they accept a mission from the town of Carbo\u0027s church as bodyguards for Elena, a Songstress of Granas, who is on her way to Garmia Tower. The job turns into something much more after an incident at the tower, and Ryudo and Elena find themselves travelling all over the world, meeting some new friends and some new enemies."
+  }
+]

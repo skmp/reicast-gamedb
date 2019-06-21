@@ -1,0 +1,33 @@
+[
+  {
+    "id": 70269,
+    "cover": {
+      "id": 51886,
+      "game": 70269,
+      "height": 310,
+      "image_id": "cdeqhhxjwce0q1m8uduq",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cdeqhhxjwce0q1m8uduq.jpg",
+      "width": 364
+    },
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 78,
+        "name": "anime"
+      },
+      {
+        "id": 1027,
+        "name": "adventure"
+      }
+    ],
+    "name": "Kaen Seibo: The Virgin on Megiddo",
+    "popularity": 1.0,
+    "slug": "kaen-seibo-the-virgin-on-megiddo",
+    "summary": "A Japanese exclusive anime style adventure game."
+  }
+]

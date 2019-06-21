@@ -1,0 +1,44 @@
+[
+  {
+    "id": 46369,
+    "cover": {
+      "id": 28059,
+      "game": 46369,
+      "height": 1413,
+      "image_id": "m9amuourkicboatycfbc",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/m9amuourkicboatycfbc.jpg",
+      "width": 1422
+    },
+    "first_release_date": 1009670400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 4157,
+        "name": "driving/racing"
+      },
+      {
+        "id": 5598,
+        "name": "giant environment"
+      }
+    ],
+    "name": "Toy Racer",
+    "popularity": 1.0,
+    "slug": "toy-racer",
+    "summary": "Toy Racer is a racing game for the Dreamcast made by No Cliché and published by Sega. \n \nThe game is an extension of Toy Commander racing sections, designed exclusively for both offline and online multiplayer modes for up to four players. As a result, there is no possibility to play against AI controlled players, being the only single player features of the game both a Practice and a Time Attack modes. \n \nToy Racer was only released in Europe at a low budget price of £5, £1 of which was designated to charity. \n \nThe online functions of Toy Racer was revived as a part of the project dcserv.org on the 3rd of December 2014."
+  }
+]

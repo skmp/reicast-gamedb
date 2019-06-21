@@ -1,0 +1,180 @@
+[
+  {
+    "id": 3333,
+    "age_ratings": [
+      {
+        "id": 15873,
+        "rating": 10
+      }
+    ],
+    "cover": {
+      "id": 3429,
+      "game": 3333,
+      "height": 199,
+      "image_id": "ucyrgzivdduqtrykdewo",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/ucyrgzivdduqtrykdewo.jpg",
+      "width": 200
+    },
+    "first_release_date": 942883200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 3,
+        "name": "aliens"
+      },
+      {
+        "id": 25,
+        "name": "vehicular combat"
+      },
+      {
+        "id": 164,
+        "name": "ninja"
+      },
+      {
+        "id": 170,
+        "name": "time travel"
+      },
+      {
+        "id": 301,
+        "name": "health"
+      },
+      {
+        "id": 732,
+        "name": "ufo"
+      },
+      {
+        "id": 917,
+        "name": "skiing"
+      },
+      {
+        "id": 1440,
+        "name": "artificial intelligence"
+      },
+      {
+        "id": 1739,
+        "name": "missile"
+      },
+      {
+        "id": 1783,
+        "name": "car"
+      },
+      {
+        "id": 3270,
+        "name": "flamethrower"
+      },
+      {
+        "id": 3627,
+        "name": "vehicle combat"
+      },
+      {
+        "id": 4147,
+        "name": "rail track"
+      },
+      {
+        "id": 4155,
+        "name": "alternate historical"
+      },
+      {
+        "id": 4286,
+        "name": "character select screen"
+      },
+      {
+        "id": 4352,
+        "name": "mind control"
+      },
+      {
+        "id": 4413,
+        "name": "briefcase"
+      },
+      {
+        "id": 4446,
+        "name": "gun"
+      },
+      {
+        "id": 4795,
+        "name": "homing missile"
+      },
+      {
+        "id": 4803,
+        "name": "combat racing"
+      },
+      {
+        "id": 4910,
+        "name": "heads up display"
+      },
+      {
+        "id": 5503,
+        "name": "rocket"
+      },
+      {
+        "id": 6078,
+        "name": "explosions on the cover"
+      },
+      {
+        "id": 6832,
+        "name": "upgradeable vehicles"
+      },
+      {
+        "id": 7026,
+        "name": "bots"
+      },
+      {
+        "id": 7195,
+        "name": "hidden character"
+      },
+      {
+        "id": 7353,
+        "name": "vigilante"
+      },
+      {
+        "id": 7365,
+        "name": "death from above"
+      },
+      {
+        "id": 8255,
+        "name": "muscle car"
+      },
+      {
+        "id": 9149,
+        "name": "space shuttle"
+      },
+      {
+        "id": 9529,
+        "name": "greatest hits"
+      },
+      {
+        "id": 13119,
+        "name": "e3 1999"
+      }
+    ],
+    "name": "Vigilante 8: 2nd Offense",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.848320018764188,
+    "slug": "vigilante-8-2nd-offense",
+    "summary": "The story of Vigilante 8: 2nd Offense centers on the international meddlings of an oil conglomerate from the future known as OMAR (Oil Monopoly Alliance Regime). \nAfter finding an electronic armband in a service station bathroom, former Vigilante Slick Clyde rose to be controlled by OMAR. Working up through the ranks of command he soon came to be the CEO of OMAR itself and made a complete monopoly on all oil trades with the sole exception of the United States. \nWith the help of his student and hitman, Obake, he steals the technology to allow him to travel through time. Taking with him Obake and his cybernetic assassin, Dallas 13, he makes the jump back to 1970s to cripple the United States and bring OMAR to total domination. \nAppearing in 1970s, the three vehicles encounter Convoy, the former leader of the Vigilantes. Upon seeing him, the three cars open fire."
+  }
+]

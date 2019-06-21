@@ -1,0 +1,370 @@
+[
+  {
+    "id": 1842,
+    "age_ratings": [
+      {
+        "id": 13558,
+        "rating": 10
+      }
+    ],
+    "cover": {
+      "id": 1867,
+      "game": 1842,
+      "height": 480,
+      "image_id": "vieusd5riuer52t61sb3",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/vieusd5riuer52t61sb3.jpg",
+      "width": 415
+    },
+    "first_release_date": 903657600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 1,
+        "name": "modern warfare"
+      },
+      {
+        "id": 301,
+        "name": "health"
+      },
+      {
+        "id": 453,
+        "name": "first person shooter"
+      },
+      {
+        "id": 558,
+        "name": "death"
+      },
+      {
+        "id": 879,
+        "name": "counter-terrorists"
+      },
+      {
+        "id": 1148,
+        "name": "simulation"
+      },
+      {
+        "id": 1329,
+        "name": "special forces"
+      },
+      {
+        "id": 1333,
+        "name": "online"
+      },
+      {
+        "id": 1373,
+        "name": "hostages"
+      },
+      {
+        "id": 2992,
+        "name": "no jumping"
+      },
+      {
+        "id": 3782,
+        "name": "strategy"
+      },
+      {
+        "id": 4242,
+        "name": "police car"
+      },
+      {
+        "id": 4246,
+        "name": "bullet"
+      },
+      {
+        "id": 4259,
+        "name": "modern military"
+      },
+      {
+        "id": 4330,
+        "name": "first-person perspective"
+      },
+      {
+        "id": 4350,
+        "name": "bomb"
+      },
+      {
+        "id": 4359,
+        "name": "polygonal 3d"
+      },
+      {
+        "id": 4372,
+        "name": "psone classics"
+      },
+      {
+        "id": 4446,
+        "name": "gun"
+      },
+      {
+        "id": 4552,
+        "name": "helmet"
+      },
+      {
+        "id": 4619,
+        "name": "gog.com"
+      },
+      {
+        "id": 4660,
+        "name": "pistol"
+      },
+      {
+        "id": 4698,
+        "name": "cooperative play"
+      },
+      {
+        "id": 4713,
+        "name": "light machine gun"
+      },
+      {
+        "id": 4892,
+        "name": "crosshair"
+      },
+      {
+        "id": 4918,
+        "name": "real-time combat"
+      },
+      {
+        "id": 5309,
+        "name": "reloading"
+      },
+      {
+        "id": 5328,
+        "name": "playstation tv support"
+      },
+      {
+        "id": 5350,
+        "name": "sniper rifle"
+      },
+      {
+        "id": 5369,
+        "name": "minimap"
+      },
+      {
+        "id": 5455,
+        "name": "squad"
+      },
+      {
+        "id": 5466,
+        "name": "terrorists"
+      },
+      {
+        "id": 5483,
+        "name": "military uniform"
+      },
+      {
+        "id": 5775,
+        "name": "grenade"
+      },
+      {
+        "id": 5789,
+        "name": "realism"
+      },
+      {
+        "id": 5813,
+        "name": "ski mask"
+      },
+      {
+        "id": 5886,
+        "name": "squad tactics"
+      },
+      {
+        "id": 6021,
+        "name": "guerilla warfare"
+      },
+      {
+        "id": 6244,
+        "name": "squad based shooter"
+      },
+      {
+        "id": 6324,
+        "name": "book tie-in"
+      },
+      {
+        "id": 6352,
+        "name": "submachine gun"
+      },
+      {
+        "id": 6400,
+        "name": "flashbang"
+      },
+      {
+        "id": 6495,
+        "name": "body armor"
+      },
+      {
+        "id": 6581,
+        "name": "expanding crosshair"
+      },
+      {
+        "id": 6589,
+        "name": "rifle"
+      },
+      {
+        "id": 6590,
+        "name": "ballistic vest"
+      },
+      {
+        "id": 7038,
+        "name": "headshot"
+      },
+      {
+        "id": 7405,
+        "name": "ammo"
+      },
+      {
+        "id": 7419,
+        "name": "close quarters combat"
+      },
+      {
+        "id": 7515,
+        "name": "frag grenade"
+      },
+      {
+        "id": 7558,
+        "name": "on-the-fly character switching"
+      },
+      {
+        "id": 8133,
+        "name": "tea-bagging"
+      },
+      {
+        "id": 8142,
+        "name": "fn p90"
+      },
+      {
+        "id": 8766,
+        "name": "desert eagle"
+      },
+      {
+        "id": 8976,
+        "name": "recoil"
+      },
+      {
+        "id": 9022,
+        "name": "mp5"
+      },
+      {
+        "id": 9072,
+        "name": "beretta m9"
+      },
+      {
+        "id": 9278,
+        "name": "waypoint"
+      },
+      {
+        "id": 9528,
+        "name": "riot helmet"
+      },
+      {
+        "id": 9529,
+        "name": "greatest hits"
+      },
+      {
+        "id": 9813,
+        "name": "battle dress uniform"
+      },
+      {
+        "id": 9906,
+        "name": "selective fire weapons"
+      },
+      {
+        "id": 10211,
+        "name": "record breakers"
+      },
+      {
+        "id": 10460,
+        "name": "team killing"
+      },
+      {
+        "id": 10602,
+        "name": "no scope"
+      },
+      {
+        "id": 13120,
+        "name": "e3 1998"
+      },
+      {
+        "id": 14042,
+        "name": "preventing disaster"
+      },
+      {
+        "id": 14114,
+        "name": "color cartridges"
+      },
+      {
+        "id": 14544,
+        "name": "heartbeat sensor"
+      }
+    ],
+    "name": "Tom Clancy\u0027s Rainbow Six",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "popularity": 3.967086942098998,
+    "screenshots": [
+      {
+        "id": 1755,
+        "game": 1842,
+        "height": 480,
+        "image_id": "uft4d1mw5zavvebib9s1",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/uft4d1mw5zavvebib9s1.jpg",
+        "width": 640
+      },
+      {
+        "id": 1756,
+        "game": 1842,
+        "height": 480,
+        "image_id": "xdjspe38zlbrjedr73mg",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xdjspe38zlbrjedr73mg.jpg",
+        "width": 640
+      },
+      {
+        "id": 1757,
+        "game": 1842,
+        "height": 480,
+        "image_id": "acnxvywvtcmkkkhgogug",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/acnxvywvtcmkkkhgogug.jpg",
+        "width": 640
+      },
+      {
+        "id": 1758,
+        "game": 1842,
+        "height": 675,
+        "image_id": "tbdzndanatkrmhuq4c57",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/tbdzndanatkrmhuq4c57.jpg",
+        "width": 900
+      }
+    ],
+    "slug": "tom-clancy-s-rainbow-six",
+    "summary": "A combination of explosive action and real-life strategy!\n\nThe most revolutionary action/strategy game of its kind. Nothing comes closer to offering an exciting combination of strategy, team-building, realistic three-dimensional graphics and true-to-life special forces action. The ultimate goal is to save yourself and the world from deadly terrorists. You must successfully complete 17 unique missions. If you die, the game isn\u0027t over. The World is."
+  }
+]

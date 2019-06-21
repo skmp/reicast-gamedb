@@ -1,0 +1,104 @@
+[
+  {
+    "id": 21807,
+    "age_ratings": [
+      {
+        "id": 13445,
+        "rating": 8
+      }
+    ],
+    "aggregated_rating": 75.0,
+    "aggregated_rating_count": 4,
+    "cover": {
+      "id": 51153,
+      "game": 21807,
+      "height": 890,
+      "image_id": "ji6sv3fu4lbk9hionvgd",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/ji6sv3fu4lbk9hionvgd.jpg",
+      "width": 640
+    },
+    "first_release_date": 1224979200,
+    "genres": [
+      {
+        "id": 7,
+        "name": "Music"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 1148,
+        "name": "simulation"
+      },
+      {
+        "id": 4137,
+        "name": "music/rhythm"
+      },
+      {
+        "id": 4329,
+        "name": "cat"
+      },
+      {
+        "id": 4438,
+        "name": "motion control"
+      },
+      {
+        "id": 4869,
+        "name": "downloadable content"
+      },
+      {
+        "id": 5143,
+        "name": "nintendo wi-fi connection"
+      },
+      {
+        "id": 5188,
+        "name": "peripherals"
+      },
+      {
+        "id": 5189,
+        "name": "musical peripherals"
+      },
+      {
+        "id": 5727,
+        "name": "mii support"
+      },
+      {
+        "id": 6950,
+        "name": "maracas"
+      },
+      {
+        "id": 8248,
+        "name": "sombrero"
+      },
+      {
+        "id": 12901,
+        "name": "nintendo wi-fi pay and play"
+      },
+      {
+        "id": 13076,
+        "name": "e3 2008"
+      },
+      {
+        "id": 13214,
+        "name": "morolian"
+      }
+    ],
+    "name": "Samba De Amigo",
+    "popularity": 1.0,
+    "screenshots": [
+      {
+        "id": 29522,
+        "game": 21807,
+        "height": 360,
+        "image_id": "tsbdqhbueqdn0a0a893g",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/tsbdqhbueqdn0a0a893g.jpg",
+        "width": 480
+      }
+    ],
+    "slug": "samba-de-amigo",
+    "summary": "The samba-inspired rhythm music game made popular in the arcades is shaking its way onto the Wii! Keeping the beat with over 40 songs on a Samba-inspired sound track, players shake the Wii Remote and Nunchuk like maracas and compete with friends to see who has the best moves. Throughout the dynamic songs there will be opportunities to strike a pose for extra points. Friends and family will be thoroughly entertained cheering each other on as they anxiously await their next turn."
+  }
+]

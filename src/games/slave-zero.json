@@ -1,0 +1,172 @@
+[
+  {
+    "view": "game",
+    "layout": "game",
+    "author": "reicast",
+    "created_at": "2018-03-25 09:00",
+    "updated_at": "2019-05-02 09:00",
+    "id": "slave-zero",
+    "title": "Slave Zero",
+    "gamedb-issue": 0,
+    "releases": [
+      {
+        "id": "1D88",
+        "region": "US",
+        "version": "1.001",
+        "discs": 1,
+        "medium": "gdrom"
+      },
+      {
+        "id": "7BAA",
+        "region": "EU",
+        "version": "1.000",
+        "discs": 1,
+        "medium": "gdrom"
+      }
+    ],
+    "test-videos": [
+      {
+        "fingerprint": "1D88 GD-ROM1/1 US",
+        "title": "Intro auto run",
+        "hw": "i7 2720qm, GeForce 540M",
+        "yt": "6j17R7O5UK8",
+        "git": "d59197f84353d7d2b746383e9277d9ed7c8c4053",
+        "platform": "win86-release"
+      },
+      {
+        "fingerprint": "7BAA GD-ROM1/1 EU",
+        "title": "Intro auto run",
+        "hw": "i7 2720qm, GeForce 540M",
+        "yt": "nbk5CjePnG4",
+        "git": "d59197f84353d7d2b746383e9277d9ed7c8c4053",
+        "platform": "win86-release"
+      }
+    ],
+    "gotIGDBGame": 1,
+    "idIGDB": 8341,
+    "age_ratings": [
+      {
+        "id": 5660,
+        "rating": 10
+      }
+    ],
+    "cover": [
+      {
+        "id": 8821,
+        "game": 8341,
+        "height": 521,
+        "image_id": "l3v76kbgyavjspn3utz0",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/l3v76kbgyavjspn3utz0.jpg",
+        "width": 432
+      }
+    ],
+    "first_release_date": 941328000,
+    "game_modes": [
+      "Single player",
+      "Multiplayer"
+    ],
+    "categories": [
+      "Shooter"
+    ],
+    "tags": [
+      "cyberpunk",
+      "blood",
+      "mech",
+      "health",
+      "first person shooter",
+      "fps",
+      "tps",
+      "robots",
+      "mech combat",
+      "third person shooter",
+      "futuristic",
+      "spaceship",
+      "sci-fi",
+      "shooter",
+      "missile",
+      "car",
+      "silent protagonist",
+      "boss fight",
+      "deathmatch",
+      "train",
+      "voice acting",
+      "item throw",
+      "third-person perspective",
+      "cutscene",
+      "gog.com",
+      "save point",
+      "assault rifle",
+      "checkpoints",
+      "crosshair",
+      "heads up display",
+      "optional boss",
+      "laser",
+      "reloading",
+      "pick ups",
+      "destructible environment",
+      "the future",
+      "rocket",
+      "interactive environments",
+      "weapons swap",
+      "team deathmatch",
+      "linear gameplay",
+      "light up crosshair",
+      "airborne hovercraft",
+      "environment as weapons",
+      "plasma gun",
+      "pc to console port",
+      "hovertank"
+    ],
+    "name": "Slave Zero",
+    "player_perspectives": [
+      "First person",
+      "Third person"
+    ],
+    "popularity": 2.487249735974429,
+    "screenshots": [
+      {
+        "id": 27607,
+        "game": 8341,
+        "height": 399,
+        "image_id": "spnhu5fomlfzljcfvtxz",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/spnhu5fomlfzljcfvtxz.jpg",
+        "width": 710
+      },
+      {
+        "id": 27608,
+        "game": 8341,
+        "height": 399,
+        "image_id": "a7grmq8nliaakll3nz6z",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/a7grmq8nliaakll3nz6z.jpg",
+        "width": 710
+      },
+      {
+        "id": 27609,
+        "game": 8341,
+        "height": 399,
+        "image_id": "uqno6l3sgqvjnngd0330",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/uqno6l3sgqvjnngd0330.jpg",
+        "width": 710
+      },
+      {
+        "id": 27610,
+        "game": 8341,
+        "height": 399,
+        "image_id": "w9v7l3ai5ulda0phz4mp",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/w9v7l3ai5ulda0phz4mp.jpg",
+        "width": 710
+      },
+      {
+        "id": 27611,
+        "game": 8341,
+        "height": 399,
+        "image_id": "fqcvaqm1tsun4fwpfoqa",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fqcvaqm1tsun4fwpfoqa.jpg",
+        "width": 710
+      }
+    ],
+    "slug": "slave-zero",
+    "summary": "It's 500 years in the future. Man and machine are virtually on and the greatest megacity in the world is locked in a brutal war. You are the ultimate saboteur and part of an elite fighting force. Your mission: steal the largest, most sophisticated bio-mechanical attack weapon ever designed ...and kick some serious ass!"
+  },
+  null
+]

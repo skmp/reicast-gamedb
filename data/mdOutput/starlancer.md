@@ -1,0 +1,107 @@
+---
+view: game
+layout: game
+author: reicast
+created_at: 2018-03-25 09:00
+updated_at: 2019-05-02 09:00
+id: starlancer
+title: "StarLancer"
+gamedb-issue: 0
+
+releases:
+  - id: "2C2E"
+    region: EU
+    version: "1.003"
+    discs: 1
+    medium: gdrom
+  - id: "DAF7"
+    region: US
+    version: "1.002"
+    discs: 1
+    medium: gdrom
+
+test-videos:
+  - fingerprint: "2C2E GD-ROM1/1 EU"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: qMD8mOEM6Tk
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+  - fingerprint: "DAF7 GD-ROM1/1 US"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: oxd06G1U3PY
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+
+gotIGDBGame: 1
+idIGDB: 11230
+age_ratings:
+  - id: 7002
+    rating: 10
+  - id: 7003
+    rating: 3
+aggregated_rating: 70.0
+aggregated_rating_count: 1
+cover:
+  - id: 10511
+    game: 11230
+    height: 301
+    image_id: "lriw7x9jm3tdmywdu86j"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/lriw7x9jm3tdmywdu86j.jpg"
+    width: 256
+first_release_date: 954460800
+game_modes:
+  - "Single player"
+categories:
+  - "Simulator"
+tags:
+  - "space simulation"
+  - "space combat"
+  - "military"
+  - "spaceship"
+  - "sci-fi"
+  - "war"
+  - "simulation"
+  - "dashboard view"
+  - "bink video"
+  - "polygonal 3d"
+  - "mission briefing"
+  - "escort mission"
+  - "changing sides"
+  - "energy weapons"
+  - "e3 2000"
+  - "regenerating ammo"
+  - "hud video messages"
+  - "keyboard and mouse support for consoles"
+name: "StarLancer"
+player_perspectives:
+  - "First person"
+popularity: 1.0
+screenshots:
+  - id: 10559
+    game: 11230
+    height: 768
+    image_id: "syrbyn5rmkkpjzxiuise"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/syrbyn5rmkkpjzxiuise.jpg"
+    width: 1024
+slug: "starlancer"
+storyline: "It is the year 2160. Mankind has colonized the solar system and two political entities have emerged: the Alliance consisting of American, Australian, French, Spanish, Italian, Japanese, British and German forces, and The Coalition of Russian, Chinese and Middle-Eastern interests. The game begins with a surprise attack on Fort Kennedy, where a peace treaty turns into a bloodbath: all of the inner four planets are overrun, including Terra herself, and the Italian and French fleets are utterly lost. The Alliance fleet regroups at Triton, Neptune's moon, and attempts to regain lost territory. The player takes the role of a rookie pilot in the international 45th Volunteers squadron, under the command of Captain Robert Foster and Wing Commander Maria Enriquez, aboard the re-commissioned British carrier ANS Reliant.
+
+As with Wing Commander: Prophecy, the pilot's flying ability is the only meter by which success and failure is measured, though Starlancer does not feature as many branching mission paths. As in Wing Commander I the pilot may be promoted throughout the course of the campaign; unlike WCI, their rank determines which fighters and missiles they may choose to employ during each mission. The game provides a &quote;virtual carrier&quote; through which to navigate, including nearby crewmembers whose reaction to you depends on your current rank and standing. However, the true gem of the game lies in its textual and video news broadcasts, which keep the player informed as to the status of the rest of the war, which seems to be progressing just over the horizon. Players frequently find themselves flying alongside squadrons and pilots they have heard about on the news just recently, providing a dose of 'celebrity exposure' and also increasing the sensation that they are just one part of a much larger war effort.
+
+Starlancer's story is continued in Chris Roberts' Freelancer project, though the two belong to different subgenres (the first is purely focused on action, the latter also features trading and the player can freely move through the game's universe when they are not on a mission.)"
+summary: "Starlancer is a space-based science fiction flight simulator computer game, created by Erin Roberts, Chris Roberts, and Warthog PLC under the auspices of Digital Anvil.
+
+It is the year 2160. Mankind has colonized the solar system and two political entities have emerged: the Alliance consisting of American, Australian, French, Spanish, Italian, Japanese, British and German forces, and The Coalition of Russian, Chinese and Middle-Eastern interests. The game begins with a surprise attack on Fort Kennedy, where a peace treaty turns into a bloodbath: all of the inner four planets are overrun, including Terra herself, and the Italian and French fleets are utterly lost. The Alliance fleet regroups at Triton, Neptune's moon, and attempts to regain lost territory. The player takes the role of a rookie pilot in the international 45th Volunteers squadron, under the command of Captain Robert Foster and Wing Commander Maria Enriquez, aboard the re-commissioned British carrier ANS Reliant.
+
+As with Wing Commander: Prophecy, the pilot's flying ability is the only meter by which success and failure is measured, though Starlancer does not feature as many branching mission paths. As in Wing Commander I the pilot may be promoted throughout the course of the campaign; unlike WCI, their rank determines which fighters and missiles they may choose to employ during each mission. The game provides a &quote;virtual carrier&quote; through which to navigate, including nearby crewmembers whose reaction to you depends on your current rank and standing. However, the true gem of the game lies in its textual and video news broadcasts, which keep the player informed as to the status of the rest of the war, which seems to be progressing just over the horizon. Players frequently find themselves flying alongside squadrons and pilots they have heard about on the news just recently, providing a dose of 'celebrity exposure' and also increasing the sensation that they are just one part of a much larger war effort.
+
+Starlancer's story is continued in Chris Roberts' Freelancer project, though the two belong to different subgenres (the first is purely focused on action, the latter also features trading and the player can freely move through the game's universe when they are not on a mission.)"
+videos:
+  - id: 4498
+    game: 11230
+    name: "Trailer"
+    video_id: "pB0tatroMbU"
+
+---

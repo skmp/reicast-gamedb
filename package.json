@@ -1,0 +1,80 @@
+{
+  "name": "reicastdb",
+  "version": "0.1.1",
+  "description": "Reicast Game Compatibility Database",
+  "productName": "Reicast-db",
+  "cordovaId": "com.reicast.gamedb",
+  "author": "djleven <info@e-leven.net>",
+  "homepage": "https://gamedb.reicast.com",
+  "private": true,
+  "docker": {
+    "apk": {
+      "img": "djleven/quasar-cordova",
+      "usb": "/dev/bus/usb:/dev/bus/usb"
+    },
+    "el": {
+      "img": "djleven/quasar-electron-wine"
+    }
+  },
+  "scripts": {
+    "lint": "eslint --ext .js,.vue src",
+    "makeData": "node -e 'require(\"./makeData\").mergedData2JSON()'",
+    "makeListData": "node -e 'require(\"./makeData\").data2IndexList()'",
+    "makeCatList": "node -e 'require(\"./makeData\").makeValidCategories()'",
+    "dev": "npm run electron 'quasar dev'",
+    "serve": "npm run electron 'quasar serve docs/'",
+    "android": "docker run --rm -v \"$PWD\":/app $npm_package_docker_apk_img bash -c",
+    "android:usb": "docker run --rm -v \"$PWD\":/app --privileged -v $npm_package_docker_apk_usb $npm_package_docker_apk_img bash -c",
+    "android:apk": "npm run android 'quasar build -m cordova -T android'",
+    "android:apk-device": "npm run android:usb 'cd src-cordova && cordova run android'",
+    "electron": "docker run --rm -v \"$PWD\":/app $npm_package_docker_el_img bash -c",
+    "linux": "npm run linux:build && npm run electron 'npm run linux:rpm' && npm run electron 'npm run linux:deb'",
+    "linux:build": "npm run electron 'quasar build -m electron --target linux --arch all --theme mat'",
+    "linux:rpm": "node -e 'require(\"./makeInstallers\").linuxRPM()'",
+    "linux:deb": "node -e 'require(\"./makeInstallers\").linuxDEB()'",
+    "windows": "npm run windows:build && npm run electron 'npm run windows:exe'",
+    "windows:build": "npm run electron 'quasar build -c -m electron --target win32 --arch all --theme mat'",
+    "windows:exe": "electron-builder --win --x64 --project dist/win32/UnPackaged --prepackaged ../Reicast-db-win32-x64/",
+    "own": "sudo chown \"$USER\":\"$USER\" --preserve-root",
+    "own:dist": "npm run own -- -R dist",
+    "own:node": "npm run own -- -R node_modules",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "vue-i18n": "^7.3.3",
+    "vue-meta": "^1.6.0"
+  },
+  "devDependencies": {
+    "@vue/eslint-config-standard": "^4.0.0",
+    "babel-eslint": "^10.0.1",
+    "devtron": "1.4.0",
+    "electron": "^3.0.8",
+    "electron-builder": "^20.39.0",
+    "electron-debug": "^2.0.0",
+    "electron-devtools-installer": "^2.2.4",
+    "electron-installer-debian": "^1.2.0",
+    "electron-installer-redhat": "^1.0.1",
+    "electron-packager": "^13.1.0",
+    "eslint": "^5.10.0",
+    "eslint-loader": "^2.1.1",
+    "eslint-plugin-vue": "^5.0.0",
+    "js-yaml": "^3.13.1",
+    "prerender-spa-plugin": "^3.4.0",
+    "quasar-cli": "^0.17.0",
+    "strip-ansi": "=3.0.1"
+  },
+  "engines": {
+    "node": ">= 8.9.0",
+    "npm": ">= 5.6.0",
+    "yarn": ">= 1.6.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 10"
+  ],
+  "resolutions": {
+    "ajv": "6.8.1"
+  }
+}

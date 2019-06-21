@@ -1,0 +1,337 @@
+[
+  {
+    "id": 3027,
+    "age_ratings": [
+      {
+        "id": 1116,
+        "rating": 11
+      }
+    ],
+    "aggregated_rating": 60.0,
+    "aggregated_rating_count": 1,
+    "cover": {
+      "id": 68935,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 3027,
+      "height": 800,
+      "image_id": "co1h6v",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1h6v.jpg",
+      "width": 600
+    },
+    "first_release_date": 936057600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 46,
+        "name": "female hero ( heroine )"
+      },
+      {
+        "id": 87,
+        "name": "dinosaurs"
+      },
+      {
+        "id": 129,
+        "name": "blood"
+      },
+      {
+        "id": 170,
+        "name": "time travel"
+      },
+      {
+        "id": 558,
+        "name": "death"
+      },
+      {
+        "id": 970,
+        "name": "sci-fi"
+      },
+      {
+        "id": 1033,
+        "name": "action-adventure"
+      },
+      {
+        "id": 1120,
+        "name": "horror"
+      },
+      {
+        "id": 1313,
+        "name": "multiple endings"
+      },
+      {
+        "id": 1370,
+        "name": "prehistoric"
+      },
+      {
+        "id": 1659,
+        "name": "resident evil"
+      },
+      {
+        "id": 1735,
+        "name": "inventory"
+      },
+      {
+        "id": 1836,
+        "name": "survival horror"
+      },
+      {
+        "id": 3626,
+        "name": "velociraptor"
+      },
+      {
+        "id": 4031,
+        "name": "block puzzle"
+      },
+      {
+        "id": 4145,
+        "name": "female protagonists"
+      },
+      {
+        "id": 4185,
+        "name": "health pack"
+      },
+      {
+        "id": 4317,
+        "name": "ladder"
+      },
+      {
+        "id": 4372,
+        "name": "psone classics"
+      },
+      {
+        "id": 4414,
+        "name": "computer"
+      },
+      {
+        "id": 4525,
+        "name": "third-person perspective"
+      },
+      {
+        "id": 4571,
+        "name": "shotgun"
+      },
+      {
+        "id": 4576,
+        "name": "loading screens"
+      },
+      {
+        "id": 4611,
+        "name": "cutscene"
+      },
+      {
+        "id": 4614,
+        "name": "extreme violence"
+      },
+      {
+        "id": 4709,
+        "name": "save point"
+      },
+      {
+        "id": 4727,
+        "name": "key"
+      },
+      {
+        "id": 4731,
+        "name": "tyrannosaurus rex"
+      },
+      {
+        "id": 4738,
+        "name": "fence"
+      },
+      {
+        "id": 4850,
+        "name": "moral decisions"
+      },
+      {
+        "id": 4855,
+        "name": "branching story line"
+      },
+      {
+        "id": 4958,
+        "name": "game over"
+      },
+      {
+        "id": 4974,
+        "name": "male antagonist"
+      },
+      {
+        "id": 5116,
+        "name": "laser"
+      },
+      {
+        "id": 5185,
+        "name": "office chair"
+      },
+      {
+        "id": 5328,
+        "name": "playstation tv support"
+      },
+      {
+        "id": 5733,
+        "name": "experiments gone awry"
+      },
+      {
+        "id": 5740,
+        "name": "keycard"
+      },
+      {
+        "id": 5963,
+        "name": "plot twist"
+      },
+      {
+        "id": 6070,
+        "name": "bad endings"
+      },
+      {
+        "id": 6206,
+        "name": "item box"
+      },
+      {
+        "id": 6261,
+        "name": "locker"
+      },
+      {
+        "id": 6440,
+        "name": "watch"
+      },
+      {
+        "id": 6733,
+        "name": "lock picking"
+      },
+      {
+        "id": 6740,
+        "name": "lock picks"
+      },
+      {
+        "id": 6906,
+        "name": "tranquilizer"
+      },
+      {
+        "id": 7350,
+        "name": "earpiece conversation"
+      },
+      {
+        "id": 7668,
+        "name": "crane puzzle"
+      },
+      {
+        "id": 8819,
+        "name": "ammo box"
+      },
+      {
+        "id": 9286,
+        "name": "false death"
+      },
+      {
+        "id": 9307,
+        "name": "stationary aiming"
+      },
+      {
+        "id": 9839,
+        "name": "laser fence"
+      },
+      {
+        "id": 9976,
+        "name": "diary pages"
+      },
+      {
+        "id": 10545,
+        "name": "operation clusterfuck"
+      },
+      {
+        "id": 10683,
+        "name": "halo jump"
+      },
+      {
+        "id": 13119,
+        "name": "e3 1999"
+      },
+      {
+        "id": 13951,
+        "name": "playstation underground"
+      }
+    ],
+    "name": "Dino Crisis",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view"
+      }
+    ],
+    "popularity": 2.516738767012881,
+    "screenshots": [
+      {
+        "id": 11012,
+        "game": 3027,
+        "height": 405,
+        "image_id": "vgums7foejk3oyk26ygx",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vgums7foejk3oyk26ygx.jpg",
+        "width": 540
+      },
+      {
+        "id": 11013,
+        "game": 3027,
+        "height": 405,
+        "image_id": "swly9nv5lrug6hghqft0",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/swly9nv5lrug6hghqft0.jpg",
+        "width": 540
+      },
+      {
+        "id": 11014,
+        "game": 3027,
+        "height": 420,
+        "image_id": "mkzdgjbfmgqyqg3ueydp",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mkzdgjbfmgqyqg3ueydp.jpg",
+        "width": 560
+      },
+      {
+        "id": 11015,
+        "game": 3027,
+        "height": 405,
+        "image_id": "l89s4efpcwuzeqmgwlhn",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/l89s4efpcwuzeqmgwlhn.jpg",
+        "width": 540
+      },
+      {
+        "id": 11016,
+        "game": 3027,
+        "height": 406,
+        "image_id": "ioh0yzh4zsjfzmkaarsq",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ioh0yzh4zsjfzmkaarsq.jpg",
+        "width": 540
+      }
+    ],
+    "slug": "dino-crisis",
+    "storyline": "The game takes place on a fictional location known as Ibis Island in the year 2009. The Secret Operation Raid Team (SORT) has sent an agent, Tom, to investigate a research facility. During the recon mission, he learns that Dr. Edward Kirk, a world-renowned scientist who was reported dead three years ago, is leading a secret weapons project within the facility. SORT sends four agents (Regina, Gail, Rick, and Cooper) to acquire Kirk and return him to custody. The team arrives on the island under cover of darkness, dropping in via parachute. Cooper is blown off course and lands in the jungle away from the others. Lost in the dark, he is chased down by a Tyrannosaurus rex and eaten. The other three agents, unaware of his death, proceed with the mission.\n\nOnce inside the base, they discover the eviscerated and partially devoured corpses of security personnel and scientists. After splitting up to restore power to the facility, Gail goes missing. Whilst searching for him, Regina is confronted by a Velociraptor. Re-uniting with Rick, the two determine it was the dinosaurs that caused the bloodbath at the base. Although their mission to recover Dr. Kirk still stands, it is now more important to signal for a rescue. Regina sets out to activate the main antenna to contact their airlift. On her way, she is attacked by another Velociraptor and is rescued by Gail, who then leaves to continue searching for Dr. Kirk. After restoring communications, Regina heads back to the control room and they receive a signal on their communicators. Believing it might be Cooper or Tom in trouble, Rick wants to investigate. Gail shoots down the idea, wanting to follow up on a CCTV sighting that might have been Kirk. The player must choose which course of action to follow.\n\nIf the player follows Rick, they come across Tom, badly injured and near death. Rick takes him to the medical room, however a Velociraptor attacks them, and Tom sacrifices himself to kill it, saving Rick. Later, Regina and the team manage to locate Kirk and apprehend him. As they are preparing to leave via helicopter, the T. rex returns and destroys the helicopter, forcing them to flee back into the base while Kirk manages to escape. Regina and Rick flee into the facility and locate keys to a watercraft, but find a vortex in the way of getting to it. Rick speculates this is the space time distortion that brought the dinosaurs back. The two split up to find an alternate route off the island, and Regina ends up being held at gunpoint by Dr. Kirk. He is about to kill her when the gun is shot out of his hand by Gail, and they arrest him again.\n\nKirk reveals that the dinosaurs were brought to their time by an experiment he was running using his Third Energy technology. A rift in space was created and a pocket of the island from their time was exchanged with the same from the past, bringing dinosaurs back into their time. Kirk then tells them that if the reactors are set to overload, the energy coming from them and the vortex should cancel each other out if they come into contact. After Regina gets the stabilizer and initializer and uses them to overload the reactors, the energy shakes the base, causing a vent to fall on Gail allowing Kirk to get free again. The team heads towards the waterway to escape the blast, but Gail says they still need to capture the doctor. He starts to hobble away on his gun to go after Kirk, and orders Regina and Rick to leave without him if he does not return in thirty minutes. Regina is given the choice to either go after Dr. Kirk with Gail, or escape with Rick. The story then takes one of three endings.",
+    "summary": "Dino Crisis is a survival horror video game developed and produced by Capcom originally for the Sony PlayStation console in 1999. It was developed by the same team behind Capcom\u0027s Resident Evil, including director Shinji Mikami, and shares many similarities with the Resident Evil games that preceded it, but is more action-oriented.\n\nThe story follows Regina, a red-headed special operations agent who is part of a team sent to investigate a mysterious island facility. Finding the place overrun with vicious dinosaurs, Regina must fight through the Velociraptor-filled facility to discover what happened and ultimately escape alive. The game mixes exploration and puzzle-based gameplay with traditional survival horror mechanics.\n\nThere are multiple endings based on player choices and actions.",
+    "videos": [
+      {
+        "id": 4636,
+        "game": 3027,
+        "name": "Trailer",
+        "video_id": "ui7ii96Pz3E"
+      },
+      {
+        "id": 4637,
+        "game": 3027,
+        "name": "Game intro",
+        "video_id": "zTCYSSZKJRE"
+      }
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "id": 4077,
+    "age_ratings": [
+      {
+        "id": 2108,
+        "rating": 8
+      }
+    ],
+    "cover": {
+      "id": 4302,
+      "game": 4077,
+      "height": 340,
+      "image_id": "pcetpm4bogcbqb8we3j4",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/pcetpm4bogcbqb8we3j4.jpg",
+      "width": 243
+    },
+    "first_release_date": 1129161600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 78,
+        "name": "anime"
+      },
+      {
+        "id": 163,
+        "name": "side scroller"
+      },
+      {
+        "id": 166,
+        "name": "shoot \u0027em up"
+      },
+      {
+        "id": 396,
+        "name": "japanese"
+      },
+      {
+        "id": 911,
+        "name": "bullet hell"
+      },
+      {
+        "id": 970,
+        "name": "sci-fi"
+      },
+      {
+        "id": 5331,
+        "name": "cel-shading"
+      },
+      {
+        "id": 5584,
+        "name": "wii classic controller support"
+      },
+      {
+        "id": 8795,
+        "name": "persistent bullet holes"
+      },
+      {
+        "id": 11394,
+        "name": "gamecube controller support on wii"
+      }
+    ],
+    "name": "Radirgy",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "popularity": 1.0,
+    "slug": "radirgy",
+    "summary": "Radilgy is a vertical shooter with its own unique graphical design taking inspiration from anime and the look of cel-shaded graphics."
+  }
+]

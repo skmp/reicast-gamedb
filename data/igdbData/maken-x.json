@@ -1,0 +1,154 @@
+[
+  {
+    "id": 46378,
+    "age_ratings": [
+      {
+        "id": 18449,
+        "rating": 11
+      }
+    ],
+    "cover": {
+      "id": 28041,
+      "game": 46378,
+      "height": 1560,
+      "image_id": "ztgacxjhbige2lk8d4ah",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/ztgacxjhbige2lk8d4ah.jpg",
+      "width": 1728
+    },
+    "first_release_date": 943488000,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 103,
+        "name": "cyberpunk"
+      },
+      {
+        "id": 227,
+        "name": "sword"
+      },
+      {
+        "id": 970,
+        "name": "sci-fi"
+      },
+      {
+        "id": 1027,
+        "name": "adventure"
+      },
+      {
+        "id": 2170,
+        "name": "dreams"
+      },
+      {
+        "id": 3486,
+        "name": "boss fight"
+      },
+      {
+        "id": 3833,
+        "name": "bosses"
+      },
+      {
+        "id": 4330,
+        "name": "first-person perspective"
+      },
+      {
+        "id": 4891,
+        "name": "melee"
+      },
+      {
+        "id": 4902,
+        "name": "first person melee"
+      },
+      {
+        "id": 5308,
+        "name": "rpg elements"
+      },
+      {
+        "id": 7016,
+        "name": "nazis"
+      },
+      {
+        "id": 7474,
+        "name": "intelligent weapon"
+      },
+      {
+        "id": 7489,
+        "name": "pope"
+      },
+      {
+        "id": 9931,
+        "name": "western published games with japanese titles"
+      },
+      {
+        "id": 10047,
+        "name": "ultimate weapon"
+      },
+      {
+        "id": 12958,
+        "name": "deus ex machina"
+      },
+      {
+        "id": 13119,
+        "name": "e3 1999"
+      }
+    ],
+    "name": "Maken X",
+    "popularity": 1.848552581213871,
+    "screenshots": [
+      {
+        "id": 139421,
+        "game": 46378,
+        "height": 1080,
+        "image_id": "pwudf2ymvyq58vdhq5jc",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/pwudf2ymvyq58vdhq5jc.jpg",
+        "width": 1440
+      },
+      {
+        "id": 139422,
+        "game": 46378,
+        "height": 338,
+        "image_id": "izcctvcopbmhbg4n6g5x",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/izcctvcopbmhbg4n6g5x.jpg",
+        "width": 450
+      },
+      {
+        "id": 139423,
+        "game": 46378,
+        "height": 185,
+        "image_id": "g5raf8s9zotlmapxnob8",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/g5raf8s9zotlmapxnob8.jpg",
+        "width": 272
+      },
+      {
+        "id": 139424,
+        "game": 46378,
+        "height": 199,
+        "image_id": "mxeqhsiqmoe38vlmecpr",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mxeqhsiqmoe38vlmecpr.jpg",
+        "width": 253
+      },
+      {
+        "id": 139425,
+        "game": 46378,
+        "height": 480,
+        "image_id": "y6qusp5onyizgf5cd6hw",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/y6qusp5onyizgf5cd6hw.jpg",
+        "width": 640
+      }
+    ],
+    "slug": "maken-x",
+    "summary": "Maken X is a game for the Dreamcast video game console that fits into an subgenre of \"first-person slashers\". The game is mainly regarded as a first-person action game because of the realistic elements in gameplay. It is unique in that the main character is the weapon (Maken), rather than a person. \n \nThe word \"Maken\" literally translates as \"demonic sword\". On the title screen, the \"X\" is shown to stand for deus ex machina (Latin for \"god out of the machine\"). \n \nThe player can control a number of characters via \"brainjacking\", which leaves the person a vegetable. The woman displayed on the boxart is the first person controlled when the facility that Maken was created at comes under attack.",
+    "videos": [
+      {
+        "id": 17203,
+        "game": 46378,
+        "name": "Trailer",
+        "video_id": "NBpuHVeIdxk"
+      }
+    ]
+  }
+]

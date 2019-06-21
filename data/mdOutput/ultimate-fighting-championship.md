@@ -1,0 +1,102 @@
+---
+view: game
+layout: game
+author: reicast
+created_at: 2018-03-25 09:00
+updated_at: 2019-05-02 09:00
+id: ultimate-fighting-championship
+title: "Ultimate Fighting Championship"
+gamedb-issue: 0
+
+releases:
+  - id: "C114"
+    region: US
+    version: "1.001"
+    discs: 1
+    medium: gdrom
+  - id: "3D30"
+    region: JP
+    version: "1.001"
+    discs: 1
+    medium: gdrom
+  - id: "2E38"
+    region: EU
+    version: "1.000"
+    discs: 1
+    medium: gdrom
+
+test-videos:
+  - fingerprint: "C114 GD-ROM1/1 US"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: qlgIStIU5O4
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+  - fingerprint: "3D30 GD-ROM1/1 JP"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: PLQLiZ0h-rg
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+  - fingerprint: "2E38 GD-ROM1/1 EU"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: 9eOw0v1hp8Y
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+
+gotIGDBGame: 1
+idIGDB: 24176
+age_ratings:
+  - id: 18606
+    rating: 10
+aggregated_rating: 90.0
+aggregated_rating_count: 1
+cover:
+  - id: 23567
+    game: 24176
+    height: 1365
+    image_id: "wvffcsupqvogmi732fxq"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/wvffcsupqvogmi732fxq.jpg"
+    width: 1409
+first_release_date: 975110400
+categories:
+  - "Fighting"
+  - "Sport"
+tags:
+  - "martial arts"
+  - "fighting"
+  - "health"
+  - "mixed martial arts"
+  - "sports"
+  - "split-screen multiplayer"
+  - "game critics awards"
+  - "cover athlete"
+  - "real photos on cover art"
+  - "referees"
+  - "character creation"
+  - "grapple"
+  - "belt"
+  - "combo"
+  - "fingerless gloves"
+  - "e3 2000"
+  - "double knock out"
+  - "ultimate fighting championship"
+  - "tap out"
+  - "crude renditions of real people"
+  - "playstation underground"
+name: "Ultimate Fighting Championship"
+popularity: 1.0
+slug: "ultimate-fighting-championship"
+summary: "The Ultimate Fighting Championship tournaments started in the 1990s, giving martial artists of the world a chance to distinguish themselves in a fighting environment with very few rules. Fighters could be matched up against fighters of any style, and the match ended only when one fighter submitted. 
+ 
+The popularity of the sport resulted in the creation of other mixed martial arts tournaments and the evolution and merging of fighting styles for greater effectiveness. Ultimate Fighting Championship is a 3D fighting game that tries to simulate the experience of a real mixed martial arts fight. Players can choose from a selection of established UFC fighters, or create their own fighter through the Career Mode. 
+ 
+While in Career Mode, players start the character creation process by selecting from several style templates, then using points earned through fighting and beating a series of progressively more difficult fighters to buy attribute upgrades in stamina, endurance, punching ability, kicking ability, or to learn certain techniques."
+videos:
+  - id: 20349
+    game: 24176
+    name: "Gameplay video"
+    video_id: "kdaqipplAr8"
+
+---

@@ -1,0 +1,127 @@
+[
+  {
+    "id": 72029,
+    "age_ratings": [
+      {
+        "id": 19193,
+        "rating": 10
+      }
+    ],
+    "cover": {
+      "id": 53471,
+      "game": 72029,
+      "height": 377,
+      "image_id": "kttxv9c3loirvq6dczqs",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/kttxv9c3loirvq6dczqs.jpg",
+      "width": 326
+    },
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 129,
+        "name": "blood"
+      },
+      {
+        "id": 234,
+        "name": "wrestling"
+      },
+      {
+        "id": 4186,
+        "name": "trash can"
+      },
+      {
+        "id": 4187,
+        "name": "mask"
+      },
+      {
+        "id": 4226,
+        "name": "cover athlete"
+      },
+      {
+        "id": 4271,
+        "name": "professional wrestler"
+      },
+      {
+        "id": 4278,
+        "name": "professional wrestling ring"
+      },
+      {
+        "id": 4286,
+        "name": "character select screen"
+      },
+      {
+        "id": 4317,
+        "name": "ladder"
+      },
+      {
+        "id": 4566,
+        "name": "fist"
+      },
+      {
+        "id": 4576,
+        "name": "loading screens"
+      },
+      {
+        "id": 4625,
+        "name": "table"
+      },
+      {
+        "id": 4804,
+        "name": "tag teaming"
+      },
+      {
+        "id": 4823,
+        "name": "character creation"
+      },
+      {
+        "id": 5029,
+        "name": "difficulty level"
+      },
+      {
+        "id": 5502,
+        "name": "2\" x 4\u0027\u0027"
+      },
+      {
+        "id": 6061,
+        "name": "e3 2000"
+      },
+      {
+        "id": 6258,
+        "name": "fire extinguisher"
+      },
+      {
+        "id": 6493,
+        "name": "finishing move"
+      },
+      {
+        "id": 6497,
+        "name": "taunting"
+      },
+      {
+        "id": 7300,
+        "name": "piledriver"
+      },
+      {
+        "id": 7335,
+        "name": "anarchism"
+      },
+      {
+        "id": 7392,
+        "name": "steel chair"
+      },
+      {
+        "id": 8780,
+        "name": "crude renditions of real people"
+      }
+    ],
+    "name": "ECW Anarchy Rulz",
+    "popularity": 1.0,
+    "slug": "ecw-anarchy-rulz",
+    "summary": "Acclaim brings its third wrestling title to the Dreamcast with ECW: Anarchy Rulz. More than 60 ECW wrestlers are included in the game including Dusty Rhodes, The Sandman, and Masato Tanaka. Choose from any of the available wrestlers or create your own jump into the action in any one of the more than 25 modes of play."
+  }
+]

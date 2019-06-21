@@ -1,0 +1,150 @@
+---
+view: game
+layout: game
+author: reicast
+created_at: 2018-03-25 09:00
+updated_at: 2019-05-02 09:00
+id: sword-of-the-berserk-guts-rage
+title: "Sword of the Berserk - Guts' Rage"
+gamedb-issue: 0
+
+releases:
+  - id: "FB10"
+    region: EU
+    version: "1.002"
+    discs: 1
+    medium: gdrom
+  - id: "7BB0"
+    region: US
+    version: "1.000"
+    discs: 1
+    medium: gdrom
+
+test-videos:
+  - fingerprint: "FB10 GD-ROM1/1 EU"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: oVdxh30EOQc
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+  - fingerprint: "7BB0 GD-ROM1/1 US"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: QLKV_hs0Ge8
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+
+gotIGDBGame: 1
+idIGDB: 28840
+age_ratings:
+  - id: 14534
+    rating: 11
+cover:
+  - id: 23970
+    game: 28840
+    height: 420
+    image_id: "mw5cdlozqdcfymjytbld"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/mw5cdlozqdcfymjytbld.jpg"
+    width: 420
+first_release_date: 945302400
+game_modes:
+  - "Single player"
+categories:
+  - "Hack and slash/Beat 'em up"
+tags:
+  - "ghosts"
+  - "exploration"
+  - "anime"
+  - "blood"
+  - "sword"
+  - "health"
+  - "hack and slash"
+  - "death"
+  - "elves"
+  - "fire"
+  - "horse"
+  - "frog"
+  - "brawler"
+  - "bridge"
+  - "religion"
+  - "fairy"
+  - "time limit"
+  - "undead"
+  - "mutants"
+  - "hostages"
+  - "sacrifice"
+  - "wolf"
+  - "dog"
+  - "love"
+  - "boss fight"
+  - "shuriken"
+  - "bosses"
+  - "games based on anime"
+  - "licensed game"
+  - "jump"
+  - "boss rush"
+  - "bears"
+  - "male protagonists"
+  - "crate"
+  - "cane"
+  - "cape"
+  - "countdown timer"
+  - "voice acting"
+  - "games based on comic books"
+  - "polygonal 3d"
+  - "love triangle"
+  - "door"
+  - "health potion"
+  - "gun"
+  - "unlockables"
+  - "cutscene"
+  - "extreme violence"
+  - "table"
+  - "bench"
+  - "branching story line"
+  - "resistance"
+  - "barrel"
+  - "game over"
+  - "well"
+  - "final boss"
+  - "difficulty level"
+  - "knight"
+  - "post-credits plot twist"
+  - "mercenary"
+  - "crying"
+  - "rebels"
+  - "peasants"
+  - "blocking"
+  - "grenade"
+  - "crossbow"
+  - "vase"
+  - "quick time event"
+  - "bandit"
+  - "interactive cutscene"
+  - "timed decisions"
+  - "linear gameplay"
+  - "gore system"
+  - "covered wagon"
+  - "throwing knife"
+  - "my father's sword"
+  - "continue"
+  - "falling object"
+  - "henchmen"
+  - "monologue"
+  - "fury"
+  - "ultimate weapon"
+  - "arm cannon"
+  - "soft reset"
+name: "Sword of the Berserk: Guts' Rage"
+player_perspectives:
+  - "Third person"
+popularity: 2.516738767012881
+slug: "sword-of-the-berserk-guts-rage"
+summary: "An outcast warrior enters a land plagued by an evil curse. Guts is unlike ordinary men for he carries the Dragon Slayer, a mighty blade of retribution whose fury knows no equal. His enemies will know true fear once they encounter his Berserk rage!"
+videos:
+  - id: 13810
+    game: 28840
+    name: "Game intro"
+    video_id: "nxpJp6Bym8o"
+
+---

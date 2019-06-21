@@ -1,0 +1,190 @@
+[
+  {
+    "id": 6716,
+    "age_ratings": [
+      {
+        "id": 3857,
+        "rating": 8
+      }
+    ],
+    "cover": {
+      "id": 6857,
+      "game": 6716,
+      "height": 250,
+      "image_id": "uuagj2hlc0ygrlhi1heb",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/uuagj2hlc0ygrlhi1heb.jpg",
+      "width": 250
+    },
+    "first_release_date": 1004400000,
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 78,
+        "name": "anime"
+      },
+      {
+        "id": 274,
+        "name": "minigames"
+      },
+      {
+        "id": 339,
+        "name": "survival"
+      },
+      {
+        "id": 594,
+        "name": "fire"
+      },
+      {
+        "id": 1299,
+        "name": "time limit"
+      },
+      {
+        "id": 1333,
+        "name": "online"
+      },
+      {
+        "id": 1395,
+        "name": "blocks"
+      },
+      {
+        "id": 2678,
+        "name": "fruit"
+      },
+      {
+        "id": 2875,
+        "name": "puzzle"
+      },
+      {
+        "id": 3486,
+        "name": "boss fight"
+      },
+      {
+        "id": 3782,
+        "name": "strategy"
+      },
+      {
+        "id": 4140,
+        "name": "water effects"
+      },
+      {
+        "id": 4144,
+        "name": "power up"
+      },
+      {
+        "id": 4183,
+        "name": "crate"
+      },
+      {
+        "id": 4266,
+        "name": "alternate costumes"
+      },
+      {
+        "id": 4272,
+        "name": "customizable characters"
+      },
+      {
+        "id": 4273,
+        "name": "customization"
+      },
+      {
+        "id": 4350,
+        "name": "bomb"
+      },
+      {
+        "id": 4393,
+        "name": "explosives"
+      },
+      {
+        "id": 4447,
+        "name": "boxing glove"
+      },
+      {
+        "id": 4484,
+        "name": "collectibles"
+      },
+      {
+        "id": 4544,
+        "name": "unlockables"
+      },
+      {
+        "id": 4573,
+        "name": "skull"
+      },
+      {
+        "id": 4880,
+        "name": "barrel"
+      },
+      {
+        "id": 4904,
+        "name": "trip mine"
+      },
+      {
+        "id": 5032,
+        "name": "mini-boss"
+      },
+      {
+        "id": 5253,
+        "name": "baseball glove"
+      },
+      {
+        "id": 5331,
+        "name": "cel-shading"
+      },
+      {
+        "id": 5453,
+        "name": "destructible environment"
+      },
+      {
+        "id": 5628,
+        "name": "water level"
+      },
+      {
+        "id": 5704,
+        "name": "trophy"
+      },
+      {
+        "id": 5959,
+        "name": "multiplayer lan"
+      },
+      {
+        "id": 5987,
+        "name": "team deathmatch"
+      },
+      {
+        "id": 7018,
+        "name": "power down"
+      },
+      {
+        "id": 10445,
+        "name": "running shoes"
+      },
+      {
+        "id": 10567,
+        "name": "three teams"
+      },
+      {
+        "id": 12123,
+        "name": "xfire"
+      }
+    ],
+    "name": "Bomberman Online",
+    "popularity": 1.0,
+    "slug": "bomberman-online",
+    "summary": "Just when you thought Bomberman had planted his last explosive, the prolific video game hero returns for a modern update on his classic series. With addictive battles, frantic new modes, and brand new stages, Bomberman Online offers explosive action for all. Fans of the older multiplayer versions of the franchise will rejoice at the inclusion of four online modes Battle Royal, Hyper Bomber, Panel Attack, and Submarine Attack each designed to accommodate up to 10 players. The game\u0027s lone single-player mode boasts five awesome levels, and the graphics are rendered in 3D this time around."
+  }
+]

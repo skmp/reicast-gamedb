@@ -1,0 +1,102 @@
+[
+  {
+    "id": 8333,
+    "age_ratings": [
+      {
+        "id": 18602,
+        "rating": 1
+      },
+      {
+        "id": 18603,
+        "rating": 8
+      }
+    ],
+    "aggregated_rating": 70.0,
+    "aggregated_rating_count": 1,
+    "cover": {
+      "id": 8812,
+      "game": 8333,
+      "height": 283,
+      "image_id": "jcdpg9ziql9up0mobgbp",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/jcdpg9ziql9up0mobgbp.jpg",
+      "width": 220
+    },
+    "first_release_date": 965001600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 622,
+        "name": "track \u0026 field"
+      },
+      {
+        "id": 626,
+        "name": "olympics"
+      },
+      {
+        "id": 1166,
+        "name": "sports"
+      },
+      {
+        "id": 4177,
+        "name": "credits menu option"
+      },
+      {
+        "id": 6061,
+        "name": "e3 2000"
+      },
+      {
+        "id": 6494,
+        "name": "button mashing"
+      },
+      {
+        "id": 6649,
+        "name": "triple jump"
+      },
+      {
+        "id": 6797,
+        "name": "bobsleigh"
+      },
+      {
+        "id": 9774,
+        "name": "summer olympic games"
+      },
+      {
+        "id": 10015,
+        "name": "athlete"
+      },
+      {
+        "id": 13951,
+        "name": "playstation underground"
+      }
+    ],
+    "name": "Sydney 2000",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.0,
+    "slug": "sydney-2000",
+    "summary": "Sydney 2000 is the official Video Game of the Olympic Games. It features 32 countries represented in 12 events: 100M Sprint, 110M Hurdles, Hammer, Javelin, Triple Jump, High Jump, 100M Freestyle Swimming, Olympic Sprint Cycling, Skeet Shooting, Super Heavyweight Weight Lifting, 10M Platform Diving and Kayak K1 Slalom."
+  }
+]

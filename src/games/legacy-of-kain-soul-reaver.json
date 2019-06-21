@@ -1,0 +1,214 @@
+[
+  {
+    "view": "game",
+    "layout": "game",
+    "author": "reicast",
+    "created_at": "2018-03-25 09:00",
+    "updated_at": "2019-05-02 09:00",
+    "id": "legacy-of-kain-soul-reaver",
+    "title": "Legacy of Kain - Soul Reaver",
+    "gamedb-issue": 0,
+    "releases": [
+      {
+        "id": "D2AD",
+        "region": "EU",
+        "version": "1.000",
+        "discs": 1,
+        "medium": "gdrom"
+      }
+    ],
+    "test-videos": [
+      {
+        "fingerprint": "D2AD GD-ROM1/1 EU",
+        "title": "Intro auto run",
+        "hw": "i7 2720qm, GeForce 540M",
+        "yt": "iPt6pNigWJQ",
+        "git": "d59197f84353d7d2b746383e9277d9ed7c8c4053",
+        "platform": "win86-release"
+      },
+      {
+        "fingerprint": "D2AD GD-ROM1/1 US",
+        "title": "Intro auto run",
+        "hw": "i7 2720qm, GeForce 540M",
+        "yt": "jGDqbAGBgus",
+        "git": "d59197f84353d7d2b746383e9277d9ed7c8c4053",
+        "platform": "win86-release"
+      }
+    ],
+    "gotIGDBGame": 1,
+    "idIGDB": 4122,
+    "age_ratings": [
+      {
+        "id": 2208,
+        "rating": 11
+      },
+      {
+        "id": 5235,
+        "rating": 4
+      }
+    ],
+    "cover": [
+      {
+        "id": 68212,
+        "game": 4122,
+        "height": 1440,
+        "image_id": "hj5baokftij9s54aojon",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hj5baokftij9s54aojon.jpg",
+        "width": 1157
+      }
+    ],
+    "first_release_date": 934761600,
+    "game_modes": [
+      "Single player"
+    ],
+    "categories": [
+      "Adventure"
+    ],
+    "tags": [
+      "post-apocalyptic",
+      "blood",
+      "time travel",
+      "souls",
+      "puzzle solving",
+      "immortality",
+      "vampire",
+      "sword",
+      "fantasy",
+      "gothic",
+      "death",
+      "action-adventure",
+      "horror",
+      "steam",
+      "time machine",
+      "amnesia",
+      "teleportation",
+      "spear",
+      "fog of war",
+      "spikes",
+      "boss fight",
+      "bosses",
+      "block puzzle",
+      "digital distribution",
+      "crate",
+      "voice acting",
+      "polygonal 3d",
+      "psone classics",
+      "cutscene",
+      "playstation plus",
+      "symbiote",
+      "torch",
+      "slashing weapons",
+      "titular antagonist",
+      "game over",
+      "betrayal",
+      "cheating death",
+      "unreliable narrator",
+      "boulder",
+      "anti-hero",
+      "to be continued",
+      "elements",
+      "dimension travel",
+      "plot twist",
+      "not-so-bad guys",
+      "gliding",
+      "circle-strafing",
+      "telekinesis",
+      "disc streaming",
+      "no before yes",
+      "soul reaper",
+      "cliffhanger",
+      "evil old white guy",
+      "nobilitease",
+      "disfigurement",
+      "tragic hero",
+      "biblical quotes",
+      "dodge jump",
+      "plane shifting",
+      "greatest hits",
+      "life drain",
+      "soul steal",
+      "impaling weapons",
+      "divine punishment",
+      "rogue protagonist",
+      "vampire teeth",
+      "xfire",
+      "lenticular box art",
+      "phasing",
+      "e3 1999",
+      "e3 1998",
+      "playstation underground",
+      "the soul reaver"
+    ],
+    "name": "Legacy of Kain : Soul Reaver",
+    "player_perspectives": [
+      "Third person"
+    ],
+    "popularity": 3.60012360059351,
+    "screenshots": [
+      {
+        "id": 37983,
+        "game": 4122,
+        "height": 319,
+        "image_id": "zmulfed3jewcsdzlsdlq",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/zmulfed3jewcsdzlsdlq.jpg",
+        "width": 620
+      },
+      {
+        "id": 41088,
+        "game": 4122,
+        "height": 450,
+        "image_id": "luweokqayvgyws2qpcuc",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/luweokqayvgyws2qpcuc.jpg",
+        "width": 600
+      },
+      {
+        "id": 41089,
+        "game": 4122,
+        "height": 480,
+        "image_id": "yhnpc3c5ykc8j1vncc7s",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/yhnpc3c5ykc8j1vncc7s.jpg",
+        "width": 640
+      },
+      {
+        "id": 41090,
+        "game": 4122,
+        "height": 436,
+        "image_id": "pcivp1qiftqxbatwdiko",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/pcivp1qiftqxbatwdiko.jpg",
+        "width": 700
+      },
+      {
+        "id": 41091,
+        "game": 4122,
+        "height": 383,
+        "image_id": "fhlv18fiuuanyulqlssm",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fhlv18fiuuanyulqlssm.jpg",
+        "width": 600
+      }
+    ],
+    "slug": "legacy-of-kain-soul-reaver",
+    "storyline": "Taking place 1500 years after the events of Blood Omen, Soul Reaver chronicles the journey of the vampire-turned-wraith Raziel, lieutenant to the vampire lord Kain. Raziel is killed by Kain, but is revived by The Elder God to become his &quote;soul reaver&quote; and to exact revenge. Raziel shares this title with Kain's sword, the Soul Reaver, which he acquires during the game.",
+    "summary": "Many years after the events in Blood Omen: Legacy of Kain. Kain has created an empire in the world of Nosgoth where almost all humans have been exterminated. To help him maintain control over such large territory he chooses five lieutenants to command his vampire forces. Your name is Raziel and you are one of those lieutenants. Ages have passed by and during that time you have been has “blessed” with something no other vampire has--wings. Kain, being evil and jealous vampire, punished Raziel for his &quote;transgression&quote;. Jealous Kain tore off Raziel’s wings and cast him down into the Lake of the Dead. A millenium has passed while Raziel lay forgotten before he is brought back to existence by The Elder God. He becomes a soul reaver with one purpose and one purpose only--kill Kain. \nLegacy of Kain: Soul Reaver continues the story from Blood Omen in a very clever and interesting way while also adding many new gameplay features. One of those improvements is the ability to shift between spectral and material plane. Both worlds overlap each other in a way that allows Raziel to overcome obstacles in one world by simply shifting to the other. But beware, because both of those planes are anything but a safe place and something that is harmless on one side can kill you on the other. Soul Reaver is a chapter in a series of masterpieces. With a gripping story, fluent gameplay, and a number so unique features it is clearly one of the most prominent tiles in the gaming history and it is surely worth checking out.",
+    "videos": [
+      {
+        "id": 3203,
+        "game": 4122,
+        "name": "Trailer",
+        "video_id": "pXdIGNea2ZI"
+      },
+      {
+        "id": 3204,
+        "game": 4122,
+        "name": "Trailer",
+        "video_id": "9UukUztXxC8"
+      },
+      {
+        "id": 13060,
+        "game": 4122,
+        "name": "Gameplay video",
+        "video_id": "QlmRoetdFxc"
+      }
+    ]
+  },
+  null
+]

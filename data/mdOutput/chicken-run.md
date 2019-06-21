@@ -1,0 +1,65 @@
+---
+view: game
+layout: game
+author: reicast
+created_at: 2018-03-25 09:00
+updated_at: 2019-05-02 09:00
+id: chicken-run
+title: "Chicken Run"
+gamedb-issue: 0
+
+releases:
+  - id: "B9BC"
+    region: EU
+    version: "1.000"
+    discs: 1
+    medium: gdrom
+
+test-videos:
+  - fingerprint: "B9BC GD-ROM1/1 EU"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: fME0BSdCcfs
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+
+gotIGDBGame: 1
+idIGDB: 6723
+age_ratings:
+  - id: 3862
+    rating: 8
+cover:
+  - id: 6864
+    game: 6723
+    height: 240
+    image_id: "sr6gmru6djxgpqtxauzw"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/sr6gmru6djxgpqtxauzw.jpg"
+    width: 250
+first_release_date: 973209600
+game_modes:
+  - "Single player"
+categories:
+  - "Platform"
+tags:
+  - "stealth"
+  - "comedy"
+  - "chicken"
+  - "platformer"
+  - "licensed game"
+  - "anthropomorphism"
+  - "bink video"
+  - "games based on movies"
+  - "gun"
+  - "fence"
+  - "escort mission"
+  - "cage"
+  - "tie-in"
+  - "stealth kill"
+name: "Chicken Run"
+player_perspectives:
+  - "Third person"
+popularity: 1.423869563157
+slug: "chicken-run"
+summary: "CHICKEN RUN for Game Boy Color brings all the fun and adventure of the movie to the palm of your hand. You take the role of Ginger as you guide your fellow chickens to freedom in this one-player action or puzzle game. More than 20 levels of puzzle-solving adventure span the farmyard and the pie machine, which will keep you busy for hours. To begin, you'll have to bring a group of chickens through the farmyard, carefully avoiding or deactivating any obstacle that may alert the farmers. Then it's off to the pie machine, where mechanical mayhem awaits you if you aren't careful. Once you've brought the chickens through the pie machine, you'll be back in the farmyard with a new bunch of chickens and all new challenges ahead of you. You'll have to avoid obstacles such as dogs, cameras, spotlights, and others, as you make a break for freedom. You can push objects, shut off power, or find shortcuts to get around the many obstacles. And don't forget to keep an eye out for objects you can use to your advantage. You can also use a password to continue your chicken-saving quest another time."
+
+---

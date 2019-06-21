@@ -1,0 +1,70 @@
+[
+  {
+    "id": 8078,
+    "age_ratings": [
+      {
+        "id": 5017,
+        "rating": 10
+      }
+    ],
+    "cover": {
+      "id": 8518,
+      "game": 8078,
+      "height": 248,
+      "image_id": "f1h28mym0txxk6xpfe1a",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/f1h28mym0txxk6xpfe1a.jpg",
+      "width": 203
+    },
+    "first_release_date": 993686400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 350,
+        "name": "comedy"
+      },
+      {
+        "id": 970,
+        "name": "sci-fi"
+      },
+      {
+        "id": 974,
+        "name": "space"
+      },
+      {
+        "id": 1027,
+        "name": "adventure"
+      },
+      {
+        "id": 4287,
+        "name": "voice acting"
+      },
+      {
+        "id": 4471,
+        "name": "multiple storylines"
+      },
+      {
+        "id": 6061,
+        "name": "e3 2000"
+      },
+      {
+        "id": 7389,
+        "name": "alien protagonist"
+      }
+    ],
+    "name": "Stupid Invaders",
+    "popularity": 1.41949983609381,
+    "slug": "stupid-invaders",
+    "summary": "Space Goofs (France/Quebec title: Les Zinzins de l\u0027espace, UK title: Home to Rent, German title: Ein Heim für Aliens, international title: Stupid Invaders) is a French/German animated series produced by Gaumont Multimedia, and Xilam for France 3 that first aired in 1997. It also debuted at the same year in Germany on ProSieben. It also aired, in Quebec, on Télétoon. In the UK, the 1st season premiered on Channel 4 under the name Home to Rent and the 2nd season premiered under its original moniker on Nicktoons UK on 5 November 2005 at 9:30am. It also aired as part of the Fox Kids lineup on Fox in the United States. \n \nThe series also served as the basis of an adventure game titled Stupid Invaders."
+  }
+]

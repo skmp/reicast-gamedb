@@ -1,0 +1,29 @@
+[
+  {
+    "id": 45805,
+    "cover": {
+      "id": 53581,
+      "game": 45805,
+      "height": 233,
+      "image_id": "lsqixiyp9w8ythy5suxo",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/lsqixiyp9w8ythy5suxo.jpg",
+      "width": 235
+    },
+    "first_release_date": 978220800,
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 3782,
+        "name": "strategy"
+      }
+    ],
+    "name": "Planet Ring",
+    "popularity": 1.0,
+    "slug": "planet-ring"
+  }
+]

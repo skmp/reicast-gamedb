@@ -1,0 +1,164 @@
+[
+  {
+    "id": 3596,
+    "age_ratings": [
+      {
+        "id": 1704,
+        "rating": 8
+      }
+    ],
+    "cover": {
+      "id": 3710,
+      "game": 3596,
+      "height": 285,
+      "image_id": "vaanbnl3gkxcqa89jfkb",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/vaanbnl3gkxcqa89jfkb.jpg",
+      "width": 220
+    },
+    "first_release_date": 915148800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 25,
+        "name": "vehicular combat"
+      },
+      {
+        "id": 137,
+        "name": "gravity"
+      },
+      {
+        "id": 633,
+        "name": "san francisco"
+      },
+      {
+        "id": 970,
+        "name": "sci-fi"
+      },
+      {
+        "id": 1783,
+        "name": "car"
+      },
+      {
+        "id": 2452,
+        "name": "day/night cycle"
+      },
+      {
+        "id": 3627,
+        "name": "vehicle combat"
+      },
+      {
+        "id": 3831,
+        "name": "explosion"
+      },
+      {
+        "id": 4157,
+        "name": "driving/racing"
+      },
+      {
+        "id": 4161,
+        "name": "jump"
+      },
+      {
+        "id": 4210,
+        "name": "split-screen multiplayer"
+      },
+      {
+        "id": 4218,
+        "name": "coin"
+      },
+      {
+        "id": 4397,
+        "name": "upgradeable weapons"
+      },
+      {
+        "id": 4484,
+        "name": "collectibles"
+      },
+      {
+        "id": 4501,
+        "name": "ramp"
+      },
+      {
+        "id": 4528,
+        "name": "palm tree"
+      },
+      {
+        "id": 4647,
+        "name": "vehicle customization"
+      },
+      {
+        "id": 4650,
+        "name": "year in the title"
+      },
+      {
+        "id": 4795,
+        "name": "homing missile"
+      },
+      {
+        "id": 5043,
+        "name": "laps"
+      },
+      {
+        "id": 5116,
+        "name": "laser"
+      },
+      {
+        "id": 5196,
+        "name": "tire"
+      },
+      {
+        "id": 5503,
+        "name": "rocket"
+      },
+      {
+        "id": 5554,
+        "name": "glass"
+      },
+      {
+        "id": 6061,
+        "name": "e3 2000"
+      },
+      {
+        "id": 6187,
+        "name": "tricks"
+      },
+      {
+        "id": 6311,
+        "name": "damage model"
+      },
+      {
+        "id": 7070,
+        "name": "arcade driving physics"
+      },
+      {
+        "id": 12162,
+        "name": "cars with no drivers"
+      }
+    ],
+    "name": "San Francisco Rush 2049",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.0,
+    "slug": "san-francisco-rush-2049",
+    "summary": "San Francisco Rush 2049 is the third game in the Rush series, sequel to San Francisco Rush and Rush 2: Extreme Racing USA. \nThe game features a futuristic representation of San Francisco and an arcade-style physics engine. It also features a multiplayer mode for up to four players and Rumble Pak support on the Nintendo 64 port. A major difference in game play compared to predecessors in the series is the ability to extend wings from the cars in midair and glide. As with previous titles in the franchise, Rush 2049 features a stunt mode in which the player scores points for complex mid-air maneuvers and successful landings. There is also a multiplayer deathmatch battle mode. There are six race tracks, four stunt arenas, eight battle arenas, and one unlockable obstacle course named The Gauntlet. The single player race mode places emphasis on outlandish and death-defying shortcuts in each track. The game has a soundtrack mostly comprising techno music."
+  }
+]

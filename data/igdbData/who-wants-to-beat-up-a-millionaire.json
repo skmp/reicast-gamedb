@@ -1,0 +1,62 @@
+[
+  {
+    "id": 45848,
+    "cover": {
+      "id": 28046,
+      "game": 45848,
+      "height": 855,
+      "image_id": "togi3szuvxebtlbuajnr",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/togi3szuvxebtlbuajnr.jpg",
+      "width": 1023
+    },
+    "first_release_date": 949276800,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 26,
+        "name": "Quiz/Trivia"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 107,
+        "name": "fighting"
+      },
+      {
+        "id": 350,
+        "name": "comedy"
+      },
+      {
+        "id": 772,
+        "name": "game show"
+      },
+      {
+        "id": 2601,
+        "name": "trivia"
+      },
+      {
+        "id": 4139,
+        "name": "trivia/board game"
+      },
+      {
+        "id": 4566,
+        "name": "fist"
+      },
+      {
+        "id": 4719,
+        "name": "game titles that are also questions"
+      },
+      {
+        "id": 6494,
+        "name": "button mashing"
+      }
+    ],
+    "name": "Who Wants To Beat Up A Millionaire",
+    "popularity": 1.0,
+    "slug": "who-wants-to-beat-up-a-millionaire",
+    "summary": "Who Wants to Beat Up a Millionaire? is a video game parody of Who Wants to Be a Millionaire?. It was created by Hypnotixc Inc, and released in 2000 by Simon \u0026 Schuster Interactive for Windows 95, Windows 98, and Sega Dreamcast."
+  }
+]

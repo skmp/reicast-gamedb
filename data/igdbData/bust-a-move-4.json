@@ -1,0 +1,142 @@
+[
+  {
+    "id": 6826,
+    "age_ratings": [
+      {
+        "id": 19719,
+        "rating": 8
+      }
+    ],
+    "cover": {
+      "id": 6992,
+      "game": 6826,
+      "height": 621,
+      "image_id": "ozsx8cykgigebesddkc5",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/ozsx8cykgigebesddkc5.jpg",
+      "width": 640
+    },
+    "first_release_date": 902361600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 4,
+        "name": "pirates"
+      },
+      {
+        "id": 296,
+        "name": "fantasy"
+      },
+      {
+        "id": 969,
+        "name": "arcade"
+      },
+      {
+        "id": 2152,
+        "name": "high score"
+      },
+      {
+        "id": 2875,
+        "name": "puzzle"
+      },
+      {
+        "id": 4108,
+        "name": "move"
+      },
+      {
+        "id": 4286,
+        "name": "character select screen"
+      },
+      {
+        "id": 4372,
+        "name": "psone classics"
+      },
+      {
+        "id": 4467,
+        "name": "block matching"
+      },
+      {
+        "id": 4577,
+        "name": "bubble"
+      },
+      {
+        "id": 4766,
+        "name": "totem pole"
+      },
+      {
+        "id": 5328,
+        "name": "playstation tv support"
+      },
+      {
+        "id": 6061,
+        "name": "e3 2000"
+      },
+      {
+        "id": 6942,
+        "name": "bust"
+      },
+      {
+        "id": 17215,
+        "name": "ps3"
+      },
+      {
+        "id": 17387,
+        "name": "ps"
+      },
+      {
+        "id": 17436,
+        "name": "psvita"
+      },
+      {
+        "id": 18722,
+        "name": "vita,"
+      },
+      {
+        "id": 20444,
+        "name": "psvita,..."
+      },
+      {
+        "id": 22717,
+        "name": "a"
+      }
+    ],
+    "name": "Bust a Move 4",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "popularity": 1.0,
+    "screenshots": [
+      {
+        "id": 5420,
+        "game": 6826,
+        "height": 240,
+        "image_id": "tw8icqb7oigljnnbs4ra",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/tw8icqb7oigljnnbs4ra.jpg",
+        "width": 320
+      }
+    ],
+    "slug": "bust-a-move-4",
+    "summary": "Puzzle Bobble 4 (also known as Bust-a-Move 4 in North America and Europe) is the third sequel to the video game Puzzle Bobble and is the final appearance of the series on the Arcade, PlayStation and Dreamcast. The game is also the final title to be recognizably similar in presentation to the original.\n\nBuilding upon the success of Puzzle Bobble 3, the game adds a pulley system that requires two sets of bubbles, attached to either side of a rope hanging across two pulleys. The game contains a story mode for single player play.\n\nIn total, the game features 640 levels. The console version features a level editor to either create and save a level, set a succession of levels, or to create an unlimited amount of extra levels and stages. It also has an alternative \"story mode\"."
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "id": 4358,
+    "cover": {
+      "id": 4715,
+      "game": 4358,
+      "height": 1410,
+      "image_id": "w2nr1oddubkipizdhucq",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/w2nr1oddubkipizdhucq.jpg",
+      "width": 1411
+    },
+    "first_release_date": 978220800,
+    "keywords": [
+      {
+        "id": 558,
+        "name": "death"
+      },
+      {
+        "id": 3540,
+        "name": "comic book"
+      },
+      {
+        "id": 4142,
+        "name": "licensed game"
+      },
+      {
+        "id": 4310,
+        "name": "games based on comic books"
+      },
+      {
+        "id": 5782,
+        "name": "tie-in"
+      },
+      {
+        "id": 6061,
+        "name": "e3 2000"
+      },
+      {
+        "id": 6852,
+        "name": "superpowers"
+      }
+    ],
+    "name": "Spawn: In the Demon\u0027s Hand",
+    "popularity": 1.422200137348066,
+    "slug": "spawn-in-the-demon-s-hand",
+    "storyline": "Al Simmons was a military operative who was murdered by his superior, Jason Wynn, then sent to Hell for his previous work as an assassin. Five years after his death, Simmons makes a deal with the demon Malebolgia to resurrect him from death as a hellspawn so that he could see his wife, Wanda, again. However, he soon finds out that his wife, in the five years that he was dead, had married his best friend, Terry Fitzgerald.",
+    "summary": "The legendary hellbound comic anti-hero comes to life. Straight from the blockbuster arcade game, this home version kicks it up a notch with ever more features and modes of play. Up to 4 players can battle in the \"death match-style\" Battle Royal Mode or choose a computer controlled teammate to take on Team Battle Mode. All your favorite characters from the Spawn series are faithfully recreated in the ultimate death match challenge."
+  }
+]

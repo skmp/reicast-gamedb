@@ -1,0 +1,122 @@
+[
+  {
+    "view": "game",
+    "layout": "game",
+    "author": "reicast",
+    "created_at": "2018-03-25 09:00",
+    "updated_at": "2019-05-02 09:00",
+    "id": "donald-duck-goin-quackers",
+    "title": "Donald Duck - Goin' Quackers",
+    "gamedb-issue": 0,
+    "releases": [
+      {
+        "id": "4AA0",
+        "region": "US",
+        "version": "1.001",
+        "discs": 1,
+        "medium": "gdrom"
+      }
+    ],
+    "test-videos": [
+      {
+        "fingerprint": "4AA0 GD-ROM1/1 US",
+        "title": "Intro auto run",
+        "hw": "i7 2720qm, GeForce 540M",
+        "yt": "sQcCkG-xs7o",
+        "git": "d59197f84353d7d2b746383e9277d9ed7c8c4053",
+        "platform": "win86-release"
+      }
+    ],
+    "gotIGDBGame": 1,
+    "idIGDB": 10610,
+    "age_ratings": [
+      {
+        "id": 22964,
+        "rating": 8
+      },
+      {
+        "id": 22965,
+        "rating": 1
+      }
+    ],
+    "cover": [
+      {
+        "id": 67658,
+        "game": 10610,
+        "height": 1119,
+        "image_id": "msskgleyebdyhrpkinfe",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/msskgleyebdyhrpkinfe.jpg",
+        "width": 800
+      }
+    ],
+    "first_release_date": 978220800,
+    "game_modes": [
+      "Single player"
+    ],
+    "categories": [
+      "Platform"
+    ],
+    "tags": [
+      "disney",
+      "dupe",
+      "platformer",
+      "donald duck"
+    ],
+    "name": "Donald Duck: Goin' Quackers",
+    "player_perspectives": [
+      "Third person"
+    ],
+    "popularity": 1.652434739386045,
+    "screenshots": [
+      {
+        "id": 239653,
+        "game": 10610,
+        "height": 696,
+        "image_id": "eadfldekpf2v3y7nns4z",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/eadfldekpf2v3y7nns4z.jpg",
+        "width": 720
+      },
+      {
+        "id": 239654,
+        "game": 10610,
+        "height": 1119,
+        "image_id": "tkfijlar4mluq4j7zqb2",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/tkfijlar4mluq4j7zqb2.jpg",
+        "width": 800
+      },
+      {
+        "id": 239655,
+        "game": 10610,
+        "height": 600,
+        "image_id": "chwtptwmsbq4i16c0g6q",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/chwtptwmsbq4i16c0g6q.jpg",
+        "width": 800
+      },
+      {
+        "id": 239656,
+        "game": 10610,
+        "height": 1080,
+        "image_id": "ohvmtlkwe71s1x3vyuy0",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ohvmtlkwe71s1x3vyuy0.jpg",
+        "width": 1920
+      }
+    ],
+    "slug": "donald-duck-goin-quackers",
+    "summary": "Donald Duck: Goin' Qu@ckers*, known as Donald Duck: Qu@ck Att@ck in Europe, is a platform game developed by Ubisoft Montreal and published by Disney Interactive for various consoles and Windows-based personal computers. A completely different game with the same title was released for the Game Boy Color, as well as on Game Boy Advance, the latter being given the title Donald Duck Advance. \nGameplay is similar to Crash Bandicoot. The levels alternate between a 2D and a 3D perspective. The story focuses on Donald Duck and his quest to save Daisy Duck from the evil magician Merlock. \nThe game's reception has been mixed to positive, with reviewers praising the music, backgrounds, and animations, but criticizing the short length and the fact that it is mostly for the younger audience.",
+    "videos": [
+      {
+        "id": 21525,
+        "game": 10610,
+        "name": "Gameplay video",
+        "video_id": "zg72SrX3LOU"
+      },
+      {
+        "id": 21526,
+        "game": 10610,
+        "name": "Trailer",
+        "video_id": "yRDhBh-gtMo"
+      }
+    ]
+  },
+  null
+]

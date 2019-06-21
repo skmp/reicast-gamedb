@@ -1,0 +1,224 @@
+[
+  {
+    "id": 39605,
+    "age_ratings": [
+      {
+        "id": 18515,
+        "rating": 10
+      }
+    ],
+    "cover": {
+      "id": 25343,
+      "game": 39605,
+      "height": 832,
+      "image_id": "g0raienri70f3igrbqgy",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/g0raienri70f3igrbqgy.jpg",
+      "width": 928
+    },
+    "first_release_date": 944006400,
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 1,
+        "name": "modern warfare"
+      },
+      {
+        "id": 167,
+        "name": "mech"
+      },
+      {
+        "id": 453,
+        "name": "first person shooter"
+      },
+      {
+        "id": 575,
+        "name": "robots"
+      },
+      {
+        "id": 879,
+        "name": "counter-terrorists"
+      },
+      {
+        "id": 1025,
+        "name": "shooter"
+      },
+      {
+        "id": 1333,
+        "name": "online"
+      },
+      {
+        "id": 1898,
+        "name": "easter egg"
+      },
+      {
+        "id": 2152,
+        "name": "high score"
+      },
+      {
+        "id": 3270,
+        "name": "flamethrower"
+      },
+      {
+        "id": 3831,
+        "name": "explosion"
+      },
+      {
+        "id": 4161,
+        "name": "jump"
+      },
+      {
+        "id": 4215,
+        "name": "challenges"
+      },
+      {
+        "id": 4259,
+        "name": "modern military"
+      },
+      {
+        "id": 4286,
+        "name": "character select screen"
+      },
+      {
+        "id": 4330,
+        "name": "first-person perspective"
+      },
+      {
+        "id": 4359,
+        "name": "polygonal 3d"
+      },
+      {
+        "id": 4438,
+        "name": "motion control"
+      },
+      {
+        "id": 4514,
+        "name": "full motion video"
+      },
+      {
+        "id": 4525,
+        "name": "third-person perspective"
+      },
+      {
+        "id": 4571,
+        "name": "shotgun"
+      },
+      {
+        "id": 4697,
+        "name": "lightning"
+      },
+      {
+        "id": 4712,
+        "name": "assault rifle"
+      },
+      {
+        "id": 4885,
+        "name": "auto-aim"
+      },
+      {
+        "id": 4910,
+        "name": "heads up display"
+      },
+      {
+        "id": 4980,
+        "name": "baton"
+      },
+      {
+        "id": 5029,
+        "name": "difficulty level"
+      },
+      {
+        "id": 5309,
+        "name": "reloading"
+      },
+      {
+        "id": 5350,
+        "name": "sniper rifle"
+      },
+      {
+        "id": 5466,
+        "name": "terrorists"
+      },
+      {
+        "id": 6495,
+        "name": "body armor"
+      },
+      {
+        "id": 6589,
+        "name": "rifle"
+      },
+      {
+        "id": 6590,
+        "name": "ballistic vest"
+      },
+      {
+        "id": 6887,
+        "name": "railgun"
+      },
+      {
+        "id": 7026,
+        "name": "bots"
+      },
+      {
+        "id": 7038,
+        "name": "headshot"
+      },
+      {
+        "id": 8958,
+        "name": "strafing"
+      },
+      {
+        "id": 9630,
+        "name": "keyboard and mouse support for consoles"
+      },
+      {
+        "id": 9696,
+        "name": "plasma cannon"
+      },
+      {
+        "id": 11312,
+        "name": "no blood"
+      }
+    ],
+    "name": "OutTrigger",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.0,
+    "slug": "outtrigger",
+    "summary": "You might be good enough to join Interforce, a private enterprise formed to fight terrorism, but to lead the team, you\u0027ll have to prove you\u0027re better than the other members. Outtrigger is a combat game that features both first- and third-person perspectives, and while it comes with a batch of single-player scenario missions, the game favors multiplayer mayhem. A split-screen mode for up to four players allows friends to compete in-house, and online cooperative play lets you form teams over the Internet. Settings include castle ruins, an observatory, abandoned train stations, and more. The game\u0027s cache of weapons includes flamethrowers, photon torpedoes, and rocket launchers, to name a few.",
+    "videos": [
+      {
+        "id": 20347,
+        "game": 39605,
+        "name": "Gameplay video",
+        "video_id": "qhVq0kAxppM"
+      }
+    ]
+  }
+]

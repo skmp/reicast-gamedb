@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1806,
+    "age_ratings": [
+      {
+        "id": 18270,
+        "rating": 10
+      }
+    ],
+    "cover": {
+      "id": 1821,
+      "game": 1806,
+      "height": 1414,
+      "image_id": "vn8x4pesgqrq8szsch0g",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/vn8x4pesgqrq8szsch0g.jpg",
+      "width": 1422
+    },
+    "first_release_date": 991008000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 121,
+        "name": "sandbox"
+      },
+      {
+        "id": 274,
+        "name": "minigames"
+      },
+      {
+        "id": 350,
+        "name": "comedy"
+      },
+      {
+        "id": 401,
+        "name": "burnout"
+      },
+      {
+        "id": 872,
+        "name": "shadow"
+      },
+      {
+        "id": 1403,
+        "name": "building"
+      },
+      {
+        "id": 1459,
+        "name": "open-world"
+      },
+      {
+        "id": 1599,
+        "name": "bus"
+      },
+      {
+        "id": 1783,
+        "name": "car"
+      },
+      {
+        "id": 2071,
+        "name": "sequel"
+      },
+      {
+        "id": 2152,
+        "name": "high score"
+      },
+      {
+        "id": 3425,
+        "name": "driving-simulator"
+      },
+      {
+        "id": 4144,
+        "name": "power up"
+      },
+      {
+        "id": 4157,
+        "name": "driving/racing"
+      },
+      {
+        "id": 4161,
+        "name": "jump"
+      },
+      {
+        "id": 4164,
+        "name": "bonus stage"
+      },
+      {
+        "id": 4205,
+        "name": "motorsports"
+      },
+      {
+        "id": 4213,
+        "name": "countdown timer"
+      },
+      {
+        "id": 4282,
+        "name": "60 fps on consoles"
+      },
+      {
+        "id": 4286,
+        "name": "character select screen"
+      },
+      {
+        "id": 4294,
+        "name": "game title announcer"
+      },
+      {
+        "id": 4544,
+        "name": "unlockables"
+      },
+      {
+        "id": 4652,
+        "name": "van"
+      },
+      {
+        "id": 4831,
+        "name": "street light"
+      },
+      {
+        "id": 5042,
+        "name": "s-rank"
+      },
+      {
+        "id": 5045,
+        "name": "taxi cab"
+      },
+      {
+        "id": 5287,
+        "name": "rock music"
+      },
+      {
+        "id": 5402,
+        "name": "stop sign"
+      },
+      {
+        "id": 5507,
+        "name": "wheel"
+      },
+      {
+        "id": 6083,
+        "name": "super speed"
+      },
+      {
+        "id": 7070,
+        "name": "arcade driving physics"
+      },
+      {
+        "id": 7593,
+        "name": "trilogy"
+      },
+      {
+        "id": 10709,
+        "name": "hawaiian shirt"
+      },
+      {
+        "id": 11109,
+        "name": "traffic course"
+      },
+      {
+        "id": 12231,
+        "name": "wheelman"
+      }
+    ],
+    "name": "Crazy Taxi 2",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.0,
+    "slug": "crazy-taxi-2",
+    "summary": "Much like the original, the core gameplay in Crazy Taxi 2 centers around picking people up at destinations which are highlighted with colored rings, and dropping them off at stated destinations. \n \nCrazy Taxi 2 added multiple pickups, which enabled the player to carry multiple passengers, (previously it was restricted to one passenger per journey). The game also saw the introduction of the \"Crazy Hop\" feature, which allows the player to jump over certain surfaces to save time, as they taxi passengers around the locations. By performing moves such as the \"Crazy Hop\" and the \"Crazy Dash\", the driver accumulates tips from their passengers, which increases the total score. \n \nThis sequel includes a modified soundtrack with rock bands The Offspring and Methods of Mayhem. The game also has some online modes in the form of a scoreboard, and replay-sharing.",
+    "videos": [
+      {
+        "id": 20320,
+        "game": 1806,
+        "name": "Gameplay video",
+        "video_id": "w1drRBR0Mt4"
+      }
+    ]
+  }
+]

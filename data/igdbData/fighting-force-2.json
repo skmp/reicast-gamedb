@@ -1,0 +1,324 @@
+[
+  {
+    "id": 11615,
+    "age_ratings": [
+      {
+        "id": 18220,
+        "rating": 10
+      }
+    ],
+    "cover": {
+      "id": 10936,
+      "game": 11615,
+      "height": 256,
+      "image_id": "bbdm7wkpenv4ybvfbgmx",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/bbdm7wkpenv4ybvfbgmx.jpg",
+      "width": 256
+    },
+    "first_release_date": 943920000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 129,
+        "name": "blood"
+      },
+      {
+        "id": 301,
+        "name": "health"
+      },
+      {
+        "id": 558,
+        "name": "death"
+      },
+      {
+        "id": 563,
+        "name": "military"
+      },
+      {
+        "id": 575,
+        "name": "robots"
+      },
+      {
+        "id": 594,
+        "name": "fire"
+      },
+      {
+        "id": 1027,
+        "name": "adventure"
+      },
+      {
+        "id": 1097,
+        "name": "cyborg"
+      },
+      {
+        "id": 1289,
+        "name": "backtracking"
+      },
+      {
+        "id": 1322,
+        "name": "mutants"
+      },
+      {
+        "id": 1423,
+        "name": "hacking"
+      },
+      {
+        "id": 1821,
+        "name": "tank"
+      },
+      {
+        "id": 2071,
+        "name": "sequel"
+      },
+      {
+        "id": 2679,
+        "name": "katana"
+      },
+      {
+        "id": 3270,
+        "name": "flamethrower"
+      },
+      {
+        "id": 3831,
+        "name": "explosion"
+      },
+      {
+        "id": 3833,
+        "name": "bosses"
+      },
+      {
+        "id": 4161,
+        "name": "jump"
+      },
+      {
+        "id": 4183,
+        "name": "crate"
+      },
+      {
+        "id": 4246,
+        "name": "bullet"
+      },
+      {
+        "id": 4317,
+        "name": "ladder"
+      },
+      {
+        "id": 4359,
+        "name": "polygonal 3d"
+      },
+      {
+        "id": 4391,
+        "name": "turret"
+      },
+      {
+        "id": 4414,
+        "name": "computer"
+      },
+      {
+        "id": 4415,
+        "name": "scythe"
+      },
+      {
+        "id": 4418,
+        "name": "door"
+      },
+      {
+        "id": 4446,
+        "name": "gun"
+      },
+      {
+        "id": 4508,
+        "name": "knife"
+      },
+      {
+        "id": 4566,
+        "name": "fist"
+      },
+      {
+        "id": 4571,
+        "name": "shotgun"
+      },
+      {
+        "id": 4572,
+        "name": "rocket launcher"
+      },
+      {
+        "id": 4611,
+        "name": "cutscene"
+      },
+      {
+        "id": 4612,
+        "name": "the locked door"
+      },
+      {
+        "id": 4626,
+        "name": "elevator"
+      },
+      {
+        "id": 4660,
+        "name": "pistol"
+      },
+      {
+        "id": 4712,
+        "name": "assault rifle"
+      },
+      {
+        "id": 4727,
+        "name": "key"
+      },
+      {
+        "id": 4730,
+        "name": "sniping"
+      },
+      {
+        "id": 4778,
+        "name": "exit door"
+      },
+      {
+        "id": 4819,
+        "name": "lead pipe"
+      },
+      {
+        "id": 4891,
+        "name": "melee"
+      },
+      {
+        "id": 4980,
+        "name": "baton"
+      },
+      {
+        "id": 4991,
+        "name": "secret area"
+      },
+      {
+        "id": 5116,
+        "name": "laser"
+      },
+      {
+        "id": 5264,
+        "name": "vending machine"
+      },
+      {
+        "id": 5350,
+        "name": "sniper rifle"
+      },
+      {
+        "id": 5420,
+        "name": "television"
+      },
+      {
+        "id": 5554,
+        "name": "glass"
+      },
+      {
+        "id": 5664,
+        "name": "oil drum"
+      },
+      {
+        "id": 5731,
+        "name": "clone"
+      },
+      {
+        "id": 5740,
+        "name": "keycard"
+      },
+      {
+        "id": 5775,
+        "name": "grenade"
+      },
+      {
+        "id": 5794,
+        "name": "crossbow"
+      },
+      {
+        "id": 5926,
+        "name": "fire axe"
+      },
+      {
+        "id": 5966,
+        "name": "boss pattern"
+      },
+      {
+        "id": 6078,
+        "name": "explosions on the cover"
+      },
+      {
+        "id": 6261,
+        "name": "locker"
+      },
+      {
+        "id": 6397,
+        "name": "grenade launcher"
+      },
+      {
+        "id": 6398,
+        "name": "sledgehammer"
+      },
+      {
+        "id": 7280,
+        "name": "continue"
+      },
+      {
+        "id": 7405,
+        "name": "ammo"
+      },
+      {
+        "id": 8130,
+        "name": "uzi"
+      },
+      {
+        "id": 8958,
+        "name": "strafing"
+      },
+      {
+        "id": 13119,
+        "name": "e3 1999"
+      },
+      {
+        "id": 13919,
+        "name": "artificial life"
+      },
+      {
+        "id": 13951,
+        "name": "playstation underground"
+      }
+    ],
+    "name": "Fighting Force 2",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.636240014073141,
+    "slug": "fighting-force-2",
+    "summary": "Fighting Force 2 is the sequel to 1997\u0027s original Fighting Force, which was one of the first 3D takes on the 2D Beat \u0027em up genre. The game was released for the PlayStation and Dreamcast and was developed by Core Design and published by Eidos Interactive. It was released in North America on 30 November 1999."
+  }
+]

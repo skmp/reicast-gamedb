@@ -1,0 +1,495 @@
+[
+  {
+    "id": 843,
+    "age_ratings": [
+      {
+        "id": 11930,
+        "rating": 8
+      },
+      {
+        "id": 11931,
+        "rating": 1
+      }
+    ],
+    "aggregated_rating": 90.0,
+    "aggregated_rating_count": 1,
+    "cover": {
+      "id": 70614,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 843,
+      "height": 1200,
+      "image_id": "co1ihi",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1ihi.jpg",
+      "width": 1051
+    },
+    "first_release_date": 941155200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 132,
+        "name": "stealth"
+      },
+      {
+        "id": 226,
+        "name": "magic"
+      },
+      {
+        "id": 274,
+        "name": "minigames"
+      },
+      {
+        "id": 296,
+        "name": "fantasy"
+      },
+      {
+        "id": 301,
+        "name": "health"
+      },
+      {
+        "id": 350,
+        "name": "comedy"
+      },
+      {
+        "id": 394,
+        "name": "mascot"
+      },
+      {
+        "id": 992,
+        "name": "flight"
+      },
+      {
+        "id": 1019,
+        "name": "bridge"
+      },
+      {
+        "id": 1098,
+        "name": "water"
+      },
+      {
+        "id": 1181,
+        "name": "fairy"
+      },
+      {
+        "id": 1186,
+        "name": "multiple protagonists"
+      },
+      {
+        "id": 1289,
+        "name": "backtracking"
+      },
+      {
+        "id": 1478,
+        "name": "on-rails"
+      },
+      {
+        "id": 1640,
+        "name": "space pirate"
+      },
+      {
+        "id": 1739,
+        "name": "missile"
+      },
+      {
+        "id": 1898,
+        "name": "easter egg"
+      },
+      {
+        "id": 2049,
+        "name": "platformer"
+      },
+      {
+        "id": 2071,
+        "name": "sequel"
+      },
+      {
+        "id": 2109,
+        "name": "level selection"
+      },
+      {
+        "id": 2280,
+        "name": "climbing"
+      },
+      {
+        "id": 2324,
+        "name": "swimming"
+      },
+      {
+        "id": 3037,
+        "name": "golem"
+      },
+      {
+        "id": 3061,
+        "name": "switch"
+      },
+      {
+        "id": 3486,
+        "name": "boss fight"
+      },
+      {
+        "id": 3833,
+        "name": "bosses"
+      },
+      {
+        "id": 4161,
+        "name": "jump"
+      },
+      {
+        "id": 4164,
+        "name": "bonus stage"
+      },
+      {
+        "id": 4178,
+        "name": "options menu"
+      },
+      {
+        "id": 4183,
+        "name": "crate"
+      },
+      {
+        "id": 4189,
+        "name": "vine"
+      },
+      {
+        "id": 4235,
+        "name": "spider"
+      },
+      {
+        "id": 4282,
+        "name": "60 fps on consoles"
+      },
+      {
+        "id": 4287,
+        "name": "voice acting"
+      },
+      {
+        "id": 4297,
+        "name": "protagonist\u0027s name in the title"
+      },
+      {
+        "id": 4317,
+        "name": "ladder"
+      },
+      {
+        "id": 4320,
+        "name": "fish"
+      },
+      {
+        "id": 4347,
+        "name": "language selection"
+      },
+      {
+        "id": 4359,
+        "name": "polygonal 3d"
+      },
+      {
+        "id": 4372,
+        "name": "psone classics"
+      },
+      {
+        "id": 4386,
+        "name": "double jump"
+      },
+      {
+        "id": 4396,
+        "name": "damsel in distress"
+      },
+      {
+        "id": 4397,
+        "name": "upgradeable weapons"
+      },
+      {
+        "id": 4482,
+        "name": "lily pad"
+      },
+      {
+        "id": 4484,
+        "name": "collectibles"
+      },
+      {
+        "id": 4493,
+        "name": "sequel is in a different genre"
+      },
+      {
+        "id": 4523,
+        "name": "launch titles"
+      },
+      {
+        "id": 4565,
+        "name": "pirate ship"
+      },
+      {
+        "id": 4576,
+        "name": "loading screens"
+      },
+      {
+        "id": 4611,
+        "name": "cutscene"
+      },
+      {
+        "id": 4625,
+        "name": "table"
+      },
+      {
+        "id": 4633,
+        "name": "warning sign"
+      },
+      {
+        "id": 4694,
+        "name": "lava"
+      },
+      {
+        "id": 4760,
+        "name": "ice stage"
+      },
+      {
+        "id": 4880,
+        "name": "barrel"
+      },
+      {
+        "id": 4896,
+        "name": "subtitles"
+      },
+      {
+        "id": 4910,
+        "name": "heads up display"
+      },
+      {
+        "id": 4918,
+        "name": "real-time combat"
+      },
+      {
+        "id": 4940,
+        "name": "underwater gameplay"
+      },
+      {
+        "id": 5032,
+        "name": "mini-boss"
+      },
+      {
+        "id": 5193,
+        "name": "hub world"
+      },
+      {
+        "id": 5208,
+        "name": "lives"
+      },
+      {
+        "id": 5323,
+        "name": "mercenary"
+      },
+      {
+        "id": 5328,
+        "name": "playstation tv support"
+      },
+      {
+        "id": 5441,
+        "name": "moving platforms"
+      },
+      {
+        "id": 5445,
+        "name": "icicle"
+      },
+      {
+        "id": 5465,
+        "name": "cage"
+      },
+      {
+        "id": 5672,
+        "name": "sidekick"
+      },
+      {
+        "id": 5721,
+        "name": "charge"
+      },
+      {
+        "id": 5801,
+        "name": "temporary invincibility"
+      },
+      {
+        "id": 5839,
+        "name": "slope sliding"
+      },
+      {
+        "id": 5940,
+        "name": "swinging"
+      },
+      {
+        "id": 6007,
+        "name": "unskippable cutscene"
+      },
+      {
+        "id": 6061,
+        "name": "e3 2000"
+      },
+      {
+        "id": 6128,
+        "name": "breath meter"
+      },
+      {
+        "id": 6145,
+        "name": "gliding"
+      },
+      {
+        "id": 6318,
+        "name": "idle animations"
+      },
+      {
+        "id": 6382,
+        "name": "ledge grab"
+      },
+      {
+        "id": 6582,
+        "name": "lock on"
+      },
+      {
+        "id": 6778,
+        "name": "whale"
+      },
+      {
+        "id": 6843,
+        "name": "more than two eyes"
+      },
+      {
+        "id": 7593,
+        "name": "trilogy"
+      },
+      {
+        "id": 7627,
+        "name": "sealing your own fate"
+      },
+      {
+        "id": 7649,
+        "name": "second-person perspective"
+      },
+      {
+        "id": 8953,
+        "name": "teensies"
+      },
+      {
+        "id": 9339,
+        "name": "dark second act"
+      },
+      {
+        "id": 9494,
+        "name": "lack of visible body parts"
+      },
+      {
+        "id": 9529,
+        "name": "greatest hits"
+      },
+      {
+        "id": 9551,
+        "name": "edge wobble"
+      },
+      {
+        "id": 9599,
+        "name": "disembodiment"
+      },
+      {
+        "id": 9893,
+        "name": "ps2 classics"
+      },
+      {
+        "id": 9935,
+        "name": "gibberish"
+      },
+      {
+        "id": 10044,
+        "name": "lums"
+      },
+      {
+        "id": 10343,
+        "name": "plum"
+      },
+      {
+        "id": 11080,
+        "name": "leaping fish"
+      },
+      {
+        "id": 13119,
+        "name": "e3 1999"
+      },
+      {
+        "id": 13120,
+        "name": "e3 1998"
+      },
+      {
+        "id": 13314,
+        "name": "robot pirate"
+      },
+      {
+        "id": 14114,
+        "name": "color cartridges"
+      }
+    ],
+    "name": "Rayman 2: The Great Escape",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 4.181200070365707,
+    "screenshots": [
+      {
+        "id": 40692,
+        "game": 843,
+        "height": 443,
+        "image_id": "tfsd0jextrgamwam6uic",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/tfsd0jextrgamwam6uic.jpg",
+        "width": 710
+      },
+      {
+        "id": 40693,
+        "game": 843,
+        "height": 443,
+        "image_id": "ubysryri3h4ve9gtlqde",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ubysryri3h4ve9gtlqde.jpg",
+        "width": 710
+      },
+      {
+        "id": 40694,
+        "game": 843,
+        "height": 443,
+        "image_id": "rchshoav4tqwwhq6wxei",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rchshoav4tqwwhq6wxei.jpg",
+        "width": 710
+      },
+      {
+        "id": 40695,
+        "game": 843,
+        "height": 443,
+        "image_id": "p5f6jjdumqgwkdczoqgv",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/p5f6jjdumqgwkdczoqgv.jpg",
+        "width": 710
+      }
+    ],
+    "slug": "rayman-2-the-great-escape",
+    "storyline": "Rayman 2 takes place in a world called the Glade of Dreams. An army of Robot Pirates, led by Admiral Razorbeard, invades this world and destroys the Heart of the World, the world core. This greatly weakens the resistance\u0027s power and disables Rayman\u0027s powers, leading to his capture.[9] \n \nGlobox, a friend of Rayman, is later also captured and put in the same cell as Rayman aboard the Pirates\u0027 prison ship. Globox gives Rayman a silver lum given to him by Ly the fairy, which restores his powers. Rayman escapes the prison ship, and is separated from Globox again. He learns that to stand a chance against the Pirates, he needs to find four ancient magic masks to awaken Polokus, the spirit of the world, hidden in secret and mysterious sanctuaries consisting of the four elements water/ice, earth/stone, fire, and air.[10] He travels through the Glade of Dreams via the Hall of Doors, a magical place linked to various locations in the world, controlled by the ancient Teensies.[10] \n \nIn the course of the game, Rayman frees Globox who had been captured again, and they continue together for a short while until Globox departs again to go find his family. Later, Rayman finds Globox\u0027s wife Uglette and learns that he has been imprisoned on the Prison Ship. Rayman also encounters his friend Clark, a strongman who has stomach problems due to eating rusty pirates; to continue through the level, Rayman has to cure Clark by means of an elixir. \n \nEventually, Rayman recovers the four masks and awakens Polokus, who makes quick work of the pirates on land. In the air however, he has no power, and Rayman is tasked to dispose of the Pirates\u0027 flying Prison Ship, where Admiral Razorbeard also has his headquarters. In a final battle Rayman fights Razorbeard, who is controlling a giant robot, the Grolgoth. Eventually Rayman destroys the robot and while Razorbeard escapes in a small escape pod, the Prison Ship explodes. Rayman is presumed dead and only one of his shoes is found, but during his funeral, he appears again, walking on a crutch.",
+    "summary": "With its enchanted storybook look beautifully translated into 3D, lush, vibrant colors, funny enemy designs, and clever jumping puzzles, Rayman 2 is platforming perfection. Michel Ancel\u0027s platformer shines the brightest on Dreamcast, but every version is a charm. No arms, no legs, no problem for the little French creation that could.",
+    "videos": [
+      {
+        "id": 12933,
+        "game": 843,
+        "name": "Gameplay video",
+        "video_id": "7AGhi-s2zD8"
+      }
+    ]
+  }
+]

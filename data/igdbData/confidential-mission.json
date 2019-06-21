@@ -1,0 +1,56 @@
+[
+  {
+    "id": 6726,
+    "age_ratings": [
+      {
+        "id": 13609,
+        "rating": 10
+      }
+    ],
+    "aggregated_rating": 60.0,
+    "aggregated_rating_count": 1,
+    "cover": {
+      "id": 64648,
+      "game": 6726,
+      "height": 500,
+      "image_id": "zvdgdlc2gyjhvd1famrl",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/zvdgdlc2gyjhvd1famrl.jpg",
+      "width": 497
+    },
+    "first_release_date": 989798400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 730,
+        "name": "lightgun"
+      },
+      {
+        "id": 1784,
+        "name": "light gun"
+      },
+      {
+        "id": 4646,
+        "name": "light-gun shooter"
+      }
+    ],
+    "name": "Confidential Mission",
+    "popularity": 1.424160009382094,
+    "slug": "confidential-mission",
+    "summary": "Confidential Mission is a light-gun compatible shooting game most easily likened to Sega\u0027s Virtua Cop series. You play as either Howard Gibson or Jean Clifford, both super-agents a la James Bond, and you are taken through scenarios shooting enemies and attempting to avoid civilian casualties."
+  }
+]

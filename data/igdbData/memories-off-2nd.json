@@ -1,0 +1,33 @@
+[
+  {
+    "id": 78209,
+    "cover": {
+      "id": 56555,
+      "game": 78209,
+      "height": 256,
+      "image_id": "sgry6wnyj61js9ge0pai",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/sgry6wnyj61js9ge0pai.jpg",
+      "width": 256
+    },
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 78,
+        "name": "anime"
+      },
+      {
+        "id": 8983,
+        "name": "tragic hero"
+      }
+    ],
+    "name": "Memories Off 2nd",
+    "popularity": 1.0,
+    "slug": "memories-off-2nd",
+    "summary": "The 2001 sequel to Memories Off continues the interactive romance visual novel saga."
+  }
+]

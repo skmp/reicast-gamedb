@@ -1,0 +1,21 @@
+export const validCategories = [
+  'Racing',
+  'Sport',
+  'Simulator',
+  'Shooter',
+  'Puzzle',
+  'Adventure',
+  'Role-playing (RPG)',
+  'Platform',
+  'Quiz/Trivia',
+  'Arcade',
+  'Indie',
+  'Strategy',
+  'Fighting',
+  'Turn-based strategy (TBS)',
+  'Real Time Strategy (RTS)',
+  "Hack and slash/Beat 'em up",
+  'Tactical',
+  'Pinball',
+  'Music'
+]

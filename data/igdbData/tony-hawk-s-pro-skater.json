@@ -1,0 +1,170 @@
+[
+  {
+    "id": 6692,
+    "age_ratings": [
+      {
+        "id": 3839,
+        "rating": 10
+      }
+    ],
+    "aggregated_rating": 70.0,
+    "aggregated_rating_count": 1,
+    "cover": {
+      "id": 6833,
+      "game": 6692,
+      "height": 497,
+      "image_id": "disoclir8rdecoj8sdxm",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/disoclir8rdecoj8sdxm.jpg",
+      "width": 420
+    },
+    "first_release_date": 951782400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 50,
+        "name": "skateboard"
+      },
+      {
+        "id": 1299,
+        "name": "time limit"
+      },
+      {
+        "id": 2152,
+        "name": "high score"
+      },
+      {
+        "id": 2913,
+        "name": "skateboarding"
+      },
+      {
+        "id": 4161,
+        "name": "jump"
+      },
+      {
+        "id": 4452,
+        "name": "licensed soundtrack"
+      },
+      {
+        "id": 4501,
+        "name": "ramp"
+      },
+      {
+        "id": 4544,
+        "name": "unlockables"
+      },
+      {
+        "id": 4557,
+        "name": "skateboarders"
+      },
+      {
+        "id": 4920,
+        "name": "pants"
+      },
+      {
+        "id": 4981,
+        "name": "videotape"
+      },
+      {
+        "id": 5045,
+        "name": "taxi cab"
+      },
+      {
+        "id": 5634,
+        "name": "shoes"
+      },
+      {
+        "id": 6187,
+        "name": "tricks"
+      },
+      {
+        "id": 6487,
+        "name": "grind"
+      },
+      {
+        "id": 6890,
+        "name": "swimming pool"
+      },
+      {
+        "id": 7123,
+        "name": "hand rail"
+      },
+      {
+        "id": 8258,
+        "name": "half-pipe"
+      },
+      {
+        "id": 10539,
+        "name": "360 flip"
+      },
+      {
+        "id": 11602,
+        "name": "balance indicator"
+      }
+    ],
+    "name": "Tony Hawk\u0027s Pro Skater",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 5.662565194726997,
+    "screenshots": [
+      {
+        "id": 297618,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 6692,
+        "height": 480,
+        "image_id": "sc6dn6",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc6dn6.jpg",
+        "width": 640
+      },
+      {
+        "id": 297619,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 6692,
+        "height": 480,
+        "image_id": "sc6dn7",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc6dn7.jpg",
+        "width": 640
+      },
+      {
+        "id": 297620,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 6692,
+        "height": 480,
+        "image_id": "sc6dn8",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc6dn8.jpg",
+        "width": 640
+      }
+    ],
+    "slug": "tony-hawk-s-pro-skater",
+    "summary": "Take control of real skaters and perform strings of crazy tricks in the first entry of the long-running Tony Hawk skateboarding series.",
+    "videos": [
+      {
+        "id": 2371,
+        "game": 6692,
+        "name": "Game intro",
+        "video_id": "HrahuUBDQG0"
+      }
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "id": 56453,
+    "cover": {
+      "id": 31849,
+      "game": 56453,
+      "height": 700,
+      "image_id": "jor5hjidx2ccnhom7t1r",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/jor5hjidx2ccnhom7t1r.jpg",
+      "width": 700
+    },
+    "keywords": [
+      {
+        "id": 444,
+        "name": "jet"
+      },
+      {
+        "id": 960,
+        "name": "compilation"
+      },
+      {
+        "id": 1783,
+        "name": "car"
+      }
+    ],
+    "name": "Yu Suzuki Game Works Vol. 1",
+    "popularity": 1.0,
+    "slug": "yu-suzuki-game-works-vol-1",
+    "summary": "A collection of five classic arcade games designed by Yu Suzuki."
+  }
+]

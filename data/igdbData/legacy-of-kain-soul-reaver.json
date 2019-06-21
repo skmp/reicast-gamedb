@@ -1,0 +1,403 @@
+[
+  {
+    "id": 4122,
+    "age_ratings": [
+      {
+        "id": 2208,
+        "rating": 11
+      },
+      {
+        "id": 5235,
+        "rating": 4
+      }
+    ],
+    "cover": {
+      "id": 68212,
+      "game": 4122,
+      "height": 1440,
+      "image_id": "hj5baokftij9s54aojon",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/hj5baokftij9s54aojon.jpg",
+      "width": 1157
+    },
+    "first_release_date": 934761600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 69,
+        "name": "post-apocalyptic"
+      },
+      {
+        "id": 129,
+        "name": "blood"
+      },
+      {
+        "id": 170,
+        "name": "time travel"
+      },
+      {
+        "id": 176,
+        "name": "souls"
+      },
+      {
+        "id": 203,
+        "name": "puzzle solving"
+      },
+      {
+        "id": 205,
+        "name": "immortality"
+      },
+      {
+        "id": 211,
+        "name": "vampire"
+      },
+      {
+        "id": 227,
+        "name": "sword"
+      },
+      {
+        "id": 296,
+        "name": "fantasy"
+      },
+      {
+        "id": 423,
+        "name": "gothic"
+      },
+      {
+        "id": 558,
+        "name": "death"
+      },
+      {
+        "id": 1033,
+        "name": "action-adventure"
+      },
+      {
+        "id": 1120,
+        "name": "horror"
+      },
+      {
+        "id": 1158,
+        "name": "steam"
+      },
+      {
+        "id": 1707,
+        "name": "time machine"
+      },
+      {
+        "id": 1881,
+        "name": "amnesia"
+      },
+      {
+        "id": 1986,
+        "name": "teleportation"
+      },
+      {
+        "id": 2561,
+        "name": "spear"
+      },
+      {
+        "id": 2910,
+        "name": "fog of war"
+      },
+      {
+        "id": 3297,
+        "name": "spikes"
+      },
+      {
+        "id": 3486,
+        "name": "boss fight"
+      },
+      {
+        "id": 3833,
+        "name": "bosses"
+      },
+      {
+        "id": 4031,
+        "name": "block puzzle"
+      },
+      {
+        "id": 4134,
+        "name": "digital distribution"
+      },
+      {
+        "id": 4183,
+        "name": "crate"
+      },
+      {
+        "id": 4287,
+        "name": "voice acting"
+      },
+      {
+        "id": 4359,
+        "name": "polygonal 3d"
+      },
+      {
+        "id": 4372,
+        "name": "psone classics"
+      },
+      {
+        "id": 4611,
+        "name": "cutscene"
+      },
+      {
+        "id": 4726,
+        "name": "playstation plus"
+      },
+      {
+        "id": 4806,
+        "name": "symbiote"
+      },
+      {
+        "id": 4848,
+        "name": "torch"
+      },
+      {
+        "id": 4866,
+        "name": "slashing weapons"
+      },
+      {
+        "id": 4877,
+        "name": "titular antagonist"
+      },
+      {
+        "id": 4958,
+        "name": "game over"
+      },
+      {
+        "id": 4998,
+        "name": "betrayal"
+      },
+      {
+        "id": 5094,
+        "name": "cheating death"
+      },
+      {
+        "id": 5255,
+        "name": "unreliable narrator"
+      },
+      {
+        "id": 5293,
+        "name": "boulder"
+      },
+      {
+        "id": 5593,
+        "name": "anti-hero"
+      },
+      {
+        "id": 5611,
+        "name": "to be continued"
+      },
+      {
+        "id": 5935,
+        "name": "elements"
+      },
+      {
+        "id": 5938,
+        "name": "dimension travel"
+      },
+      {
+        "id": 5963,
+        "name": "plot twist"
+      },
+      {
+        "id": 6084,
+        "name": "not-so-bad guys"
+      },
+      {
+        "id": 6145,
+        "name": "gliding"
+      },
+      {
+        "id": 6531,
+        "name": "circle-strafing"
+      },
+      {
+        "id": 6779,
+        "name": "telekinesis"
+      },
+      {
+        "id": 7343,
+        "name": "disc streaming"
+      },
+      {
+        "id": 7450,
+        "name": "no before yes"
+      },
+      {
+        "id": 7554,
+        "name": "soul reaper"
+      },
+      {
+        "id": 8311,
+        "name": "cliffhanger"
+      },
+      {
+        "id": 8845,
+        "name": "evil old white guy"
+      },
+      {
+        "id": 8849,
+        "name": "nobilitease"
+      },
+      {
+        "id": 8981,
+        "name": "disfigurement"
+      },
+      {
+        "id": 8983,
+        "name": "tragic hero"
+      },
+      {
+        "id": 9006,
+        "name": "biblical quotes"
+      },
+      {
+        "id": 9080,
+        "name": "dodge jump"
+      },
+      {
+        "id": 9373,
+        "name": "plane shifting"
+      },
+      {
+        "id": 9529,
+        "name": "greatest hits"
+      },
+      {
+        "id": 9734,
+        "name": "life drain"
+      },
+      {
+        "id": 9777,
+        "name": "soul steal"
+      },
+      {
+        "id": 10452,
+        "name": "impaling weapons"
+      },
+      {
+        "id": 10792,
+        "name": "divine punishment"
+      },
+      {
+        "id": 11067,
+        "name": "rogue protagonist"
+      },
+      {
+        "id": 11170,
+        "name": "vampire teeth"
+      },
+      {
+        "id": 12123,
+        "name": "xfire"
+      },
+      {
+        "id": 12892,
+        "name": "lenticular box art"
+      },
+      {
+        "id": 13086,
+        "name": "phasing"
+      },
+      {
+        "id": 13119,
+        "name": "e3 1999"
+      },
+      {
+        "id": 13120,
+        "name": "e3 1998"
+      },
+      {
+        "id": 13951,
+        "name": "playstation underground"
+      },
+      {
+        "id": 15845,
+        "name": "the soul reaver"
+      }
+    ],
+    "name": "Legacy of Kain : Soul Reaver",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 3.60012360059351,
+    "screenshots": [
+      {
+        "id": 37983,
+        "game": 4122,
+        "height": 319,
+        "image_id": "zmulfed3jewcsdzlsdlq",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/zmulfed3jewcsdzlsdlq.jpg",
+        "width": 620
+      },
+      {
+        "id": 41088,
+        "game": 4122,
+        "height": 450,
+        "image_id": "luweokqayvgyws2qpcuc",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/luweokqayvgyws2qpcuc.jpg",
+        "width": 600
+      },
+      {
+        "id": 41089,
+        "game": 4122,
+        "height": 480,
+        "image_id": "yhnpc3c5ykc8j1vncc7s",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/yhnpc3c5ykc8j1vncc7s.jpg",
+        "width": 640
+      },
+      {
+        "id": 41090,
+        "game": 4122,
+        "height": 436,
+        "image_id": "pcivp1qiftqxbatwdiko",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/pcivp1qiftqxbatwdiko.jpg",
+        "width": 700
+      },
+      {
+        "id": 41091,
+        "game": 4122,
+        "height": 383,
+        "image_id": "fhlv18fiuuanyulqlssm",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fhlv18fiuuanyulqlssm.jpg",
+        "width": 600
+      }
+    ],
+    "slug": "legacy-of-kain-soul-reaver",
+    "storyline": "Taking place 1500 years after the events of Blood Omen, Soul Reaver chronicles the journey of the vampire-turned-wraith Raziel, lieutenant to the vampire lord Kain. Raziel is killed by Kain, but is revived by The Elder God to become his \"soul reaver\" and to exact revenge. Raziel shares this title with Kain\u0027s sword, the Soul Reaver, which he acquires during the game.",
+    "summary": "Many years after the events in Blood Omen: Legacy of Kain. Kain has created an empire in the world of Nosgoth where almost all humans have been exterminated. To help him maintain control over such large territory he chooses five lieutenants to command his vampire forces. Your name is Raziel and you are one of those lieutenants. Ages have passed by and during that time you have been has “blessed” with something no other vampire has--wings. Kain, being evil and jealous vampire, punished Raziel for his \"transgression\". Jealous Kain tore off Raziel’s wings and cast him down into the Lake of the Dead. A millenium has passed while Raziel lay forgotten before he is brought back to existence by The Elder God. He becomes a soul reaver with one purpose and one purpose only--kill Kain. \n \nLegacy of Kain: Soul Reaver continues the story from Blood Omen in a very clever and interesting way while also adding many new gameplay features. One of those improvements is the ability to shift between spectral and material plane. Both worlds overlap each other in a way that allows Raziel to overcome obstacles in one world by simply shifting to the other. But beware, because both of those planes are anything but a safe place and something that is harmless on one side can kill you on the other. Soul Reaver is a chapter in a series of masterpieces. With a gripping story, fluent gameplay, and a number so unique features it is clearly one of the most prominent tiles in the gaming history and it is surely worth checking out.",
+    "videos": [
+      {
+        "id": 3203,
+        "game": 4122,
+        "name": "Trailer",
+        "video_id": "pXdIGNea2ZI"
+      },
+      {
+        "id": 3204,
+        "game": 4122,
+        "name": "Trailer",
+        "video_id": "9UukUztXxC8"
+      },
+      {
+        "id": 13060,
+        "game": 4122,
+        "name": "Gameplay video",
+        "video_id": "QlmRoetdFxc"
+      }
+    ]
+  }
+]

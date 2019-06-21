@@ -1,0 +1,36 @@
+[
+  {
+    "id": 6720,
+    "age_ratings": [
+      {
+        "id": 3859,
+        "rating": 11
+      }
+    ],
+    "cover": {
+      "id": 6861,
+      "game": 6720,
+      "height": 250,
+      "image_id": "nxscpjsblhlay2ihlxus",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/nxscpjsblhlay2ihlxus.jpg",
+      "width": 250
+    },
+    "first_release_date": 949276800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Carrier",
+    "popularity": 1.424160009382094,
+    "slug": "carrier",
+    "summary": "In the 21st Century terrorism reigns supreme. You are part of an elite unit chosen to isolate and destroy ARK before it reaches land. You never know what\u0027s lurking in the murky water or around the next corner. Meanwhile, ARK is gaining power after attacking itself to the nuclear core of the Heimdal. Sheer wit and brute force are all that can save you. \n \nTo control Earth, the Southern Cross bombs the Heimdal, setting free ARK -- a prehistoric organism. ARK implants itself in humans making them hideous, monstrous drones that carry ARK seeds and infect others determined to eliminate ALL of humanity. ARK breeds, mutates, and insanely lusts for the end of human life. Even if it looks human it may be an ARK drone."
+  }
+]

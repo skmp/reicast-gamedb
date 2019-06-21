@@ -1,0 +1,72 @@
+[
+  {
+    "id": 968,
+    "cover": {
+      "id": 866,
+      "game": 968,
+      "height": 452,
+      "image_id": "apnryu3ub08jpdf9u3di",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/apnryu3ub08jpdf9u3di.jpg",
+      "width": 500
+    },
+    "first_release_date": 949536000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 5,
+        "name": "zombies"
+      }
+    ],
+    "name": "Resident Evil Code: Veronica",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.424160009382094,
+    "screenshots": [
+      {
+        "id": 139353,
+        "game": 968,
+        "height": 714,
+        "image_id": "r0il3mbzc9x8lrrasg0v",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/r0il3mbzc9x8lrrasg0v.jpg",
+        "width": 1277
+      },
+      {
+        "id": 139354,
+        "game": 968,
+        "height": 720,
+        "image_id": "l1mipbtj7ynoozgkj5xg",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/l1mipbtj7ynoozgkj5xg.jpg",
+        "width": 1280
+      }
+    ],
+    "slug": "resident-evil-code-veronica",
+    "summary": "The game begins with Claire Redfield raiding an Umbrella Corporation facility in Paris in search of her brother, Chris Redfield. During the infiltration she is captured and imprisoned on Rockfort Island. Soon after arriving, a man named Rodrigo Juan Raval releases her from her cell, since she is not much of a threat considering the outbreak of the T-virus on Rockfort. Trying to escape from the contaminated island, Claire teams up with inmate Steve Burnside, at the same time being confronted with the island\u0027s commander Alfred Ashford. Meanwhile, Albert Wesker is on a mission of his own to retrieve a sample of the T-Veronica virus developed by Alfred\u0027s twin sister Alexia. His unit is also responsible for the outbreak of the T-virus on Rockfort Island."
+  }
+]

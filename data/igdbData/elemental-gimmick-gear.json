@@ -1,0 +1,50 @@
+[
+  {
+    "id": 45862,
+    "cover": {
+      "id": 53902,
+      "game": 45862,
+      "height": 600,
+      "image_id": "nsc05pmowjboauw1c3c3",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/nsc05pmowjboauw1c3c3.jpg",
+      "width": 601
+    },
+    "first_release_date": 948240000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 296,
+        "name": "fantasy"
+      },
+      {
+        "id": 906,
+        "name": "steampunk"
+      },
+      {
+        "id": 970,
+        "name": "sci-fi"
+      },
+      {
+        "id": 1026,
+        "name": "role playing"
+      },
+      {
+        "id": 1027,
+        "name": "adventure"
+      }
+    ],
+    "name": "Elemental Gimmick Gear",
+    "popularity": 1.0,
+    "slug": "elemental-gimmick-gear",
+    "summary": "Elemental Gimmick Gear is an action role-playing game for the Dreamcast console. Elemental Gimmick Gear uses hand-drawn art in an overhead view during exploration, then switches to 3D graphics during boss battles. \n \nIn the world of Tokion, a dome-shaped ancient ruin was discovered inside a thick jungle. During excavation, an egg-shaped mecha was found inside the ruins containing a sleeping man. No matter how hard scientists tried, he would not wake up. He was taken to a laboratory along with the machine to be further studied. \n \nUpon analyzing the machine, they learned that it was over 5000 years old. They also could not find any form of power source. In time, the machine became known as \"Elemental Gimmick Gear\", or EGG for short. After extensive scientific analysis over a number of years, copies of the EGG were produced and used as vehicles. \n \n100 years later, the ruin suddenly became active, extending a multitude of tentacles into the ground. They spread all across the land, destroying anything in their way. With the tentacles came a thick layer of fog that surrounded the ruins, and people gave them the name Fogna. \n \nAt the same time, the Sleeper who was discovered a century prior finally awoke. He had not aged a day since his discovery and had no memory of his past or his own name. Selen, who was with him as he woke, set him free without notifying the other scientists in the lab. She sent him to Fogna to begin searching for clues of what happened 5100 years ago, and to stop the tentacles\u0027 breeding."
+  }
+]

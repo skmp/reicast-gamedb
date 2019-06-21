@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9189,
+    "age_ratings": [
+      {
+        "id": 6290,
+        "rating": 10
+      }
+    ],
+    "aggregated_rating": 70.0,
+    "aggregated_rating_count": 1,
+    "cover": {
+      "id": 9481,
+      "game": 9189,
+      "height": 266,
+      "image_id": "gzu36czds39ohue8faco",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/gzu36czds39ohue8faco.jpg",
+      "width": 270
+    },
+    "first_release_date": 961632000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 151,
+        "name": "medieval"
+      },
+      {
+        "id": 296,
+        "name": "fantasy"
+      },
+      {
+        "id": 1186,
+        "name": "multiple protagonists"
+      },
+      {
+        "id": 1404,
+        "name": "medieval setting"
+      },
+      {
+        "id": 4759,
+        "name": "minotaurs"
+      },
+      {
+        "id": 4777,
+        "name": "checkpoints"
+      }
+    ],
+    "name": "Draconus: Cult of the Wyrm",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.0,
+    "slug": "draconus-cult-of-the-wyrm",
+    "summary": "Draconus: Cult of the Wyrm is a sword and sorcery action game. Adventurers play as a male knight, Cynric or as the female sorceress Ayowen. The heroes battle their way through a dark fantasy world where they must ultimately defeat the dragon lord. A story driven game where players use a combination of cunning swordplay and magic spells deal with enemies that stand in their way. The story unfolds over 12 huge levels and is played in 3rd person perspective in real-time."
+  }
+]

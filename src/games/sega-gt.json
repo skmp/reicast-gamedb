@@ -1,0 +1,98 @@
+[
+  {
+    "view": "game",
+    "layout": "game",
+    "author": "reicast",
+    "created_at": "2018-03-25 09:00",
+    "updated_at": "2019-05-02 09:00",
+    "id": "sega-gt",
+    "title": "Sega GT",
+    "gamedb-issue": 0,
+    "releases": [
+      {
+        "id": "B465",
+        "region": "US",
+        "version": "1.003",
+        "discs": 1,
+        "medium": "gdrom"
+      },
+      {
+        "id": "D656",
+        "region": "EU",
+        "version": "1.001",
+        "discs": 1,
+        "medium": "gdrom"
+      }
+    ],
+    "test-videos": [
+      {
+        "fingerprint": "B465 GD-ROM1/1 US",
+        "title": "Intro auto run",
+        "hw": "i7 2720qm, GeForce 540M",
+        "yt": "Mq9q4XGR99o",
+        "git": "d59197f84353d7d2b746383e9277d9ed7c8c4053",
+        "platform": "win86-release"
+      },
+      {
+        "fingerprint": "D656 GD-ROM1/1 EU",
+        "title": "Intro auto run",
+        "hw": "i7 2720qm, GeForce 540M",
+        "yt": "XK8zJhwy8Qc",
+        "git": "d59197f84353d7d2b746383e9277d9ed7c8c4053",
+        "platform": "win86-release"
+      }
+    ],
+    "gotIGDBGame": 1,
+    "idIGDB": 28838,
+    "age_ratings": [
+      {
+        "id": 12462,
+        "rating": 8
+      },
+      {
+        "id": 12463,
+        "rating": 1
+      }
+    ],
+    "cover": [
+      {
+        "id": 23968,
+        "game": 28838,
+        "height": 419,
+        "image_id": "ky4qj8rbltoqddbgngyv",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ky4qj8rbltoqddbgngyv.jpg",
+        "width": 420
+      }
+    ],
+    "first_release_date": 967420800,
+    "game_modes": [
+      "Single player",
+      "Multiplayer",
+      "Split screen"
+    ],
+    "categories": [
+      "Shooter",
+      "Racing",
+      "Simulator"
+    ],
+    "tags": [
+      "flight simulator",
+      "sci-fi",
+      "flight",
+      "shooter"
+    ],
+    "name": "Sega GT",
+    "popularity": 1,
+    "slug": "sega-gt",
+    "summary": "With a nod towards GT2, Sega tosses in their entry in the race-career-category, meaning that this game is all about racing. Racing to win competitions, cars, money and other prizes (such as licenses for bigger cars), buying new cars to race in, upgrading cars to race in and gaining licenses to race with. \nIt features realistic controls, graphic and physics, and spans over career, multiplayer or arcade modes, and hundreds of cars to boot.",
+    "videos": [
+      {
+        "id": 13809,
+        "game": 28838,
+        "name": "Game intro",
+        "video_id": "2F9YIR1ioyI"
+      }
+    ]
+  },
+  null
+]

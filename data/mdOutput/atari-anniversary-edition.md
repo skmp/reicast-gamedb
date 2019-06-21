@@ -1,0 +1,62 @@
+---
+view: game
+layout: game
+author: reicast
+created_at: 2018-03-25 09:00
+updated_at: 2019-05-02 09:00
+id: atari-anniversary-edition
+title: "Atari Anniversary Edition"
+gamedb-issue: 0
+
+releases:
+  - id: "E9E3"
+    region: US
+    version: "1.001"
+    discs: 1
+    medium: gdrom
+
+test-videos:
+  - fingerprint: "E9E3 GD-ROM1/1 US"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: nOEkr56ddgs
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+
+gotIGDBGame: 1
+idIGDB: 6311
+age_ratings:
+  - id: 3558
+    rating: 8
+aggregated_rating: 80.0
+aggregated_rating_count: 1
+cover:
+  - id: 6477
+    game: 6311
+    height: 256
+    image_id: "fmpokwhmf8f5lpyspksd"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/fmpokwhmf8f5lpyspksd.jpg"
+    width: 256
+first_release_date: 994032000
+game_modes:
+  - "Single player"
+categories:
+  - "Platform"
+  - "Quiz/Trivia"
+  - "Arcade"
+tags:
+  - "minigames"
+  - "compilation"
+  - "trivia"
+  - "trivia/board game"
+  - "company name in title"
+  - "psone classics"
+  - "mini-boss"
+  - "minimap"
+name: "Atari Anniversary Edition"
+popularity: 1.676291082700661
+slug: "atari-anniversary-edition"
+summary: "12 Atari Game Compilation: 
+Asteroids, Asteroids Deluxe, Battlezone, Centipede, Crystal Castles, Gravitar, Millipede, Missile Command, Pong, Super Breakout, Tempest and Warlords"
+
+---

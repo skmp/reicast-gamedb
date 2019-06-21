@@ -1,0 +1,54 @@
+[
+  {
+    "id": 18018,
+    "cover": {
+      "id": 14218,
+      "game": 18018,
+      "height": 725,
+      "image_id": "oggwhddea8limsbxj48e",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/oggwhddea8limsbxj48e.jpg",
+      "width": 500
+    },
+    "first_release_date": 953769600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 78,
+        "name": "anime"
+      },
+      {
+        "id": 94,
+        "name": "visual novel"
+      },
+      {
+        "id": 1027,
+        "name": "adventure"
+      },
+      {
+        "id": 4560,
+        "name": "fan translation"
+      }
+    ],
+    "name": "Never 7: The End of Infinity",
+    "player_perspectives": [
+      {
+        "id": 5,
+        "name": "Text"
+      }
+    ],
+    "popularity": 2.062195746682081,
+    "slug": "never-7-the-end-of-infinity",
+    "summary": "Never 7: The End of Infinity is the first title in the Infinity series, and is followed by Ever 17: The Out of Infinity, Remember 11: The Age of Infinity, 12Riven: The Psi-Climinal of Integral, and Code_18.\n\nIn the game, the player takes the role of Makoto Ishihara, a college student who attends a seminar camp on an island together with three other students; he also befriends three other people who he meets on the island. The game takes place over the course of a week, and consists of the player reading the story, occasionally making choices that affect the direction of the plot; on the sixth day, one of the female characters dies, and the game moves back in time to the beginning, letting the player use knowledge from the first set of six days to make new choices, to try to prevent the character\u0027s death."
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "id": 3523,
+    "age_ratings": [
+      {
+        "id": 1659,
+        "rating": 8
+      }
+    ],
+    "cover": {
+      "id": 3636,
+      "game": 3523,
+      "height": 137,
+      "image_id": "y150tsiyeyz1sbgm7jdt",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/y150tsiyeyz1sbgm7jdt.jpg",
+      "width": 200
+    },
+    "first_release_date": 963532800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 59,
+        "name": "motocross"
+      },
+      {
+        "id": 1166,
+        "name": "sports"
+      },
+      {
+        "id": 3425,
+        "name": "driving-simulator"
+      },
+      {
+        "id": 4157,
+        "name": "driving/racing"
+      },
+      {
+        "id": 4205,
+        "name": "motorsports"
+      },
+      {
+        "id": 4227,
+        "name": "celebrity tie-in"
+      },
+      {
+        "id": 4552,
+        "name": "helmet"
+      },
+      {
+        "id": 5287,
+        "name": "rock music"
+      },
+      {
+        "id": 13119,
+        "name": "e3 1999"
+      },
+      {
+        "id": 14114,
+        "name": "color cartridges"
+      }
+    ],
+    "name": "Jeremy McGrath Supercross 2000",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.0,
+    "slug": "jeremy-mcgrath-supercross-2000",
+    "summary": "Jeremy McGrath Supercross 2000 is a title based on the sport of motocross racing, where players can compete indoors, outdoors, in tournaments or in a series of freestyle challenges. The game is played from a perspective behind the bike as you strive to place first while negotiating the various hills and turns that characterize the dirt-filled tracks. \n \nA total of four game modes are available to aspiring riders: Race, Series Mode, Time Trial and Freestyle. Race is a contest to see who is the fastest driver on your choice of tracks; after the race is over, you can choose another track and rider or move on to another mode. Series Mode is the heart of the game, where you\u0027ll be able to embark on an Indoor SuperCross, Outdoor Nationals, Combined event or your own Custom series.",
+    "videos": [
+      {
+        "id": 18557,
+        "game": 3523,
+        "name": "Gameplay video",
+        "video_id": "3JStiYcHdEY"
+      }
+    ]
+  }
+]

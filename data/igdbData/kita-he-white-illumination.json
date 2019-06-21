@@ -1,0 +1,29 @@
+[
+  {
+    "id": 22825,
+    "aggregated_rating": 58.0,
+    "aggregated_rating_count": 1,
+    "cover": {
+      "id": 42218,
+      "game": 22825,
+      "height": 480,
+      "image_id": "dy9nwhmcw51oovytdjwi",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/dy9nwhmcw51oovytdjwi.jpg",
+      "width": 480
+    },
+    "keywords": [
+      {
+        "id": 358,
+        "name": "dating"
+      },
+      {
+        "id": 1026,
+        "name": "role playing"
+      }
+    ],
+    "name": "Kita He: White Illumination",
+    "popularity": 1.0,
+    "slug": "kita-he-white-illumination",
+    "summary": "The first dating style game to be released for the Dreamcast"
+  }
+]

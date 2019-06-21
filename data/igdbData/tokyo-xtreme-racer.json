@@ -1,0 +1,104 @@
+[
+  {
+    "id": 20710,
+    "age_ratings": [
+      {
+        "id": 19183,
+        "rating": 8
+      }
+    ],
+    "cover": {
+      "id": 22723,
+      "game": 20710,
+      "height": 800,
+      "image_id": "bljapn2nvmsi4ncmcxvz",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/bljapn2nvmsi4ncmcxvz.jpg",
+      "width": 800
+    },
+    "first_release_date": 938736000,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 401,
+        "name": "burnout"
+      },
+      {
+        "id": 735,
+        "name": "street racing"
+      },
+      {
+        "id": 1409,
+        "name": "turbo"
+      },
+      {
+        "id": 1678,
+        "name": "drifting"
+      },
+      {
+        "id": 1783,
+        "name": "car"
+      },
+      {
+        "id": 3486,
+        "name": "boss fight"
+      },
+      {
+        "id": 4157,
+        "name": "driving/racing"
+      },
+      {
+        "id": 4282,
+        "name": "60 fps on consoles"
+      },
+      {
+        "id": 4523,
+        "name": "launch titles"
+      },
+      {
+        "id": 4831,
+        "name": "street light"
+      },
+      {
+        "id": 5196,
+        "name": "tire"
+      },
+      {
+        "id": 5507,
+        "name": "wheel"
+      },
+      {
+        "id": 5996,
+        "name": "xtreme naming"
+      },
+      {
+        "id": 6061,
+        "name": "e3 2000"
+      },
+      {
+        "id": 6832,
+        "name": "upgradeable vehicles"
+      },
+      {
+        "id": 7407,
+        "name": "engine"
+      },
+      {
+        "id": 8281,
+        "name": "sports car"
+      },
+      {
+        "id": 13518,
+        "name": "point-to-point"
+      }
+    ],
+    "name": "Tokyo Xtreme Racer",
+    "popularity": 1.0,
+    "slug": "tokyo-xtreme-racer",
+    "summary": "Tokyo Xtreme Racer, known as Shutokō Battle (首都高バトル) in Japan and Tokyo Highway Challenge in Europe, is a racing video game for the Sega Dreamcast. Released in 1999 as one of the console\u0027s launch titles, the game was one of the first mission-based racing games. The gameplay involves the player challenging other drivers on the Shuto Expressway in order to gain money to modify and enhance his or her car. The game features a wide variety of Japanese cars and tuning parts to purchase as the player progresses through rivals. \n \nWhen released in Japan, Shutokō Battle was one of the best selling Dreamcast titles at this time. The game is based on illegal highway racing in Tokyo\u0027s Wangan highway with custom tuned cars. A such phenomenon is growing popular in Japan since the 90\u0027s with its dedicated manga (Shutokō Battle\u0027s biggest inspiration being Wangan Midnight), anime series and video games (C1 Circuit, Wangan Trial, Naniwa Wangan Battle)."
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "id": 3708,
+    "age_ratings": [
+      {
+        "id": 1786,
+        "rating": 8
+      }
+    ],
+    "cover": {
+      "id": 3846,
+      "game": 3708,
+      "height": 252,
+      "image_id": "szhtj9jvv5jd8vysllro",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/szhtj9jvv5jd8vysllro.jpg",
+      "width": 250
+    },
+    "first_release_date": 951350400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 36,
+        "name": "combat flight simulator"
+      }
+    ],
+    "name": "AeroWings 2: Airstrike",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.0,
+    "slug": "aerowings-2-airstrike"
+  }
+]

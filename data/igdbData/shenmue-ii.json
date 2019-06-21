@@ -1,0 +1,446 @@
+[
+  {
+    "id": 1218,
+    "age_ratings": [
+      {
+        "id": 19728,
+        "rating": 10
+      }
+    ],
+    "aggregated_rating": 70.0,
+    "aggregated_rating_count": 2,
+    "cover": {
+      "id": 70676,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 1218,
+      "height": 1800,
+      "image_id": "co1ij8",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1ij8.jpg",
+      "width": 1275
+    },
+    "first_release_date": 999734400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 21,
+        "name": "helicopter"
+      },
+      {
+        "id": 61,
+        "name": "martial arts"
+      },
+      {
+        "id": 76,
+        "name": "asian style"
+      },
+      {
+        "id": 121,
+        "name": "sandbox"
+      },
+      {
+        "id": 977,
+        "name": "hand-to-hand combat"
+      },
+      {
+        "id": 1033,
+        "name": "action-adventure"
+      },
+      {
+        "id": 1231,
+        "name": "karate"
+      },
+      {
+        "id": 1299,
+        "name": "time limit"
+      },
+      {
+        "id": 1313,
+        "name": "multiple endings"
+      },
+      {
+        "id": 1348,
+        "name": "tea"
+      },
+      {
+        "id": 1440,
+        "name": "artificial intelligence"
+      },
+      {
+        "id": 1669,
+        "name": "crime"
+      },
+      {
+        "id": 1675,
+        "name": "revenge"
+      },
+      {
+        "id": 1985,
+        "name": "kung fu"
+      },
+      {
+        "id": 2071,
+        "name": "sequel"
+      },
+      {
+        "id": 2152,
+        "name": "high score"
+      },
+      {
+        "id": 2438,
+        "name": "weather"
+      },
+      {
+        "id": 2452,
+        "name": "day/night cycle"
+      },
+      {
+        "id": 4138,
+        "name": "single-player only"
+      },
+      {
+        "id": 4155,
+        "name": "alternate historical"
+      },
+      {
+        "id": 4182,
+        "name": "hamburger"
+      },
+      {
+        "id": 4220,
+        "name": "episodic content"
+      },
+      {
+        "id": 4287,
+        "name": "voice acting"
+      },
+      {
+        "id": 4329,
+        "name": "cat"
+      },
+      {
+        "id": 4359,
+        "name": "polygonal 3d"
+      },
+      {
+        "id": 4484,
+        "name": "collectibles"
+      },
+      {
+        "id": 4524,
+        "name": "alcoholic beverages"
+      },
+      {
+        "id": 4525,
+        "name": "third-person perspective"
+      },
+      {
+        "id": 4526,
+        "name": "backpack"
+      },
+      {
+        "id": 4550,
+        "name": "emulation"
+      },
+      {
+        "id": 4578,
+        "name": "motion blur"
+      },
+      {
+        "id": 4613,
+        "name": "non-player character"
+      },
+      {
+        "id": 4727,
+        "name": "key"
+      },
+      {
+        "id": 4850,
+        "name": "moral decisions"
+      },
+      {
+        "id": 4855,
+        "name": "branching story line"
+      },
+      {
+        "id": 4918,
+        "name": "real-time combat"
+      },
+      {
+        "id": 5264,
+        "name": "vending machine"
+      },
+      {
+        "id": 5266,
+        "name": "aluminum can"
+      },
+      {
+        "id": 5308,
+        "name": "rpg elements"
+      },
+      {
+        "id": 5323,
+        "name": "mercenary"
+      },
+      {
+        "id": 5329,
+        "name": "coming of age"
+      },
+      {
+        "id": 5420,
+        "name": "television"
+      },
+      {
+        "id": 5425,
+        "name": "arcade cabinet"
+      },
+      {
+        "id": 5516,
+        "name": "employment"
+      },
+      {
+        "id": 5542,
+        "name": "interactive environments"
+      },
+      {
+        "id": 5547,
+        "name": "dart board"
+      },
+      {
+        "id": 5645,
+        "name": "bell"
+      },
+      {
+        "id": 5677,
+        "name": "red herring"
+      },
+      {
+        "id": 5684,
+        "name": "drunk character"
+      },
+      {
+        "id": 5789,
+        "name": "realism"
+      },
+      {
+        "id": 5823,
+        "name": "motion capture animation"
+      },
+      {
+        "id": 5911,
+        "name": "wrestling moves in non-wrestling games"
+      },
+      {
+        "id": 5922,
+        "name": "qipao"
+      },
+      {
+        "id": 5989,
+        "name": "quick time event"
+      },
+      {
+        "id": 6010,
+        "name": "interactive cutscene"
+      },
+      {
+        "id": 6012,
+        "name": "timed decisions"
+      },
+      {
+        "id": 6069,
+        "name": "quest tracking"
+      },
+      {
+        "id": 6094,
+        "name": "spiky-haired protagonist"
+      },
+      {
+        "id": 6135,
+        "name": "light bloom"
+      },
+      {
+        "id": 6326,
+        "name": "ambient music"
+      },
+      {
+        "id": 6392,
+        "name": "day-based narrative"
+      },
+      {
+        "id": 6414,
+        "name": "forklift"
+      },
+      {
+        "id": 6460,
+        "name": "cancelled episodic game series"
+      },
+      {
+        "id": 6605,
+        "name": "street sign"
+      },
+      {
+        "id": 7074,
+        "name": "hair physics"
+      },
+      {
+        "id": 7294,
+        "name": "the 1980s"
+      },
+      {
+        "id": 7343,
+        "name": "disc streaming"
+      },
+      {
+        "id": 7692,
+        "name": "sleeping under the covers"
+      },
+      {
+        "id": 8220,
+        "name": "persistent world"
+      },
+      {
+        "id": 8268,
+        "name": "skybox"
+      },
+      {
+        "id": 8311,
+        "name": "cliffhanger"
+      },
+      {
+        "id": 8844,
+        "name": "tomboy"
+      },
+      {
+        "id": 8853,
+        "name": "roman numerals"
+      },
+      {
+        "id": 8866,
+        "name": "timeskip"
+      },
+      {
+        "id": 8983,
+        "name": "tragic hero"
+      },
+      {
+        "id": 9104,
+        "name": "character says the name of the game"
+      },
+      {
+        "id": 9222,
+        "name": "product placement"
+      },
+      {
+        "id": 9339,
+        "name": "dark second act"
+      },
+      {
+        "id": 9508,
+        "name": "full reactive eyes entertainment"
+      },
+      {
+        "id": 9659,
+        "name": "motion capture suit"
+      },
+      {
+        "id": 9835,
+        "name": "metagame"
+      },
+      {
+        "id": 9857,
+        "name": "the mob"
+      },
+      {
+        "id": 9972,
+        "name": "sitting down"
+      },
+      {
+        "id": 10192,
+        "name": "arm wrestling"
+      },
+      {
+        "id": 10210,
+        "name": "vendor trash"
+      },
+      {
+        "id": 10212,
+        "name": "capsule toy"
+      },
+      {
+        "id": 10519,
+        "name": "normal mapping"
+      },
+      {
+        "id": 10788,
+        "name": "teasquel"
+      },
+      {
+        "id": 11387,
+        "name": "shaving"
+      },
+      {
+        "id": 13117,
+        "name": "e3 2002"
+      },
+      {
+        "id": 13295,
+        "name": "xbox 360 backwards compatibility"
+      },
+      {
+        "id": 15524,
+        "name": "unresolved stories"
+      },
+      {
+        "id": 16177,
+        "name": "phoenix mirror"
+      },
+      {
+        "id": 16178,
+        "name": "dragon mirror"
+      }
+    ],
+    "name": "Shenmue II",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 2.516738767012881,
+    "screenshots": [
+      {
+        "id": 11328,
+        "game": 1218,
+        "height": 970,
+        "image_id": "ynxc7wqelxqg9hkwnr94",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ynxc7wqelxqg9hkwnr94.jpg",
+        "width": 1679
+      }
+    ],
+    "slug": "shenmue-ii",
+    "summary": "Yu Suzuki\u0027s cinematic masterpiece returns with more spellbinding adventure and an even more immersive world. The epic continues as Ryo Hazuki arrives in Hong Kong on his quest to avenge his father\u0027s murder by the warlord Lan Di and unravel the mystery of the Phoenix mirror. Set in Hong Kong, Kowloon, and Guilin, you\u0027ll travel through breathtaking scenery, rich with mountainous wilderness, traditional Taoist temples, and stunning tropical landscapes. As you move through massive, highly-detailed 3D worlds, you\u0027ll interact with almost every facet of your environment as well as a whole new cast of characters. \n \nOriginally released on Dreamcast in Europe and Japan, this Xbox edition marks the sequel\u0027s debut in the US and includes the Shenmue Movie chronicling the first episode in the series.",
+    "videos": [
+      {
+        "id": 920,
+        "game": 1218,
+        "name": "Trailer",
+        "video_id": "h0Izd2f6k2I"
+      }
+    ]
+  }
+]

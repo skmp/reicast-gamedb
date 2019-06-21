@@ -1,0 +1,48 @@
+[
+  {
+    "id": 45836,
+    "age_ratings": [
+      {
+        "id": 17103,
+        "rating": 8
+      }
+    ],
+    "cover": {
+      "id": 49240,
+      "game": 45836,
+      "height": 650,
+      "image_id": "hx5e41lluzhqszbxnncm",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/hx5e41lluzhqszbxnncm.jpg",
+      "width": 662
+    },
+    "first_release_date": 980899200,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 509,
+        "name": "fishing"
+      },
+      {
+        "id": 2016,
+        "name": "billiards"
+      },
+      {
+        "id": 4321,
+        "name": "fishing rod"
+      },
+      {
+        "id": 13002,
+        "name": "dreamcast fishing controller support"
+      }
+    ],
+    "name": "Reel Fishing: Wild",
+    "popularity": 1.0,
+    "slug": "reel-fishing-wild",
+    "summary": "Reel Fishing is a series of fishing video games by Natsume. The first game, Reel Fishing, was released for the PlayStation in 1996. Originally a localization of Pack-In-Video\u0027s (now Marvelous) Fish Eyes series from Japan, Natsume has since diverged from that series to create their own games."
+  }
+]

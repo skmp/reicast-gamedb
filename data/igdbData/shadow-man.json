@@ -1,0 +1,396 @@
+[
+  {
+    "id": 3598,
+    "age_ratings": [
+      {
+        "id": 1705,
+        "rating": 11
+      }
+    ],
+    "aggregated_rating": 70.0,
+    "aggregated_rating_count": 1,
+    "cover": {
+      "id": 11878,
+      "game": 3598,
+      "height": 1267,
+      "image_id": "zgon1fbbidsnbkjhgflk",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/zgon1fbbidsnbkjhgflk.jpg",
+      "width": 1000
+    },
+    "first_release_date": 933379200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 79,
+        "name": "chainsaw"
+      },
+      {
+        "id": 129,
+        "name": "blood"
+      },
+      {
+        "id": 140,
+        "name": "serial killer"
+      },
+      {
+        "id": 176,
+        "name": "souls"
+      },
+      {
+        "id": 296,
+        "name": "fantasy"
+      },
+      {
+        "id": 301,
+        "name": "health"
+      },
+      {
+        "id": 1033,
+        "name": "action-adventure"
+      },
+      {
+        "id": 1120,
+        "name": "horror"
+      },
+      {
+        "id": 1158,
+        "name": "steam"
+      },
+      {
+        "id": 1193,
+        "name": "parallel worlds"
+      },
+      {
+        "id": 1205,
+        "name": "voodoo"
+      },
+      {
+        "id": 1289,
+        "name": "backtracking"
+      },
+      {
+        "id": 1345,
+        "name": "traps"
+      },
+      {
+        "id": 2242,
+        "name": "good vs evil"
+      },
+      {
+        "id": 2280,
+        "name": "climbing"
+      },
+      {
+        "id": 2640,
+        "name": "disco"
+      },
+      {
+        "id": 3002,
+        "name": "possession"
+      },
+      {
+        "id": 3831,
+        "name": "explosion"
+      },
+      {
+        "id": 3833,
+        "name": "bosses"
+      },
+      {
+        "id": 4134,
+        "name": "digital distribution"
+      },
+      {
+        "id": 4144,
+        "name": "power up"
+      },
+      {
+        "id": 4146,
+        "name": "train"
+      },
+      {
+        "id": 4247,
+        "name": "pig"
+      },
+      {
+        "id": 4287,
+        "name": "voice acting"
+      },
+      {
+        "id": 4310,
+        "name": "games based on comic books"
+      },
+      {
+        "id": 4316,
+        "name": "rope"
+      },
+      {
+        "id": 4351,
+        "name": "demon invasion"
+      },
+      {
+        "id": 4428,
+        "name": "bed"
+      },
+      {
+        "id": 4446,
+        "name": "gun"
+      },
+      {
+        "id": 4571,
+        "name": "shotgun"
+      },
+      {
+        "id": 4611,
+        "name": "cutscene"
+      },
+      {
+        "id": 4612,
+        "name": "the locked door"
+      },
+      {
+        "id": 4619,
+        "name": "gog.com"
+      },
+      {
+        "id": 4660,
+        "name": "pistol"
+      },
+      {
+        "id": 4843,
+        "name": "saving the world"
+      },
+      {
+        "id": 4880,
+        "name": "barrel"
+      },
+      {
+        "id": 4916,
+        "name": "toy-box stage"
+      },
+      {
+        "id": 4940,
+        "name": "underwater gameplay"
+      },
+      {
+        "id": 4941,
+        "name": "irish accent"
+      },
+      {
+        "id": 5094,
+        "name": "cheating death"
+      },
+      {
+        "id": 5099,
+        "name": "pushable block"
+      },
+      {
+        "id": 5142,
+        "name": "historical figures in fictional settings"
+      },
+      {
+        "id": 5174,
+        "name": "scary children"
+      },
+      {
+        "id": 5213,
+        "name": "vomiting"
+      },
+      {
+        "id": 5407,
+        "name": "sounds of despair"
+      },
+      {
+        "id": 5441,
+        "name": "moving platforms"
+      },
+      {
+        "id": 5444,
+        "name": "blood splatter"
+      },
+      {
+        "id": 5520,
+        "name": "teddy bear"
+      },
+      {
+        "id": 5586,
+        "name": "tattoo"
+      },
+      {
+        "id": 5593,
+        "name": "anti-hero"
+      },
+      {
+        "id": 5660,
+        "name": "exploding enemies"
+      },
+      {
+        "id": 5942,
+        "name": "disembodied voice"
+      },
+      {
+        "id": 6247,
+        "name": "flickering light"
+      },
+      {
+        "id": 6297,
+        "name": "aggro"
+      },
+      {
+        "id": 6620,
+        "name": "scripted events"
+      },
+      {
+        "id": 6655,
+        "name": "jumping puzzle"
+      },
+      {
+        "id": 6716,
+        "name": "dual wielding"
+      },
+      {
+        "id": 6813,
+        "name": "working for the enemy"
+      },
+      {
+        "id": 6898,
+        "name": "nailgun"
+      },
+      {
+        "id": 7092,
+        "name": "run \u0027n gun"
+      },
+      {
+        "id": 7309,
+        "name": "combat-based platformer"
+      },
+      {
+        "id": 7344,
+        "name": "acrobatics"
+      },
+      {
+        "id": 8285,
+        "name": "catch phrase"
+      },
+      {
+        "id": 8799,
+        "name": "random character speech"
+      },
+      {
+        "id": 8983,
+        "name": "tragic hero"
+      },
+      {
+        "id": 9322,
+        "name": "war veterans"
+      },
+      {
+        "id": 9588,
+        "name": "collection marathon"
+      },
+      {
+        "id": 9597,
+        "name": "monologue"
+      },
+      {
+        "id": 9736,
+        "name": "bodily functions as weapons"
+      },
+      {
+        "id": 9777,
+        "name": "soul steal"
+      },
+      {
+        "id": 9971,
+        "name": "ledge crossing"
+      },
+      {
+        "id": 10446,
+        "name": "bangsian fantasy"
+      },
+      {
+        "id": 11280,
+        "name": "villainous posse"
+      },
+      {
+        "id": 13119,
+        "name": "e3 1999"
+      },
+      {
+        "id": 13120,
+        "name": "e3 1998"
+      }
+    ],
+    "name": "Shadow Man",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 4.033477534025762,
+    "screenshots": [
+      {
+        "id": 99862,
+        "game": 3598,
+        "height": 480,
+        "image_id": "neoidcmjne3bstyqztyy",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/neoidcmjne3bstyqztyy.jpg",
+        "width": 640
+      },
+      {
+        "id": 99863,
+        "game": 3598,
+        "height": 480,
+        "image_id": "p3vrfvajaxjjwnd8tf9y",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/p3vrfvajaxjjwnd8tf9y.jpg",
+        "width": 640
+      },
+      {
+        "id": 99864,
+        "game": 3598,
+        "height": 1080,
+        "image_id": "jg6c1zxzmrfxm4fv1bte",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jg6c1zxzmrfxm4fv1bte.jpg",
+        "width": 1920
+      },
+      {
+        "id": 99865,
+        "game": 3598,
+        "height": 1080,
+        "image_id": "v4fqqidkuzrfoqmad6kw",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/v4fqqidkuzrfoqmad6kw.jpg",
+        "width": 1920
+      },
+      {
+        "id": 99866,
+        "game": 3598,
+        "height": 1080,
+        "image_id": "jabkyv5ybtd4fjqxiqtk",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jabkyv5ybtd4fjqxiqtk.jpg",
+        "width": 1920
+      }
+    ],
+    "slug": "shadow-man",
+    "summary": "He is coming, stalking criminals in the spirit world and the real world. A possessed man is coming, a voodoo mask in his chest and lines of power in his back. Shadow Man is coming, trailing evil from Liveside to Deadside. To stop an apocalypse. To save your soul.",
+    "videos": [
+      {
+        "id": 5713,
+        "game": 3598,
+        "name": "Trailer",
+        "video_id": "PIwZOPIGF-c"
+      }
+    ]
+  }
+]

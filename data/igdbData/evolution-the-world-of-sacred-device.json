@@ -1,0 +1,220 @@
+[
+  {
+    "id": 23132,
+    "age_ratings": [
+      {
+        "id": 9984,
+        "rating": 10
+      }
+    ],
+    "aggregated_rating": 71.0,
+    "aggregated_rating_count": 1,
+    "cover": {
+      "id": 64655,
+      "game": 23132,
+      "height": 752,
+      "image_id": "jqkngm7mzsue74eqkpfs",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/jqkngm7mzsue74eqkpfs.jpg",
+      "width": 750
+    },
+    "first_release_date": 916876800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 78,
+        "name": "anime"
+      },
+      {
+        "id": 415,
+        "name": "turn-based"
+      },
+      {
+        "id": 1026,
+        "name": "role playing"
+      },
+      {
+        "id": 1027,
+        "name": "adventure"
+      },
+      {
+        "id": 1513,
+        "name": "dungeon crawling"
+      },
+      {
+        "id": 3486,
+        "name": "boss fight"
+      },
+      {
+        "id": 3833,
+        "name": "bosses"
+      },
+      {
+        "id": 4169,
+        "name": "male protagonists"
+      },
+      {
+        "id": 4388,
+        "name": "shopping"
+      },
+      {
+        "id": 4402,
+        "name": "revive"
+      },
+      {
+        "id": 4412,
+        "name": "rat"
+      },
+      {
+        "id": 4468,
+        "name": "party system"
+      },
+      {
+        "id": 4543,
+        "name": "experience points"
+      },
+      {
+        "id": 4709,
+        "name": "save point"
+      },
+      {
+        "id": 4725,
+        "name": "young protagonist"
+      },
+      {
+        "id": 4956,
+        "name": "a.i. companion"
+      },
+      {
+        "id": 4958,
+        "name": "game over"
+      },
+      {
+        "id": 4984,
+        "name": "stat tracking"
+      },
+      {
+        "id": 5320,
+        "name": "hit points"
+      },
+      {
+        "id": 5370,
+        "name": "randomly generated maps"
+      },
+      {
+        "id": 5591,
+        "name": "healer"
+      },
+      {
+        "id": 5672,
+        "name": "sidekick"
+      },
+      {
+        "id": 5963,
+        "name": "plot twist"
+      },
+      {
+        "id": 6094,
+        "name": "spiky-haired protagonist"
+      },
+      {
+        "id": 6512,
+        "name": "goggles"
+      },
+      {
+        "id": 6541,
+        "name": "poison"
+      },
+      {
+        "id": 7080,
+        "name": "fast travel"
+      },
+      {
+        "id": 8321,
+        "name": "hunting rifle"
+      },
+      {
+        "id": 8894,
+        "name": "partners"
+      },
+      {
+        "id": 9466,
+        "name": "mute character"
+      },
+      {
+        "id": 10056,
+        "name": "in-field enemy"
+      },
+      {
+        "id": 12348,
+        "name": "indisposable team"
+      }
+    ],
+    "name": "Evolution: The World of Sacred Device",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.0,
+    "screenshots": [
+      {
+        "id": 269043,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 23132,
+        "height": 480,
+        "image_id": "sc5rlf",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5rlf.jpg",
+        "width": 640
+      },
+      {
+        "id": 269044,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 23132,
+        "height": 482,
+        "image_id": "sc5rlg",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5rlg.jpg",
+        "width": 640
+      },
+      {
+        "id": 269045,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 23132,
+        "height": 482,
+        "image_id": "sc5rlh",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5rlh.jpg",
+        "width": 642
+      },
+      {
+        "id": 269046,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 23132,
+        "height": 481,
+        "image_id": "sc5rli",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5rli.jpg",
+        "width": 641
+      }
+    ],
+    "slug": "evolution-the-world-of-sacred-device",
+    "summary": "Evolution is a dungeon crawling game that follows the adventures of Mag Launcher. Mag Launcher and his companions use Cyframes, technology discovered in ancient ruins. These Cyframes are sought after by adventurers who explore caverns to find them. \n \nCombat in Evolution is non-random and occurs whenever the character touches an enemy. The battle system uses 3D graphics and is turn-based, with each individual combatant having their own turn."
+  }
+]

@@ -1,0 +1,107 @@
+---
+view: game
+layout: game
+author: reicast
+created_at: 2018-03-25 09:00
+updated_at: 2019-05-02 09:00
+id: toy-story-2-buzz-lightyear-to-the-rescue
+title: "Toy Story 2 - Buzz Lightyear to the Rescue!"
+gamedb-issue: 0
+
+releases:
+  - id: "7DAF"
+    region: EU
+    version: "1.005"
+    discs: 1
+    medium: gdrom
+  - id: "EAE1"
+    region: US
+    version: "1.002"
+    discs: 1
+    medium: gdrom
+
+test-videos:
+  - fingerprint: "7DAF GD-ROM1/1 EU"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: bilFPm05RD4
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+  - fingerprint: "EAE1 GD-ROM1/1 US"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: E9VpSMbxO6g
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+
+gotIGDBGame: 1
+idIGDB: 3619
+age_ratings:
+  - id: 12007
+    rating: 8
+aggregated_rating: 65.0
+aggregated_rating_count: 1
+cover:
+  - id: 16031
+    game: 3619
+    height: 613
+    image_id: "jpg5xmq4fcyvrzp3tq9o"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/jpg5xmq4fcyvrzp3tq9o.jpg"
+    width: 550
+first_release_date: 943920000
+game_modes:
+  - "Single player"
+categories:
+  - "Platform"
+tags:
+  - "toys"
+  - "superhero"
+name: "Toy Story 2: Buzz Lightyear to the Rescue"
+player_perspectives:
+  - "Third person"
+popularity: 4.179021723677498
+screenshots:
+  - id: 25432
+    game: 3619
+    height: 720
+    image_id: "tgtp8xme7tx5sguwn0y6"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/tgtp8xme7tx5sguwn0y6.jpg"
+    width: 1280
+  - id: 41216
+    game: 3619
+    height: 768
+    image_id: "cl9xk7a4day4sogbdcjr"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/cl9xk7a4day4sogbdcjr.jpg"
+    width: 1024
+  - id: 41217
+    game: 3619
+    height: 768
+    image_id: "dioj3ypjoax2loxp9zus"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/dioj3ypjoax2loxp9zus.jpg"
+    width: 1024
+  - id: 41218
+    game: 3619
+    height: 768
+    image_id: "lvrdsfjeuo2o88so3bfa"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/lvrdsfjeuo2o88so3bfa.jpg"
+    width: 1024
+  - id: 41219
+    game: 3619
+    height: 480
+    image_id: "bbwfcilv5dsauoxjbvow"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/bbwfcilv5dsauoxjbvow.jpg"
+    width: 640
+slug: "toy-story-2-buzz-lightyear-to-the-rescue"
+storyline: "The game's plot follows that of the film pretty closely and like the film begins with the kidnapping of Woody by evil collector Al McWhiggin outside of Andy's house. The game then follows Buzz Lightyear and his companions as they set out to rescue the captured cowboy as the traverse the nearby neighborhood, Al's Toy Barn, Al's penthouse and finally the airport terminal and tarmac at the film's end."
+summary: "Woody has been stolen from the bedroom, ready to be sold to the highest bidder by an evil toy collector. It's up to good friend Buzz Lightyear to fight his way through from the bedroom to the outside world in order to save Woody from the toy market and bring him home. All of the character from the 3D animated movie appear through-out the side scroller to help Buzz get to where he is needed. Along with the use of his cannon, Buzz can jump to hard to reach places, also useful in collecting the hidden coins that open bonus levels."
+videos:
+  - id: 19385
+    game: 3619
+    name: "Trailer"
+    video_id: "NaN2rltzyUA"
+  - id: 19386
+    game: 3619
+    name: "Gameplay video"
+    video_id: "D3VOkNtzHsw"
+
+---

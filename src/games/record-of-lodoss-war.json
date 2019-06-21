@@ -1,0 +1,82 @@
+[
+  {
+    "view": "game",
+    "layout": "game",
+    "author": "reicast",
+    "created_at": "2018-03-25 09:00",
+    "updated_at": "2019-05-02 09:00",
+    "id": "record-of-lodoss-war",
+    "title": "Record of Lodoss War",
+    "gamedb-issue": 0,
+    "releases": [
+      {
+        "id": "31A8",
+        "region": "US",
+        "version": "1.001",
+        "discs": 1,
+        "medium": "gdrom"
+      },
+      {
+        "id": "5167",
+        "region": "EU",
+        "version": "1.001",
+        "discs": 1,
+        "medium": "gdrom"
+      },
+      {
+        "id": "132D",
+        "region": "EU",
+        "version": "1.000",
+        "discs": 1,
+        "medium": "gdrom"
+      }
+    ],
+    "test-videos": [
+      {
+        "fingerprint": "31A8 GD-ROM1/1 US",
+        "title": "Intro auto run",
+        "hw": "i7 2720qm, GeForce 540M",
+        "yt": "JcLnUhJd7kA",
+        "git": "d59197f84353d7d2b746383e9277d9ed7c8c4053",
+        "platform": "win86-release"
+      },
+      {
+        "fingerprint": "5167 GD-ROM1/1 EU",
+        "title": "Intro auto run",
+        "hw": "i7 2720qm, GeForce 540M",
+        "yt": "WAcJWr3Au_Q",
+        "git": "d59197f84353d7d2b746383e9277d9ed7c8c4053",
+        "platform": "win86-release"
+      },
+      {
+        "fingerprint": "132D GD-ROM1/1 EU",
+        "title": "Intro auto run",
+        "hw": "i7 2720qm, GeForce 540M",
+        "yt": "8FWgzzxlGvM",
+        "git": "d59197f84353d7d2b746383e9277d9ed7c8c4053",
+        "platform": "win86-release"
+      }
+    ],
+    "gotIGDBGame": 1,
+    "idIGDB": 47496,
+    "cover": [
+      {
+        "id": 27108,
+        "game": 47496,
+        "height": 1865,
+        "image_id": "iaks9jugycnntp2dfbfk",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/iaks9jugycnntp2dfbfk.jpg",
+        "width": 1362
+      }
+    ],
+    "first_release_date": 602208000,
+    "categories": [
+      "Role-playing (RPG)"
+    ],
+    "name": "Record of Lodoss War",
+    "popularity": 1.647899711648724,
+    "slug": "record-of-lodoss-war",
+    "summary": "Experience the world of Record of Lodoss War up close and personal in an epic 3D Action/RPG. Take control of a mysterious warrior from the past, resurrected to save the future, on a colossal quest filled with pulse-pounding action and high adventure. Join forces with popular characters from the Lodoss universe and combat hundreds of vicious enemies with dozens of spectacular spells. \nThe MSX version was never released out of Japan."
+  },
+  null
+]

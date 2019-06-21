@@ -1,0 +1,68 @@
+---
+view: game
+layout: game
+author: reicast
+created_at: 2018-03-25 09:00
+updated_at: 2019-05-02 09:00
+id: who-wants-to-be-a-millionaire
+title: "Who Wants to Be a Millionaire"
+gamedb-issue: 0
+
+releases:
+  - id: "4E8B"
+    region: EU
+    version: "1.000"
+    discs: 1
+    medium: gdrom
+
+test-videos:
+  - fingerprint: "4E8B GD-ROM1/1 EU"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: 8bUelwKiteg
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+
+gotIGDBGame: 1
+idIGDB: 243
+aggregated_rating: 60.0
+aggregated_rating_count: 1
+cover:
+  - id: 236
+    game: 243
+    height: 726
+    image_id: "myncdjb45xmxxk97rbhg"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/myncdjb45xmxxk97rbhg.jpg"
+    width: 600
+first_release_date: 943315200
+game_modes:
+  - "Single player"
+  - "Multiplayer"
+categories:
+  - "Strategy"
+  - "Quiz/Trivia"
+tags:
+  - "game show"
+  - "time limit"
+  - "trivia"
+  - "strategy"
+  - "trivia/board game"
+  - "countdown timer"
+  - "bink video"
+  - "adapted from television"
+  - "game titles that are also questions"
+  - "paper money"
+  - "e3 2000"
+name: "Who Wants to Be a Millionaire?"
+player_perspectives:
+  - "Side view"
+popularity: 1.637317448009249
+slug: "who-wants-to-be-a-millionaire"
+summary: "You're in the Hot Seat! You have 15 questions and 3 lifelines. This is just like the TV Show!"
+videos:
+  - id: 498
+    game: 243
+    name: "Gameplay video"
+    video_id: "7bqPpQWFlK8"
+
+---

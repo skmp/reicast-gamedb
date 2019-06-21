@@ -1,0 +1,45 @@
+[
+  {
+    "id": 78078,
+    "cover": {
+      "id": 56277,
+      "game": 78078,
+      "height": 338,
+      "image_id": "tf2nukgmu4cyepnx0dcm",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/tf2nukgmu4cyepnx0dcm.jpg",
+      "width": 342
+    },
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 26,
+        "name": "Quiz/Trivia"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 666,
+        "name": "shogi"
+      },
+      {
+        "id": 1148,
+        "name": "simulation"
+      },
+      {
+        "id": 2601,
+        "name": "trivia"
+      },
+      {
+        "id": 4139,
+        "name": "trivia/board game"
+      }
+    ],
+    "name": "Net Versus Shogi",
+    "popularity": 1.0,
+    "slug": "net-versus-shogi",
+    "summary": "Net Versus Shogi is a game for the Dreamcast."
+  }
+]

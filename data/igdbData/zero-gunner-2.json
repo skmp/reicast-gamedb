@@ -1,0 +1,164 @@
+[
+  {
+    "id": 21014,
+    "age_ratings": [
+      {
+        "id": 20642,
+        "rating": 8
+      }
+    ],
+    "aggregated_rating": 75.0,
+    "aggregated_rating_count": 1,
+    "cover": {
+      "id": 22152,
+      "game": 21014,
+      "height": 430,
+      "image_id": "zbuaoi4tbhqy0cvlomis",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/zbuaoi4tbhqy0cvlomis.jpg",
+      "width": 301
+    },
+    "first_release_date": 988675200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 166,
+        "name": "shoot \u0027em up"
+      },
+      {
+        "id": 4286,
+        "name": "character select screen"
+      },
+      {
+        "id": 9076,
+        "name": "sega naomi"
+      }
+    ],
+    "name": "Zero Gunner 2",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view"
+      }
+    ],
+    "popularity": 1.848320018764188,
+    "screenshots": [
+      {
+        "id": 179273,
+        "game": 21014,
+        "height": 720,
+        "image_id": "zvkumbvwfkdy1urixdi2",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/zvkumbvwfkdy1urixdi2.jpg",
+        "width": 1280
+      },
+      {
+        "id": 179274,
+        "game": 21014,
+        "height": 720,
+        "image_id": "fipt8uk1au9ooi0zrr53",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fipt8uk1au9ooi0zrr53.jpg",
+        "width": 1280
+      },
+      {
+        "id": 179275,
+        "game": 21014,
+        "height": 720,
+        "image_id": "gtqbrkd7rlla6fp9j8di",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/gtqbrkd7rlla6fp9j8di.jpg",
+        "width": 1280
+      },
+      {
+        "id": 179276,
+        "game": 21014,
+        "height": 720,
+        "image_id": "dzjkbu6phb0mfy5uhva3",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/dzjkbu6phb0mfy5uhva3.jpg",
+        "width": 1280
+      },
+      {
+        "id": 179277,
+        "game": 21014,
+        "height": 720,
+        "image_id": "var7fwagh6vbeawn5ony",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/var7fwagh6vbeawn5ony.jpg",
+        "width": 1280
+      },
+      {
+        "id": 179278,
+        "game": 21014,
+        "height": 720,
+        "image_id": "ztg8p1fpinlx2sgjasjv",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ztg8p1fpinlx2sgjasjv.jpg",
+        "width": 1280
+      },
+      {
+        "id": 179279,
+        "game": 21014,
+        "height": 720,
+        "image_id": "zrscglefgppftx5p2ssj",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/zrscglefgppftx5p2ssj.jpg",
+        "width": 1280
+      },
+      {
+        "id": 179280,
+        "game": 21014,
+        "height": 720,
+        "image_id": "ptg1qjyzjjv9z6vwixef",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ptg1qjyzjjv9z6vwixef.jpg",
+        "width": 1280
+      },
+      {
+        "id": 179281,
+        "game": 21014,
+        "height": 720,
+        "image_id": "s4nq6bj4hhbrjcvvyc0p",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/s4nq6bj4hhbrjcvvyc0p.jpg",
+        "width": 1280
+      },
+      {
+        "id": 179282,
+        "game": 21014,
+        "height": 720,
+        "image_id": "uate652ljh3n3dyhvrss",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/uate652ljh3n3dyhvrss.jpg",
+        "width": 1280
+      },
+      {
+        "id": 179283,
+        "game": 21014,
+        "height": 720,
+        "image_id": "ympriqxohtr1nlvmujog",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ympriqxohtr1nlvmujog.jpg",
+        "width": 1280
+      },
+      {
+        "id": 179284,
+        "game": 21014,
+        "height": 720,
+        "image_id": "hmer0hsga22xyeuihsjb",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hmer0hsga22xyeuihsjb.jpg",
+        "width": 1280
+      }
+    ],
+    "slug": "zero-gunner-2",
+    "summary": "In the near future, scientists working for the powerful Asian conglomerate known as Igem have discovered a new energy source. Refusing to share their technique with the rest of the world, Igem eventually developed a weather control machine named ONI, which they intend to use for the purpose of global domination. A squadron of ace helicopter pilots, called Zero Gunner, is assembled to destroy ONI - but Igem fights back with everything they\u0027ve got... \n \nZero Gunner 2 is a top-down shooter. All backdrops and vehicles in this game are modelled in 3D, though the gameplay mostly follows the conventions of 2D shooters. Since your craft is a helicopter, a \"target and spin\" feature has been added, whereby you can both rotate your craft to attack an enemy more efficiently, or alternatively lock on a particular point in space and rotate around it while still firing. These actions are not automatically executed, and are controlled by the player; in order to succeed, mastering this feature is imperative. \n \nThe usual power-ups and boss enemy battles are included in the game, along with a selection of helicopters to choose from."
+  }
+]

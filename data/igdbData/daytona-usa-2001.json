@@ -1,0 +1,25 @@
+[
+  {
+    "id": 22007,
+    "aggregated_rating": 70.0,
+    "aggregated_rating_count": 1,
+    "cover": {
+      "id": 64649,
+      "game": 22007,
+      "height": 500,
+      "image_id": "ermairsmbjyserkfen5a",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/ermairsmbjyserkfen5a.jpg",
+      "width": 499
+    },
+    "first_release_date": 989539200,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "name": "Daytona USA 2001",
+    "popularity": 1.0,
+    "slug": "daytona-usa-2001"
+  }
+]

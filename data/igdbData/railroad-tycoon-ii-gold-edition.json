@@ -1,0 +1,24 @@
+[
+  {
+    "id": 45834,
+    "cover": {
+      "id": 28048,
+      "game": 45834,
+      "height": 1350,
+      "image_id": "di61uqawxk0czjsv8ikb",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/di61uqawxk0czjsv8ikb.jpg",
+      "width": 1342
+    },
+    "first_release_date": 964915200,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "name": "Railroad Tycoon II: Gold Edition",
+    "popularity": 1.0,
+    "slug": "railroad-tycoon-ii-gold-edition",
+    "summary": "Establish yourself as a mogul to be reckoned with as you work your way up the ranks of the railway industry in this strategy game. Expand your domain across continents and a changing global marketplace. \n \nBuild the Transcontinental Railway or the Orient Express. Run Steam train through the jungles of Africa, or electric trains through the Swiss Alps. Run your competitors out of town on a rail. \n \nAn 18 scenario campaign lets you re-create history\u0027s greatest railroading feats and failures"
+  }
+]

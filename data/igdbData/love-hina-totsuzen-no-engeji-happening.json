@@ -1,0 +1,54 @@
+[
+  {
+    "id": 46375,
+    "cover": {
+      "id": 50533,
+      "game": 46375,
+      "height": 640,
+      "image_id": "mo6dv2st7vgbtts1orhg",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/mo6dv2st7vgbtts1orhg.jpg",
+      "width": 640
+    },
+    "first_release_date": 972691200,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 78,
+        "name": "anime"
+      },
+      {
+        "id": 2824,
+        "name": "harem"
+      },
+      {
+        "id": 4141,
+        "name": "games based on anime"
+      },
+      {
+        "id": 4142,
+        "name": "licensed game"
+      },
+      {
+        "id": 4406,
+        "name": "love triangle"
+      },
+      {
+        "id": 5394,
+        "name": "tsundere"
+      },
+      {
+        "id": 11537,
+        "name": "naru punch"
+      }
+    ],
+    "name": "Love Hina: Totsuzen no Engeji Happening",
+    "popularity": 1.0,
+    "slug": "love-hina-totsuzen-no-engeji-happening",
+    "summary": "There is a new girl in the Hinata Sou. Her name is Fujisawa Mizuho and she is a Tokyo University Student. She is asked by Keitarou-kun\u0027s grandmother to become a tutor for Keitarou-kun. If Keitarou-kun fail to pass the coming Entrance Exam for Tokyo University, Mizuho-chan says that she will take the responsibility for it and marry Keitarou-kun."
+  }
+]

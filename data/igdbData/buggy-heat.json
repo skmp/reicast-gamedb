@@ -1,0 +1,26 @@
+[
+  {
+    "id": 45791,
+    "first_release_date": 939427200,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "name": "Buggy Heat",
+    "popularity": 1.424928495992694,
+    "screenshots": [
+      {
+        "id": 112433,
+        "game": 45791,
+        "height": 540,
+        "image_id": "kp6j7grorcd0ucjlp32l",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/kp6j7grorcd0ucjlp32l.jpg",
+        "width": 960
+      }
+    ],
+    "slug": "buggy-heat",
+    "summary": "Ladies and Gentlemen, get ready for the biggest and wildest race of your life... Get behind the wheel of a 4x4 off road vehicle and prepare to battle your way through various challenging courses from all over the world. Save your \u0027Artificial Intelligence\u0027 skill level and challenge your opponents\u0027 best times, or simply go head to head on the toughest maddest, off road racer to hit any console ever."
+  }
+]

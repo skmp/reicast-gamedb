@@ -1,0 +1,606 @@
+[
+  {
+    "id": 8247,
+    "age_ratings": [
+      {
+        "id": 19609,
+        "rating": 10
+      },
+      {
+        "id": 19610,
+        "rating": 3
+      }
+    ],
+    "aggregated_rating": 80.0,
+    "aggregated_rating_count": 4,
+    "cover": {
+      "id": 29511,
+      "game": 8247,
+      "height": 350,
+      "image_id": "zalh5layhxg5pkigl7r8",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/zalh5layhxg5pkigl7r8.jpg",
+      "width": 250
+    },
+    "first_release_date": 949363200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 14,
+        "name": "super hero"
+      },
+      {
+        "id": 61,
+        "name": "martial arts"
+      },
+      {
+        "id": 107,
+        "name": "fighting"
+      },
+      {
+        "id": 296,
+        "name": "fantasy"
+      },
+      {
+        "id": 301,
+        "name": "health"
+      },
+      {
+        "id": 668,
+        "name": "marvel"
+      },
+      {
+        "id": 872,
+        "name": "shadow"
+      },
+      {
+        "id": 977,
+        "name": "hand-to-hand combat"
+      },
+      {
+        "id": 1075,
+        "name": "crossover"
+      },
+      {
+        "id": 1186,
+        "name": "multiple protagonists"
+      },
+      {
+        "id": 1231,
+        "name": "karate"
+      },
+      {
+        "id": 1293,
+        "name": "achievements"
+      },
+      {
+        "id": 1322,
+        "name": "mutants"
+      },
+      {
+        "id": 1333,
+        "name": "online"
+      },
+      {
+        "id": 1440,
+        "name": "artificial intelligence"
+      },
+      {
+        "id": 1503,
+        "name": "custom soundtrack"
+      },
+      {
+        "id": 2152,
+        "name": "high score"
+      },
+      {
+        "id": 2387,
+        "name": "superhero"
+      },
+      {
+        "id": 2543,
+        "name": "playstation network"
+      },
+      {
+        "id": 3486,
+        "name": "boss fight"
+      },
+      {
+        "id": 3540,
+        "name": "comic book"
+      },
+      {
+        "id": 3833,
+        "name": "bosses"
+      },
+      {
+        "id": 4134,
+        "name": "digital distribution"
+      },
+      {
+        "id": 4161,
+        "name": "jump"
+      },
+      {
+        "id": 4162,
+        "name": "anthropomorphism"
+      },
+      {
+        "id": 4163,
+        "name": "sprite"
+      },
+      {
+        "id": 4179,
+        "name": "throwing weapons"
+      },
+      {
+        "id": 4187,
+        "name": "mask"
+      },
+      {
+        "id": 4245,
+        "name": "playstation trophies"
+      },
+      {
+        "id": 4266,
+        "name": "alternate costumes"
+      },
+      {
+        "id": 4286,
+        "name": "character select screen"
+      },
+      {
+        "id": 4287,
+        "name": "voice acting"
+      },
+      {
+        "id": 4294,
+        "name": "game title announcer"
+      },
+      {
+        "id": 4302,
+        "name": "fireball"
+      },
+      {
+        "id": 4359,
+        "name": "polygonal 3d"
+      },
+      {
+        "id": 4386,
+        "name": "double jump"
+      },
+      {
+        "id": 4393,
+        "name": "explosives"
+      },
+      {
+        "id": 4405,
+        "name": "transforming boss"
+      },
+      {
+        "id": 4417,
+        "name": "claw"
+      },
+      {
+        "id": 4446,
+        "name": "gun"
+      },
+      {
+        "id": 4544,
+        "name": "unlockables"
+      },
+      {
+        "id": 4565,
+        "name": "pirate ship"
+      },
+      {
+        "id": 4566,
+        "name": "fist"
+      },
+      {
+        "id": 4574,
+        "name": "headband"
+      },
+      {
+        "id": 4622,
+        "name": "descendants of other characters"
+      },
+      {
+        "id": 4673,
+        "name": "spandex"
+      },
+      {
+        "id": 4742,
+        "name": "team-up attacks"
+      },
+      {
+        "id": 4804,
+        "name": "tag teaming"
+      },
+      {
+        "id": 4805,
+        "name": "comic book character"
+      },
+      {
+        "id": 4809,
+        "name": "karate gi"
+      },
+      {
+        "id": 4866,
+        "name": "slashing weapons"
+      },
+      {
+        "id": 4890,
+        "name": "xbox live"
+      },
+      {
+        "id": 4891,
+        "name": "melee"
+      },
+      {
+        "id": 4903,
+        "name": "grapple"
+      },
+      {
+        "id": 4907,
+        "name": "gloves"
+      },
+      {
+        "id": 4958,
+        "name": "game over"
+      },
+      {
+        "id": 4983,
+        "name": "revealing attire"
+      },
+      {
+        "id": 5201,
+        "name": "shun goku satsu"
+      },
+      {
+        "id": 5296,
+        "name": "japanese games based on western ips"
+      },
+      {
+        "id": 5323,
+        "name": "mercenary"
+      },
+      {
+        "id": 5354,
+        "name": "combo"
+      },
+      {
+        "id": 5361,
+        "name": "enemy health indicator"
+      },
+      {
+        "id": 5394,
+        "name": "tsundere"
+      },
+      {
+        "id": 5396,
+        "name": "shoto-clone"
+      },
+      {
+        "id": 5398,
+        "name": "evo championship series"
+      },
+      {
+        "id": 5440,
+        "name": "projectiles"
+      },
+      {
+        "id": 5503,
+        "name": "rocket"
+      },
+      {
+        "id": 5581,
+        "name": "spider web"
+      },
+      {
+        "id": 5634,
+        "name": "shoes"
+      },
+      {
+        "id": 5721,
+        "name": "charge"
+      },
+      {
+        "id": 5782,
+        "name": "tie-in"
+      },
+      {
+        "id": 5851,
+        "name": "genius-level intellect"
+      },
+      {
+        "id": 5891,
+        "name": "juggling"
+      },
+      {
+        "id": 5894,
+        "name": "hadouken"
+      },
+      {
+        "id": 5895,
+        "name": "negative edge"
+      },
+      {
+        "id": 5897,
+        "name": "animation canceling"
+      },
+      {
+        "id": 5898,
+        "name": "chip damage"
+      },
+      {
+        "id": 5907,
+        "name": "air dash"
+      },
+      {
+        "id": 5908,
+        "name": "versus screen"
+      },
+      {
+        "id": 5912,
+        "name": "charge character"
+      },
+      {
+        "id": 5913,
+        "name": "divekick"
+      },
+      {
+        "id": 5918,
+        "name": "ansatsuken"
+      },
+      {
+        "id": 5920,
+        "name": "fingerless gloves"
+      },
+      {
+        "id": 5991,
+        "name": "izuna drop"
+      },
+      {
+        "id": 6015,
+        "name": "multi-species roster"
+      },
+      {
+        "id": 6016,
+        "name": "assist"
+      },
+      {
+        "id": 6036,
+        "name": "voice chat"
+      },
+      {
+        "id": 6100,
+        "name": "mirror match"
+      },
+      {
+        "id": 6104,
+        "name": "launching enemies into the air"
+      },
+      {
+        "id": 6146,
+        "name": "spin attack"
+      },
+      {
+        "id": 6189,
+        "name": "meme origin"
+      },
+      {
+        "id": 6351,
+        "name": "power armor"
+      },
+      {
+        "id": 6365,
+        "name": "porting"
+      },
+      {
+        "id": 6385,
+        "name": "fan service"
+      },
+      {
+        "id": 6496,
+        "name": "grappler"
+      },
+      {
+        "id": 6504,
+        "name": "rushdown"
+      },
+      {
+        "id": 6517,
+        "name": "summer of arcade"
+      },
+      {
+        "id": 6537,
+        "name": "in-game moves list"
+      },
+      {
+        "id": 6784,
+        "name": "super meter"
+      },
+      {
+        "id": 6852,
+        "name": "superpowers"
+      },
+      {
+        "id": 7195,
+        "name": "hidden character"
+      },
+      {
+        "id": 7333,
+        "name": "powerless superheroes"
+      },
+      {
+        "id": 7389,
+        "name": "alien protagonist"
+      },
+      {
+        "id": 7486,
+        "name": "retro graphics toggle"
+      },
+      {
+        "id": 7593,
+        "name": "trilogy"
+      },
+      {
+        "id": 7640,
+        "name": "joke character"
+      },
+      {
+        "id": 8133,
+        "name": "tea-bagging"
+      },
+      {
+        "id": 8290,
+        "name": "wavedash"
+      },
+      {
+        "id": 8670,
+        "name": "cryokinesis"
+      },
+      {
+        "id": 8874,
+        "name": "kunoichi"
+      },
+      {
+        "id": 9035,
+        "name": "green herb"
+      },
+      {
+        "id": 9076,
+        "name": "sega naomi"
+      },
+      {
+        "id": 9360,
+        "name": "ranked match"
+      },
+      {
+        "id": 9456,
+        "name": "sentinel"
+      },
+      {
+        "id": 9474,
+        "name": "adamantium"
+      },
+      {
+        "id": 9865,
+        "name": "universal chain combo"
+      },
+      {
+        "id": 10009,
+        "name": "air combo"
+      },
+      {
+        "id": 10200,
+        "name": "characters without pupils"
+      },
+      {
+        "id": 10714,
+        "name": "blodia"
+      },
+      {
+        "id": 11057,
+        "name": "infinite combo"
+      },
+      {
+        "id": 11058,
+        "name": "super armor"
+      },
+      {
+        "id": 11118,
+        "name": "pre-match movement"
+      },
+      {
+        "id": 11380,
+        "name": "snk boss syndrome"
+      },
+      {
+        "id": 11631,
+        "name": "vmu support"
+      },
+      {
+        "id": 11875,
+        "name": "post-match movement"
+      },
+      {
+        "id": 11876,
+        "name": "hyper combo"
+      },
+      {
+        "id": 11877,
+        "name": "tyrant"
+      },
+      {
+        "id": 12542,
+        "name": "infinity gauntlet"
+      },
+      {
+        "id": 12845,
+        "name": "latex"
+      },
+      {
+        "id": 12953,
+        "name": "e3 2009"
+      },
+      {
+        "id": 13117,
+        "name": "e3 2002"
+      },
+      {
+        "id": 13137,
+        "name": "summer of arcade 2009"
+      },
+      {
+        "id": 13295,
+        "name": "xbox 360 backwards compatibility"
+      },
+      {
+        "id": 14667,
+        "name": "gustaff"
+      },
+      {
+        "id": 17463,
+        "name": "fighting game"
+      },
+      {
+        "id": 22646,
+        "name": "marvel vs. capcom 2"
+      },
+      {
+        "id": 22647,
+        "name": "marvel vs. capcom 2 game"
+      },
+      {
+        "id": 22648,
+        "name": "head-to-head"
+      }
+    ],
+    "name": "Marvel vs. Capcom 2: New Age of Heroes",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "popularity": 2.483543471049499,
+    "slug": "marvel-vs-capcom-2-new-age-of-heroes",
+    "summary": "Marvel vs. Capcom 2: New Age of Heroes is a fighting game, developed and published by Capcom. It is the fourth game in the Marvel vs. Capcom series of fighting games. With the fourth installment of this series, Capcom simplified the player controls to make the gameplay more accessible to the wider audience of casual players. The button configuration was trimmed down to 4 main buttons and 2 assist buttons. The game also features a different air-combo system and 3 on 3 tag, compared to the 2 on 2 tag from previous games in the series."
+  }
+]

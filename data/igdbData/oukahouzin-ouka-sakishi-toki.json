@@ -1,0 +1,23 @@
+[
+  {
+    "id": 77528,
+    "cover": {
+      "id": 60394,
+      "game": 77528,
+      "height": 600,
+      "image_id": "fonkwutthfj34xbkgz3f",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/fonkwutthfj34xbkgz3f.jpg",
+      "width": 603
+    },
+    "keywords": [
+      {
+        "id": 1026,
+        "name": "role playing"
+      }
+    ],
+    "name": "Oukahouzin: Ouka Sakishi Toki",
+    "popularity": 1.0,
+    "slug": "oukahouzin-ouka-sakishi-toki",
+    "summary": "simulation Role-playing game for the Sega Dreamcast."
+  }
+]

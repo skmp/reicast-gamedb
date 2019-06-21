@@ -1,0 +1,214 @@
+[
+  {
+    "id": 12817,
+    "age_ratings": [
+      {
+        "id": 17930,
+        "rating": 1
+      },
+      {
+        "id": 17931,
+        "rating": 8
+      }
+    ],
+    "cover": {
+      "id": 12528,
+      "game": 12817,
+      "height": 668,
+      "image_id": "n0rghjrihciipsk4eapa",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/n0rghjrihciipsk4eapa.jpg",
+      "width": 640
+    },
+    "first_release_date": 694137600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 25,
+        "name": "vehicular combat"
+      },
+      {
+        "id": 125,
+        "name": "based on a tv series"
+      },
+      {
+        "id": 217,
+        "name": "cartoon"
+      },
+      {
+        "id": 669,
+        "name": "frog"
+      },
+      {
+        "id": 1098,
+        "name": "water"
+      },
+      {
+        "id": 1299,
+        "name": "time limit"
+      },
+      {
+        "id": 1739,
+        "name": "missile"
+      },
+      {
+        "id": 1756,
+        "name": "snakes"
+      },
+      {
+        "id": 1783,
+        "name": "car"
+      },
+      {
+        "id": 1935,
+        "name": "dog"
+      },
+      {
+        "id": 2049,
+        "name": "platformer"
+      },
+      {
+        "id": 2115,
+        "name": "mad scientist"
+      },
+      {
+        "id": 3079,
+        "name": "8-bit"
+      },
+      {
+        "id": 3297,
+        "name": "spikes"
+      },
+      {
+        "id": 3425,
+        "name": "driving-simulator"
+      },
+      {
+        "id": 3627,
+        "name": "vehicle combat"
+      },
+      {
+        "id": 3833,
+        "name": "bosses"
+      },
+      {
+        "id": 4142,
+        "name": "licensed game"
+      },
+      {
+        "id": 4157,
+        "name": "driving/racing"
+      },
+      {
+        "id": 4162,
+        "name": "anthropomorphism"
+      },
+      {
+        "id": 4205,
+        "name": "motorsports"
+      },
+      {
+        "id": 4216,
+        "name": "finish line"
+      },
+      {
+        "id": 4289,
+        "name": "extra life"
+      },
+      {
+        "id": 4329,
+        "name": "cat"
+      },
+      {
+        "id": 4350,
+        "name": "bomb"
+      },
+      {
+        "id": 4379,
+        "name": "adapted from television"
+      },
+      {
+        "id": 4392,
+        "name": "bow"
+      },
+      {
+        "id": 4763,
+        "name": "bone"
+      },
+      {
+        "id": 4840,
+        "name": "crystal"
+      },
+      {
+        "id": 4846,
+        "name": "heart"
+      },
+      {
+        "id": 4991,
+        "name": "secret area"
+      },
+      {
+        "id": 5293,
+        "name": "boulder"
+      },
+      {
+        "id": 5331,
+        "name": "cel-shading"
+      },
+      {
+        "id": 5876,
+        "name": "starting grid"
+      },
+      {
+        "id": 5966,
+        "name": "boss pattern"
+      },
+      {
+        "id": 6185,
+        "name": "kart racer"
+      },
+      {
+        "id": 6899,
+        "name": "weight"
+      },
+      {
+        "id": 12703,
+        "name": "quicksand"
+      }
+    ],
+    "name": "Wacky Races",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "popularity": 1.0,
+    "screenshots": [
+      {
+        "id": 15844,
+        "game": 12817,
+        "height": 256,
+        "image_id": "palkhw5frva03v6m3pzl",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/palkhw5frva03v6m3pzl.jpg",
+        "width": 320
+      }
+    ],
+    "slug": "wacky-races",
+    "summary": "You take on the role of Dastardly and Mutley from the Hanna-Barbera cartoon series in this action title with superficial racing overtones. Your aim is to complete each course in a particular position, which is achieved either by waiting for them to suffer enough damage to drop out of the race, or by inflicting that damage yourself. Your car is armed with a forward-shooting arrow to impale the opposition cars, and deal with the many hazards the races throw at you, including boulders and rabbits, which can be taken out for points."
+  }
+]

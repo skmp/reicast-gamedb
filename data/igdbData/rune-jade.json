@@ -1,0 +1,23 @@
+[
+  {
+    "id": 77572,
+    "cover": {
+      "id": 60406,
+      "game": 77572,
+      "height": 599,
+      "image_id": "qyn5u7xospxdson8jdsw",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/qyn5u7xospxdson8jdsw.jpg",
+      "width": 602
+    },
+    "keywords": [
+      {
+        "id": 1026,
+        "name": "role playing"
+      }
+    ],
+    "name": "Rune Jade",
+    "popularity": 1.0,
+    "slug": "rune-jade",
+    "summary": "Role-playing game that supported the Dreamcast Keyboard."
+  }
+]

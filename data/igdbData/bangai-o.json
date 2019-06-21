@@ -1,0 +1,92 @@
+[
+  {
+    "id": 3443,
+    "age_ratings": [
+      {
+        "id": 20104,
+        "rating": 8
+      }
+    ],
+    "cover": {
+      "id": 64643,
+      "game": 3443,
+      "height": 500,
+      "image_id": "aufjyqp0acohpbubgx43",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/aufjyqp0acohpbubgx43.jpg",
+      "width": 497
+    },
+    "first_release_date": 936316800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 78,
+        "name": "anime"
+      },
+      {
+        "id": 167,
+        "name": "mech"
+      },
+      {
+        "id": 575,
+        "name": "robots"
+      },
+      {
+        "id": 1025,
+        "name": "shooter"
+      },
+      {
+        "id": 1058,
+        "name": "space battle"
+      },
+      {
+        "id": 1640,
+        "name": "space pirate"
+      },
+      {
+        "id": 2678,
+        "name": "fruit"
+      },
+      {
+        "id": 4795,
+        "name": "homing missile"
+      },
+      {
+        "id": 5116,
+        "name": "laser"
+      },
+      {
+        "id": 7690,
+        "name": "full-screen attack"
+      },
+      {
+        "id": 10211,
+        "name": "record breakers"
+      }
+    ],
+    "name": "Bangai-O",
+    "popularity": 1.866707866864504,
+    "screenshots": [
+      {
+        "id": 109187,
+        "game": 3443,
+        "height": 720,
+        "image_id": "wmkmho8sp6zs9mqpautd",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/wmkmho8sp6zs9mqpautd.jpg",
+        "width": 1280
+      }
+    ],
+    "slug": "bangai-o",
+    "summary": "In Bakuretsu Muteki Bangaioh, a multi-directional shooter video game developed by Treasure, two young mech-pilots, Riki and his sister Mami share command of the powerful humanoid-shaped Bangai-O and battle villains from the \"Cosmo Gang\", guilty of fruit contraband, and lots of gun turrets, bombs and robots through 44 levels."
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "id": 3370,
+    "age_ratings": [
+      {
+        "id": 1532,
+        "rating": 8
+      }
+    ],
+    "cover": {
+      "id": 3471,
+      "game": 3370,
+      "height": 334,
+      "image_id": "lfcqi6ehpf6gt952ahyq",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/lfcqi6ehpf6gt952ahyq.jpg",
+      "width": 256
+    },
+    "first_release_date": 915148800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 1098,
+        "name": "water"
+      },
+      {
+        "id": 1299,
+        "name": "time limit"
+      },
+      {
+        "id": 3912,
+        "name": "boost"
+      },
+      {
+        "id": 4157,
+        "name": "driving/racing"
+      },
+      {
+        "id": 4166,
+        "name": "bears"
+      },
+      {
+        "id": 4243,
+        "name": "penguins"
+      },
+      {
+        "id": 4282,
+        "name": "60 fps on consoles"
+      },
+      {
+        "id": 4294,
+        "name": "game title announcer"
+      },
+      {
+        "id": 4477,
+        "name": "cameo appearance"
+      },
+      {
+        "id": 4523,
+        "name": "launch titles"
+      },
+      {
+        "id": 4694,
+        "name": "lava"
+      },
+      {
+        "id": 5043,
+        "name": "laps"
+      },
+      {
+        "id": 5278,
+        "name": "commentary"
+      },
+      {
+        "id": 5302,
+        "name": "speed boost"
+      },
+      {
+        "id": 5362,
+        "name": "boat"
+      },
+      {
+        "id": 5602,
+        "name": "shortcut"
+      },
+      {
+        "id": 6765,
+        "name": "time trials"
+      },
+      {
+        "id": 6994,
+        "name": "buoy"
+      },
+      {
+        "id": 7522,
+        "name": "rocket start"
+      },
+      {
+        "id": 9529,
+        "name": "greatest hits"
+      },
+      {
+        "id": 10509,
+        "name": "speed boost arrows"
+      },
+      {
+        "id": 13119,
+        "name": "e3 1999"
+      },
+      {
+        "id": 13951,
+        "name": "playstation underground"
+      }
+    ],
+    "name": "Hydro Thunder",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 2.914015824998104,
+    "screenshots": [
+      {
+        "id": 111361,
+        "game": 3370,
+        "height": 692,
+        "image_id": "lkwrneynk7ymdvjausmd",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/lkwrneynk7ymdvjausmd.jpg",
+        "width": 1278
+      }
+    ],
+    "slug": "hydro-thunder",
+    "summary": "The gameplay of Hydro Thunder consists of racing high-tech speedboats through treacherous environments, from the cold seas of the Arctic Circle, to a post-apocalyptic, flooded version of New York City."
+  }
+]

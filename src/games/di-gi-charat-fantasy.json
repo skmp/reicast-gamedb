@@ -1,0 +1,37 @@
+[
+  {
+    "view": "game",
+    "layout": "game",
+    "author": "reicast",
+    "created_at": "2018-03-25 09:00",
+    "updated_at": "2019-05-02 09:00",
+    "id": "di-gi-charat-fantasy",
+    "title": "Di Gi Charat Fantasy",
+    "gamedb-issue": 0,
+    "releases": [
+      {
+        "id": "9F8E",
+        "region": "JP",
+        "version": "1.004",
+        "discs": 1,
+        "medium": "gdrom"
+      }
+    ],
+    "test-videos": [
+      {
+        "fingerprint": "9F8E GD-ROM1/1 JP",
+        "title": "Intro auto run",
+        "hw": "i7 2720qm, GeForce 540M",
+        "yt": "hzFEGvute2g",
+        "git": "d59197f84353d7d2b746383e9277d9ed7c8c4053",
+        "platform": "win86-release"
+      }
+    ],
+    "gotIGDBGame": 1,
+    "idIGDB": 109070,
+    "name": "Di Gi Charat Fantasy",
+    "popularity": 1,
+    "slug": "di-gi-charat-fantasy"
+  },
+  null
+]

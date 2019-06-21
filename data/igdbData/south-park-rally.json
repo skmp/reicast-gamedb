@@ -1,0 +1,126 @@
+[
+  {
+    "id": 1259,
+    "age_ratings": [
+      {
+        "id": 18894,
+        "rating": 11
+      }
+    ],
+    "cover": {
+      "id": 1252,
+      "game": 1259,
+      "height": 1411,
+      "image_id": "ax0eusnfcjvudv7wd037",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/ax0eusnfcjvudv7wd037.jpg",
+      "width": 1423
+    },
+    "first_release_date": 948153600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 1935,
+        "name": "dog"
+      },
+      {
+        "id": 4142,
+        "name": "licensed game"
+      },
+      {
+        "id": 4144,
+        "name": "power up"
+      },
+      {
+        "id": 4157,
+        "name": "driving/racing"
+      },
+      {
+        "id": 4329,
+        "name": "cat"
+      },
+      {
+        "id": 4481,
+        "name": "fart"
+      },
+      {
+        "id": 4678,
+        "name": "multiple characters on box art"
+      },
+      {
+        "id": 4919,
+        "name": "lgbt"
+      },
+      {
+        "id": 5730,
+        "name": "controversy"
+      },
+      {
+        "id": 5782,
+        "name": "tie-in"
+      },
+      {
+        "id": 6061,
+        "name": "e3 2000"
+      },
+      {
+        "id": 6185,
+        "name": "kart racer"
+      },
+      {
+        "id": 7016,
+        "name": "nazis"
+      }
+    ],
+    "name": "South Park Rally",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.848320018764188,
+    "screenshots": [
+      {
+        "id": 1314,
+        "game": 1259,
+        "height": 480,
+        "image_id": "mnyxcdci3biabhgpnztw",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mnyxcdci3biabhgpnztw.jpg",
+        "width": 640
+      },
+      {
+        "id": 1315,
+        "game": 1259,
+        "height": 1024,
+        "image_id": "nbaeei9acdi78uypmxet",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/nbaeei9acdi78uypmxet.jpg",
+        "width": 1280
+      }
+    ],
+    "slug": "south-park-rally",
+    "summary": "Choose your character from the cast of the popular \u0027mature\u0027 cartoon South Park, and tear through the streets in this racing game. Your character\u0027s vehicle may be a little cart, trike, or box, for example. Weapons include rockets, Salty Balls, Cheesy Poofs, the beloved Cow and even an Anal probe. All of the voices are also included, making it feel more like the real cartoon than a rally game. You can also play an all-on-all 4 player mode.",
+    "videos": [
+      {
+        "id": 859,
+        "game": 1259,
+        "name": "Trailer",
+        "video_id": "4c_8vGh4DO8"
+      }
+    ]
+  }
+]

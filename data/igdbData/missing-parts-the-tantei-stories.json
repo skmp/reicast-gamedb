@@ -1,0 +1,37 @@
+[
+  {
+    "id": 64674,
+    "cover": {
+      "id": 38239,
+      "game": 64674,
+      "height": 650,
+      "image_id": "ormlp089olgbffmnpifk",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/ormlp089olgbffmnpifk.jpg",
+      "width": 650
+    },
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 94,
+        "name": "visual novel"
+      },
+      {
+        "id": 1027,
+        "name": "adventure"
+      },
+      {
+        "id": 1669,
+        "name": "crime"
+      }
+    ],
+    "name": "Missing Parts: The Tantei Stories",
+    "popularity": 1.0,
+    "slug": "missing-parts-the-tantei-stories",
+    "summary": "The first entry in the cult classic adventure game series by F.O.G."
+  }
+]

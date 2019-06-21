@@ -1,0 +1,360 @@
+[
+  {
+    "id": 1388,
+    "age_ratings": [
+      {
+        "id": 1829,
+        "rating": 10
+      }
+    ],
+    "aggregated_rating": 80.0,
+    "aggregated_rating_count": 1,
+    "cover": {
+      "id": 21727,
+      "game": 1388,
+      "height": 640,
+      "image_id": "bfy5dsp3cq5oskimlhqn",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/bfy5dsp3cq5oskimlhqn.jpg",
+      "width": 552
+    },
+    "first_release_date": 940032000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 61,
+        "name": "martial arts"
+      },
+      {
+        "id": 78,
+        "name": "anime"
+      },
+      {
+        "id": 107,
+        "name": "fighting"
+      },
+      {
+        "id": 164,
+        "name": "ninja"
+      },
+      {
+        "id": 301,
+        "name": "health"
+      },
+      {
+        "id": 977,
+        "name": "hand-to-hand combat"
+      },
+      {
+        "id": 1231,
+        "name": "karate"
+      },
+      {
+        "id": 1427,
+        "name": "sushi"
+      },
+      {
+        "id": 1537,
+        "name": "expansion"
+      },
+      {
+        "id": 1985,
+        "name": "kung fu"
+      },
+      {
+        "id": 1986,
+        "name": "teleportation"
+      },
+      {
+        "id": 3486,
+        "name": "boss fight"
+      },
+      {
+        "id": 4161,
+        "name": "jump"
+      },
+      {
+        "id": 4239,
+        "name": "platform exclusive"
+      },
+      {
+        "id": 4266,
+        "name": "alternate costumes"
+      },
+      {
+        "id": 4286,
+        "name": "character select screen"
+      },
+      {
+        "id": 4359,
+        "name": "polygonal 3d"
+      },
+      {
+        "id": 4362,
+        "name": "system voice"
+      },
+      {
+        "id": 4369,
+        "name": "sexualized women"
+      },
+      {
+        "id": 4523,
+        "name": "launch titles"
+      },
+      {
+        "id": 4544,
+        "name": "unlockables"
+      },
+      {
+        "id": 4578,
+        "name": "motion blur"
+      },
+      {
+        "id": 4644,
+        "name": "breast bounce"
+      },
+      {
+        "id": 4804,
+        "name": "tag teaming"
+      },
+      {
+        "id": 4891,
+        "name": "melee"
+      },
+      {
+        "id": 4903,
+        "name": "grapple"
+      },
+      {
+        "id": 4921,
+        "name": "miniskirt"
+      },
+      {
+        "id": 4983,
+        "name": "revealing attire"
+      },
+      {
+        "id": 5187,
+        "name": "conveniently obscured nudity"
+      },
+      {
+        "id": 5304,
+        "name": "survival mode"
+      },
+      {
+        "id": 5354,
+        "name": "combo"
+      },
+      {
+        "id": 5891,
+        "name": "juggling"
+      },
+      {
+        "id": 5906,
+        "name": "gouraud shading"
+      },
+      {
+        "id": 5911,
+        "name": "wrestling moves in non-wrestling games"
+      },
+      {
+        "id": 5917,
+        "name": "muay thai"
+      },
+      {
+        "id": 5922,
+        "name": "qipao"
+      },
+      {
+        "id": 5942,
+        "name": "disembodied voice"
+      },
+      {
+        "id": 5991,
+        "name": "izuna drop"
+      },
+      {
+        "id": 6061,
+        "name": "e3 2000"
+      },
+      {
+        "id": 6104,
+        "name": "launching enemies into the air"
+      },
+      {
+        "id": 6117,
+        "name": "teenager"
+      },
+      {
+        "id": 6494,
+        "name": "button mashing"
+      },
+      {
+        "id": 6532,
+        "name": "spam"
+      },
+      {
+        "id": 6534,
+        "name": "the bruce lee game character"
+      },
+      {
+        "id": 6537,
+        "name": "in-game moves list"
+      },
+      {
+        "id": 7001,
+        "name": "bunny suit"
+      },
+      {
+        "id": 7074,
+        "name": "hair physics"
+      },
+      {
+        "id": 7154,
+        "name": "missing relative"
+      },
+      {
+        "id": 7345,
+        "name": "counter system"
+      },
+      {
+        "id": 8803,
+        "name": "pervert"
+      },
+      {
+        "id": 8844,
+        "name": "tomboy"
+      },
+      {
+        "id": 8874,
+        "name": "kunoichi"
+      },
+      {
+        "id": 9076,
+        "name": "sega naomi"
+      },
+      {
+        "id": 9339,
+        "name": "dark second act"
+      },
+      {
+        "id": 9529,
+        "name": "greatest hits"
+      },
+      {
+        "id": 11249,
+        "name": "blood type"
+      },
+      {
+        "id": 11765,
+        "name": "multi-tier combat"
+      },
+      {
+        "id": 11766,
+        "name": "jeet kune do"
+      },
+      {
+        "id": 11853,
+        "name": "games on which movies are based"
+      },
+      {
+        "id": 11953,
+        "name": "logo box art"
+      },
+      {
+        "id": 13119,
+        "name": "e3 1999"
+      },
+      {
+        "id": 13951,
+        "name": "playstation underground"
+      },
+      {
+        "id": 14110,
+        "name": "doatec"
+      },
+      {
+        "id": 15373,
+        "name": "interactive achievement awards 2001"
+      }
+    ],
+    "name": "Dead or Alive 2",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "popularity": 2.484560032837329,
+    "screenshots": [
+      {
+        "id": 3880,
+        "game": 1388,
+        "height": 480,
+        "image_id": "d9fqczvz5d9qsivp85jh",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/d9fqczvz5d9qsivp85jh.jpg",
+        "width": 640
+      },
+      {
+        "id": 40999,
+        "game": 1388,
+        "height": 1080,
+        "image_id": "arzr9fe5jkir5e6ogavy",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/arzr9fe5jkir5e6ogavy.jpg",
+        "width": 1920
+      },
+      {
+        "id": 41000,
+        "game": 1388,
+        "height": 1080,
+        "image_id": "bppwlfyncwmzacc0n9oq",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/bppwlfyncwmzacc0n9oq.jpg",
+        "width": 1920
+      },
+      {
+        "id": 41001,
+        "game": 1388,
+        "height": 337,
+        "image_id": "onjubtvzeqau5kqmvikr",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/onjubtvzeqau5kqmvikr.jpg",
+        "width": 450
+      },
+      {
+        "id": 41002,
+        "game": 1388,
+        "height": 337,
+        "image_id": "b2ffayzi1axvyybqfz82",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/b2ffayzi1axvyybqfz82.jpg",
+        "width": 450
+      }
+    ],
+    "slug": "dead-or-alive-2",
+    "summary": "Dead or Alive 2 is a fighting game in the Dead or Alive series. The gameplay of DOA2, and all subsequent Dead or Alive games, borrows heavily from the Virtua Fighter series, but makes some key changes that drastically changes the way Dead or Alive is played in comparison to Virtua Fighter. In DOA2, the basis of the entire fighting system is the circular relationship between three types of moves: holds, throws, and blows.The other defining feature of DOA2, aside from holds/throws/blows, is its stun system. In DOA2 many attacks upon hitting will inflict a stun on the opponent. While stunned, the opponent cannot attack, and cannot guard, but they can hold.",
+    "videos": [
+      {
+        "id": 1853,
+        "game": 1388,
+        "name": "Trailer",
+        "video_id": "tLJui1SrfZw"
+      }
+    ]
+  }
+]

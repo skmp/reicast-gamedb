@@ -1,0 +1,100 @@
+---
+view: game
+layout: game
+author: reicast
+created_at: 2018-03-25 09:00
+updated_at: 2019-05-02 09:00
+id: jet-set-radio
+title: "Jet Set Radio"
+gamedb-issue: 0
+
+releases:
+  - id: "E28E"
+    region: EU
+    version: "1.002"
+    discs: 1
+    medium: gdrom
+
+test-videos:
+  - fingerprint: "E28E GD-ROM1/1 EU"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: D00fotBIFkE
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+
+gotIGDBGame: 1
+idIGDB: 1569
+age_ratings:
+  - id: 6822
+    rating: 10
+  - id: 12189
+    rating: 3
+aggregated_rating: 80.0
+aggregated_rating_count: 4
+cover:
+  - id: 1547
+    game: 1569
+    height: 482
+    image_id: "seyzserqoknpfq8bzofv"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/seyzserqoknpfq8bzofv.jpg"
+    width: 480
+first_release_date: 962236800
+game_modes:
+  - "Single player"
+categories:
+  - "Platform"
+  - "Adventure"
+tags:
+  - "police"
+  - "inline skates"
+  - "adventure game"
+  - "action game"
+  - "strategy"
+  - "ps3"
+  - "jet set radio"
+  - "jet set radio game"
+name: "Jet Set Radio"
+player_perspectives:
+  - "Third person"
+popularity: 3.969120065674659
+screenshots:
+  - id: 1575
+    game: 1569
+    height: 353
+    image_id: "mnbpizsyzqju6v1m9gwa"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/mnbpizsyzqju6v1m9gwa.jpg"
+    width: 640
+  - id: 1576
+    game: 1569
+    height: 354
+    image_id: "gqklrms931eplfom6rb3"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/gqklrms931eplfom6rb3.jpg"
+    width: 640
+  - id: 1577
+    game: 1569
+    height: 352
+    image_id: "keu3nffvvhw19uauhfrk"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/keu3nffvvhw19uauhfrk.jpg"
+    width: 640
+  - id: 1578
+    game: 1569
+    height: 354
+    image_id: "umpslgdphbjij9ykbi79"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/umpslgdphbjij9ykbi79.jpg"
+    width: 640
+  - id: 1579
+    game: 1569
+    height: 353
+    image_id: "bx8z4svogptwyhcktcbd"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/bx8z4svogptwyhcktcbd.jpg"
+    width: 640
+slug: "jet-set-radio"
+summary: "The government is attempting to silence the kids of Tokyo, but with their Overdrive Magnetic-Motor Skating Shoes, the cops will have to catch 'em first. The Jet Grind Radio program keeps the kids unified and inspired to fight for their rights of expression, which includes graffiti art. Grab your spray cans and design your own piece on one of the immense walls in the 3D, interactive city. You might be forced to protect your territory from adversaries that want to take over your neighborhood. Join up with like-minded hip individuals that will help you keep your area the way you want it. The cops will be after you too, so you'll have to be quick. The 10 cartoon-style characters are pumped up with polygons so they come alive in 3D on Dreamcast. Uniqueness is key to these kids and each character stands apart with exclusive abilities and style. They like to show off too, and with 18 missions, there's plenty of time to impress. It's fast, it's fun, and it's definitely funky."
+videos:
+  - id: 998
+    game: 1569
+    name: "Trailer"
+    video_id: "ih2BoI0BH_Q"
+
+---

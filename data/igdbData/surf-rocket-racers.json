@@ -1,0 +1,33 @@
+[
+  {
+    "id": 45842,
+    "cover": {
+      "id": 53048,
+      "game": 45842,
+      "height": 640,
+      "image_id": "wt4co45jwz1ilzqtqldh",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/wt4co45jwz1ilzqtqldh.jpg",
+      "width": 640
+    },
+    "first_release_date": 985651200,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 4157,
+        "name": "driving/racing"
+      },
+      {
+        "id": 4558,
+        "name": "surfboard"
+      }
+    ],
+    "name": "Surf Rocket Racers",
+    "popularity": 1.0,
+    "slug": "surf-rocket-racers"
+  }
+]

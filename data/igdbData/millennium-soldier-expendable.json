@@ -1,0 +1,120 @@
+[
+  {
+    "id": 45816,
+    "age_ratings": [
+      {
+        "id": 18410,
+        "rating": 10
+      }
+    ],
+    "cover": {
+      "id": 51787,
+      "game": 45816,
+      "height": 477,
+      "image_id": "jmy5m8fhbtwx5yqde2a9",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/jmy5m8fhbtwx5yqde2a9.jpg",
+      "width": 469
+    },
+    "first_release_date": 939427200,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 3,
+        "name": "aliens"
+      },
+      {
+        "id": 69,
+        "name": "post-apocalyptic"
+      },
+      {
+        "id": 301,
+        "name": "health"
+      },
+      {
+        "id": 970,
+        "name": "sci-fi"
+      },
+      {
+        "id": 1025,
+        "name": "shooter"
+      },
+      {
+        "id": 3831,
+        "name": "explosion"
+      },
+      {
+        "id": 4144,
+        "name": "power up"
+      },
+      {
+        "id": 4246,
+        "name": "bullet"
+      },
+      {
+        "id": 4346,
+        "name": "top-down perspective"
+      },
+      {
+        "id": 4359,
+        "name": "polygonal 3d"
+      },
+      {
+        "id": 4523,
+        "name": "launch titles"
+      },
+      {
+        "id": 4572,
+        "name": "rocket launcher"
+      },
+      {
+        "id": 4619,
+        "name": "gog.com"
+      },
+      {
+        "id": 4698,
+        "name": "cooperative play"
+      },
+      {
+        "id": 5116,
+        "name": "laser"
+      },
+      {
+        "id": 5208,
+        "name": "lives"
+      },
+      {
+        "id": 5634,
+        "name": "shoes"
+      },
+      {
+        "id": 6097,
+        "name": "shaved head"
+      },
+      {
+        "id": 7405,
+        "name": "ammo"
+      },
+      {
+        "id": 7414,
+        "name": "zoom platform"
+      }
+    ],
+    "name": "Millennium Soldier Expendable",
+    "popularity": 1.0,
+    "slug": "millennium-soldier-expendable",
+    "summary": "Millennium Soldier: Expendable (known as Expendable in the U.S.A. and Seitai Heiki Expendable in Japan) is the title of a Run and Gun video game that was released by British developer Rage Software for Microsoft Windows in 1998,with ports to the Sega Dreamcast in 1999, and the PlayStation in 2000. The remake of the game for Android based devices was released in late 2012 as Expendable: Rearmed. It is in the format of a modern arcade game. The player starts with 7 \"credits\" and can continue until running out of credits. A second player can join the game at any time by pressing start. \n \nLike most top-down run and gun video games, it has collectible upgrades and weapons, and features common aspects like bosses and levels, familiar with most games of this type. \n \nMillennium Soldier: Expendable supports Environment-Mapped Bump Mapping, a DirectX 6 feature first supported by the Matrox Millennium G400.[1]",
+    "videos": [
+      {
+        "id": 18465,
+        "game": 45816,
+        "name": "Gameplay video",
+        "video_id": "aBqundgxUJ4"
+      }
+    ]
+  }
+]
