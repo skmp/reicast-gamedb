@@ -1,0 +1,48 @@
+[
+  {
+    "id": 79697,
+    "cover": {
+      "id": 55473,
+      "game": 79697,
+      "height": 312,
+      "image_id": "vkfkn7niz1llnkhnaebs",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/vkfkn7niz1llnkhnaebs.jpg",
+      "width": 319
+    },
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 1148,
+        "name": "simulation"
+      },
+      {
+        "id": 1699,
+        "name": "dancing"
+      },
+      {
+        "id": 1950,
+        "name": "electronic music"
+      },
+      {
+        "id": 2152,
+        "name": "high score"
+      },
+      {
+        "id": 5042,
+        "name": "s-rank"
+      },
+      {
+        "id": 5354,
+        "name": "combo"
+      }
+    ],
+    "name": "Dance Dance Revolution CLUB VERSION Dreamcast Edition",
+    "popularity": 1.0,
+    "slug": "dance-dance-revolution-club-version-dreamcast-edition"
+  }
+]

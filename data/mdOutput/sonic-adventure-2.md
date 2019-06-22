@@ -1,0 +1,219 @@
+---
+view: game
+layout: game
+author: reicast
+created_at: 2018-03-25 09:00
+updated_at: 2019-05-02 09:00
+id: sonic-adventure-2
+title: "Sonic Adventure 2"
+gamedb-issue: 0
+
+releases:
+  - id: "AEEC"
+    region: EU
+    version: "1.008"
+    discs: 1
+    medium: gdrom
+  - id: "EC9D"
+    region: US
+    version: "1.008"
+    discs: 1
+    medium: gdrom
+  - id: "B455"
+    region: JP
+    version: "1.008"
+    discs: 1
+    medium: gdrom
+
+test-videos:
+  - fingerprint: "AEEC GD-ROM1/1 EU"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: pHUOpIJXGuk
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+  - fingerprint: "EC9D GD-ROM1/1 US"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: 1cGQnhi-PhY
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+  - fingerprint: "B455 GD-ROM1/1 JP"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: YByQM7mKCF8
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+
+gotIGDBGame: 1
+idIGDB: 7858
+age_ratings:
+  - id: 4608
+    rating: 8
+  - id: 23831
+    rating: 2
+aggregated_rating: 79.0
+aggregated_rating_count: 2
+cover:
+  - id: 8263
+    game: 7858
+    height: 223
+    image_id: "zlf9si8h6ixnqa4dnz23"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/zlf9si8h6ixnqa4dnz23.jpg"
+    width: 220
+first_release_date: 993254400
+game_modes:
+  - "Single player"
+  - "Multiplayer"
+  - "Split screen"
+categories:
+  - "Platform"
+  - "Adventure"
+tags:
+  - "gravity"
+  - "minigames"
+  - "mascot"
+  - "death"
+  - "robots"
+  - "chopper"
+  - "virtual pet"
+  - "speed"
+  - "multiple protagonists"
+  - "achievements"
+  - "on-rails"
+  - "amnesia"
+  - "platformer"
+  - "sequel"
+  - "high score"
+  - "talking animals"
+  - "climbing"
+  - "bats"
+  - "action game"
+  - "explosion"
+  - "bosses"
+  - "boost"
+  - "jump"
+  - "anthropomorphism"
+  - "split-screen multiplayer"
+  - "playstation trophies"
+  - "60 fps on consoles"
+  - "character select screen"
+  - "voice acting"
+  - "protagonist's name in the title"
+  - "cat"
+  - "polygonal 3d"
+  - "roll"
+  - "transforming boss"
+  - "licensed soundtrack"
+  - "chao"
+  - "hedgehog"
+  - "evil twin"
+  - "multiple storylines"
+  - "collectibles"
+  - "third-person perspective"
+  - "original soundtrack release"
+  - "cutscene"
+  - "breast bounce"
+  - "sprinting"
+  - "totem pole"
+  - "checkpoints"
+  - "downloadable content"
+  - "black market"
+  - "sound test"
+  - "super form"
+  - "instant kill"
+  - "level select map"
+  - "final boss"
+  - "s-rank"
+  - "theme song"
+  - "rock music"
+  - "speed boost"
+  - "moving platforms"
+  - "punctuation mark above head"
+  - "lens flare"
+  - "villain"
+  - "xbox one backwards compatibility"
+  - "sidekick"
+  - "temporary invincibility"
+  - "multi-species roster"
+  - "head jumping"
+  - "not-so-bad guys"
+  - "villain turned good"
+  - "spiky-haired protagonist"
+  - "floating rings"
+  - "teenager"
+  - "kart racer"
+  - "idle animations"
+  - "flashback"
+  - "women in refrigerators"
+  - "grind"
+  - "charging heavyweight enemies"
+  - "spin dash"
+  - "item container"
+  - "living collectible"
+  - "pax prime 2012"
+  - "q-sound"
+  - "playstation 3"
+  - "police chase"
+  - "partners"
+  - "fodder enemies"
+  - "product placement"
+  - "running towards the screen"
+  - "comic sans"
+  - "industrial level"
+  - "planet destruction"
+  - "silent protagonists who talk in sequels"
+  - "re-numbered franchise"
+  - "vmu support"
+  - "missile riding"
+  - "unknown age"
+  - "walking on walls"
+  - "faceship"
+  - "poser"
+  - "ps3"
+  - "sonic adventure 2"
+  - "sonic adventure 2 game"
+name: "Sonic Adventure 2"
+player_perspectives:
+  - "Third person"
+popularity: 3.166769667161259
+screenshots:
+  - id: 101565
+    game: 7858
+    height: 1080
+    image_id: "y3mkxblyftdjplwtqhgu"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/y3mkxblyftdjplwtqhgu.jpg"
+    width: 1920
+  - id: 101566
+    game: 7858
+    height: 1080
+    image_id: "luv3d1wz3z0kwtnyndgf"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/luv3d1wz3z0kwtnyndgf.jpg"
+    width: 1920
+  - id: 101567
+    game: 7858
+    height: 1080
+    image_id: "dfb8fyfhyzjuceen9d7n"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/dfb8fyfhyzjuceen9d7n.jpg"
+    width: 1920
+  - id: 101568
+    game: 7858
+    height: 1080
+    image_id: "ot42hlgunyofyugscogp"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/ot42hlgunyofyugscogp.jpg"
+    width: 1920
+  - id: 101569
+    game: 7858
+    height: 1080
+    image_id: "ay9wh0m7e06f6ayvefdg"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/ay9wh0m7e06f6ayvefdg.jpg"
+    width: 1920
+slug: "sonic-adventure-2"
+summary: "Experience two unique adventures featuring both long-time heroes and new and returning villains as they battle for the fate of the world!"
+videos:
+  - id: 13380
+    game: 7858
+    name: "Trailer"
+    video_id: "0koY8weGmBI"
+
+---

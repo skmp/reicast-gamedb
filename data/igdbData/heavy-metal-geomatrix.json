@@ -1,0 +1,308 @@
+[
+  {
+    "id": 45854,
+    "age_ratings": [
+      {
+        "id": 20054,
+        "rating": 11
+      }
+    ],
+    "cover": {
+      "id": 55343,
+      "game": 45854,
+      "height": 375,
+      "image_id": "bulbdotdpgl1smr6zkpu",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/bulbdotdpgl1smr6zkpu.jpg",
+      "width": 265
+    },
+    "first_release_date": 994896000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 22,
+        "name": "assassin"
+      },
+      {
+        "id": 69,
+        "name": "post-apocalyptic"
+      },
+      {
+        "id": 103,
+        "name": "cyberpunk"
+      },
+      {
+        "id": 107,
+        "name": "fighting"
+      },
+      {
+        "id": 114,
+        "name": "arena"
+      },
+      {
+        "id": 129,
+        "name": "blood"
+      },
+      {
+        "id": 227,
+        "name": "sword"
+      },
+      {
+        "id": 284,
+        "name": "organized crime"
+      },
+      {
+        "id": 301,
+        "name": "health"
+      },
+      {
+        "id": 594,
+        "name": "fire"
+      },
+      {
+        "id": 889,
+        "name": "gangs"
+      },
+      {
+        "id": 1313,
+        "name": "multiple endings"
+      },
+      {
+        "id": 1345,
+        "name": "traps"
+      },
+      {
+        "id": 1739,
+        "name": "missile"
+      },
+      {
+        "id": 2362,
+        "name": "instant replay"
+      },
+      {
+        "id": 3270,
+        "name": "flamethrower"
+      },
+      {
+        "id": 3741,
+        "name": "jet pack"
+      },
+      {
+        "id": 3831,
+        "name": "explosion"
+      },
+      {
+        "id": 4035,
+        "name": "machine gun"
+      },
+      {
+        "id": 4142,
+        "name": "licensed game"
+      },
+      {
+        "id": 4161,
+        "name": "jump"
+      },
+      {
+        "id": 4210,
+        "name": "split-screen multiplayer"
+      },
+      {
+        "id": 4287,
+        "name": "voice acting"
+      },
+      {
+        "id": 4359,
+        "name": "polygonal 3d"
+      },
+      {
+        "id": 4393,
+        "name": "explosives"
+      },
+      {
+        "id": 4395,
+        "name": "critical hit"
+      },
+      {
+        "id": 4446,
+        "name": "gun"
+      },
+      {
+        "id": 4452,
+        "name": "licensed soundtrack"
+      },
+      {
+        "id": 4494,
+        "name": "special attacks"
+      },
+      {
+        "id": 4548,
+        "name": "beard"
+      },
+      {
+        "id": 4571,
+        "name": "shotgun"
+      },
+      {
+        "id": 4572,
+        "name": "rocket launcher"
+      },
+      {
+        "id": 4576,
+        "name": "loading screens"
+      },
+      {
+        "id": 4644,
+        "name": "breast bounce"
+      },
+      {
+        "id": 4698,
+        "name": "cooperative play"
+      },
+      {
+        "id": 4795,
+        "name": "homing missile"
+      },
+      {
+        "id": 4804,
+        "name": "tag teaming"
+      },
+      {
+        "id": 4891,
+        "name": "melee"
+      },
+      {
+        "id": 4925,
+        "name": "player character"
+      },
+      {
+        "id": 4983,
+        "name": "revealing attire"
+      },
+      {
+        "id": 5029,
+        "name": "difficulty level"
+      },
+      {
+        "id": 5116,
+        "name": "laser"
+      },
+      {
+        "id": 5171,
+        "name": "mustache"
+      },
+      {
+        "id": 5287,
+        "name": "rock music"
+      },
+      {
+        "id": 5350,
+        "name": "sniper rifle"
+      },
+      {
+        "id": 5453,
+        "name": "destructible environment"
+      },
+      {
+        "id": 5587,
+        "name": "villain"
+      },
+      {
+        "id": 5891,
+        "name": "juggling"
+      },
+      {
+        "id": 5892,
+        "name": "knock out"
+      },
+      {
+        "id": 5998,
+        "name": "evil organization"
+      },
+      {
+        "id": 6084,
+        "name": "not-so-bad guys"
+      },
+      {
+        "id": 6411,
+        "name": "spray paint"
+      },
+      {
+        "id": 6493,
+        "name": "finishing move"
+      },
+      {
+        "id": 6529,
+        "name": "flawless victory"
+      },
+      {
+        "id": 6680,
+        "name": "beam sword"
+      },
+      {
+        "id": 6731,
+        "name": "alert"
+      },
+      {
+        "id": 6894,
+        "name": "ray gun"
+      },
+      {
+        "id": 7280,
+        "name": "continue"
+      },
+      {
+        "id": 7321,
+        "name": "gang leader"
+      },
+      {
+        "id": 8969,
+        "name": "environment as weapons"
+      },
+      {
+        "id": 9076,
+        "name": "sega naomi"
+      },
+      {
+        "id": 9447,
+        "name": "swordmaster"
+      },
+      {
+        "id": 9530,
+        "name": "objective-based team gameplay"
+      },
+      {
+        "id": 9630,
+        "name": "keyboard and mouse support for consoles"
+      },
+      {
+        "id": 11926,
+        "name": "motion-sensor bomb"
+      }
+    ],
+    "name": "Heavy Metal: Geomatrix",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.422200137348066,
+    "slug": "heavy-metal-geomatrix",
+    "summary": "Based on the Heavy Metal world created by Kevin Eastman and Simon Bisley, this fighting title allows you to take control of a team of three fighters, ranging from a basic all-rounder, or a lightning fast female to a huge bulky mass of power. Of course, they are all a mix of human and humanoid, and depending on their strengths, have a range of different moves and styles. \n \nThe main aim of the game is to defeat each of the opposing 3-man teams ahead of you, and dominate cyberspace. \n \nThe game mixes a little of Street Fighter with a dash of Virtual On, allowing you to fight in close or use long range attacks all inside a 3D landscape."
+  }
+]

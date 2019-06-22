@@ -1,0 +1,96 @@
+[
+  {
+    "id": 46376,
+    "age_ratings": [
+      {
+        "id": 18767,
+        "rating": 8
+      }
+    ],
+    "cover": {
+      "id": 52607,
+      "game": 46376,
+      "height": 320,
+      "image_id": "w3v7nr2rrwhnnf54a6g1",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/w3v7nr2rrwhnnf54a6g1.jpg",
+      "width": 320
+    },
+    "first_release_date": 974937600,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 25,
+        "name": "vehicular combat"
+      },
+      {
+        "id": 1783,
+        "name": "car"
+      },
+      {
+        "id": 3627,
+        "name": "vehicle combat"
+      },
+      {
+        "id": 4157,
+        "name": "driving/racing"
+      },
+      {
+        "id": 4359,
+        "name": "polygonal 3d"
+      },
+      {
+        "id": 4738,
+        "name": "fence"
+      },
+      {
+        "id": 5043,
+        "name": "laps"
+      },
+      {
+        "id": 5196,
+        "name": "tire"
+      },
+      {
+        "id": 5507,
+        "name": "wheel"
+      },
+      {
+        "id": 5555,
+        "name": "repairing"
+      },
+      {
+        "id": 5754,
+        "name": "traffic cone"
+      },
+      {
+        "id": 5786,
+        "name": "cornering"
+      },
+      {
+        "id": 6311,
+        "name": "damage model"
+      },
+      {
+        "id": 10767,
+        "name": "fictional car brands"
+      },
+      {
+        "id": 11631,
+        "name": "vmu support"
+      },
+      {
+        "id": 15460,
+        "name": "suicide track"
+      }
+    ],
+    "name": "Demolition Racer: No Exit",
+    "popularity": 1.0,
+    "slug": "demolition-racer-no-exit",
+    "summary": "The sequel to Demolition Racer. Race 14 tortuous tracks with mines and crates all over the place slowing you down, racing over 16 savage cars to a sports car to a hearse with its own characteristics to win the race. New game mode \"last man standing\" where you face all cars in race not for position, but to wreck each other going down a track to see who\u0027s last, and \"demolition derby\" where you fight cars in a arena to see who\u0027s last by hitting each other with state-of-the-art graphics where you can see tires, doors, hoods, bumpers, etc. go everywhere."
+  }
+]

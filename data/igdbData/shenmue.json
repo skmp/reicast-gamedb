@@ -1,0 +1,632 @@
+[
+  {
+    "id": 1217,
+    "age_ratings": [
+      {
+        "id": 6810,
+        "rating": 10
+      }
+    ],
+    "aggregated_rating": 90.0,
+    "aggregated_rating_count": 1,
+    "cover": {
+      "id": 1211,
+      "game": 1217,
+      "height": 599,
+      "image_id": "uf88mcpcyo1cgvu4rs3o",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/uf88mcpcyo1cgvu4rs3o.jpg",
+      "width": 608
+    },
+    "first_release_date": 946425600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 61,
+        "name": "martial arts"
+      },
+      {
+        "id": 76,
+        "name": "asian style"
+      },
+      {
+        "id": 121,
+        "name": "sandbox"
+      },
+      {
+        "id": 215,
+        "name": "detective"
+      },
+      {
+        "id": 221,
+        "name": "murder"
+      },
+      {
+        "id": 227,
+        "name": "sword"
+      },
+      {
+        "id": 274,
+        "name": "minigames"
+      },
+      {
+        "id": 301,
+        "name": "health"
+      },
+      {
+        "id": 558,
+        "name": "death"
+      },
+      {
+        "id": 832,
+        "name": "christmas"
+      },
+      {
+        "id": 889,
+        "name": "gangs"
+      },
+      {
+        "id": 977,
+        "name": "hand-to-hand combat"
+      },
+      {
+        "id": 982,
+        "name": "brawler"
+      },
+      {
+        "id": 1026,
+        "name": "role playing"
+      },
+      {
+        "id": 1027,
+        "name": "adventure"
+      },
+      {
+        "id": 1033,
+        "name": "action-adventure"
+      },
+      {
+        "id": 1057,
+        "name": "sprite-scaling"
+      },
+      {
+        "id": 1148,
+        "name": "simulation"
+      },
+      {
+        "id": 1231,
+        "name": "karate"
+      },
+      {
+        "id": 1299,
+        "name": "time limit"
+      },
+      {
+        "id": 1313,
+        "name": "multiple endings"
+      },
+      {
+        "id": 1348,
+        "name": "tea"
+      },
+      {
+        "id": 1440,
+        "name": "artificial intelligence"
+      },
+      {
+        "id": 1459,
+        "name": "open-world"
+      },
+      {
+        "id": 1675,
+        "name": "revenge"
+      },
+      {
+        "id": 1761,
+        "name": "ball"
+      },
+      {
+        "id": 1931,
+        "name": "dice"
+      },
+      {
+        "id": 1985,
+        "name": "kung fu"
+      },
+      {
+        "id": 2045,
+        "name": "love"
+      },
+      {
+        "id": 2152,
+        "name": "high score"
+      },
+      {
+        "id": 2438,
+        "name": "weather"
+      },
+      {
+        "id": 2452,
+        "name": "day/night cycle"
+      },
+      {
+        "id": 2679,
+        "name": "katana"
+      },
+      {
+        "id": 4138,
+        "name": "single-player only"
+      },
+      {
+        "id": 4155,
+        "name": "alternate historical"
+      },
+      {
+        "id": 4182,
+        "name": "hamburger"
+      },
+      {
+        "id": 4220,
+        "name": "episodic content"
+      },
+      {
+        "id": 4287,
+        "name": "voice acting"
+      },
+      {
+        "id": 4329,
+        "name": "cat"
+      },
+      {
+        "id": 4359,
+        "name": "polygonal 3d"
+      },
+      {
+        "id": 4424,
+        "name": "scroll"
+      },
+      {
+        "id": 4521,
+        "name": "soccer ball"
+      },
+      {
+        "id": 4524,
+        "name": "alcoholic beverages"
+      },
+      {
+        "id": 4525,
+        "name": "third-person perspective"
+      },
+      {
+        "id": 4541,
+        "name": "original soundtrack release"
+      },
+      {
+        "id": 4566,
+        "name": "fist"
+      },
+      {
+        "id": 4576,
+        "name": "loading screens"
+      },
+      {
+        "id": 4578,
+        "name": "motion blur"
+      },
+      {
+        "id": 4599,
+        "name": "window"
+      },
+      {
+        "id": 4611,
+        "name": "cutscene"
+      },
+      {
+        "id": 4613,
+        "name": "non-player character"
+      },
+      {
+        "id": 4622,
+        "name": "descendants of other characters"
+      },
+      {
+        "id": 4625,
+        "name": "table"
+      },
+      {
+        "id": 4635,
+        "name": "desk"
+      },
+      {
+        "id": 4640,
+        "name": "boombox"
+      },
+      {
+        "id": 4709,
+        "name": "save point"
+      },
+      {
+        "id": 4727,
+        "name": "key"
+      },
+      {
+        "id": 4850,
+        "name": "moral decisions"
+      },
+      {
+        "id": 4852,
+        "name": "side quests"
+      },
+      {
+        "id": 4855,
+        "name": "branching story line"
+      },
+      {
+        "id": 4878,
+        "name": "questing"
+      },
+      {
+        "id": 4891,
+        "name": "melee"
+      },
+      {
+        "id": 4914,
+        "name": "holiday themes"
+      },
+      {
+        "id": 4918,
+        "name": "real-time combat"
+      },
+      {
+        "id": 4925,
+        "name": "player character"
+      },
+      {
+        "id": 4958,
+        "name": "game over"
+      },
+      {
+        "id": 5264,
+        "name": "vending machine"
+      },
+      {
+        "id": 5266,
+        "name": "aluminum can"
+      },
+      {
+        "id": 5267,
+        "name": "phone"
+      },
+      {
+        "id": 5308,
+        "name": "rpg elements"
+      },
+      {
+        "id": 5323,
+        "name": "mercenary"
+      },
+      {
+        "id": 5329,
+        "name": "coming of age"
+      },
+      {
+        "id": 5339,
+        "name": "mid-development ip split"
+      },
+      {
+        "id": 5408,
+        "name": "video game characters that play video games"
+      },
+      {
+        "id": 5420,
+        "name": "television"
+      },
+      {
+        "id": 5425,
+        "name": "arcade cabinet"
+      },
+      {
+        "id": 5510,
+        "name": "formal clothing"
+      },
+      {
+        "id": 5516,
+        "name": "employment"
+      },
+      {
+        "id": 5542,
+        "name": "interactive environments"
+      },
+      {
+        "id": 5547,
+        "name": "dart board"
+      },
+      {
+        "id": 5571,
+        "name": "wardrobe"
+      },
+      {
+        "id": 5590,
+        "name": "power line"
+      },
+      {
+        "id": 5677,
+        "name": "red herring"
+      },
+      {
+        "id": 5684,
+        "name": "drunk character"
+      },
+      {
+        "id": 5789,
+        "name": "realism"
+      },
+      {
+        "id": 5823,
+        "name": "motion capture animation"
+      },
+      {
+        "id": 5989,
+        "name": "quick time event"
+      },
+      {
+        "id": 6010,
+        "name": "interactive cutscene"
+      },
+      {
+        "id": 6012,
+        "name": "timed decisions"
+      },
+      {
+        "id": 6061,
+        "name": "e3 2000"
+      },
+      {
+        "id": 6062,
+        "name": "fetch quests"
+      },
+      {
+        "id": 6064,
+        "name": "power of friendship"
+      },
+      {
+        "id": 6069,
+        "name": "quest tracking"
+      },
+      {
+        "id": 6094,
+        "name": "spiky-haired protagonist"
+      },
+      {
+        "id": 6232,
+        "name": "collector\u0027s edition"
+      },
+      {
+        "id": 6326,
+        "name": "ambient music"
+      },
+      {
+        "id": 6392,
+        "name": "day-based narrative"
+      },
+      {
+        "id": 6414,
+        "name": "forklift"
+      },
+      {
+        "id": 6460,
+        "name": "cancelled episodic game series"
+      },
+      {
+        "id": 6461,
+        "name": "flashback"
+      },
+      {
+        "id": 6605,
+        "name": "street sign"
+      },
+      {
+        "id": 6666,
+        "name": "jukebox"
+      },
+      {
+        "id": 6840,
+        "name": "cherry blossoms"
+      },
+      {
+        "id": 7074,
+        "name": "hair physics"
+      },
+      {
+        "id": 7093,
+        "name": "multiple discs"
+      },
+      {
+        "id": 7171,
+        "name": "my father\u0027s sword"
+      },
+      {
+        "id": 7191,
+        "name": "deer scare"
+      },
+      {
+        "id": 7294,
+        "name": "the 1980s"
+      },
+      {
+        "id": 7343,
+        "name": "disc streaming"
+      },
+      {
+        "id": 7497,
+        "name": "passport"
+      },
+      {
+        "id": 7556,
+        "name": "hidden door"
+      },
+      {
+        "id": 8220,
+        "name": "persistent world"
+      },
+      {
+        "id": 8268,
+        "name": "skybox"
+      },
+      {
+        "id": 8311,
+        "name": "cliffhanger"
+      },
+      {
+        "id": 8983,
+        "name": "tragic hero"
+      },
+      {
+        "id": 9222,
+        "name": "product placement"
+      },
+      {
+        "id": 9323,
+        "name": "gameplay twist"
+      },
+      {
+        "id": 9471,
+        "name": "supply and demand"
+      },
+      {
+        "id": 9508,
+        "name": "full reactive eyes entertainment"
+      },
+      {
+        "id": 9659,
+        "name": "motion capture suit"
+      },
+      {
+        "id": 9835,
+        "name": "metagame"
+      },
+      {
+        "id": 9847,
+        "name": "functional window"
+      },
+      {
+        "id": 9857,
+        "name": "the mob"
+      },
+      {
+        "id": 9972,
+        "name": "sitting down"
+      },
+      {
+        "id": 10076,
+        "name": "tofu"
+      },
+      {
+        "id": 10211,
+        "name": "record breakers"
+      },
+      {
+        "id": 10212,
+        "name": "capsule toy"
+      },
+      {
+        "id": 10489,
+        "name": "platform change"
+      },
+      {
+        "id": 11631,
+        "name": "vmu support"
+      },
+      {
+        "id": 11798,
+        "name": "kotatsu"
+      },
+      {
+        "id": 13119,
+        "name": "e3 1999"
+      },
+      {
+        "id": 15373,
+        "name": "interactive achievement awards 2001"
+      },
+      {
+        "id": 15524,
+        "name": "unresolved stories"
+      },
+      {
+        "id": 16177,
+        "name": "phoenix mirror"
+      },
+      {
+        "id": 16178,
+        "name": "dragon mirror"
+      }
+    ],
+    "name": "Shenmue",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 4.033477534025762,
+    "screenshots": [
+      {
+        "id": 1359,
+        "game": 1217,
+        "height": 480,
+        "image_id": "mhmh3v5ldt5dm26b8ta7",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mhmh3v5ldt5dm26b8ta7.jpg",
+        "width": 580
+      },
+      {
+        "id": 1360,
+        "game": 1217,
+        "height": 480,
+        "image_id": "abbuucmuqdfol8ipfsbh",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/abbuucmuqdfol8ipfsbh.jpg",
+        "width": 640
+      },
+      {
+        "id": 1361,
+        "game": 1217,
+        "height": 480,
+        "image_id": "ezzwc3phsnsqtlxxlaxj",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ezzwc3phsnsqtlxxlaxj.jpg",
+        "width": 640
+      }
+    ],
+    "slug": "shenmue",
+    "summary": "\"He shall appear from a far Eastern land across the sea. A young man who has yet to know his potential. This potential is a power that can either destroy him, or realize his will. His courage shall determine his fate. The path he must traverse, fraught with adversity, I await whilst praying. For this destiny predetermined since ancient times... A pitch, black night unfolds with the morning star as its only light. And thus the saga, begins...\"\n\nThis first chapter of Shenmue kicks off Yu Suzuki\u0027s cinematic Dreamcast tour-de-force, an exploration-heavy adventure that has players immerse themselves in Yokosuka, Japan. Players slip into the role of a young martial artist named Ryo Hazuki, who is on the trail of his father\u0027s killer. On the way, players must talk with hundreds of characters, engage in martial arts battles, and marvel at the realistic depiction of the Japanese coastal town.",
+    "videos": [
+      {
+        "id": 898,
+        "game": 1217,
+        "name": "Trailer",
+        "video_id": "US-lyfBSK9I"
+      }
+    ]
+  }
+]

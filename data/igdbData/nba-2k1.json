@@ -1,0 +1,130 @@
+[
+  {
+    "id": 28836,
+    "age_ratings": [
+      {
+        "id": 12459,
+        "rating": 6
+      }
+    ],
+    "cover": {
+      "id": 23965,
+      "game": 28836,
+      "height": 413,
+      "image_id": "nluzjzmbvoipsyn7cifw",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/nluzjzmbvoipsyn7cifw.jpg",
+      "width": 420
+    },
+    "first_release_date": 972950400,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 58,
+        "name": "basketball"
+      },
+      {
+        "id": 1148,
+        "name": "simulation"
+      },
+      {
+        "id": 1166,
+        "name": "sports"
+      },
+      {
+        "id": 1440,
+        "name": "artificial intelligence"
+      },
+      {
+        "id": 4226,
+        "name": "cover athlete"
+      },
+      {
+        "id": 4274,
+        "name": "referees"
+      },
+      {
+        "id": 4574,
+        "name": "headband"
+      },
+      {
+        "id": 4576,
+        "name": "loading screens"
+      },
+      {
+        "id": 4613,
+        "name": "non-player character"
+      },
+      {
+        "id": 4650,
+        "name": "year in the title"
+      },
+      {
+        "id": 4703,
+        "name": "national basketball association"
+      },
+      {
+        "id": 4823,
+        "name": "character creation"
+      },
+      {
+        "id": 5278,
+        "name": "commentary"
+      },
+      {
+        "id": 6061,
+        "name": "e3 2000"
+      },
+      {
+        "id": 6547,
+        "name": "indiana pacers"
+      },
+      {
+        "id": 6551,
+        "name": "los angeles lakers"
+      },
+      {
+        "id": 6563,
+        "name": "chicago bulls"
+      },
+      {
+        "id": 6566,
+        "name": "portland trail blazers"
+      },
+      {
+        "id": 7199,
+        "name": "penalties"
+      },
+      {
+        "id": 7410,
+        "name": "text chat"
+      },
+      {
+        "id": 9529,
+        "name": "greatest hits"
+      },
+      {
+        "id": 11945,
+        "name": "seattle supersonics"
+      }
+    ],
+    "name": "NBA 2K1",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.0,
+    "slug": "nba-2k1",
+    "summary": "NBA 2K1 (also known as Sega Sports: NBA 2K1 or NBA2K1) is a basketball video game. It is the second installment in the NBA 2K series of video games. It was developed by Visual Concepts and published by Sega (as Sega Sports). It was the first NBA 2K game to feature online multiplayer and the first game to feature street courses instead of playing a game inside the arena in the first game, famous street courts such as The Cage, Rucker Park, Franklin Park, and Goat Park. It was released on November 1, 2000 in North America with the Dreamcast. Rapper Redman (rapper) appears in the video game"
+  }
+]

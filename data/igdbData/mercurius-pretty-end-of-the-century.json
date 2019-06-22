@@ -1,0 +1,41 @@
+[
+  {
+    "id": 66277,
+    "cover": {
+      "id": 47537,
+      "game": 66277,
+      "height": 338,
+      "image_id": "bzqakoh9stejuoudrbmt",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/bzqakoh9stejuoudrbmt.jpg",
+      "width": 342
+    },
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 296,
+        "name": "fantasy"
+      },
+      {
+        "id": 1027,
+        "name": "adventure"
+      },
+      {
+        "id": 1148,
+        "name": "simulation"
+      }
+    ],
+    "name": "Mercurius Pretty: End of the Century",
+    "popularity": 1.0,
+    "slug": "mercurius-pretty-end-of-the-century",
+    "summary": "A remake of the PC-98 life simulation \"Mercurius Pretty\" for the Sega Dreamcast."
+  }
+]

@@ -1,0 +1,180 @@
+[
+  {
+    "id": 26450,
+    "age_ratings": [
+      {
+        "id": 19830,
+        "rating": 11
+      }
+    ],
+    "cover": {
+      "id": 19548,
+      "game": 26450,
+      "height": 300,
+      "image_id": "vfy8mdcduiwwhbf1g8pp",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/vfy8mdcduiwwhbf1g8pp.jpg",
+      "width": 300
+    },
+    "first_release_date": 985824000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 129,
+        "name": "blood"
+      },
+      {
+        "id": 301,
+        "name": "health"
+      },
+      {
+        "id": 350,
+        "name": "comedy"
+      },
+      {
+        "id": 1032,
+        "name": "insanity"
+      },
+      {
+        "id": 1033,
+        "name": "action-adventure"
+      },
+      {
+        "id": 1120,
+        "name": "horror"
+      },
+      {
+        "id": 1186,
+        "name": "multiple protagonists"
+      },
+      {
+        "id": 1240,
+        "name": "dodge"
+      },
+      {
+        "id": 1313,
+        "name": "multiple endings"
+      },
+      {
+        "id": 1754,
+        "name": "dark humor"
+      },
+      {
+        "id": 1834,
+        "name": "camera"
+      },
+      {
+        "id": 4135,
+        "name": "xbox 360 controller support for pc"
+      },
+      {
+        "id": 4145,
+        "name": "female protagonists"
+      },
+      {
+        "id": 4169,
+        "name": "male protagonists"
+      },
+      {
+        "id": 4239,
+        "name": "platform exclusive"
+      },
+      {
+        "id": 4287,
+        "name": "voice acting"
+      },
+      {
+        "id": 4330,
+        "name": "first-person perspective"
+      },
+      {
+        "id": 4359,
+        "name": "polygonal 3d"
+      },
+      {
+        "id": 4369,
+        "name": "sexualized women"
+      },
+      {
+        "id": 4506,
+        "name": "destructible clothing"
+      },
+      {
+        "id": 4525,
+        "name": "third-person perspective"
+      },
+      {
+        "id": 4658,
+        "name": "baseball bat"
+      },
+      {
+        "id": 4921,
+        "name": "miniskirt"
+      },
+      {
+        "id": 5177,
+        "name": "living toys"
+      },
+      {
+        "id": 5187,
+        "name": "conveniently obscured nudity"
+      },
+      {
+        "id": 5209,
+        "name": "multiple gameplay perspectives"
+      },
+      {
+        "id": 6017,
+        "name": "persistent character damage"
+      },
+      {
+        "id": 6362,
+        "name": "bleeding out"
+      },
+      {
+        "id": 6469,
+        "name": "fake t.v. show"
+      },
+      {
+        "id": 7513,
+        "name": "energy drinks"
+      },
+      {
+        "id": 10177,
+        "name": "hassy"
+      }
+    ],
+    "name": "Illbleed",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.0,
+    "screenshots": [
+      {
+        "id": 34900,
+        "game": 26450,
+        "height": 404,
+        "image_id": "qjvjosm2ukemtsct31ac",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qjvjosm2ukemtsct31ac.jpg",
+        "width": 540
+      },
+      {
+        "id": 34901,
+        "game": 26450,
+        "height": 405,
+        "image_id": "healplcndwcmysupa5pe",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/healplcndwcmysupa5pe.jpg",
+        "width": 540
+      }
+    ],
+    "slug": "illbleed",
+    "summary": "Illbleed is a tongue-in-cheek survival horror game and a send-up to horror Clichés. Despite being financially unsuccessful, this game received a worldwide cult following for its notable combination of nonlinear gameplay elements (e.g. trap detection) and bizarre B-movie style comedy horror theme, dialogue and voice acting."
+  }
+]

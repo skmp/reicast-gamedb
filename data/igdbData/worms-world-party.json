@@ -1,0 +1,424 @@
+[
+  {
+    "id": 6294,
+    "age_ratings": [
+      {
+        "id": 3541,
+        "rating": 8
+      }
+    ],
+    "aggregated_rating": 80.0,
+    "aggregated_rating_count": 1,
+    "cover": {
+      "id": 6459,
+      "game": 6294,
+      "height": 364,
+      "image_id": "arzrnvc5aagxnfp7ximf",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/arzrnvc5aagxnfp7ximf.jpg",
+      "width": 256
+    },
+    "first_release_date": 986515200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 55,
+        "name": "artillery game"
+      },
+      {
+        "id": 350,
+        "name": "comedy"
+      },
+      {
+        "id": 415,
+        "name": "turn-based"
+      },
+      {
+        "id": 598,
+        "name": "parachute"
+      },
+      {
+        "id": 1299,
+        "name": "time limit"
+      },
+      {
+        "id": 1757,
+        "name": "worm"
+      },
+      {
+        "id": 1986,
+        "name": "teleportation"
+      },
+      {
+        "id": 2184,
+        "name": "talking animals"
+      },
+      {
+        "id": 3270,
+        "name": "flamethrower"
+      },
+      {
+        "id": 3630,
+        "name": "sheep"
+      },
+      {
+        "id": 3741,
+        "name": "jet pack"
+      },
+      {
+        "id": 3782,
+        "name": "strategy"
+      },
+      {
+        "id": 3831,
+        "name": "explosion"
+      },
+      {
+        "id": 4035,
+        "name": "machine gun"
+      },
+      {
+        "id": 4161,
+        "name": "jump"
+      },
+      {
+        "id": 4183,
+        "name": "crate"
+      },
+      {
+        "id": 4185,
+        "name": "health pack"
+      },
+      {
+        "id": 4211,
+        "name": "party games"
+      },
+      {
+        "id": 4248,
+        "name": "tactical turn-based combat"
+      },
+      {
+        "id": 4287,
+        "name": "voice acting"
+      },
+      {
+        "id": 4324,
+        "name": "banana"
+      },
+      {
+        "id": 4392,
+        "name": "bow"
+      },
+      {
+        "id": 4393,
+        "name": "explosives"
+      },
+      {
+        "id": 4419,
+        "name": "axe"
+      },
+      {
+        "id": 4446,
+        "name": "gun"
+      },
+      {
+        "id": 4476,
+        "name": "digging"
+      },
+      {
+        "id": 4496,
+        "name": "bazooka"
+      },
+      {
+        "id": 4571,
+        "name": "shotgun"
+      },
+      {
+        "id": 4658,
+        "name": "baseball bat"
+      },
+      {
+        "id": 4660,
+        "name": "pistol"
+      },
+      {
+        "id": 4716,
+        "name": "pigeon"
+      },
+      {
+        "id": 4748,
+        "name": "target"
+      },
+      {
+        "id": 4797,
+        "name": "hotseat"
+      },
+      {
+        "id": 4903,
+        "name": "grapple"
+      },
+      {
+        "id": 4914,
+        "name": "holiday themes"
+      },
+      {
+        "id": 5120,
+        "name": "tombstone"
+      },
+      {
+        "id": 5338,
+        "name": "terrain deformation"
+      },
+      {
+        "id": 5349,
+        "name": "exploding barrel"
+      },
+      {
+        "id": 5406,
+        "name": "drowning"
+      },
+      {
+        "id": 5444,
+        "name": "blood splatter"
+      },
+      {
+        "id": 5500,
+        "name": "nuclear bomb"
+      },
+      {
+        "id": 5618,
+        "name": "hard hat"
+      },
+      {
+        "id": 5644,
+        "name": "wind"
+      },
+      {
+        "id": 5652,
+        "name": "dynamite"
+      },
+      {
+        "id": 5658,
+        "name": "can\u0027t swim"
+      },
+      {
+        "id": 5681,
+        "name": "persistent ailments"
+      },
+      {
+        "id": 5694,
+        "name": "blunt weapons"
+      },
+      {
+        "id": 5749,
+        "name": "happy killing"
+      },
+      {
+        "id": 5775,
+        "name": "grenade"
+      },
+      {
+        "id": 5894,
+        "name": "hadouken"
+      },
+      {
+        "id": 5940,
+        "name": "swinging"
+      },
+      {
+        "id": 5943,
+        "name": "bizarre weapons"
+      },
+      {
+        "id": 6303,
+        "name": "double kill"
+      },
+      {
+        "id": 6326,
+        "name": "ambient music"
+      },
+      {
+        "id": 6389,
+        "name": "weaponized musical instruments"
+      },
+      {
+        "id": 6691,
+        "name": "exploding crates"
+      },
+      {
+        "id": 6730,
+        "name": "air strike"
+      },
+      {
+        "id": 6850,
+        "name": "deadly gas"
+      },
+      {
+        "id": 6889,
+        "name": "tommy gun"
+      },
+      {
+        "id": 7026,
+        "name": "bots"
+      },
+      {
+        "id": 7125,
+        "name": "girders"
+      },
+      {
+        "id": 7405,
+        "name": "ammo"
+      },
+      {
+        "id": 7655,
+        "name": "multiple death animations"
+      },
+      {
+        "id": 8130,
+        "name": "uzi"
+      },
+      {
+        "id": 8278,
+        "name": "death description"
+      },
+      {
+        "id": 9053,
+        "name": "concrete donkey"
+      },
+      {
+        "id": 9054,
+        "name": "ninja rope"
+      },
+      {
+        "id": 9075,
+        "name": "sudden death"
+      },
+      {
+        "id": 9313,
+        "name": "missile launcher"
+      },
+      {
+        "id": 9342,
+        "name": "nuclear fallout"
+      },
+      {
+        "id": 9494,
+        "name": "lack of visible body parts"
+      },
+      {
+        "id": 9505,
+        "name": "tide"
+      },
+      {
+        "id": 9630,
+        "name": "keyboard and mouse support for consoles"
+      },
+      {
+        "id": 9713,
+        "name": "chemical warfare"
+      },
+      {
+        "id": 9968,
+        "name": "homing projectile"
+      },
+      {
+        "id": 9974,
+        "name": "roping"
+      },
+      {
+        "id": 10032,
+        "name": "superweapon"
+      },
+      {
+        "id": 10460,
+        "name": "team killing"
+      },
+      {
+        "id": 10757,
+        "name": "holy hand grenade"
+      },
+      {
+        "id": 10758,
+        "name": "banana bomb"
+      },
+      {
+        "id": 11173,
+        "name": "earthworm"
+      },
+      {
+        "id": 11452,
+        "name": "double damage"
+      },
+      {
+        "id": 11890,
+        "name": "bungee jumping"
+      },
+      {
+        "id": 12460,
+        "name": "jackhammer"
+      },
+      {
+        "id": 13132,
+        "name": "mills bomb"
+      },
+      {
+        "id": 13259,
+        "name": "napalm strike"
+      },
+      {
+        "id": 15082,
+        "name": "doomsday device"
+      }
+    ],
+    "name": "Worms World Party",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "popularity": 4.605510597195082,
+    "screenshots": [
+      {
+        "id": 22934,
+        "game": 6294,
+        "height": 768,
+        "image_id": "m49lmdn0p9ogonpzmpx7",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/m49lmdn0p9ogonpzmpx7.jpg",
+        "width": 1024
+      },
+      {
+        "id": 22935,
+        "game": 6294,
+        "height": 1080,
+        "image_id": "tpezq4hcguwvzxyva75f",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/tpezq4hcguwvzxyva75f.jpg",
+        "width": 1920
+      }
+    ],
+    "slug": "worms-world-party",
+    "summary": "Worms World Party is an artillery game, which is a type of Turn-based strategy game. Like its predecessors, Worms World Party involves controlling a team of worms and using a collection of weaponry to eliminate the opposing team(s). The worms can walk and jump around and use tools such as the ninja rope and parachute to move to otherwise unreachable locations. The worms have an arsenal of dozens of weapons, ranging from longbows to bazookas and from fireball to Holy Hand Grenades."
+  }
+]

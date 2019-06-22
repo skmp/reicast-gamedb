@@ -1,0 +1,170 @@
+[
+  {
+    "id": 4350,
+    "age_ratings": [
+      {
+        "id": 3240,
+        "rating": 11
+      }
+    ],
+    "aggregated_rating": 90.0,
+    "aggregated_rating_count": 1,
+    "cover": {
+      "id": 4508,
+      "game": 4350,
+      "height": 2595,
+      "image_id": "las23c3ab3mcfixv9ukp",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/las23c3ab3mcfixv9ukp.jpg",
+      "width": 2028
+    },
+    "first_release_date": 1005868800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 1,
+        "name": "modern warfare"
+      },
+      {
+        "id": 57,
+        "name": "motorcycle"
+      },
+      {
+        "id": 132,
+        "name": "stealth"
+      },
+      {
+        "id": 413,
+        "name": "parody"
+      },
+      {
+        "id": 467,
+        "name": "tps"
+      },
+      {
+        "id": 512,
+        "name": "quick-time events"
+      },
+      {
+        "id": 558,
+        "name": "death"
+      },
+      {
+        "id": 778,
+        "name": "driving"
+      },
+      {
+        "id": 897,
+        "name": "third person shooter"
+      },
+      {
+        "id": 923,
+        "name": "futuristic"
+      },
+      {
+        "id": 970,
+        "name": "sci-fi"
+      },
+      {
+        "id": 1025,
+        "name": "shooter"
+      },
+      {
+        "id": 1033,
+        "name": "action-adventure"
+      },
+      {
+        "id": 1669,
+        "name": "crime"
+      },
+      {
+        "id": 1881,
+        "name": "amnesia"
+      },
+      {
+        "id": 4157,
+        "name": "driving/racing"
+      },
+      {
+        "id": 4259,
+        "name": "modern military"
+      },
+      {
+        "id": 4305,
+        "name": "sunglasses"
+      },
+      {
+        "id": 4332,
+        "name": "tutorial"
+      },
+      {
+        "id": 4446,
+        "name": "gun"
+      },
+      {
+        "id": 4543,
+        "name": "experience points"
+      },
+      {
+        "id": 4892,
+        "name": "crosshair"
+      },
+      {
+        "id": 4910,
+        "name": "heads up display"
+      },
+      {
+        "id": 5989,
+        "name": "quick time event"
+      },
+      {
+        "id": 6052,
+        "name": "radar"
+      },
+      {
+        "id": 6718,
+        "name": "proximity mines"
+      },
+      {
+        "id": 10544,
+        "name": "killing rats"
+      }
+    ],
+    "name": "Headhunter",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.64789218496891,
+    "slug": "headhunter",
+    "summary": "Welcome to the future. In the early 21st century, gang warfare and crime have lead to the creation of privatised law enforcement. The Anti-Crime Network (ACN) employs bounty hunters known as ‘Headhunters’ to track down the most wanted criminals, using combat skills and high-tech weaponry. You are Jack Wade, an ex-cop turned Headhunter. At the beginning of the game you find yourself strapped to an operating table and manage to escape. After passing out in an alley, you awake in hospital from a coma. With your license revoked and few memories, you are hired by Angela Stern, to find her fathers murderer. Maybe you’ll even find out what happened to yourself if you can stay alive long enough… Headhunter is an action adventure viewed from over the shoulder. In the top right of the screen you have a radar which will track your movements and those of the enemy. Jack has a few moves at his disposal. He can duck and roll, push, pull and climb objects as well as flatten himself up against a wall. Using this technique he can peek around corners for a better view of the action, and then attack from this position, using the wall as protection. Between levels, Jack has a motorcycle that he uses to transport himself between various locations in the city according to the clues he receives. You will need to earn skill points however before you can arrive at a destination. Certain parts of the city are unavailable until you have gained the appropriate Headhunter license. As you have no recollection of your past, you have to take a series of licenses that will grant you access to greater parts of the city, weaponry and gadgets. These are taken in a VR simulator known as the Law Enforcement Intelligence and Licence Approval (LEILA). At various times in the game you will need to go to the LEILA building and upgrade your licence by practising your combat, stealth and driving skills.",
+    "videos": [
+      {
+        "id": 4331,
+        "game": 4350,
+        "name": "Trailer",
+        "video_id": "vLORkWBgoQ4"
+      }
+    ]
+  }
+]

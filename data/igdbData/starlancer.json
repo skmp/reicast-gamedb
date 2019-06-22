@@ -1,0 +1,141 @@
+[
+  {
+    "id": 11230,
+    "age_ratings": [
+      {
+        "id": 7002,
+        "rating": 10
+      },
+      {
+        "id": 7003,
+        "rating": 3
+      }
+    ],
+    "aggregated_rating": 70.0,
+    "aggregated_rating_count": 1,
+    "cover": {
+      "id": 10511,
+      "game": 11230,
+      "height": 301,
+      "image_id": "lriw7x9jm3tdmywdu86j",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/lriw7x9jm3tdmywdu86j.jpg",
+      "width": 256
+    },
+    "first_release_date": 954460800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 23,
+        "name": "space simulation"
+      },
+      {
+        "id": 24,
+        "name": "space combat"
+      },
+      {
+        "id": 563,
+        "name": "military"
+      },
+      {
+        "id": 947,
+        "name": "spaceship"
+      },
+      {
+        "id": 970,
+        "name": "sci-fi"
+      },
+      {
+        "id": 1107,
+        "name": "war"
+      },
+      {
+        "id": 1148,
+        "name": "simulation"
+      },
+      {
+        "id": 4149,
+        "name": "dashboard view"
+      },
+      {
+        "id": 4345,
+        "name": "bink video"
+      },
+      {
+        "id": 4359,
+        "name": "polygonal 3d"
+      },
+      {
+        "id": 4384,
+        "name": "mission briefing"
+      },
+      {
+        "id": 4776,
+        "name": "escort mission"
+      },
+      {
+        "id": 5595,
+        "name": "changing sides"
+      },
+      {
+        "id": 5945,
+        "name": "energy weapons"
+      },
+      {
+        "id": 6061,
+        "name": "e3 2000"
+      },
+      {
+        "id": 7667,
+        "name": "regenerating ammo"
+      },
+      {
+        "id": 9348,
+        "name": "hud video messages"
+      },
+      {
+        "id": 9630,
+        "name": "keyboard and mouse support for consoles"
+      }
+    ],
+    "name": "StarLancer",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "popularity": 1.0,
+    "screenshots": [
+      {
+        "id": 10559,
+        "game": 11230,
+        "height": 768,
+        "image_id": "syrbyn5rmkkpjzxiuise",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/syrbyn5rmkkpjzxiuise.jpg",
+        "width": 1024
+      }
+    ],
+    "slug": "starlancer",
+    "storyline": "It is the year 2160. Mankind has colonized the solar system and two political entities have emerged: the Alliance consisting of American, Australian, French, Spanish, Italian, Japanese, British and German forces, and The Coalition of Russian, Chinese and Middle-Eastern interests. The game begins with a surprise attack on Fort Kennedy, where a peace treaty turns into a bloodbath: all of the inner four planets are overrun, including Terra herself, and the Italian and French fleets are utterly lost. The Alliance fleet regroups at Triton, Neptune\u0027s moon, and attempts to regain lost territory. The player takes the role of a rookie pilot in the international 45th Volunteers squadron, under the command of Captain Robert Foster and Wing Commander Maria Enriquez, aboard the re-commissioned British carrier ANS Reliant.\n\nAs with Wing Commander: Prophecy, the pilot\u0027s flying ability is the only meter by which success and failure is measured, though Starlancer does not feature as many branching mission paths. As in Wing Commander I the pilot may be promoted throughout the course of the campaign; unlike WCI, their rank determines which fighters and missiles they may choose to employ during each mission. The game provides a \"virtual carrier\" through which to navigate, including nearby crewmembers whose reaction to you depends on your current rank and standing. However, the true gem of the game lies in its textual and video news broadcasts, which keep the player informed as to the status of the rest of the war, which seems to be progressing just over the horizon. Players frequently find themselves flying alongside squadrons and pilots they have heard about on the news just recently, providing a dose of \u0027celebrity exposure\u0027 and also increasing the sensation that they are just one part of a much larger war effort.\n\nStarlancer\u0027s story is continued in Chris Roberts\u0027 Freelancer project, though the two belong to different subgenres (the first is purely focused on action, the latter also features trading and the player can freely move through the game\u0027s universe when they are not on a mission.)",
+    "summary": "Starlancer is a space-based science fiction flight simulator computer game, created by Erin Roberts, Chris Roberts, and Warthog PLC under the auspices of Digital Anvil.\n\nIt is the year 2160. Mankind has colonized the solar system and two political entities have emerged: the Alliance consisting of American, Australian, French, Spanish, Italian, Japanese, British and German forces, and The Coalition of Russian, Chinese and Middle-Eastern interests. The game begins with a surprise attack on Fort Kennedy, where a peace treaty turns into a bloodbath: all of the inner four planets are overrun, including Terra herself, and the Italian and French fleets are utterly lost. The Alliance fleet regroups at Triton, Neptune\u0027s moon, and attempts to regain lost territory. The player takes the role of a rookie pilot in the international 45th Volunteers squadron, under the command of Captain Robert Foster and Wing Commander Maria Enriquez, aboard the re-commissioned British carrier ANS Reliant.\n\nAs with Wing Commander: Prophecy, the pilot\u0027s flying ability is the only meter by which success and failure is measured, though Starlancer does not feature as many branching mission paths. As in Wing Commander I the pilot may be promoted throughout the course of the campaign; unlike WCI, their rank determines which fighters and missiles they may choose to employ during each mission. The game provides a \"virtual carrier\" through which to navigate, including nearby crewmembers whose reaction to you depends on your current rank and standing. However, the true gem of the game lies in its textual and video news broadcasts, which keep the player informed as to the status of the rest of the war, which seems to be progressing just over the horizon. Players frequently find themselves flying alongside squadrons and pilots they have heard about on the news just recently, providing a dose of \u0027celebrity exposure\u0027 and also increasing the sensation that they are just one part of a much larger war effort.\n\nStarlancer\u0027s story is continued in Chris Roberts\u0027 Freelancer project, though the two belong to different subgenres (the first is purely focused on action, the latter also features trading and the player can freely move through the game\u0027s universe when they are not on a mission.)",
+    "videos": [
+      {
+        "id": 4498,
+        "game": 11230,
+        "name": "Trailer",
+        "video_id": "pB0tatroMbU"
+      }
+    ]
+  }
+]

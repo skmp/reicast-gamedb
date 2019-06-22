@@ -1,0 +1,99 @@
+---
+view: game
+layout: game
+author: reicast
+created_at: 2018-03-25 09:00
+updated_at: 2019-05-02 09:00
+id: 18-wheeler-american-pro-trucker
+title: "18 Wheeler - American Pro Trucker"
+gamedb-issue: 0
+
+releases:
+  - id: "4383"
+    region: EU
+    version: "1.700"
+    discs: 1
+    medium: gdrom
+  - id: "6F92"
+    region: US
+    version: "1.500"
+    discs: 1
+    medium: gdrom
+
+test-videos:
+  - fingerprint: "4383 GD-ROM1/1 EU"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: 4hpX06KEf9g
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+  - fingerprint: "6F92 GD-ROM1/1 US"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: fVRk26LW-Kg
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+
+gotIGDBGame: 1
+idIGDB: 3706
+aggregated_rating: 46.0
+aggregated_rating_count: 1
+cover:
+  - id: 3844
+    game: 3706
+    height: 324
+    image_id: "qnsaacjt5efipcddqh5b"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/qnsaacjt5efipcddqh5b.jpg"
+    width: 250
+first_release_date: 915148800
+game_modes:
+  - "Single player"
+  - "Split screen"
+categories:
+  - "Racing"
+tags:
+  - "trucks"
+  - "semi trucks"
+name: "18 Wheeler: American Pro Trucker"
+player_perspectives:
+  - "First person"
+  - "Third person"
+popularity: 2.060400023455236
+screenshots:
+  - id: 7119
+    game: 3706
+    height: 194
+    image_id: "mkkvnsuno72ovdys0dtn"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/mkkvnsuno72ovdys0dtn.jpg"
+    width: 259
+  - id: 7120
+    game: 3706
+    height: 194
+    image_id: "swweozvxblcce1bv9kcd"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/swweozvxblcce1bv9kcd.jpg"
+    width: 259
+  - id: 7121
+    game: 3706
+    height: 188
+    image_id: "yoghqfj83jcyfhyde6xx"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/yoghqfj83jcyfhyde6xx.jpg"
+    width: 269
+  - id: 7122
+    game: 3706
+    height: 201
+    image_id: "wppmpwl9dh6ecd88c9a8"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/wppmpwl9dh6ecd88c9a8.jpg"
+    width: 251
+slug: "18-wheeler-american-pro-trucker"
+summary: "The main purpose of the game is to make it to the finish line with the truck's cargo. Players are given a set amount of time, but can ram into special vans that will add three seconds to the timer. There are several characters to choose from, each with a unique truck and attributes.
+
+The game starts out in Key West and players travel across the United States, ending in San Francisco. After Stage 1, the game gives the player a choice of trailer. One trailer is harder to haul, but provides a bigger payoff while the other choice is easier to haul but provides a smaller payoff. Money is deducted from the total when the trailer is hit. Players can sound the truck's horn to make other cars on the road yield and slipstream behind large vehicles to gain a momentary speed boost.
+
+In addition to the time limit, players also compete with the &quote;Lizard Tail&quote;, a rival trucker. Crossing the finish line before the Lizard Tail yields additional money. In between levels, players can park the truck in a mini game to earn more cash."
+videos:
+  - id: 3028
+    game: 3706
+    name: "Trailer"
+    video_id: "bGi8XGy9v1k"
+
+---

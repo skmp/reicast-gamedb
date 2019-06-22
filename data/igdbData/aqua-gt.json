@@ -1,0 +1,96 @@
+[
+  {
+    "id": 3714,
+    "cover": {
+      "id": 3851,
+      "game": 3714,
+      "height": 254,
+      "image_id": "acbhxji5lzpxcr0bsqnb",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/acbhxji5lzpxcr0bsqnb.jpg",
+      "width": 256
+    },
+    "first_release_date": 977443200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 272,
+        "name": "europe"
+      },
+      {
+        "id": 641,
+        "name": "boating"
+      },
+      {
+        "id": 3425,
+        "name": "driving-simulator"
+      },
+      {
+        "id": 4157,
+        "name": "driving/racing"
+      },
+      {
+        "id": 4177,
+        "name": "credits menu option"
+      },
+      {
+        "id": 4178,
+        "name": "options menu"
+      },
+      {
+        "id": 4205,
+        "name": "motorsports"
+      },
+      {
+        "id": 4210,
+        "name": "split-screen multiplayer"
+      },
+      {
+        "id": 5043,
+        "name": "laps"
+      },
+      {
+        "id": 5362,
+        "name": "boat"
+      },
+      {
+        "id": 8100,
+        "name": "attract mode"
+      }
+    ],
+    "name": "Aqua GT",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.636240014073141,
+    "screenshots": [
+      {
+        "id": 192862,
+        "game": 3714,
+        "height": 480,
+        "image_id": "auhvdsgje4dgkiyl07gq",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/auhvdsgje4dgkiyl07gq.jpg",
+        "width": 640
+      }
+    ],
+    "slug": "aqua-gt",
+    "summary": "EU release"
+  }
+]

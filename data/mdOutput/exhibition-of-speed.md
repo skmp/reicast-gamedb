@@ -1,0 +1,36 @@
+---
+view: game
+layout: game
+author: reicast
+created_at: 2018-03-25 09:00
+updated_at: 2019-05-02 09:00
+id: exhibition-of-speed
+title: "Exhibition of Speed"
+gamedb-issue: 0
+
+releases:
+  - id: "CA6E"
+    region: EU
+    version: "1.000"
+    discs: 1
+    medium: gdrom
+
+test-videos:
+  - fingerprint: "CA6E GD-ROM1/1 EU"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: x8wsnw2m9LY
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+
+gotIGDBGame: 1
+idIGDB: 46365
+first_release_date: 992736000
+categories:
+  - "Racing"
+name: "Exhibition of Speed"
+popularity: 1.0
+slug: "exhibition-of-speed"
+summary: "Looking for high-speed authentic arcade action? Strap yourself firmly in for this electrifying new racing game. Extensive game features include over twenty world-class racing vehicles including hidden cars, fifteen challenging tracks with varying weather conditions in five different universes, spectacular car jumps with additional boosters on the track, stunning visual SFX on the landscapes and multiplayer gaming for up to four players. - See more at: http://www.consolepassion.co.uk/products/sega-dreamcast/games/exhibition-speed#sthash.PJt2AJWT.dpuf"
+
+---

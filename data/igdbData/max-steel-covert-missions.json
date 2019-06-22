@@ -1,0 +1,44 @@
+[
+  {
+    "id": 4352,
+    "age_ratings": [
+      {
+        "id": 5085,
+        "rating": 10
+      }
+    ],
+    "cover": {
+      "id": 4714,
+      "game": 4352,
+      "height": 604,
+      "image_id": "xdqcxwafr7zwbjy5tsti",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/xdqcxwafr7zwbjy5tsti.jpg",
+      "width": 620
+    },
+    "first_release_date": 970876800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 4386,
+        "name": "double jump"
+      },
+      {
+        "id": 4446,
+        "name": "gun"
+      },
+      {
+        "id": 4627,
+        "name": "energy force shield"
+      }
+    ],
+    "name": "Max Steel: Covert Missions",
+    "popularity": 1.0,
+    "slug": "max-steel-covert-missions",
+    "summary": "Max Steel goes Covert-Opp\u0027s to find out the location of Dread."
+  }
+]

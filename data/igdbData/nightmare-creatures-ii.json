@@ -1,0 +1,72 @@
+[
+  {
+    "id": 45860,
+    "age_ratings": [
+      {
+        "id": 14179,
+        "rating": 11
+      }
+    ],
+    "cover": {
+      "id": 29747,
+      "game": 45860,
+      "height": 630,
+      "image_id": "p0rfhh1kfmqp8ktubgxa",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/p0rfhh1kfmqp8ktubgxa.jpg",
+      "width": 640
+    },
+    "first_release_date": 959126400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 1027,
+        "name": "adventure"
+      },
+      {
+        "id": 1120,
+        "name": "horror"
+      },
+      {
+        "id": 1836,
+        "name": "survival horror"
+      },
+      {
+        "id": 4359,
+        "name": "polygonal 3d"
+      },
+      {
+        "id": 6061,
+        "name": "e3 2000"
+      },
+      {
+        "id": 8671,
+        "name": "fatality"
+      },
+      {
+        "id": 13119,
+        "name": "e3 1999"
+      }
+    ],
+    "name": "Nightmare Creatures II",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.0,
+    "slug": "nightmare-creatures-ii",
+    "summary": "\"Assume the role of Herbert Wallace, an escaped test subject, on the trail of the demonic scientist, Dr. Adam Crowley. After enduring years of horrific lab experiments, Wallace is out to settle the score in a chilling and bloody chase through London and Paris. \n \nLittle does he know that exacting revenge on Crowley is also the last hope to save the world from a nightmarish demise.\""
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "id": 5147,
+    "age_ratings": [
+      {
+        "id": 2766,
+        "rating": 8
+      },
+      {
+        "id": 11714,
+        "rating": 1
+      }
+    ],
+    "aggregated_rating": 67.0,
+    "aggregated_rating_count": 3,
+    "cover": {
+      "id": 5126,
+      "game": 5147,
+      "height": 248,
+      "image_id": "xzroshyd8rohcjjpnsc5",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/xzroshyd8rohcjjpnsc5.jpg",
+      "width": 250
+    },
+    "first_release_date": 880934400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 78,
+        "name": "anime"
+      },
+      {
+        "id": 509,
+        "name": "fishing"
+      },
+      {
+        "id": 2016,
+        "name": "billiards"
+      },
+      {
+        "id": 2152,
+        "name": "high score"
+      },
+      {
+        "id": 4134,
+        "name": "digital distribution"
+      },
+      {
+        "id": 4181,
+        "name": "company name in title"
+      },
+      {
+        "id": 4320,
+        "name": "fish"
+      },
+      {
+        "id": 4321,
+        "name": "fishing rod"
+      },
+      {
+        "id": 4438,
+        "name": "motion control"
+      },
+      {
+        "id": 5362,
+        "name": "boat"
+      },
+      {
+        "id": 7600,
+        "name": "playstation 3"
+      },
+      {
+        "id": 10065,
+        "name": "bass"
+      },
+      {
+        "id": 11080,
+        "name": "leaping fish"
+      },
+      {
+        "id": 13002,
+        "name": "dreamcast fishing controller support"
+      },
+      {
+        "id": 17215,
+        "name": "ps3"
+      },
+      {
+        "id": 19975,
+        "name": "sports game"
+      },
+      {
+        "id": 21535,
+        "name": "sega bass fishing"
+      },
+      {
+        "id": 21536,
+        "name": "sega bass fishing game"
+      }
+    ],
+    "name": "Sega Bass Fishing",
+    "popularity": 1.0,
+    "screenshots": [
+      {
+        "id": 102132,
+        "game": 5147,
+        "height": 720,
+        "image_id": "ttwfneixxkt6s40m4ygj",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ttwfneixxkt6s40m4ygj.jpg",
+        "width": 1280
+      },
+      {
+        "id": 102133,
+        "game": 5147,
+        "height": 720,
+        "image_id": "piq6weicfnwyeika1uzf",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/piq6weicfnwyeika1uzf.jpg",
+        "width": 1280
+      },
+      {
+        "id": 102134,
+        "game": 5147,
+        "height": 720,
+        "image_id": "aquponer4bynfyngdtun",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/aquponer4bynfyngdtun.jpg",
+        "width": 1280
+      },
+      {
+        "id": 102135,
+        "game": 5147,
+        "height": 720,
+        "image_id": "nxlg6klinrld9kwa4lgf",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/nxlg6klinrld9kwa4lgf.jpg",
+        "width": 1280
+      },
+      {
+        "id": 102136,
+        "game": 5147,
+        "height": 720,
+        "image_id": "grdic3tznt5a2vajr9oz",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/grdic3tznt5a2vajr9oz.jpg",
+        "width": 1280
+      },
+      {
+        "id": 171923,
+        "game": 5147,
+        "height": 480,
+        "image_id": "r1foyuerh5utauro1osu",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/r1foyuerh5utauro1osu.jpg",
+        "width": 640
+      },
+      {
+        "id": 171924,
+        "game": 5147,
+        "height": 480,
+        "image_id": "neu2keacw8jofytvulrs",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/neu2keacw8jofytvulrs.jpg",
+        "width": 640
+      },
+      {
+        "id": 171925,
+        "game": 5147,
+        "height": 480,
+        "image_id": "kvb0nxkhx9exdbu3dylg",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/kvb0nxkhx9exdbu3dylg.jpg",
+        "width": 640
+      },
+      {
+        "id": 171926,
+        "game": 5147,
+        "height": 480,
+        "image_id": "nmceet9cqnnek6bacolt",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/nmceet9cqnnek6bacolt.jpg",
+        "width": 640
+      },
+      {
+        "id": 171927,
+        "game": 5147,
+        "height": 480,
+        "image_id": "vqrqu4kybuilnpzinzeu",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vqrqu4kybuilnpzinzeu.jpg",
+        "width": 640
+      },
+      {
+        "id": 171928,
+        "game": 5147,
+        "height": 480,
+        "image_id": "yquazrbtas63zplejoai",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/yquazrbtas63zplejoai.jpg",
+        "width": 640
+      },
+      {
+        "id": 171929,
+        "game": 5147,
+        "height": 480,
+        "image_id": "uqwgw9i28cvphqyltosc",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/uqwgw9i28cvphqyltosc.jpg",
+        "width": 640
+      }
+    ],
+    "slug": "sega-bass-fishing",
+    "summary": "Explore the exciting sport of Bass fishing! Based on the Dreamcast hit, motor out to eight different fishing locations to catch the biggest and baddest Bass possible! Choose between fourteen different lures, and compete in four tournaments. Start off as an amateur, and work your way up to the pros in the Masters Classic tournament. Get hooked!"
+  }
+]

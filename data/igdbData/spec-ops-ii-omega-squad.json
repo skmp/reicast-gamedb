@@ -1,0 +1,126 @@
+[
+  {
+    "id": 9344,
+    "cover": {
+      "id": 9598,
+      "game": 9344,
+      "height": 640,
+      "image_id": "l7el9hytajuvjdkk7iuw",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/l7el9hytajuvjdkk7iuw.jpg",
+      "width": 640
+    },
+    "first_release_date": 972345600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 1,
+        "name": "modern warfare"
+      },
+      {
+        "id": 453,
+        "name": "first person shooter"
+      },
+      {
+        "id": 467,
+        "name": "tps"
+      },
+      {
+        "id": 558,
+        "name": "death"
+      },
+      {
+        "id": 563,
+        "name": "military"
+      },
+      {
+        "id": 664,
+        "name": "tactical shooter"
+      },
+      {
+        "id": 897,
+        "name": "third person shooter"
+      },
+      {
+        "id": 1025,
+        "name": "shooter"
+      },
+      {
+        "id": 1107,
+        "name": "war"
+      },
+      {
+        "id": 4259,
+        "name": "modern military"
+      },
+      {
+        "id": 4359,
+        "name": "polygonal 3d"
+      },
+      {
+        "id": 4730,
+        "name": "sniping"
+      },
+      {
+        "id": 5320,
+        "name": "hit points"
+      },
+      {
+        "id": 5813,
+        "name": "ski mask"
+      },
+      {
+        "id": 6021,
+        "name": "guerilla warfare"
+      },
+      {
+        "id": 6374,
+        "name": "light up crosshair"
+      },
+      {
+        "id": 9813,
+        "name": "battle dress uniform"
+      },
+      {
+        "id": 10460,
+        "name": "team killing"
+      },
+      {
+        "id": 10602,
+        "name": "no scope"
+      }
+    ],
+    "name": "Spec Ops II: Omega Squad",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.423869563157,
+    "slug": "spec-ops-ii-omega-squad",
+    "summary": "Spec Ops is an military video game franchise, created by Zombie Studios. The games have primarily been launched on the PC, PlayStation and Dreamcast systems. The first titles in the series were developed by Zombie Studios, and later titles by Runecraft. The same goes for publishers: initially the games were published by Ripcord Games, and later by Take-Two Interactive. Other developers and publishers have since been brought in for spin-off titles and sequels[1] \n \nThe Spec Ops franchise was intended to introduce a realistic first/third-person shooter experience and immerse the player in a two-man team gameplay. The first two games were well received; and the PlayStation and Dreamcast sequels, developed by Runecraft, received lower review scores.[2] The latest game in the series, Spec Ops: The Line, was highly acclaimed for its narrative, based on the novel Heart of Darkness."
+  }
+]

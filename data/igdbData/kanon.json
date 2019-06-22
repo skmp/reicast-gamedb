@@ -1,0 +1,80 @@
+[
+  {
+    "id": 11410,
+    "cover": {
+      "id": 10770,
+      "game": 11410,
+      "height": 1200,
+      "image_id": "m7rf4vyyz1tujudvrc7p",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/m7rf4vyyz1tujudvrc7p.jpg",
+      "width": 821
+    },
+    "first_release_date": 946598400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 67,
+        "name": "robot"
+      },
+      {
+        "id": 94,
+        "name": "visual novel"
+      },
+      {
+        "id": 166,
+        "name": "shoot \u0027em up"
+      },
+      {
+        "id": 167,
+        "name": "mech"
+      },
+      {
+        "id": 846,
+        "name": "romance"
+      },
+      {
+        "id": 847,
+        "name": "eroge"
+      },
+      {
+        "id": 947,
+        "name": "spaceship"
+      },
+      {
+        "id": 970,
+        "name": "sci-fi"
+      },
+      {
+        "id": 5945,
+        "name": "energy weapons"
+      },
+      {
+        "id": 7686,
+        "name": "2d depth attack"
+      },
+      {
+        "id": 10411,
+        "name": "bullet cancelling"
+      }
+    ],
+    "name": "Kanon",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 5,
+        "name": "Text"
+      }
+    ],
+    "popularity": 1.637317448009249,
+    "slug": "kanon",
+    "summary": "Kanon is a Japanese adult visual novel developed by Key. Key later released versions of Kanon without the erotic content. The story follows the life of Yuichi Aizawa, a high school student who returns to a city he last visited seven years prior, and he has little recollection of the events from back then. He meets several girls and slowly regains his lost memories. The gameplay in Kanon follows a branching plot line which offers pre-determined scenarios with courses of interaction, and focuses on the appeal of the five female main characters by the player character."
+  }
+]

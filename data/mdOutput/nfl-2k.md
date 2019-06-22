@@ -1,0 +1,113 @@
+---
+view: game
+layout: game
+author: reicast
+created_at: 2018-03-25 09:00
+updated_at: 2019-05-02 09:00
+id: nfl-2k
+title: "NFL 2K"
+gamedb-issue: 0
+
+releases:
+  - id: "3691"
+    region: US
+    version: "1.007"
+    discs: 1
+    medium: gdrom
+  - id: "22AA"
+    region: JP
+    version: "1.002"
+    discs: 1
+    medium: gdrom
+
+test-videos:
+  - fingerprint: "3691 GD-ROM1/1 US"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: l0Orn8CCsxU
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+  - fingerprint: "3691 GD-ROM1/1 US"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: LG0krUecFIY
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+  - fingerprint: "3691 GD-ROM1/1 US"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: MSoqWZKH94c
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+  - fingerprint: "22AA GD-ROM1/1 JP"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: J-OaEiY1j_k
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+
+gotIGDBGame: 1
+idIGDB: 8842
+age_ratings:
+  - id: 6110
+    rating: 8
+cover:
+  - id: 9296
+    game: 8842
+    height: 266
+    image_id: "z9md9eakmgiphb20b9mn"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/z9md9eakmgiphb20b9mn.jpg"
+    width: 299
+first_release_date: 936835200
+game_modes:
+  - "Single player"
+  - "Multiplayer"
+categories:
+  - "Sport"
+tags:
+  - "soccer"
+  - "football"
+  - "american football"
+  - "sports"
+  - "artificial intelligence"
+  - "game critics awards"
+  - "cover athlete"
+  - "platform exclusive"
+  - "referees"
+  - "launch titles"
+  - "helmet"
+  - "rain"
+  - "year in the title"
+  - "difficulty level"
+  - "commentary"
+  - "national football league"
+  - "radial menu"
+  - "football helmet"
+  - "football player"
+  - "cleats"
+  - "san francisco 49ers"
+  - "green bay packers"
+  - "oakland raiders"
+  - "washington redskins"
+  - "philadelphia eagles"
+  - "dallas cowboys"
+  - "new york giants"
+  - "denver broncos"
+  - "miami dolphins"
+  - "arizona cardinals"
+  - "minnesota vikings"
+  - "new orleans saints"
+  - "pittsburgh steelers"
+  - "greatest hits"
+  - "vmu support"
+  - "e3 1999"
+name: "NFL 2K"
+player_perspectives:
+  - "Bird view"
+popularity: 1.431190544661441
+slug: "nfl-2k"
+summary: "NFL 2K is an American football video game series developed by Visual Concepts and published by Sega.[1] The series was originally exclusive to Sega's Dreamcast video game console due to the absence of EA Sports's Madden NFL series on the system. As the foremost &quote;2K&quote; title, it marked the beginning of a running athletics series that eventually led to the spinning off of 2K's sports publishing business under the name of 2K Sports. Upon the Dreamcast's discontinuation, the series continued to be published for other sixth generation game systems and became the chief competitor of the Madden series. 
+ 
+After the competitively priced NFL 2K5 significantly reduced sales of that year's Madden release, EA signed an exclusivity deal with the NFL that made Madden NFL the only series allowed to use NFL team and player names. After losing the NFL license, Visual Concepts made a brief return to developing football games with the release of All-Pro Football 2K8, which featured former NFL players on fictional teams."
+
+---

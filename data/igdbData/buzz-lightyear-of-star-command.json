@@ -1,0 +1,94 @@
+[
+  {
+    "id": 19675,
+    "age_ratings": [
+      {
+        "id": 8917,
+        "rating": 8
+      },
+      {
+        "id": 8918,
+        "rating": 2
+      }
+    ],
+    "aggregated_rating": 30.0,
+    "aggregated_rating_count": 1,
+    "cover": {
+      "id": 15962,
+      "game": 19675,
+      "height": 385,
+      "image_id": "qvkkhkquuipaxv7dv8in",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/qvkkhkquuipaxv7dv8in.jpg",
+      "width": 323
+    },
+    "first_release_date": 969926400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 3,
+        "name": "aliens"
+      },
+      {
+        "id": 1027,
+        "name": "adventure"
+      },
+      {
+        "id": 1563,
+        "name": "kid friendly"
+      },
+      {
+        "id": 4142,
+        "name": "licensed game"
+      },
+      {
+        "id": 4162,
+        "name": "anthropomorphism"
+      },
+      {
+        "id": 4359,
+        "name": "polygonal 3d"
+      },
+      {
+        "id": 4380,
+        "name": "cartoon character"
+      },
+      {
+        "id": 4382,
+        "name": "games based on movies"
+      },
+      {
+        "id": 5331,
+        "name": "cel-shading"
+      },
+      {
+        "id": 7527,
+        "name": "password"
+      }
+    ],
+    "name": "Buzz Lightyear of Star Command",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.424160009382094,
+    "slug": "buzz-lightyear-of-star-command",
+    "summary": "Buzz Lightyear of Star Command is a Windows PC game created by Travelers Tales with Disney Interactive and PIXAR in 2000. The game consists of multiple planets, each with a villain on it. In each level the player races the villain to his/her getaway destination. Then the player engages in a one-on-one battle the villain, which usually requires destroying an energy shield surrounding the villain.[1]"
+  }
+]

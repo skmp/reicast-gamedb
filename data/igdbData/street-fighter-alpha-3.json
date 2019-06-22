@@ -1,0 +1,628 @@
+[
+  {
+    "id": 6704,
+    "age_ratings": [
+      {
+        "id": 3848,
+        "rating": 10
+      }
+    ],
+    "aggregated_rating": 80.0,
+    "aggregated_rating_count": 2,
+    "cover": {
+      "id": 6843,
+      "game": 6704,
+      "height": 650,
+      "image_id": "b5vkze2aanw7n2u1v7xs",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/b5vkze2aanw7n2u1v7xs.jpg",
+      "width": 650
+    },
+    "first_release_date": 899078400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 61,
+        "name": "martial arts"
+      },
+      {
+        "id": 107,
+        "name": "fighting"
+      },
+      {
+        "id": 137,
+        "name": "gravity"
+      },
+      {
+        "id": 288,
+        "name": "2d"
+      },
+      {
+        "id": 301,
+        "name": "health"
+      },
+      {
+        "id": 441,
+        "name": "street fighting"
+      },
+      {
+        "id": 558,
+        "name": "death"
+      },
+      {
+        "id": 872,
+        "name": "shadow"
+      },
+      {
+        "id": 1075,
+        "name": "crossover"
+      },
+      {
+        "id": 1188,
+        "name": "bromance"
+      },
+      {
+        "id": 1231,
+        "name": "karate"
+      },
+      {
+        "id": 1313,
+        "name": "multiple endings"
+      },
+      {
+        "id": 1950,
+        "name": "electronic music"
+      },
+      {
+        "id": 1985,
+        "name": "kung fu"
+      },
+      {
+        "id": 2071,
+        "name": "sequel"
+      },
+      {
+        "id": 2098,
+        "name": "lucha libre"
+      },
+      {
+        "id": 2152,
+        "name": "high score"
+      },
+      {
+        "id": 3128,
+        "name": "clan"
+      },
+      {
+        "id": 4161,
+        "name": "jump"
+      },
+      {
+        "id": 4163,
+        "name": "sprite"
+      },
+      {
+        "id": 4164,
+        "name": "bonus stage"
+      },
+      {
+        "id": 4286,
+        "name": "character select screen"
+      },
+      {
+        "id": 4287,
+        "name": "voice acting"
+      },
+      {
+        "id": 4294,
+        "name": "game title announcer"
+      },
+      {
+        "id": 4302,
+        "name": "fireball"
+      },
+      {
+        "id": 4372,
+        "name": "psone classics"
+      },
+      {
+        "id": 4417,
+        "name": "claw"
+      },
+      {
+        "id": 4429,
+        "name": "school uniform"
+      },
+      {
+        "id": 4447,
+        "name": "boxing glove"
+      },
+      {
+        "id": 4494,
+        "name": "special attacks"
+      },
+      {
+        "id": 4534,
+        "name": "native american"
+      },
+      {
+        "id": 4536,
+        "name": "racial stereotypes"
+      },
+      {
+        "id": 4543,
+        "name": "experience points"
+      },
+      {
+        "id": 4545,
+        "name": "active ability"
+      },
+      {
+        "id": 4566,
+        "name": "fist"
+      },
+      {
+        "id": 4574,
+        "name": "headband"
+      },
+      {
+        "id": 4579,
+        "name": "crouching"
+      },
+      {
+        "id": 4670,
+        "name": "jitte"
+      },
+      {
+        "id": 4678,
+        "name": "multiple characters on box art"
+      },
+      {
+        "id": 4804,
+        "name": "tag teaming"
+      },
+      {
+        "id": 4866,
+        "name": "slashing weapons"
+      },
+      {
+        "id": 4891,
+        "name": "melee"
+      },
+      {
+        "id": 4903,
+        "name": "grapple"
+      },
+      {
+        "id": 4907,
+        "name": "gloves"
+      },
+      {
+        "id": 4917,
+        "name": "pocketstation support"
+      },
+      {
+        "id": 4918,
+        "name": "real-time combat"
+      },
+      {
+        "id": 4921,
+        "name": "miniskirt"
+      },
+      {
+        "id": 4958,
+        "name": "game over"
+      },
+      {
+        "id": 4983,
+        "name": "revealing attire"
+      },
+      {
+        "id": 5172,
+        "name": "facial hair"
+      },
+      {
+        "id": 5201,
+        "name": "shun goku satsu"
+      },
+      {
+        "id": 5202,
+        "name": "suspenders"
+      },
+      {
+        "id": 5323,
+        "name": "mercenary"
+      },
+      {
+        "id": 5328,
+        "name": "playstation tv support"
+      },
+      {
+        "id": 5354,
+        "name": "combo"
+      },
+      {
+        "id": 5398,
+        "name": "evo championship series"
+      },
+      {
+        "id": 5440,
+        "name": "projectiles"
+      },
+      {
+        "id": 5559,
+        "name": "blocking"
+      },
+      {
+        "id": 5893,
+        "name": "shoryuken"
+      },
+      {
+        "id": 5894,
+        "name": "hadouken"
+      },
+      {
+        "id": 5897,
+        "name": "animation canceling"
+      },
+      {
+        "id": 5901,
+        "name": "interquel"
+      },
+      {
+        "id": 5911,
+        "name": "wrestling moves in non-wrestling games"
+      },
+      {
+        "id": 5912,
+        "name": "charge character"
+      },
+      {
+        "id": 5913,
+        "name": "divekick"
+      },
+      {
+        "id": 5916,
+        "name": "actor character"
+      },
+      {
+        "id": 5917,
+        "name": "muay thai"
+      },
+      {
+        "id": 5918,
+        "name": "ansatsuken"
+      },
+      {
+        "id": 5919,
+        "name": "stance"
+      },
+      {
+        "id": 5920,
+        "name": "fingerless gloves"
+      },
+      {
+        "id": 5922,
+        "name": "qipao"
+      },
+      {
+        "id": 5930,
+        "name": "chain combo"
+      },
+      {
+        "id": 5942,
+        "name": "disembodied voice"
+      },
+      {
+        "id": 6096,
+        "name": "rivals"
+      },
+      {
+        "id": 6100,
+        "name": "mirror match"
+      },
+      {
+        "id": 6104,
+        "name": "launching enemies into the air"
+      },
+      {
+        "id": 6146,
+        "name": "spin attack"
+      },
+      {
+        "id": 6325,
+        "name": "book adaptation"
+      },
+      {
+        "id": 6468,
+        "name": "end credits songs"
+      },
+      {
+        "id": 6482,
+        "name": "skirt"
+      },
+      {
+        "id": 6496,
+        "name": "grappler"
+      },
+      {
+        "id": 6504,
+        "name": "rushdown"
+      },
+      {
+        "id": 6529,
+        "name": "flawless victory"
+      },
+      {
+        "id": 6784,
+        "name": "super meter"
+      },
+      {
+        "id": 7026,
+        "name": "bots"
+      },
+      {
+        "id": 7031,
+        "name": "uppercut"
+      },
+      {
+        "id": 7073,
+        "name": "surround sound"
+      },
+      {
+        "id": 7200,
+        "name": "slide tackle"
+      },
+      {
+        "id": 7280,
+        "name": "continue"
+      },
+      {
+        "id": 7287,
+        "name": "continue countdown"
+      },
+      {
+        "id": 7300,
+        "name": "piledriver"
+      },
+      {
+        "id": 7439,
+        "name": "cps"
+      },
+      {
+        "id": 7441,
+        "name": "q-sound"
+      },
+      {
+        "id": 7640,
+        "name": "joke character"
+      },
+      {
+        "id": 7690,
+        "name": "full-screen attack"
+      },
+      {
+        "id": 9057,
+        "name": "character specific pre-match taunts"
+      },
+      {
+        "id": 9529,
+        "name": "greatest hits"
+      },
+      {
+        "id": 9598,
+        "name": "midquel"
+      },
+      {
+        "id": 9886,
+        "name": "recycled animation"
+      },
+      {
+        "id": 9967,
+        "name": "butt attack"
+      },
+      {
+        "id": 10082,
+        "name": "roundhouse kick"
+      },
+      {
+        "id": 10200,
+        "name": "characters without pupils"
+      },
+      {
+        "id": 10359,
+        "name": "greek alphabet"
+      },
+      {
+        "id": 10454,
+        "name": "shadaloo"
+      },
+      {
+        "id": 10974,
+        "name": "nesicaxlive"
+      },
+      {
+        "id": 11249,
+        "name": "blood type"
+      },
+      {
+        "id": 11380,
+        "name": "snk boss syndrome"
+      },
+      {
+        "id": 11565,
+        "name": "guard cancel"
+      },
+      {
+        "id": 11853,
+        "name": "games on which movies are based"
+      },
+      {
+        "id": 11873,
+        "name": "harmful taunt"
+      },
+      {
+        "id": 12129,
+        "name": "what if?"
+      },
+      {
+        "id": 12413,
+        "name": "hurricane kick"
+      },
+      {
+        "id": 12546,
+        "name": "proration"
+      },
+      {
+        "id": 12634,
+        "name": "feral human"
+      },
+      {
+        "id": 13031,
+        "name": "revenge meter"
+      },
+      {
+        "id": 13118,
+        "name": "e3 2001"
+      },
+      {
+        "id": 13119,
+        "name": "e3 1999"
+      },
+      {
+        "id": 13544,
+        "name": "soft reset"
+      },
+      {
+        "id": 13951,
+        "name": "playstation underground"
+      }
+    ],
+    "name": "Street Fighter Alpha 3",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "popularity": 4.6053600797478,
+    "screenshots": [
+      {
+        "id": 5320,
+        "game": 6704,
+        "height": 224,
+        "image_id": "njdbg1yjg8iyiez9dyzg",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/njdbg1yjg8iyiez9dyzg.jpg",
+        "width": 384
+      },
+      {
+        "id": 5321,
+        "game": 6704,
+        "height": 224,
+        "image_id": "t1q9wl0zxdc2vgnrppqm",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/t1q9wl0zxdc2vgnrppqm.jpg",
+        "width": 384
+      },
+      {
+        "id": 5322,
+        "game": 6704,
+        "height": 224,
+        "image_id": "a8j9exyykl3tmqmas5bd",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/a8j9exyykl3tmqmas5bd.jpg",
+        "width": 384
+      },
+      {
+        "id": 5323,
+        "game": 6704,
+        "height": 224,
+        "image_id": "fndkowou2grmg3wefqsj",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fndkowou2grmg3wefqsj.jpg",
+        "width": 384
+      },
+      {
+        "id": 5324,
+        "game": 6704,
+        "height": 224,
+        "image_id": "jf3p8mf0vmbyqeruax2y",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jf3p8mf0vmbyqeruax2y.jpg",
+        "width": 384
+      },
+      {
+        "id": 174126,
+        "game": 6704,
+        "height": 160,
+        "image_id": "ytqskswf4wqfniwh4upq",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ytqskswf4wqfniwh4upq.jpg",
+        "width": 240
+      },
+      {
+        "id": 174127,
+        "game": 6704,
+        "height": 160,
+        "image_id": "m1mieg4ytgtpncgpzx9z",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/m1mieg4ytgtpncgpzx9z.jpg",
+        "width": 240
+      },
+      {
+        "id": 174128,
+        "game": 6704,
+        "height": 160,
+        "image_id": "hpbk1khanu8kmblb3ydf",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hpbk1khanu8kmblb3ydf.jpg",
+        "width": 240
+      },
+      {
+        "id": 174129,
+        "game": 6704,
+        "height": 160,
+        "image_id": "rxi33i3d0mmliqd7uuo5",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rxi33i3d0mmliqd7uuo5.jpg",
+        "width": 240
+      },
+      {
+        "id": 174130,
+        "game": 6704,
+        "height": 160,
+        "image_id": "wqrjstztlzwwxykhht5p",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/wqrjstztlzwwxykhht5p.jpg",
+        "width": 240
+      },
+      {
+        "id": 174131,
+        "game": 6704,
+        "height": 160,
+        "image_id": "mrj8xsakrwdinkxbyhez",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mrj8xsakrwdinkxbyhez.jpg",
+        "width": 240
+      },
+      {
+        "id": 174132,
+        "game": 6704,
+        "height": 160,
+        "image_id": "jrr34mvqlvfqgpmc27vk",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jrr34mvqlvfqgpmc27vk.jpg",
+        "width": 240
+      }
+    ],
+    "slug": "street-fighter-alpha-3",
+    "summary": "Street Fighter Alpha 3, the third game in the Alpha series, has a total of 31 fighters, the most in the series so far. New characters include old favorites E. Honda, Blanka, Vega, Cammy, T. Hawk, Dee Jay, Juni and Juli. Some of the newest fighters on the block include a former Final Fight character (Cody, who has been in jail since the last Final Fight game, or so his clothing suggests), Karin Kanzuki and Rainbow Mika. The major difference between this Alpha and the last two are the new play modes World Tour, Arcade, VS, Training and Entry."
+  }
+]

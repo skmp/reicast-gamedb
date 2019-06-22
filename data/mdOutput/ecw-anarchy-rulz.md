@@ -1,0 +1,70 @@
+---
+view: game
+layout: game
+author: reicast
+created_at: 2018-03-25 09:00
+updated_at: 2019-05-02 09:00
+id: ecw-anarchy-rulz
+title: "ECW Anarchy Rulz"
+gamedb-issue: 0
+
+releases:
+  - id: "7AB8"
+    region: EU
+    version: "1.003"
+    discs: 1
+    medium: gdrom
+
+test-videos:
+  - fingerprint: "7AB8 GD-ROM1/1 EU"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: P-Ny9i5WhZc
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+
+gotIGDBGame: 1
+idIGDB: 72029
+age_ratings:
+  - id: 19193
+    rating: 10
+cover:
+  - id: 53471
+    game: 72029
+    height: 377
+    image_id: "kttxv9c3loirvq6dczqs"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/kttxv9c3loirvq6dczqs.jpg"
+    width: 326
+categories:
+  - "Sport"
+tags:
+  - "blood"
+  - "wrestling"
+  - "trash can"
+  - "mask"
+  - "cover athlete"
+  - "professional wrestler"
+  - "professional wrestling ring"
+  - "character select screen"
+  - "ladder"
+  - "fist"
+  - "loading screens"
+  - "table"
+  - "tag teaming"
+  - "character creation"
+  - "difficulty level"
+  - "2&quote; x 4''"
+  - "e3 2000"
+  - "fire extinguisher"
+  - "finishing move"
+  - "taunting"
+  - "piledriver"
+  - "anarchism"
+  - "steel chair"
+  - "crude renditions of real people"
+name: "ECW Anarchy Rulz"
+popularity: 1.0
+slug: "ecw-anarchy-rulz"
+summary: "Acclaim brings its third wrestling title to the Dreamcast with ECW: Anarchy Rulz. More than 60 ECW wrestlers are included in the game including Dusty Rhodes, The Sandman, and Masato Tanaka. Choose from any of the available wrestlers or create your own jump into the action in any one of the more than 25 modes of play."
+
+---

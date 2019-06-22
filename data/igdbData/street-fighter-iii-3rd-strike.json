@@ -1,0 +1,586 @@
+[
+  {
+    "id": 6710,
+    "age_ratings": [
+      {
+        "id": 10189,
+        "rating": 10
+      }
+    ],
+    "aggregated_rating": 90.0,
+    "aggregated_rating_count": 3,
+    "cover": {
+      "id": 69527,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 6710,
+      "height": 1094,
+      "image_id": "co1hnb",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1hnb.jpg",
+      "width": 850
+    },
+    "first_release_date": 926467200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 61,
+        "name": "martial arts"
+      },
+      {
+        "id": 78,
+        "name": "anime"
+      },
+      {
+        "id": 107,
+        "name": "fighting"
+      },
+      {
+        "id": 137,
+        "name": "gravity"
+      },
+      {
+        "id": 301,
+        "name": "health"
+      },
+      {
+        "id": 441,
+        "name": "street fighting"
+      },
+      {
+        "id": 558,
+        "name": "death"
+      },
+      {
+        "id": 872,
+        "name": "shadow"
+      },
+      {
+        "id": 977,
+        "name": "hand-to-hand combat"
+      },
+      {
+        "id": 1231,
+        "name": "karate"
+      },
+      {
+        "id": 1293,
+        "name": "achievements"
+      },
+      {
+        "id": 1333,
+        "name": "online"
+      },
+      {
+        "id": 1346,
+        "name": "illuminati"
+      },
+      {
+        "id": 1985,
+        "name": "kung fu"
+      },
+      {
+        "id": 2152,
+        "name": "high score"
+      },
+      {
+        "id": 2543,
+        "name": "playstation network"
+      },
+      {
+        "id": 2951,
+        "name": "gods"
+      },
+      {
+        "id": 3128,
+        "name": "clan"
+      },
+      {
+        "id": 3486,
+        "name": "boss fight"
+      },
+      {
+        "id": 4134,
+        "name": "digital distribution"
+      },
+      {
+        "id": 4161,
+        "name": "jump"
+      },
+      {
+        "id": 4164,
+        "name": "bonus stage"
+      },
+      {
+        "id": 4245,
+        "name": "playstation trophies"
+      },
+      {
+        "id": 4286,
+        "name": "character select screen"
+      },
+      {
+        "id": 4296,
+        "name": "thanks for playing"
+      },
+      {
+        "id": 4302,
+        "name": "fireball"
+      },
+      {
+        "id": 4353,
+        "name": "human"
+      },
+      {
+        "id": 4386,
+        "name": "double jump"
+      },
+      {
+        "id": 4429,
+        "name": "school uniform"
+      },
+      {
+        "id": 4447,
+        "name": "boxing glove"
+      },
+      {
+        "id": 4494,
+        "name": "special attacks"
+      },
+      {
+        "id": 4541,
+        "name": "original soundtrack release"
+      },
+      {
+        "id": 4544,
+        "name": "unlockables"
+      },
+      {
+        "id": 4545,
+        "name": "active ability"
+      },
+      {
+        "id": 4566,
+        "name": "fist"
+      },
+      {
+        "id": 4579,
+        "name": "crouching"
+      },
+      {
+        "id": 4673,
+        "name": "spandex"
+      },
+      {
+        "id": 4809,
+        "name": "karate gi"
+      },
+      {
+        "id": 4890,
+        "name": "xbox live"
+      },
+      {
+        "id": 4891,
+        "name": "melee"
+      },
+      {
+        "id": 4903,
+        "name": "grapple"
+      },
+      {
+        "id": 4958,
+        "name": "game over"
+      },
+      {
+        "id": 4983,
+        "name": "revealing attire"
+      },
+      {
+        "id": 5019,
+        "name": "parrying"
+      },
+      {
+        "id": 5114,
+        "name": "in-game achievements"
+      },
+      {
+        "id": 5201,
+        "name": "shun goku satsu"
+      },
+      {
+        "id": 5202,
+        "name": "suspenders"
+      },
+      {
+        "id": 5354,
+        "name": "combo"
+      },
+      {
+        "id": 5398,
+        "name": "evo championship series"
+      },
+      {
+        "id": 5440,
+        "name": "projectiles"
+      },
+      {
+        "id": 5559,
+        "name": "blocking"
+      },
+      {
+        "id": 5586,
+        "name": "tattoo"
+      },
+      {
+        "id": 5673,
+        "name": "shape-shifting"
+      },
+      {
+        "id": 5721,
+        "name": "charge"
+      },
+      {
+        "id": 5846,
+        "name": "kunai"
+      },
+      {
+        "id": 5891,
+        "name": "juggling"
+      },
+      {
+        "id": 5893,
+        "name": "shoryuken"
+      },
+      {
+        "id": 5894,
+        "name": "hadouken"
+      },
+      {
+        "id": 5895,
+        "name": "negative edge"
+      },
+      {
+        "id": 5897,
+        "name": "animation canceling"
+      },
+      {
+        "id": 5898,
+        "name": "chip damage"
+      },
+      {
+        "id": 5904,
+        "name": "particle system"
+      },
+      {
+        "id": 5907,
+        "name": "air dash"
+      },
+      {
+        "id": 5911,
+        "name": "wrestling moves in non-wrestling games"
+      },
+      {
+        "id": 5912,
+        "name": "charge character"
+      },
+      {
+        "id": 5913,
+        "name": "divekick"
+      },
+      {
+        "id": 5915,
+        "name": "letter grade at the end of a level"
+      },
+      {
+        "id": 5920,
+        "name": "fingerless gloves"
+      },
+      {
+        "id": 5921,
+        "name": "suit and tie"
+      },
+      {
+        "id": 5922,
+        "name": "qipao"
+      },
+      {
+        "id": 5923,
+        "name": "boxing gloves"
+      },
+      {
+        "id": 5975,
+        "name": "rose"
+      },
+      {
+        "id": 6036,
+        "name": "voice chat"
+      },
+      {
+        "id": 6061,
+        "name": "e3 2000"
+      },
+      {
+        "id": 6095,
+        "name": "double knock out"
+      },
+      {
+        "id": 6100,
+        "name": "mirror match"
+      },
+      {
+        "id": 6104,
+        "name": "launching enemies into the air"
+      },
+      {
+        "id": 6105,
+        "name": "psn play"
+      },
+      {
+        "id": 6123,
+        "name": "clear save"
+      },
+      {
+        "id": 6325,
+        "name": "book adaptation"
+      },
+      {
+        "id": 6386,
+        "name": "\"winners don\u0027t use drugs\""
+      },
+      {
+        "id": 6496,
+        "name": "grappler"
+      },
+      {
+        "id": 6504,
+        "name": "rushdown"
+      },
+      {
+        "id": 6506,
+        "name": "enhanced special move"
+      },
+      {
+        "id": 6529,
+        "name": "flawless victory"
+      },
+      {
+        "id": 6532,
+        "name": "spam"
+      },
+      {
+        "id": 6537,
+        "name": "in-game moves list"
+      },
+      {
+        "id": 6709,
+        "name": "ggpo"
+      },
+      {
+        "id": 6784,
+        "name": "super meter"
+      },
+      {
+        "id": 6788,
+        "name": "bandana"
+      },
+      {
+        "id": 6871,
+        "name": "tanuki"
+      },
+      {
+        "id": 7026,
+        "name": "bots"
+      },
+      {
+        "id": 7031,
+        "name": "uppercut"
+      },
+      {
+        "id": 7280,
+        "name": "continue"
+      },
+      {
+        "id": 7287,
+        "name": "continue countdown"
+      },
+      {
+        "id": 7300,
+        "name": "piledriver"
+      },
+      {
+        "id": 7345,
+        "name": "counter system"
+      },
+      {
+        "id": 7439,
+        "name": "cps"
+      },
+      {
+        "id": 7690,
+        "name": "full-screen attack"
+      },
+      {
+        "id": 8776,
+        "name": "satsui no hadou"
+      },
+      {
+        "id": 8853,
+        "name": "roman numerals"
+      },
+      {
+        "id": 8874,
+        "name": "kunoichi"
+      },
+      {
+        "id": 9075,
+        "name": "sudden death"
+      },
+      {
+        "id": 9360,
+        "name": "ranked match"
+      },
+      {
+        "id": 9853,
+        "name": "professional gaming"
+      },
+      {
+        "id": 9951,
+        "name": "e3 2011"
+      },
+      {
+        "id": 10200,
+        "name": "characters without pupils"
+      },
+      {
+        "id": 10454,
+        "name": "shadaloo"
+      },
+      {
+        "id": 10974,
+        "name": "nesicaxlive"
+      },
+      {
+        "id": 11249,
+        "name": "blood type"
+      },
+      {
+        "id": 11380,
+        "name": "snk boss syndrome"
+      },
+      {
+        "id": 11782,
+        "name": "pax prime 2011"
+      },
+      {
+        "id": 11873,
+        "name": "harmful taunt"
+      },
+      {
+        "id": 11875,
+        "name": "post-match movement"
+      },
+      {
+        "id": 12413,
+        "name": "hurricane kick"
+      },
+      {
+        "id": 12546,
+        "name": "proration"
+      },
+      {
+        "id": 12945,
+        "name": "axe kick"
+      },
+      {
+        "id": 13031,
+        "name": "revenge meter"
+      },
+      {
+        "id": 13544,
+        "name": "soft reset"
+      },
+      {
+        "id": 16618,
+        "name": "master street fighter"
+      },
+      {
+        "id": 16619,
+        "name": "two-in-one combo"
+      },
+      {
+        "id": 16620,
+        "name": "philatelic recognition"
+      }
+    ],
+    "name": "Street Fighter III: 3rd Strike",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "popularity": 5.874499976305497,
+    "screenshots": [
+      {
+        "id": 5347,
+        "game": 6710,
+        "height": 224,
+        "image_id": "uvmkwpvv3eio32weebbn",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/uvmkwpvv3eio32weebbn.jpg",
+        "width": 384
+      },
+      {
+        "id": 5348,
+        "game": 6710,
+        "height": 224,
+        "image_id": "sgurb51jeo9lcj4jwcju",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sgurb51jeo9lcj4jwcju.jpg",
+        "width": 384
+      },
+      {
+        "id": 5349,
+        "game": 6710,
+        "height": 224,
+        "image_id": "tkk5esj2qlhryvqhg37c",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/tkk5esj2qlhryvqhg37c.jpg",
+        "width": 384
+      },
+      {
+        "id": 5350,
+        "game": 6710,
+        "height": 224,
+        "image_id": "lmmjgfd88c721w815tmn",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/lmmjgfd88c721w815tmn.jpg",
+        "width": 384
+      },
+      {
+        "id": 5351,
+        "game": 6710,
+        "height": 224,
+        "image_id": "kbg1cwnjmtnudbemkdyh",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/kbg1cwnjmtnudbemkdyh.jpg",
+        "width": 384
+      }
+    ],
+    "slug": "street-fighter-iii-3rd-strike",
+    "summary": "Street Fighter III 3rd Strike: Fight for the Future is a 2D competitive fighting game produced by Capcom originally released for the arcade in 1999. It is the second follow-up to Street Fighter III, following Street Fighter III 2nd Impact. Like its predecessors, it runs on the CP System III hardware. 3rd Strike increased the character roster by adding five new characters, including Chun-Li. It also added further refinements to the previous game\u0027s play mechanics and rules. It was ported to the Dreamcast, PlayStation 2, and Xbox. A downloadable online version titled Street Fighter III: 3rd Strike Online Edition was released on PlayStation Network and Xbox Live Arcade in August 2011."
+  }
+]

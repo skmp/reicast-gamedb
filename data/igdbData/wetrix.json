@@ -1,0 +1,150 @@
+[
+  {
+    "id": 3637,
+    "age_ratings": [
+      {
+        "id": 1751,
+        "rating": 8
+      }
+    ],
+    "aggregated_rating": 68.0,
+    "aggregated_rating_count": 1,
+    "cover": {
+      "id": 3754,
+      "game": 3637,
+      "height": 183,
+      "image_id": "fqskf7ydirsjx4q4tpir",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/fqskf7ydirsjx4q4tpir.jpg",
+      "width": 250
+    },
+    "first_release_date": 912124800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 1046,
+        "name": "rainbow"
+      },
+      {
+        "id": 1098,
+        "name": "water"
+      },
+      {
+        "id": 1395,
+        "name": "blocks"
+      },
+      {
+        "id": 2528,
+        "name": "falling blocks"
+      },
+      {
+        "id": 2875,
+        "name": "puzzle"
+      },
+      {
+        "id": 4167,
+        "name": "ducks"
+      },
+      {
+        "id": 4210,
+        "name": "split-screen multiplayer"
+      },
+      {
+        "id": 4302,
+        "name": "fireball"
+      },
+      {
+        "id": 4350,
+        "name": "bomb"
+      },
+      {
+        "id": 5157,
+        "name": "ice"
+      },
+      {
+        "id": 6893,
+        "name": "rubber duck"
+      },
+      {
+        "id": 6921,
+        "name": "ice block"
+      },
+      {
+        "id": 7159,
+        "name": "multiplier"
+      },
+      {
+        "id": 8886,
+        "name": "water manipulation"
+      },
+      {
+        "id": 8928,
+        "name": "smart bomb"
+      },
+      {
+        "id": 10085,
+        "name": "naval mine"
+      }
+    ],
+    "name": "Wetrix",
+    "popularity": 1.0,
+    "screenshots": [
+      {
+        "id": 211920,
+        "game": 3637,
+        "height": 622,
+        "image_id": "r7ziukpjv0bduxx2we7f",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/r7ziukpjv0bduxx2we7f.jpg",
+        "width": 800
+      },
+      {
+        "id": 211921,
+        "game": 3637,
+        "height": 622,
+        "image_id": "antpt4fpi0wolysdisyx",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/antpt4fpi0wolysdisyx.jpg",
+        "width": 800
+      },
+      {
+        "id": 211922,
+        "game": 3637,
+        "height": 622,
+        "image_id": "idaicwcflfrlf2cut1ur",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/idaicwcflfrlf2cut1ur.jpg",
+        "width": 800
+      },
+      {
+        "id": 211923,
+        "game": 3637,
+        "height": 622,
+        "image_id": "psryy9pvve2k9d1gu52x",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/psryy9pvve2k9d1gu52x.jpg",
+        "width": 800
+      }
+    ],
+    "slug": "wetrix",
+    "summary": "A rainstorm so fierce, it will keep you from leaving your home for the next six months. Wetrix just might be the most addictive puzzle game of all time. Using randomly shaped 3D blocks as they fall from the sky, you must create a series of lakes and dams before the heavy rains appear. Because if the water drains, you lose! Sound simple? Well, mix in a few natural disasters and bomb attacks, and suddenly you need to muster all your strategy and skill to combat nature\u0027s fury!",
+    "videos": [
+      {
+        "id": 19387,
+        "game": 3637,
+        "name": "Gameplay video",
+        "video_id": "kiwSVBWz5xA"
+      }
+    ]
+  }
+]

@@ -1,0 +1,185 @@
+[
+  {
+    "id": 36745,
+    "age_ratings": [
+      {
+        "id": 12632,
+        "rating": 8
+      }
+    ],
+    "cover": {
+      "id": 24392,
+      "game": 36745,
+      "height": 300,
+      "image_id": "kzcfpkemjeaxsmhl48cb",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/kzcfpkemjeaxsmhl48cb.jpg",
+      "width": 243
+    },
+    "first_release_date": 976233600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 247,
+        "name": "collecting"
+      },
+      {
+        "id": 274,
+        "name": "minigames"
+      },
+      {
+        "id": 301,
+        "name": "health"
+      },
+      {
+        "id": 575,
+        "name": "robots"
+      },
+      {
+        "id": 637,
+        "name": "snowboard"
+      },
+      {
+        "id": 2049,
+        "name": "platformer"
+      },
+      {
+        "id": 2184,
+        "name": "talking animals"
+      },
+      {
+        "id": 2231,
+        "name": "3d platformer"
+      },
+      {
+        "id": 3833,
+        "name": "bosses"
+      },
+      {
+        "id": 4161,
+        "name": "jump"
+      },
+      {
+        "id": 4176,
+        "name": "animal protagonists"
+      },
+      {
+        "id": 4297,
+        "name": "protagonist\u0027s name in the title"
+      },
+      {
+        "id": 4359,
+        "name": "polygonal 3d"
+      },
+      {
+        "id": 4386,
+        "name": "double jump"
+      },
+      {
+        "id": 4447,
+        "name": "boxing glove"
+      },
+      {
+        "id": 4484,
+        "name": "collectibles"
+      },
+      {
+        "id": 4611,
+        "name": "cutscene"
+      },
+      {
+        "id": 4777,
+        "name": "checkpoints"
+      },
+      {
+        "id": 4910,
+        "name": "heads up display"
+      },
+      {
+        "id": 4927,
+        "name": "useable vehicles"
+      },
+      {
+        "id": 4958,
+        "name": "game over"
+      },
+      {
+        "id": 5441,
+        "name": "moving platforms"
+      },
+      {
+        "id": 5658,
+        "name": "can\u0027t swim"
+      },
+      {
+        "id": 6146,
+        "name": "spin attack"
+      },
+      {
+        "id": 6318,
+        "name": "idle animations"
+      },
+      {
+        "id": 8969,
+        "name": "environment as weapons"
+      },
+      {
+        "id": 10488,
+        "name": "kangaroo"
+      }
+    ],
+    "name": "Kao the Kangaroo",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 2.060400023455236,
+    "screenshots": [
+      {
+        "id": 43875,
+        "game": 36745,
+        "height": 768,
+        "image_id": "dqmeqweuvwdkefsx8qg4",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/dqmeqweuvwdkefsx8qg4.jpg",
+        "width": 1360
+      },
+      {
+        "id": 43876,
+        "game": 36745,
+        "height": 480,
+        "image_id": "qc11gjvfgzdy0oru4u11",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qc11gjvfgzdy0oru4u11.jpg",
+        "width": 640
+      }
+    ],
+    "slug": "kao-the-kangaroo",
+    "storyline": "Kao is a young kangaroo living with his family in the jungle when they are one day captured by a ruthless hunter and his goons. It\u0027s up to Kao to drive the invaders from his home and save his family.",
+    "summary": "Action-adventure game released in 2000 by Tate Interactive. During development it was known as Denis the Kangaroo.",
+    "videos": [
+      {
+        "id": 14127,
+        "game": 36745,
+        "name": "Gameplay video",
+        "video_id": "DgcgKErWEXY"
+      },
+      {
+        "id": 14128,
+        "game": 36745,
+        "name": "Game intro",
+        "video_id": "6LkYRI_dFWE"
+      }
+    ]
+  }
+]

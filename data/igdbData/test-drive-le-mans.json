@@ -1,0 +1,24 @@
+[
+  {
+    "id": 45066,
+    "cover": {
+      "id": 64336,
+      "game": 45066,
+      "height": 700,
+      "image_id": "kfrxkpvcypipr3nwscrn",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/kfrxkpvcypipr3nwscrn.jpg",
+      "width": 696
+    },
+    "first_release_date": 957052800,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "name": "Test Drive: Le Mans",
+    "popularity": 1.0,
+    "slug": "test-drive-le-mans",
+    "summary": "Le Mans offers a number of play modes. The Arcade mode is designed for a quick thrill. It can satisfy the action junkies need for an adrenaline high. In it, the cars are completely indestructible, putting the emphasis on the racing. As the name implies, the Challenge races offer a bunch of difficult obstacles to overcome. Beating the opponent cars will open up a new series of Challenge tracks. The Time Attack mode pits the racer against the clock. Victory in the Time Attack mode will unleash a new fleet of cars. \n \nThe Championship mode is a little bit deeper. In it, the player will participate in an entire racing season, culminating in the famous 24 Heures Du Mans. The Championship mode starts with the GT2 class of car. Upon beating the first series of races, the player will be able to move on to the other car types. Finally, Le Mans offers the Le Mans 24 hr mode. In game time, the Le Mans race lasts the entire 24-hr. period. The player can choose to shorten the outcome by resetting the game time. Be careful, though, as the car can take a l"
+  }
+]

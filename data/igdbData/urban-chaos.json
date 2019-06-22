@@ -1,0 +1,432 @@
+[
+  {
+    "id": 8469,
+    "age_ratings": [
+      {
+        "id": 5795,
+        "rating": 11
+      },
+      {
+        "id": 5796,
+        "rating": 5
+      }
+    ],
+    "aggregated_rating": 90.0,
+    "aggregated_rating_count": 1,
+    "cover": {
+      "id": 8936,
+      "game": 8469,
+      "height": 500,
+      "image_id": "sjbc5ruv9w2rnbxokgex",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/sjbc5ruv9w2rnbxokgex.jpg",
+      "width": 394
+    },
+    "first_release_date": 943920000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 21,
+        "name": "helicopter"
+      },
+      {
+        "id": 61,
+        "name": "martial arts"
+      },
+      {
+        "id": 72,
+        "name": "exploration"
+      },
+      {
+        "id": 221,
+        "name": "murder"
+      },
+      {
+        "id": 467,
+        "name": "tps"
+      },
+      {
+        "id": 889,
+        "name": "gangs"
+      },
+      {
+        "id": 897,
+        "name": "third person shooter"
+      },
+      {
+        "id": 962,
+        "name": "female protagonist"
+      },
+      {
+        "id": 970,
+        "name": "sci-fi"
+      },
+      {
+        "id": 977,
+        "name": "hand-to-hand combat"
+      },
+      {
+        "id": 982,
+        "name": "brawler"
+      },
+      {
+        "id": 1025,
+        "name": "shooter"
+      },
+      {
+        "id": 1033,
+        "name": "action-adventure"
+      },
+      {
+        "id": 1158,
+        "name": "steam"
+      },
+      {
+        "id": 1373,
+        "name": "hostages"
+      },
+      {
+        "id": 1440,
+        "name": "artificial intelligence"
+      },
+      {
+        "id": 1459,
+        "name": "open-world"
+      },
+      {
+        "id": 1669,
+        "name": "crime"
+      },
+      {
+        "id": 1710,
+        "name": "snow"
+      },
+      {
+        "id": 1783,
+        "name": "car"
+      },
+      {
+        "id": 2049,
+        "name": "platformer"
+      },
+      {
+        "id": 2109,
+        "name": "level selection"
+      },
+      {
+        "id": 2280,
+        "name": "climbing"
+      },
+      {
+        "id": 2537,
+        "name": "ambulance"
+      },
+      {
+        "id": 3035,
+        "name": "ritual"
+      },
+      {
+        "id": 4144,
+        "name": "power up"
+      },
+      {
+        "id": 4145,
+        "name": "female protagonists"
+      },
+      {
+        "id": 4161,
+        "name": "jump"
+      },
+      {
+        "id": 4183,
+        "name": "crate"
+      },
+      {
+        "id": 4242,
+        "name": "police car"
+      },
+      {
+        "id": 4246,
+        "name": "bullet"
+      },
+      {
+        "id": 4305,
+        "name": "sunglasses"
+      },
+      {
+        "id": 4317,
+        "name": "ladder"
+      },
+      {
+        "id": 4345,
+        "name": "bink video"
+      },
+      {
+        "id": 4351,
+        "name": "demon invasion"
+      },
+      {
+        "id": 4359,
+        "name": "polygonal 3d"
+      },
+      {
+        "id": 4450,
+        "name": "hat"
+      },
+      {
+        "id": 4508,
+        "name": "knife"
+      },
+      {
+        "id": 4525,
+        "name": "third-person perspective"
+      },
+      {
+        "id": 4571,
+        "name": "shotgun"
+      },
+      {
+        "id": 4582,
+        "name": "rain"
+      },
+      {
+        "id": 4590,
+        "name": "paper"
+      },
+      {
+        "id": 4619,
+        "name": "gog.com"
+      },
+      {
+        "id": 4624,
+        "name": "smoke"
+      },
+      {
+        "id": 4633,
+        "name": "warning sign"
+      },
+      {
+        "id": 4637,
+        "name": "corpse"
+      },
+      {
+        "id": 4652,
+        "name": "van"
+      },
+      {
+        "id": 4658,
+        "name": "baseball bat"
+      },
+      {
+        "id": 4660,
+        "name": "pistol"
+      },
+      {
+        "id": 4662,
+        "name": "first aid kit"
+      },
+      {
+        "id": 4711,
+        "name": "sprinting"
+      },
+      {
+        "id": 4738,
+        "name": "fence"
+      },
+      {
+        "id": 4776,
+        "name": "escort mission"
+      },
+      {
+        "id": 4843,
+        "name": "saving the world"
+      },
+      {
+        "id": 4852,
+        "name": "side quests"
+      },
+      {
+        "id": 4880,
+        "name": "barrel"
+      },
+      {
+        "id": 4891,
+        "name": "melee"
+      },
+      {
+        "id": 4904,
+        "name": "trip mine"
+      },
+      {
+        "id": 4927,
+        "name": "useable vehicles"
+      },
+      {
+        "id": 4956,
+        "name": "a.i. companion"
+      },
+      {
+        "id": 5020,
+        "name": "convict"
+      },
+      {
+        "id": 5269,
+        "name": "spotlight"
+      },
+      {
+        "id": 5444,
+        "name": "blood splatter"
+      },
+      {
+        "id": 5500,
+        "name": "nuclear bomb"
+      },
+      {
+        "id": 5608,
+        "name": "evolving title screen"
+      },
+      {
+        "id": 5758,
+        "name": "handcuffs"
+      },
+      {
+        "id": 5775,
+        "name": "grenade"
+      },
+      {
+        "id": 5921,
+        "name": "suit and tie"
+      },
+      {
+        "id": 6235,
+        "name": "agents"
+      },
+      {
+        "id": 6589,
+        "name": "rifle"
+      },
+      {
+        "id": 6590,
+        "name": "ballistic vest"
+      },
+      {
+        "id": 6711,
+        "name": "crime fighting"
+      },
+      {
+        "id": 7173,
+        "name": "mysterious ally"
+      },
+      {
+        "id": 7321,
+        "name": "gang leader"
+      },
+      {
+        "id": 7578,
+        "name": "zip line"
+      },
+      {
+        "id": 8319,
+        "name": "creature plot twist"
+      },
+      {
+        "id": 8894,
+        "name": "partners"
+      },
+      {
+        "id": 9070,
+        "name": "fence climbing"
+      },
+      {
+        "id": 9799,
+        "name": "crotch damage"
+      },
+      {
+        "id": 10368,
+        "name": "m16a1"
+      },
+      {
+        "id": 11083,
+        "name": "new guy"
+      },
+      {
+        "id": 11085,
+        "name": "arresting"
+      }
+    ],
+    "name": "Urban Chaos",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.848320018764188,
+    "screenshots": [
+      {
+        "id": 100424,
+        "game": 8469,
+        "height": 768,
+        "image_id": "xjztlogca0jsreu5prr2",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xjztlogca0jsreu5prr2.jpg",
+        "width": 1024
+      },
+      {
+        "id": 100425,
+        "game": 8469,
+        "height": 768,
+        "image_id": "elhdx4lm5oi0lwwlun8m",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/elhdx4lm5oi0lwwlun8m.jpg",
+        "width": 1024
+      },
+      {
+        "id": 100426,
+        "game": 8469,
+        "height": 768,
+        "image_id": "vsnbuagjousv03hu95uc",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vsnbuagjousv03hu95uc.jpg",
+        "width": 1024
+      },
+      {
+        "id": 100427,
+        "game": 8469,
+        "height": 768,
+        "image_id": "dplstboie5qompblkcng",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/dplstboie5qompblkcng.jpg",
+        "width": 1024
+      },
+      {
+        "id": 100428,
+        "game": 8469,
+        "height": 768,
+        "image_id": "prevcorwzybgvmbgbu7o",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/prevcorwzybgvmbgbu7o.jpg",
+        "width": 1024
+      }
+    ],
+    "slug": "urban-chaos",
+    "summary": "Urban Chaos throws you into the heart of a modern urban jungle at the turn of the millenium. \nTo succeed you\u0027ll need a lethal combination of stealth, physical agility and martial art skills as you interact with the city around you. \nComplete freedom to explore every areas is granted and this freedom extends to gameplay - the future is in your hands as you are drawn into an underlying plot featuring a mysterious cult who are intent on evil at this unpredictable and potentially menacing millenium period.Key Features:2 playable main characters: D\u0027arci Stern, an agile, street-savvy female cop or Roger McIntyre, a mysterious ex-soldier.\nMultiple modes of combat. Engage in hand-to-hand fighting, heavy weaponry face-offs, vehicle chases and intense shoot-outs.\nCommand a variety of vehicles. Take control of police cars, vans and other vehicles."
+  }
+]

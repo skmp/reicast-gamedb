@@ -1,0 +1,132 @@
+[
+  {
+    "id": 45194,
+    "age_ratings": [
+      {
+        "id": 17073,
+        "rating": 10
+      }
+    ],
+    "cover": {
+      "id": 28044,
+      "game": 45194,
+      "height": 1419,
+      "image_id": "pfybr3o5ukmuchutno8f",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/pfybr3o5ukmuchutno8f.jpg",
+      "width": 1427
+    },
+    "first_release_date": 947980800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 61,
+        "name": "martial arts"
+      },
+      {
+        "id": 107,
+        "name": "fighting"
+      },
+      {
+        "id": 872,
+        "name": "shadow"
+      },
+      {
+        "id": 1231,
+        "name": "karate"
+      },
+      {
+        "id": 1950,
+        "name": "electronic music"
+      },
+      {
+        "id": 2152,
+        "name": "high score"
+      },
+      {
+        "id": 4161,
+        "name": "jump"
+      },
+      {
+        "id": 5201,
+        "name": "shun goku satsu"
+      },
+      {
+        "id": 5202,
+        "name": "suspenders"
+      },
+      {
+        "id": 5895,
+        "name": "negative edge"
+      },
+      {
+        "id": 5898,
+        "name": "chip damage"
+      },
+      {
+        "id": 5904,
+        "name": "particle system"
+      },
+      {
+        "id": 5912,
+        "name": "charge character"
+      },
+      {
+        "id": 5913,
+        "name": "divekick"
+      },
+      {
+        "id": 5918,
+        "name": "ansatsuken"
+      },
+      {
+        "id": 5923,
+        "name": "boxing gloves"
+      },
+      {
+        "id": 6325,
+        "name": "book adaptation"
+      },
+      {
+        "id": 6784,
+        "name": "super meter"
+      },
+      {
+        "id": 6871,
+        "name": "tanuki"
+      },
+      {
+        "id": 8874,
+        "name": "kunoichi"
+      },
+      {
+        "id": 13031,
+        "name": "revenge meter"
+      }
+    ],
+    "name": "Street Fighter III: Double Impact",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "popularity": 1.840157565682484,
+    "slug": "street-fighter-iii-double-impact",
+    "summary": "Street Fighter III: Double Impact, is a versus fighting game developed by Capcom exclusively for the Sega Dreamcast. It is a compilation of two arcade fighters - Street Fighter III: New Generation and its update, Street Fighter III 2nd Impact: Giant Attack. As the name suggests, Street Fighter III is a sequel to Street Fighter II. The game was not released in North America. \n \nThe Dreamcast would receive Street Fighter III: 3rd Strike, the second update to Street Fighter III."
+  }
+]

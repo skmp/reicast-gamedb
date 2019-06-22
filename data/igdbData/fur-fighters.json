@@ -1,0 +1,366 @@
+[
+  {
+    "id": 14700,
+    "age_ratings": [
+      {
+        "id": 7743,
+        "rating": 10
+      },
+      {
+        "id": 7744,
+        "rating": 3
+      }
+    ],
+    "aggregated_rating": 70.0,
+    "aggregated_rating_count": 1,
+    "cover": {
+      "id": 13193,
+      "game": 14700,
+      "height": 1411,
+      "image_id": "pipyi6fmqrracs7ymfve",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/pipyi6fmqrracs7ymfve.jpg",
+      "width": 1424
+    },
+    "first_release_date": 961718400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 153,
+        "name": "animals"
+      },
+      {
+        "id": 217,
+        "name": "cartoon"
+      },
+      {
+        "id": 250,
+        "name": "3d"
+      },
+      {
+        "id": 274,
+        "name": "minigames"
+      },
+      {
+        "id": 301,
+        "name": "health"
+      },
+      {
+        "id": 332,
+        "name": "dragons"
+      },
+      {
+        "id": 1019,
+        "name": "bridge"
+      },
+      {
+        "id": 1025,
+        "name": "shooter"
+      },
+      {
+        "id": 1186,
+        "name": "multiple protagonists"
+      },
+      {
+        "id": 1675,
+        "name": "revenge"
+      },
+      {
+        "id": 1710,
+        "name": "snow"
+      },
+      {
+        "id": 1735,
+        "name": "inventory"
+      },
+      {
+        "id": 1935,
+        "name": "dog"
+      },
+      {
+        "id": 1986,
+        "name": "teleportation"
+      },
+      {
+        "id": 2049,
+        "name": "platformer"
+      },
+      {
+        "id": 2109,
+        "name": "level selection"
+      },
+      {
+        "id": 2184,
+        "name": "talking animals"
+      },
+      {
+        "id": 2280,
+        "name": "climbing"
+      },
+      {
+        "id": 2875,
+        "name": "puzzle"
+      },
+      {
+        "id": 3831,
+        "name": "explosion"
+      },
+      {
+        "id": 3988,
+        "name": "deathmatch"
+      },
+      {
+        "id": 4161,
+        "name": "jump"
+      },
+      {
+        "id": 4162,
+        "name": "anthropomorphism"
+      },
+      {
+        "id": 4176,
+        "name": "animal protagonists"
+      },
+      {
+        "id": 4210,
+        "name": "split-screen multiplayer"
+      },
+      {
+        "id": 4246,
+        "name": "bullet"
+      },
+      {
+        "id": 4287,
+        "name": "voice acting"
+      },
+      {
+        "id": 4329,
+        "name": "cat"
+      },
+      {
+        "id": 4330,
+        "name": "first-person perspective"
+      },
+      {
+        "id": 4332,
+        "name": "tutorial"
+      },
+      {
+        "id": 4340,
+        "name": "corrupt government"
+      },
+      {
+        "id": 4347,
+        "name": "language selection"
+      },
+      {
+        "id": 4350,
+        "name": "bomb"
+      },
+      {
+        "id": 4414,
+        "name": "computer"
+      },
+      {
+        "id": 4418,
+        "name": "door"
+      },
+      {
+        "id": 4446,
+        "name": "gun"
+      },
+      {
+        "id": 4478,
+        "name": "breath attack"
+      },
+      {
+        "id": 4484,
+        "name": "collectibles"
+      },
+      {
+        "id": 4525,
+        "name": "third-person perspective"
+      },
+      {
+        "id": 4544,
+        "name": "unlockables"
+      },
+      {
+        "id": 4571,
+        "name": "shotgun"
+      },
+      {
+        "id": 4572,
+        "name": "rocket launcher"
+      },
+      {
+        "id": 4576,
+        "name": "loading screens"
+      },
+      {
+        "id": 4595,
+        "name": "stuffed animal"
+      },
+      {
+        "id": 4613,
+        "name": "non-player character"
+      },
+      {
+        "id": 4623,
+        "name": "fake in-game advertising"
+      },
+      {
+        "id": 4660,
+        "name": "pistol"
+      },
+      {
+        "id": 4678,
+        "name": "multiple characters on box art"
+      },
+      {
+        "id": 4698,
+        "name": "cooperative play"
+      },
+      {
+        "id": 4781,
+        "name": "falling damage"
+      },
+      {
+        "id": 4843,
+        "name": "saving the world"
+      },
+      {
+        "id": 4885,
+        "name": "auto-aim"
+      },
+      {
+        "id": 4925,
+        "name": "player character"
+      },
+      {
+        "id": 4992,
+        "name": "infinite ammo"
+      },
+      {
+        "id": 5005,
+        "name": "teleporter"
+      },
+      {
+        "id": 5045,
+        "name": "taxi cab"
+      },
+      {
+        "id": 5193,
+        "name": "hub world"
+      },
+      {
+        "id": 5208,
+        "name": "lives"
+      },
+      {
+        "id": 5320,
+        "name": "hit points"
+      },
+      {
+        "id": 5331,
+        "name": "cel-shading"
+      },
+      {
+        "id": 5436,
+        "name": "cheat code"
+      },
+      {
+        "id": 5503,
+        "name": "rocket"
+      },
+      {
+        "id": 5520,
+        "name": "teddy bear"
+      },
+      {
+        "id": 5578,
+        "name": "healing food"
+      },
+      {
+        "id": 5598,
+        "name": "giant environment"
+      },
+      {
+        "id": 6015,
+        "name": "multi-species roster"
+      },
+      {
+        "id": 6061,
+        "name": "e3 2000"
+      },
+      {
+        "id": 6130,
+        "name": "collectibles that unlock worlds"
+      },
+      {
+        "id": 6137,
+        "name": "linear gameplay"
+      },
+      {
+        "id": 7043,
+        "name": "monster infighting"
+      },
+      {
+        "id": 7168,
+        "name": "spinning newspaper"
+      },
+      {
+        "id": 7405,
+        "name": "ammo"
+      },
+      {
+        "id": 9441,
+        "name": "big head mode"
+      },
+      {
+        "id": 9530,
+        "name": "objective-based team gameplay"
+      },
+      {
+        "id": 12892,
+        "name": "lenticular box art"
+      }
+    ],
+    "name": "Fur Fighters",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.0,
+    "slug": "fur-fighters",
+    "summary": "A group of baby stuffed animals are kidnapped from their families by the Stupid Bears (an evil gang of stuffed teddy bears, of all things!), and it is up to the Fur Fighters to save the young ones. \n \nThe group that you control ranges from Kangaroos and Penguins to Cats and Dogs, all with their unique abilities and styles of fighting, which you must use to not only defeat the Stupid Bears, but complete puzzles and specific objectives along the way. You can control only one character at a time, but there are teleport areas so that you can change your character to one that can complete the tasks at hand."
+  }
+]

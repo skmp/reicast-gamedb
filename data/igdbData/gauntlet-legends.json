@@ -1,0 +1,240 @@
+[
+  {
+    "id": 3501,
+    "age_ratings": [
+      {
+        "id": 1646,
+        "rating": 10
+      }
+    ],
+    "cover": {
+      "id": 3614,
+      "game": 3501,
+      "height": 288,
+      "image_id": "vjyyhyn3drf0lqvth5oz",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/vjyyhyn3drf0lqvth5oz.jpg",
+      "width": 220
+    },
+    "first_release_date": 907200000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 226,
+        "name": "magic"
+      },
+      {
+        "id": 227,
+        "name": "sword"
+      },
+      {
+        "id": 296,
+        "name": "fantasy"
+      },
+      {
+        "id": 389,
+        "name": "hack and slash"
+      },
+      {
+        "id": 478,
+        "name": "rpg"
+      },
+      {
+        "id": 558,
+        "name": "death"
+      },
+      {
+        "id": 982,
+        "name": "brawler"
+      },
+      {
+        "id": 989,
+        "name": "hamster"
+      },
+      {
+        "id": 1026,
+        "name": "role playing"
+      },
+      {
+        "id": 1986,
+        "name": "teleportation"
+      },
+      {
+        "id": 2154,
+        "name": "shield"
+      },
+      {
+        "id": 3486,
+        "name": "boss fight"
+      },
+      {
+        "id": 3833,
+        "name": "bosses"
+      },
+      {
+        "id": 4144,
+        "name": "power up"
+      },
+      {
+        "id": 4282,
+        "name": "60 fps on consoles"
+      },
+      {
+        "id": 4286,
+        "name": "character select screen"
+      },
+      {
+        "id": 4392,
+        "name": "bow"
+      },
+      {
+        "id": 4415,
+        "name": "scythe"
+      },
+      {
+        "id": 4419,
+        "name": "axe"
+      },
+      {
+        "id": 4449,
+        "name": "isometric viewpoint"
+      },
+      {
+        "id": 4478,
+        "name": "breath attack"
+      },
+      {
+        "id": 4543,
+        "name": "experience points"
+      },
+      {
+        "id": 4584,
+        "name": "rune"
+      },
+      {
+        "id": 4698,
+        "name": "cooperative play"
+      },
+      {
+        "id": 4727,
+        "name": "key"
+      },
+      {
+        "id": 4787,
+        "name": "treasure chest"
+      },
+      {
+        "id": 4879,
+        "name": "potion"
+      },
+      {
+        "id": 4891,
+        "name": "melee"
+      },
+      {
+        "id": 5095,
+        "name": "knight"
+      },
+      {
+        "id": 5193,
+        "name": "hub world"
+      },
+      {
+        "id": 5374,
+        "name": "magic staff"
+      },
+      {
+        "id": 5577,
+        "name": "monster chest"
+      },
+      {
+        "id": 5801,
+        "name": "temporary invincibility"
+      },
+      {
+        "id": 6292,
+        "name": "cloak"
+      },
+      {
+        "id": 6619,
+        "name": "invisibility"
+      },
+      {
+        "id": 7616,
+        "name": "amulet"
+      },
+      {
+        "id": 13119,
+        "name": "e3 1999"
+      },
+      {
+        "id": 13309,
+        "name": "developers\u0027 room"
+      },
+      {
+        "id": 15679,
+        "name": "the parchment of fire"
+      },
+      {
+        "id": 15680,
+        "name": "the scimitar of decapitation"
+      },
+      {
+        "id": 15681,
+        "name": "the toxic bellows"
+      },
+      {
+        "id": 15682,
+        "name": "ice axe of untar"
+      },
+      {
+        "id": 15685,
+        "name": "soul savior"
+      }
+    ],
+    "name": "Gauntlet Legends",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view"
+      }
+    ],
+    "popularity": 2.300061800296755,
+    "slug": "gauntlet-legends",
+    "summary": "Gauntlet Legends is an arcade game released in 1998 by Atari Games. It is a fantasy themed hack and slash styled dungeon crawl game, a sequel to 1985\u0027s popular Gauntlet and 1986\u0027s Gauntlet II and marks the final game in the series to be produced by Atari Games. Its unusual features for an arcade game included passwords and characters that could be saved, enabling players to play over the course of a long period.",
+    "videos": [
+      {
+        "id": 20322,
+        "game": 3501,
+        "name": "Gameplay video",
+        "video_id": "GD3rPUdt2CU"
+      }
+    ]
+  }
+]

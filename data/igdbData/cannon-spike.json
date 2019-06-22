@@ -1,0 +1,74 @@
+[
+  {
+    "id": 6719,
+    "age_ratings": [
+      {
+        "id": 19518,
+        "rating": 10
+      }
+    ],
+    "cover": {
+      "id": 6860,
+      "game": 6719,
+      "height": 220,
+      "image_id": "m82i2gekgystpu5iqd2r",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/m82i2gekgystpu5iqd2r.jpg",
+      "width": 220
+    },
+    "first_release_date": 974160000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 750,
+        "name": "multi directional"
+      },
+      {
+        "id": 1025,
+        "name": "shooter"
+      },
+      {
+        "id": 1075,
+        "name": "crossover"
+      },
+      {
+        "id": 4178,
+        "name": "options menu"
+      },
+      {
+        "id": 4381,
+        "name": "must press start to play"
+      },
+      {
+        "id": 4576,
+        "name": "loading screens"
+      },
+      {
+        "id": 7037,
+        "name": "bullet pattern"
+      },
+      {
+        "id": 9076,
+        "name": "sega naomi"
+      }
+    ],
+    "name": "Cannon Spike",
+    "popularity": 1.636240014073141,
+    "slug": "cannon-spike",
+    "summary": "Cannon Spike (Gunspike in Japan) is an overhead-camera shooting game in the vein of Smash TV and another Capcom creation, the Commando series. Released for the arcades, and later for the Sega Dreamcast. in 2000, Cannon Spike is a linear game, heavily focused towards boss encounters. A main feature of the game is the ability to play as a number of familiar Capcom characters from other franchises."
+  }
+]

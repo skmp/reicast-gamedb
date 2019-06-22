@@ -1,0 +1,63 @@
+---
+view: game
+layout: game
+author: reicast
+created_at: 2018-03-25 09:00
+updated_at: 2019-05-02 09:00
+id: demolition-racer-no-exit
+title: "Demolition Racer - No Exit"
+gamedb-issue: 0
+
+releases:
+  - id: "7FD9"
+    region: US
+    version: "1.002"
+    discs: 1
+    medium: gdrom
+
+test-videos:
+  - fingerprint: "7FD9 GD-ROM1/1 US"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: dTamy5B_b2s
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+
+gotIGDBGame: 1
+idIGDB: 46376
+age_ratings:
+  - id: 18767
+    rating: 8
+cover:
+  - id: 52607
+    game: 46376
+    height: 320
+    image_id: "w3v7nr2rrwhnnf54a6g1"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/w3v7nr2rrwhnnf54a6g1.jpg"
+    width: 320
+first_release_date: 974937600
+categories:
+  - "Racing"
+tags:
+  - "vehicular combat"
+  - "car"
+  - "vehicle combat"
+  - "driving/racing"
+  - "polygonal 3d"
+  - "fence"
+  - "laps"
+  - "tire"
+  - "wheel"
+  - "repairing"
+  - "traffic cone"
+  - "cornering"
+  - "damage model"
+  - "fictional car brands"
+  - "vmu support"
+  - "suicide track"
+name: "Demolition Racer: No Exit"
+popularity: 1.0
+slug: "demolition-racer-no-exit"
+summary: "The sequel to Demolition Racer. Race 14 tortuous tracks with mines and crates all over the place slowing you down, racing over 16 savage cars to a sports car to a hearse with its own characteristics to win the race. New game mode &quote;last man standing&quote; where you face all cars in race not for position, but to wreck each other going down a track to see who's last, and &quote;demolition derby&quote; where you fight cars in a arena to see who's last by hitting each other with state-of-the-art graphics where you can see tires, doors, hoods, bumpers, etc. go everywhere."
+
+---

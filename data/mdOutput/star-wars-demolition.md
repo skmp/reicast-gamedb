@@ -1,0 +1,103 @@
+---
+view: game
+layout: game
+author: reicast
+created_at: 2018-03-25 09:00
+updated_at: 2019-05-02 09:00
+id: star-wars-demolition
+title: "Star Wars - Demolition"
+gamedb-issue: 0
+
+releases:
+  - id: "39A7"
+    region: US
+    version: "1.001"
+    discs: 1
+    medium: gdrom
+  - id: "5685"
+    region: EU
+    version: "1.000"
+    discs: 1
+    medium: gdrom
+
+test-videos:
+  - fingerprint: "39A7 GD-ROM1/1 US"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: zIXSOLoacVM
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+  - fingerprint: "5685 GD-ROM1/1 EU"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: phbBZVTDzdQ
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+
+gotIGDBGame: 1
+idIGDB: 143
+age_ratings:
+  - id: 15771
+    rating: 10
+aggregated_rating: 40.0
+aggregated_rating_count: 1
+cover:
+  - id: 142
+    game: 143
+    height: 646
+    image_id: "swaoo7lk3fqghefhio8e"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/swaoo7lk3fqghefhio8e.jpg"
+    width: 500
+first_release_date: 973987200
+game_modes:
+  - "Single player"
+  - "Split screen"
+categories:
+  - "Shooter"
+  - "Racing"
+tags:
+  - "vehicular combat"
+  - "sci-fi"
+  - "vehicle combat"
+  - "mounts"
+  - "driving/racing"
+  - "split-screen multiplayer"
+  - "wampa"
+  - "lightsaber"
+  - "galactic civil war"
+  - "e3 2000"
+  - "exploding vehicles"
+  - "divinity explained by aliens"
+  - "vehicle performance degradation"
+  - "redbook audio"
+  - "rancor"
+  - "at-at"
+  - "playstation underground"
+name: "Star Wars: Demolition"
+player_perspectives:
+  - "Third person"
+popularity: 1.0
+screenshots:
+  - id: 131269
+    game: 143
+    height: 270
+    image_id: "u8ltzjeekyfhrxc7bgjo"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/u8ltzjeekyfhrxc7bgjo.jpg"
+    width: 480
+  - id: 131270
+    game: 143
+    height: 236
+    image_id: "asdtquaxpguqutrw2rau"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/asdtquaxpguqutrw2rau.jpg"
+    width: 312
+slug: "star-wars-demolition"
+summary: "Star Wars: Demolition is created by the same team that brought PlayStation owners Vigilante 8 and its sequel. The dangerous sport of Podracing has been outlawed by the Empire, but Jabba the Hutt has decided to devise an even more dangerous contest in order to provide entertainment, and more importantly, to gain a profit. Combatants from across the galaxy compete in familiar Star Wars locations, such as Tatooine, Hoth, Dagobah, Naboo and Cloud City. 
+ 
+The game was released on both PlayStation and Dreamcast consoles. The game was released on PlayStation on November 12, 2000 and on November 19, 2000 for Dreamcast."
+videos:
+  - id: 52
+    game: 143
+    name: "Trailer"
+    video_id: "cn2HhkmPQPI"
+
+---

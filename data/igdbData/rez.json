@@ -1,0 +1,194 @@
+[
+  {
+    "id": 11244,
+    "age_ratings": [
+      {
+        "id": 8954,
+        "rating": 8
+      },
+      {
+        "id": 9616,
+        "rating": 1
+      }
+    ],
+    "aggregated_rating": 88.0,
+    "aggregated_rating_count": 5,
+    "cover": {
+      "id": 10544,
+      "game": 11244,
+      "height": 434,
+      "image_id": "mpihopmwgyhw6obn6bjs",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/mpihopmwgyhw6obn6bjs.jpg",
+      "width": 341
+    },
+    "first_release_date": 1006387200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 7,
+        "name": "Music"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 6,
+        "name": "rail shooter"
+      },
+      {
+        "id": 103,
+        "name": "cyberpunk"
+      },
+      {
+        "id": 169,
+        "name": "music"
+      },
+      {
+        "id": 1025,
+        "name": "shooter"
+      },
+      {
+        "id": 1293,
+        "name": "achievements"
+      },
+      {
+        "id": 1313,
+        "name": "multiple endings"
+      },
+      {
+        "id": 1495,
+        "name": "abstract"
+      },
+      {
+        "id": 1950,
+        "name": "electronic music"
+      },
+      {
+        "id": 2334,
+        "name": "vector graphics"
+      },
+      {
+        "id": 3486,
+        "name": "boss fight"
+      },
+      {
+        "id": 3831,
+        "name": "explosion"
+      },
+      {
+        "id": 4137,
+        "name": "music/rhythm"
+      },
+      {
+        "id": 4165,
+        "name": "boss rush"
+      },
+      {
+        "id": 4282,
+        "name": "60 fps on consoles"
+      },
+      {
+        "id": 4452,
+        "name": "licensed soundtrack"
+      },
+      {
+        "id": 4892,
+        "name": "crosshair"
+      },
+      {
+        "id": 4963,
+        "name": "abstract art style"
+      },
+      {
+        "id": 5188,
+        "name": "peripherals"
+      },
+      {
+        "id": 5523,
+        "name": "leaderboard"
+      },
+      {
+        "id": 5673,
+        "name": "shape-shifting"
+      },
+      {
+        "id": 5722,
+        "name": "auto-scrolling levels"
+      },
+      {
+        "id": 5850,
+        "name": "high definition graphics"
+      },
+      {
+        "id": 5896,
+        "name": "dynamic soundtrack"
+      },
+      {
+        "id": 6582,
+        "name": "lock on"
+      },
+      {
+        "id": 8156,
+        "name": "contextual controller rumble"
+      },
+      {
+        "id": 8262,
+        "name": "a.i. construct"
+      },
+      {
+        "id": 8928,
+        "name": "smart bomb"
+      },
+      {
+        "id": 9165,
+        "name": "shoot the core"
+      },
+      {
+        "id": 9324,
+        "name": "wireframe model"
+      },
+      {
+        "id": 10211,
+        "name": "record breakers"
+      },
+      {
+        "id": 11583,
+        "name": "sensory overload"
+      },
+      {
+        "id": 11987,
+        "name": "synaesthesia"
+      },
+      {
+        "id": 13118,
+        "name": "e3 2001"
+      },
+      {
+        "id": 13214,
+        "name": "morolian"
+      },
+      {
+        "id": 15281,
+        "name": "game developers choice awards 2002"
+      }
+    ],
+    "name": "Rez",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.636240014073141,
+    "slug": "rez",
+    "summary": "If you like a little style and originality in your first-person shooters, look no further than REZ. Taking the genre to its most viscerally extremes, the game gets most of its luster from its incredible storyline: The information age comes to a deadly halt when the core of society\u0027s technological memory an AI unit called Eden begins to feel the strain of too much data. Struggling to keep up, the technology actually begins to question its own existence and goes into a futuristic freak out. Now, you must journey deep into the realm of 3D cyberspace in order to fix the system, a task that will require hacking codes and battling fierce creatures. Your goal is to get all the way to the system\u0027s core, but that\u0027s a journey that only the bravest and most dedicated adventurers will be able to survive. The game features an incredible array of music samples (you can actually create your own sounds and rhythms to accompany to you on your trip), a plethora of stages, and a list of modes that includes: Score Attack, Beyond, Boss Rush, and Trance Mission. In addition, there are more than 20 hidden features that can be unlocked."
+  }
+]

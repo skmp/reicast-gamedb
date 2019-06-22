@@ -1,0 +1,70 @@
+---
+view: game
+layout: game
+author: reicast
+created_at: 2018-03-25 09:00
+updated_at: 2019-05-02 09:00
+id: expendable
+title: "Expendable"
+gamedb-issue: 0
+
+releases:
+  - id: "AD1A"
+    region: US
+    version: "1.000"
+    discs: 1
+    medium: gdrom
+
+test-videos:
+  - fingerprint: "AD1A GD-ROM1/1 US"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: F3X5Or1H5gs
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+
+gotIGDBGame: 1
+idIGDB: 54012
+game_modes:
+  - "Single player"
+  - "Multiplayer"
+  - "Co-operative"
+categories:
+  - "Adventure"
+name: "Expendable"
+popularity: 1.647899711648724
+screenshots:
+  - id: 195628
+    game: 54012
+    height: 720
+    image_id: "akq6hmddszgek9u78v5r"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/akq6hmddszgek9u78v5r.jpg"
+    width: 1280
+  - id: 195629
+    game: 54012
+    height: 720
+    image_id: "hhearpodhfd0eojdwzpk"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/hhearpodhfd0eojdwzpk.jpg"
+    width: 1280
+  - id: 195630
+    game: 54012
+    height: 720
+    image_id: "jzswwtv6bw9qx11mjmqb"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/jzswwtv6bw9qx11mjmqb.jpg"
+    width: 1280
+  - id: 195631
+    game: 54012
+    height: 720
+    image_id: "qfmvfmijhdpclpgbtm2m"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/qfmvfmijhdpclpgbtm2m.jpg"
+    width: 1280
+  - id: 195632
+    game: 54012
+    height: 720
+    image_id: "jjgx1wnhgsgxpcnvrhgm"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/jjgx1wnhgsgxpcnvrhgm.jpg"
+    width: 1280
+slug: "expendable"
+summary: "Somewhere in the future a hostile alien race conquers most of the galaxy. Scientists developed the “Millennium Soldier” project by cloning two super-soldiers. Armed with blasters they will battle scores of monsters, robots and boss aliens to save us and get a well-earned reward."
+
+---

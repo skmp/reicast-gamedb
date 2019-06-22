@@ -1,0 +1,62 @@
+[
+  {
+    "id": 35378,
+    "first_release_date": 1464220800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "name": "TWINKLE STAR SPRITES",
+    "popularity": 1.0,
+    "screenshots": [
+      {
+        "id": 85263,
+        "game": 35378,
+        "height": 600,
+        "image_id": "hisanpxzg46xbvjzgyye",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hisanpxzg46xbvjzgyye.jpg",
+        "width": 800
+      },
+      {
+        "id": 85264,
+        "game": 35378,
+        "height": 600,
+        "image_id": "fppoz5rvg1dof9fu1spi",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fppoz5rvg1dof9fu1spi.jpg",
+        "width": 800
+      },
+      {
+        "id": 85265,
+        "game": 35378,
+        "height": 600,
+        "image_id": "wghg06sysb92vewqw6ln",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/wghg06sysb92vewqw6ln.jpg",
+        "width": 800
+      },
+      {
+        "id": 85266,
+        "game": 35378,
+        "height": 600,
+        "image_id": "enrk3gbqepmy6gzy7jqv",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/enrk3gbqepmy6gzy7jqv.jpg",
+        "width": 800
+      },
+      {
+        "id": 85267,
+        "game": 35378,
+        "height": 600,
+        "image_id": "gom5vkqmn2oik2uho7pl",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/gom5vkqmn2oik2uho7pl.jpg",
+        "width": 800
+      }
+    ],
+    "slug": "twinkle-star-sprites",
+    "summary": "“TWINKLE STAR SPRITES ”, a competitive 2D top-down view scrolling shooter released on NEOGEO MVS in 1996, departs for new adventures on the Steam gaming platform!\nMaster your shots, and aim for the magical Twinkle Star”!"
+  }
+]

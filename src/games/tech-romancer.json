@@ -1,0 +1,72 @@
+[
+  {
+    "view": "game",
+    "layout": "game",
+    "author": "reicast",
+    "created_at": "2018-03-25 09:00",
+    "updated_at": "2019-05-02 09:00",
+    "id": "tech-romancer",
+    "title": "Tech Romancer",
+    "gamedb-issue": 0,
+    "releases": [
+      {
+        "id": "4C20",
+        "region": "EU",
+        "version": "1.002",
+        "discs": 1,
+        "medium": "gdrom"
+      }
+    ],
+    "test-videos": [
+      {
+        "fingerprint": "4C20 GD-ROM1/1 EU",
+        "title": "Intro auto run",
+        "hw": "i7 2720qm, GeForce 540M",
+        "yt": "vcI2B2GPmEE",
+        "git": "d59197f84353d7d2b746383e9277d9ed7c8c4053",
+        "platform": "win86-release"
+      }
+    ],
+    "gotIGDBGame": 1,
+    "idIGDB": 39313,
+    "age_ratings": [
+      {
+        "id": 19132,
+        "rating": 10
+      }
+    ],
+    "cover": [
+      {
+        "id": 25226,
+        "game": 39313,
+        "height": 1654,
+        "image_id": "eodvhownr1ncav8ycp5h",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/eodvhownr1ncav8ycp5h.jpg",
+        "width": 1263
+      }
+    ],
+    "categories": [
+      "Fighting"
+    ],
+    "tags": [
+      "robot",
+      "anime",
+      "fighting",
+      "mech",
+      "sword",
+      "health",
+      "sci-fi",
+      "game title announcer",
+      "polygonal 3d",
+      "combo",
+      "super robot",
+      "blodia",
+      "vmu support"
+    ],
+    "name": "Tech Romancer",
+    "popularity": 1,
+    "slug": "tech-romancer",
+    "summary": "Tech Romancer (Japanese: 超鋼戦紀キカイオー Hepburn: Chōkō Senki Kikaiōh?, &quote;Chronicle of Super Steel Warrior Kikaioh&quote;) is a 1998 3D fighting arcade game by Capcom that draws heavily from the various subgenres of mecha anime. It has been ported to the Dreamcast console. The player controls a giant robot which is used to fight another robot in one-on-one combat. Studio Nue (the animation studio responsible for the mechanical designs for many anime series including The Super Dimension Fortress Macross, Gunbuster, and Mobile Suit Gundam 0083: Stardust Memory) designed the robots in this game."
+  },
+  null
+]

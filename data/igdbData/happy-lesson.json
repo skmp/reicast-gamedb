@@ -1,0 +1,29 @@
+[
+  {
+    "id": 78643,
+    "cover": {
+      "id": 56388,
+      "game": 78643,
+      "height": 312,
+      "image_id": "klkorptvoqr0n5m3qoqv",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/klkorptvoqr0n5m3qoqv.jpg",
+      "width": 357
+    },
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 78,
+        "name": "anime"
+      }
+    ],
+    "name": "Happy Lesson",
+    "popularity": 1.0,
+    "slug": "happy-lesson",
+    "summary": "Game based on the popular anime Happy lesson."
+  }
+]

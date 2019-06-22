@@ -1,0 +1,110 @@
+[
+  {
+    "id": 25120,
+    "age_ratings": [
+      {
+        "id": 16558,
+        "rating": 10
+      }
+    ],
+    "cover": {
+      "id": 18248,
+      "game": 25120,
+      "height": 500,
+      "image_id": "r9aaniytsybhvwizkfwa",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/r9aaniytsybhvwizkfwa.jpg",
+      "width": 352
+    },
+    "first_release_date": 890611200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 3,
+        "name": "aliens"
+      },
+      {
+        "id": 25,
+        "name": "vehicular combat"
+      },
+      {
+        "id": 970,
+        "name": "sci-fi"
+      },
+      {
+        "id": 1471,
+        "name": "real-time strategy"
+      },
+      {
+        "id": 3627,
+        "name": "vehicle combat"
+      }
+    ],
+    "name": "Incoming",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.650030900148378,
+    "screenshots": [
+      {
+        "id": 268134,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 25120,
+        "height": 480,
+        "image_id": "sc5qw6",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5qw6.jpg",
+        "width": 768
+      },
+      {
+        "id": 268135,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 25120,
+        "height": 480,
+        "image_id": "sc5qw7",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5qw7.jpg",
+        "width": 768
+      }
+    ],
+    "slug": "incoming",
+    "summary": "Set in the near-future of 2009, the game primarily revolves around controlling vehicles and turrets to fight alien invaders of Earth.",
+    "videos": [
+      {
+        "id": 23454,
+        "game": 25120,
+        "name": "Gameplay video",
+        "video_id": "c-3rbiqKcP8"
+      }
+    ]
+  }
+]

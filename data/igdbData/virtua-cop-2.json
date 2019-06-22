@@ -1,0 +1,312 @@
+[
+  {
+    "id": 2470,
+    "age_ratings": [
+      {
+        "id": 398,
+        "rating": 10
+      }
+    ],
+    "cover": {
+      "id": 2477,
+      "game": 2470,
+      "height": 353,
+      "image_id": "o1bvbtxomh1vl1fbnscy",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/o1bvbtxomh1vl1fbnscy.jpg",
+      "width": 250
+    },
+    "first_release_date": 851990400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 6,
+        "name": "rail shooter"
+      },
+      {
+        "id": 314,
+        "name": "pedestrians"
+      },
+      {
+        "id": 558,
+        "name": "death"
+      },
+      {
+        "id": 733,
+        "name": "jewel"
+      },
+      {
+        "id": 1188,
+        "name": "bromance"
+      },
+      {
+        "id": 1373,
+        "name": "hostages"
+      },
+      {
+        "id": 1440,
+        "name": "artificial intelligence"
+      },
+      {
+        "id": 1478,
+        "name": "on-rails"
+      },
+      {
+        "id": 1669,
+        "name": "crime"
+      },
+      {
+        "id": 1783,
+        "name": "car"
+      },
+      {
+        "id": 1784,
+        "name": "light gun"
+      },
+      {
+        "id": 2152,
+        "name": "high score"
+      },
+      {
+        "id": 3486,
+        "name": "boss fight"
+      },
+      {
+        "id": 3831,
+        "name": "explosion"
+      },
+      {
+        "id": 3833,
+        "name": "bosses"
+      },
+      {
+        "id": 4146,
+        "name": "train"
+      },
+      {
+        "id": 4242,
+        "name": "police car"
+      },
+      {
+        "id": 4244,
+        "name": "train level"
+      },
+      {
+        "id": 4330,
+        "name": "first-person perspective"
+      },
+      {
+        "id": 4359,
+        "name": "polygonal 3d"
+      },
+      {
+        "id": 4420,
+        "name": "frying pan"
+      },
+      {
+        "id": 4428,
+        "name": "bed"
+      },
+      {
+        "id": 4446,
+        "name": "gun"
+      },
+      {
+        "id": 4571,
+        "name": "shotgun"
+      },
+      {
+        "id": 4625,
+        "name": "table"
+      },
+      {
+        "id": 4646,
+        "name": "light-gun shooter"
+      },
+      {
+        "id": 4660,
+        "name": "pistol"
+      },
+      {
+        "id": 4712,
+        "name": "assault rifle"
+      },
+      {
+        "id": 4875,
+        "name": "magnum"
+      },
+      {
+        "id": 4892,
+        "name": "crosshair"
+      },
+      {
+        "id": 5156,
+        "name": "breakable glass"
+      },
+      {
+        "id": 5197,
+        "name": "wooden chair"
+      },
+      {
+        "id": 5208,
+        "name": "lives"
+      },
+      {
+        "id": 5309,
+        "name": "reloading"
+      },
+      {
+        "id": 5349,
+        "name": "exploding barrel"
+      },
+      {
+        "id": 5377,
+        "name": "robbery"
+      },
+      {
+        "id": 5390,
+        "name": "chandelier"
+      },
+      {
+        "id": 5453,
+        "name": "destructible environment"
+      },
+      {
+        "id": 5501,
+        "name": "meat"
+      },
+      {
+        "id": 5554,
+        "name": "glass"
+      },
+      {
+        "id": 5773,
+        "name": "helicopter boss"
+      },
+      {
+        "id": 5799,
+        "name": "vase"
+      },
+      {
+        "id": 5942,
+        "name": "disembodied voice"
+      },
+      {
+        "id": 6000,
+        "name": "bandit"
+      },
+      {
+        "id": 6116,
+        "name": "beer"
+      },
+      {
+        "id": 6299,
+        "name": "splash damage"
+      },
+      {
+        "id": 6305,
+        "name": "iron sights"
+      },
+      {
+        "id": 6373,
+        "name": "exploding vehicles"
+      },
+      {
+        "id": 6407,
+        "name": "revolver"
+      },
+      {
+        "id": 6528,
+        "name": "blimp"
+      },
+      {
+        "id": 6589,
+        "name": "rifle"
+      },
+      {
+        "id": 6670,
+        "name": "arrow sign"
+      },
+      {
+        "id": 7038,
+        "name": "headshot"
+      },
+      {
+        "id": 9310,
+        "name": "limb targeting"
+      },
+      {
+        "id": 9365,
+        "name": "single-player hit marker"
+      },
+      {
+        "id": 9448,
+        "name": "henchmen"
+      },
+      {
+        "id": 9845,
+        "name": "one person drives while the other shoots"
+      },
+      {
+        "id": 9960,
+        "name": "destructible missiles"
+      },
+      {
+        "id": 10622,
+        "name": "aberrant a.i. behaviour"
+      },
+      {
+        "id": 10735,
+        "name": "drum can"
+      },
+      {
+        "id": 11312,
+        "name": "no blood"
+      },
+      {
+        "id": 11809,
+        "name": "hit marker"
+      },
+      {
+        "id": 12636,
+        "name": "dumping"
+      },
+      {
+        "id": 13491,
+        "name": "e3 1996"
+      }
+    ],
+    "name": "Virtua Cop 2",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "popularity": 1.424160009382094,
+    "slug": "virtua-cop-2",
+    "summary": "During the events of the first, the original Virtua Cops, Michael \"Rage\" Hardy and James \"Smarty\" Cools shut down the E.V.I.L Inc. criminal empire. Three of its leaders, King, Boss, and Kong are all in the maximum security federal pen. And the final, fourth member of the E.V.I.L Inc. gang, international terrorist Joe Fang is believed to have been killed in a helicopter crash, though his body was never found. After the downfall of E.V.I.L Inc., a comprehensive investigation of their black market and gun-running activities was launched in the Virtua City bank. \nLast year it looked as though the Virtua Squad had finally put an end to the E.V.I.L Syndicate’s reign of crime over Virtua City. The gangleaders were all either behind bars, in intensive care, or under 6 feet of dirt. And the Virtua City Police Special Investigations Unit got a new member in the shape of Janet Marshall, an expert in criminal psychology profiling. \nThen trouble started brewing in unlikely places.... The vice-president of the Virtua City Bank was killed in shady circumstances that were only officially termed \"accidental\". And the swollen accounts of the now-defunct E.V.I.L Syndicate, which he had been suspected of laundering, were emptied overnight. The missing funds amounted to more than the GNP of most small countries. \nMeanwhile, on the other side of town, alarms break the quiet and calm of the Virtua City air. A daring daylight raid on the biggest jeweler’s in the state! And at the site of the new subway construction, there’s been an unusual amount of unexplained activity involving some very suspicious-looking materiel. Looks like the E.V.I.L is reborn.",
+    "videos": [
+      {
+        "id": 1400,
+        "game": 2470,
+        "name": "Gameplay video",
+        "video_id": "7s0llbF5_oE"
+      }
+    ]
+  }
+]

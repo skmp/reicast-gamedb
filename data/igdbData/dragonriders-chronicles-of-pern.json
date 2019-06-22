@@ -1,0 +1,68 @@
+[
+  {
+    "id": 45857,
+    "age_ratings": [
+      {
+        "id": 19200,
+        "rating": 10
+      }
+    ],
+    "cover": {
+      "id": 70406,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 45857,
+      "height": 266,
+      "image_id": "co1ibq",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1ibq.jpg",
+      "width": 220
+    },
+    "first_release_date": 997574400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 296,
+        "name": "fantasy"
+      },
+      {
+        "id": 332,
+        "name": "dragons"
+      },
+      {
+        "id": 1026,
+        "name": "role playing"
+      },
+      {
+        "id": 1027,
+        "name": "adventure"
+      },
+      {
+        "id": 4331,
+        "name": "games based on literature"
+      },
+      {
+        "id": 4345,
+        "name": "bink video"
+      }
+    ],
+    "name": "Dragonriders: Chronicles of Pern",
+    "popularity": 1.0,
+    "slug": "dragonriders-chronicles-of-pern",
+    "summary": "The Dragon Riders of Pern have protected their world from the alien oppressor Thread, but now they have all gone extinct. Unless you can find a new rider to take up, the world of Pern is doomed. From this point the game takes the player through four chapters with a vast storyline. \n \nDragon Riders is a game in 3D with strong RPG and action elements. The world of Pern is based upon the novels by Anne McCaffrey. The game contains over 120 locations on three continents. The player can interact and speak with over 170 characters."
+  }
+]

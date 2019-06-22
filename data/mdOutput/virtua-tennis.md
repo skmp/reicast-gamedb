@@ -1,0 +1,122 @@
+---
+view: game
+layout: game
+author: reicast
+created_at: 2018-03-25 09:00
+updated_at: 2019-05-02 09:00
+id: virtua-tennis
+title: "Virtua Tennis"
+gamedb-issue: 0
+
+releases:
+  - id: "67FD"
+    region: EU
+    version: "1.001"
+    discs: 1
+    medium: gdrom
+  - id: "258C"
+    region: US
+    version: "1.001"
+    discs: 1
+    medium: gdrom
+
+test-videos:
+  - fingerprint: "67FD GD-ROM1/1 EU"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: DTmDivVCSII
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+  - fingerprint: "258C GD-ROM1/1 US"
+    title: Intro auto run
+    hw: i7 2720qm, GeForce 540M
+    yt: 0tgZJHj1BkQ
+    git: d59197f84353d7d2b746383e9277d9ed7c8c4053
+    platform: win86-release
+
+gotIGDBGame: 1
+idIGDB: 6291
+age_ratings:
+  - id: 3539
+    rating: 8
+aggregated_rating: 50.0
+aggregated_rating_count: 2
+cover:
+  - id: 6457
+    game: 6291
+    height: 324
+    image_id: "ssgylpbkcrriywavmnao"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/ssgylpbkcrriywavmnao.jpg"
+    width: 250
+first_release_date: 946598400
+game_modes:
+  - "Single player"
+  - "Multiplayer"
+  - "Split screen"
+categories:
+  - "Sport"
+tags:
+  - "minigames"
+  - "tennis"
+  - "ball"
+  - "tennis racquet"
+  - "tennis ball"
+  - "referees"
+  - "world map"
+  - "bowling pin"
+  - "difficulty level"
+  - "historical figures in fictional settings"
+  - "e3 2000"
+  - "power gauge"
+  - "wristband"
+  - "greatest hits"
+  - "running shoes"
+  - "vmu support"
+name: "Virtua Tennis"
+player_perspectives:
+  - "Third person"
+popularity: 2.522347725234104
+screenshots:
+  - id: 211767
+    game: 6291
+    height: 480
+    image_id: "gojtal3q5kmzr1ddpyem"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/gojtal3q5kmzr1ddpyem.jpg"
+    width: 640
+  - id: 211768
+    game: 6291
+    height: 480
+    image_id: "xzvfozthskg5885mbcn6"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/xzvfozthskg5885mbcn6.jpg"
+    width: 640
+  - id: 211769
+    game: 6291
+    height: 480
+    image_id: "qkguhicyfxbupclxaywr"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/qkguhicyfxbupclxaywr.jpg"
+    width: 640
+  - id: 211770
+    game: 6291
+    height: 480
+    image_id: "jf3b9bfa6oxradaqhd1w"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/jf3b9bfa6oxradaqhd1w.jpg"
+    width: 640
+  - id: 211771
+    game: 6291
+    height: 480
+    image_id: "g44kjqnplw3sezxnab8a"
+    url: "//images.igdb.com/igdb/image/upload/t_thumb/g44kjqnplw3sezxnab8a.jpg"
+    width: 640
+slug: "virtua-tennis"
+summary: "Virtua Tennis is the first game in Sega's arcade tennis franchise."
+videos:
+  - id: 19325
+    game: 6291
+    name: "Trailer"
+    video_id: "26JsT7vqqhY"
+  - id: 19326
+    game: 6291
+    name: "Gameplay video"
+    video_id: "Vs0XUKHeYpc"
+
+---

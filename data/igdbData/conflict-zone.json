@@ -1,0 +1,124 @@
+[
+  {
+    "id": 6727,
+    "age_ratings": [
+      {
+        "id": 3863,
+        "rating": 10
+      }
+    ],
+    "aggregated_rating": 60.0,
+    "aggregated_rating_count": 1,
+    "cover": {
+      "id": 6868,
+      "game": 6727,
+      "height": 307,
+      "image_id": "jl2pqvdet0wfpivsgurl",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/jl2pqvdet0wfpivsgurl.jpg",
+      "width": 252
+    },
+    "first_release_date": 1004486400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 1,
+        "name": "modern warfare"
+      },
+      {
+        "id": 21,
+        "name": "helicopter"
+      },
+      {
+        "id": 1471,
+        "name": "real-time strategy"
+      },
+      {
+        "id": 1739,
+        "name": "missile"
+      },
+      {
+        "id": 1821,
+        "name": "tank"
+      },
+      {
+        "id": 4035,
+        "name": "machine gun"
+      },
+      {
+        "id": 4259,
+        "name": "modern military"
+      },
+      {
+        "id": 4552,
+        "name": "helmet"
+      },
+      {
+        "id": 4712,
+        "name": "assault rifle"
+      },
+      {
+        "id": 4767,
+        "name": "resource gathering"
+      },
+      {
+        "id": 5500,
+        "name": "nuclear bomb"
+      },
+      {
+        "id": 5503,
+        "name": "rocket"
+      },
+      {
+        "id": 5527,
+        "name": "hmmwv"
+      },
+      {
+        "id": 5775,
+        "name": "grenade"
+      },
+      {
+        "id": 5813,
+        "name": "ski mask"
+      },
+      {
+        "id": 7500,
+        "name": "anti-tank mine"
+      },
+      {
+        "id": 9422,
+        "name": "armored personnel carrier"
+      },
+      {
+        "id": 9496,
+        "name": "mine detector"
+      },
+      {
+        "id": 11477,
+        "name": "rocket artillery"
+      }
+    ],
+    "name": "Conflict Zone",
+    "popularity": 1.424160009382094,
+    "slug": "conflict-zone",
+    "summary": "Conflict Zone is a modern-day war game with 3D graphics. Your every move is being watched by the media so you\u0027ll have to act right to make a good impression (rescue civilians,..). The impression you make will also determine how much money you will get for your missions, so there is no resource management."
+  }
+]

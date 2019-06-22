@@ -1,0 +1,226 @@
+[
+  {
+    "id": 6606,
+    "age_ratings": [
+      {
+        "id": 8926,
+        "rating": 10
+      }
+    ],
+    "cover": {
+      "id": 43539,
+      "game": 6606,
+      "height": 960,
+      "image_id": "iy2pfoicd1cnhcccep2s",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/iy2pfoicd1cnhcccep2s.jpg",
+      "width": 672
+    },
+    "first_release_date": 954460800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 296,
+        "name": "fantasy"
+      },
+      {
+        "id": 389,
+        "name": "hack and slash"
+      },
+      {
+        "id": 575,
+        "name": "robots"
+      },
+      {
+        "id": 896,
+        "name": "star wars"
+      },
+      {
+        "id": 970,
+        "name": "sci-fi"
+      },
+      {
+        "id": 1186,
+        "name": "multiple protagonists"
+      },
+      {
+        "id": 1640,
+        "name": "space pirate"
+      },
+      {
+        "id": 3486,
+        "name": "boss fight"
+      },
+      {
+        "id": 4142,
+        "name": "licensed game"
+      },
+      {
+        "id": 4185,
+        "name": "health pack"
+      },
+      {
+        "id": 4386,
+        "name": "double jump"
+      },
+      {
+        "id": 4446,
+        "name": "gun"
+      },
+      {
+        "id": 4543,
+        "name": "experience points"
+      },
+      {
+        "id": 4552,
+        "name": "helmet"
+      },
+      {
+        "id": 4576,
+        "name": "loading screens"
+      },
+      {
+        "id": 4660,
+        "name": "pistol"
+      },
+      {
+        "id": 4698,
+        "name": "cooperative play"
+      },
+      {
+        "id": 4923,
+        "name": "the force"
+      },
+      {
+        "id": 4924,
+        "name": "the jedi"
+      },
+      {
+        "id": 4935,
+        "name": "lightsaber"
+      },
+      {
+        "id": 5004,
+        "name": "walking through walls"
+      },
+      {
+        "id": 5116,
+        "name": "laser"
+      },
+      {
+        "id": 5354,
+        "name": "combo"
+      },
+      {
+        "id": 5775,
+        "name": "grenade"
+      },
+      {
+        "id": 5782,
+        "name": "tie-in"
+      },
+      {
+        "id": 6061,
+        "name": "e3 2000"
+      },
+      {
+        "id": 6812,
+        "name": "giant enemy worm"
+      },
+      {
+        "id": 8840,
+        "name": "divinity explained by aliens"
+      },
+      {
+        "id": 10162,
+        "name": "galactic empire"
+      },
+      {
+        "id": 10725,
+        "name": "tusken raider"
+      },
+      {
+        "id": 12962,
+        "name": "saber throw"
+      },
+      {
+        "id": 13300,
+        "name": "galactic republic"
+      },
+      {
+        "id": 13951,
+        "name": "playstation underground"
+      }
+    ],
+    "name": "Star Wars: Episode I - Jedi Power Battles",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 1.420078782841242,
+    "screenshots": [
+      {
+        "id": 25323,
+        "game": 6606,
+        "height": 576,
+        "image_id": "vc5jyt9cmptzxjg9pn59",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vc5jyt9cmptzxjg9pn59.jpg",
+        "width": 1024
+      },
+      {
+        "id": 130979,
+        "game": 6606,
+        "height": 273,
+        "image_id": "fokid0ibdia0c3qvyhgl",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fokid0ibdia0c3qvyhgl.jpg",
+        "width": 365
+      }
+    ],
+    "slug": "star-wars-episode-i-jedi-power-battles",
+    "summary": "The game follows the plot of Star Wars Episode I: The Phantom Menace. Players can choose from one of five prequel-era Jedi and run, jump, slash, and use the Force through the game\u0027s ten levels, starting on the Trade Federation Battleship and ending with the battle against Darth Maul on Naboo. \n \nThe player\u0027s primary weapon is a lightsaber used to fight through waves of enemies and deflect blaster shots. The lightsaber combat is rather simplified with a system that lets the player lock on to the nearest enemy using the R1 button. Items and the force can also be used for special attacks. \n \nOn most levels jumping puzzles make up a large portion of the challenge. There are a few segments in which the player can pilot various craft. The single player campaign can also be played in cooperative mode with a second player, while the Dreamcast version has an additional training mode and a two player duel mode.",
+    "videos": [
+      {
+        "id": 16476,
+        "game": 6606,
+        "name": "Trailer",
+        "video_id": "vIfQanNdhps"
+      }
+    ]
+  }
+]

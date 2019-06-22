@@ -1,0 +1,982 @@
+[
+  {
+    "id": 966,
+    "age_ratings": [
+      {
+        "id": 13845,
+        "rating": 5
+      }
+    ],
+    "cover": {
+      "id": 44657,
+      "game": 966,
+      "height": 976,
+      "image_id": "sx9sgtqmzbd0tjvxzl0d",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/sx9sgtqmzbd0tjvxzl0d.jpg",
+      "width": 787
+    },
+    "first_release_date": 937958400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 5,
+        "name": "zombies"
+      },
+      {
+        "id": 21,
+        "name": "helicopter"
+      },
+      {
+        "id": 109,
+        "name": "violence"
+      },
+      {
+        "id": 129,
+        "name": "blood"
+      },
+      {
+        "id": 221,
+        "name": "murder"
+      },
+      {
+        "id": 228,
+        "name": "virus"
+      },
+      {
+        "id": 301,
+        "name": "health"
+      },
+      {
+        "id": 339,
+        "name": "survival"
+      },
+      {
+        "id": 558,
+        "name": "death"
+      },
+      {
+        "id": 733,
+        "name": "jewel"
+      },
+      {
+        "id": 962,
+        "name": "female protagonist"
+      },
+      {
+        "id": 966,
+        "name": "puzzles"
+      },
+      {
+        "id": 1033,
+        "name": "action-adventure"
+      },
+      {
+        "id": 1120,
+        "name": "horror"
+      },
+      {
+        "id": 1240,
+        "name": "dodge"
+      },
+      {
+        "id": 1272,
+        "name": "diary"
+      },
+      {
+        "id": 1289,
+        "name": "backtracking"
+      },
+      {
+        "id": 1313,
+        "name": "multiple endings"
+      },
+      {
+        "id": 1320,
+        "name": "undead"
+      },
+      {
+        "id": 1322,
+        "name": "mutants"
+      },
+      {
+        "id": 1599,
+        "name": "bus"
+      },
+      {
+        "id": 1735,
+        "name": "inventory"
+      },
+      {
+        "id": 1836,
+        "name": "survival horror"
+      },
+      {
+        "id": 2071,
+        "name": "sequel"
+      },
+      {
+        "id": 2439,
+        "name": "hunter"
+      },
+      {
+        "id": 2992,
+        "name": "no jumping"
+      },
+      {
+        "id": 3061,
+        "name": "switch"
+      },
+      {
+        "id": 3087,
+        "name": "one-man army"
+      },
+      {
+        "id": 3486,
+        "name": "boss fight"
+      },
+      {
+        "id": 3815,
+        "name": "fixed camera"
+      },
+      {
+        "id": 3831,
+        "name": "explosion"
+      },
+      {
+        "id": 4035,
+        "name": "machine gun"
+      },
+      {
+        "id": 4134,
+        "name": "digital distribution"
+      },
+      {
+        "id": 4145,
+        "name": "female protagonists"
+      },
+      {
+        "id": 4146,
+        "name": "train"
+      },
+      {
+        "id": 4186,
+        "name": "trash can"
+      },
+      {
+        "id": 4191,
+        "name": "vial"
+      },
+      {
+        "id": 4242,
+        "name": "police car"
+      },
+      {
+        "id": 4246,
+        "name": "bullet"
+      },
+      {
+        "id": 4266,
+        "name": "alternate costumes"
+      },
+      {
+        "id": 4294,
+        "name": "game title announcer"
+      },
+      {
+        "id": 4353,
+        "name": "human"
+      },
+      {
+        "id": 4359,
+        "name": "polygonal 3d"
+      },
+      {
+        "id": 4369,
+        "name": "sexualized women"
+      },
+      {
+        "id": 4372,
+        "name": "psone classics"
+      },
+      {
+        "id": 4414,
+        "name": "computer"
+      },
+      {
+        "id": 4417,
+        "name": "claw"
+      },
+      {
+        "id": 4418,
+        "name": "door"
+      },
+      {
+        "id": 4428,
+        "name": "bed"
+      },
+      {
+        "id": 4446,
+        "name": "gun"
+      },
+      {
+        "id": 4477,
+        "name": "cameo appearance"
+      },
+      {
+        "id": 4524,
+        "name": "alcoholic beverages"
+      },
+      {
+        "id": 4525,
+        "name": "third-person perspective"
+      },
+      {
+        "id": 4571,
+        "name": "shotgun"
+      },
+      {
+        "id": 4572,
+        "name": "rocket launcher"
+      },
+      {
+        "id": 4575,
+        "name": "beret"
+      },
+      {
+        "id": 4611,
+        "name": "cutscene"
+      },
+      {
+        "id": 4612,
+        "name": "the locked door"
+      },
+      {
+        "id": 4613,
+        "name": "non-player character"
+      },
+      {
+        "id": 4614,
+        "name": "extreme violence"
+      },
+      {
+        "id": 4615,
+        "name": "profanity"
+      },
+      {
+        "id": 4617,
+        "name": "aural characters"
+      },
+      {
+        "id": 4625,
+        "name": "table"
+      },
+      {
+        "id": 4626,
+        "name": "elevator"
+      },
+      {
+        "id": 4637,
+        "name": "corpse"
+      },
+      {
+        "id": 4641,
+        "name": "tape recorder"
+      },
+      {
+        "id": 4660,
+        "name": "pistol"
+      },
+      {
+        "id": 4709,
+        "name": "save point"
+      },
+      {
+        "id": 4726,
+        "name": "playstation plus"
+      },
+      {
+        "id": 4746,
+        "name": "gem"
+      },
+      {
+        "id": 4831,
+        "name": "street light"
+      },
+      {
+        "id": 4833,
+        "name": "staircase"
+      },
+      {
+        "id": 4835,
+        "name": "ceiling fan"
+      },
+      {
+        "id": 4855,
+        "name": "branching story line"
+      },
+      {
+        "id": 4877,
+        "name": "titular antagonist"
+      },
+      {
+        "id": 4885,
+        "name": "auto-aim"
+      },
+      {
+        "id": 4891,
+        "name": "melee"
+      },
+      {
+        "id": 4907,
+        "name": "gloves"
+      },
+      {
+        "id": 4918,
+        "name": "real-time combat"
+      },
+      {
+        "id": 4921,
+        "name": "miniskirt"
+      },
+      {
+        "id": 4925,
+        "name": "player character"
+      },
+      {
+        "id": 4974,
+        "name": "male antagonist"
+      },
+      {
+        "id": 5011,
+        "name": "umbrella"
+      },
+      {
+        "id": 5022,
+        "name": "final boss"
+      },
+      {
+        "id": 5029,
+        "name": "difficulty level"
+      },
+      {
+        "id": 5042,
+        "name": "s-rank"
+      },
+      {
+        "id": 5099,
+        "name": "pushable block"
+      },
+      {
+        "id": 5176,
+        "name": "jump scare moment"
+      },
+      {
+        "id": 5256,
+        "name": "loud ambient noises"
+      },
+      {
+        "id": 5260,
+        "name": "inconvenient malfunction"
+      },
+      {
+        "id": 5261,
+        "name": "unseen recurring characters"
+      },
+      {
+        "id": 5271,
+        "name": "valve"
+      },
+      {
+        "id": 5275,
+        "name": "audio cassette"
+      },
+      {
+        "id": 5309,
+        "name": "reloading"
+      },
+      {
+        "id": 5323,
+        "name": "mercenary"
+      },
+      {
+        "id": 5328,
+        "name": "playstation tv support"
+      },
+      {
+        "id": 5349,
+        "name": "exploding barrel"
+      },
+      {
+        "id": 5426,
+        "name": "refrigerator"
+      },
+      {
+        "id": 5443,
+        "name": "decapitation"
+      },
+      {
+        "id": 5453,
+        "name": "destructible environment"
+      },
+      {
+        "id": 5500,
+        "name": "nuclear bomb"
+      },
+      {
+        "id": 5533,
+        "name": "no hud"
+      },
+      {
+        "id": 5542,
+        "name": "interactive environments"
+      },
+      {
+        "id": 5567,
+        "name": "game over directly to title screen"
+      },
+      {
+        "id": 5571,
+        "name": "wardrobe"
+      },
+      {
+        "id": 5594,
+        "name": "recurring boss"
+      },
+      {
+        "id": 5599,
+        "name": "been here before"
+      },
+      {
+        "id": 5661,
+        "name": "item combination"
+      },
+      {
+        "id": 5697,
+        "name": "pacifist playthrough"
+      },
+      {
+        "id": 5703,
+        "name": "tentacles"
+      },
+      {
+        "id": 5730,
+        "name": "controversy"
+      },
+      {
+        "id": 5753,
+        "name": "wrench"
+      },
+      {
+        "id": 5754,
+        "name": "traffic cone"
+      },
+      {
+        "id": 5757,
+        "name": "lighter"
+      },
+      {
+        "id": 5760,
+        "name": "fire hydrant"
+      },
+      {
+        "id": 5803,
+        "name": "vore"
+      },
+      {
+        "id": 5900,
+        "name": "russian accent"
+      },
+      {
+        "id": 5901,
+        "name": "interquel"
+      },
+      {
+        "id": 5904,
+        "name": "particle system"
+      },
+      {
+        "id": 5920,
+        "name": "fingerless gloves"
+      },
+      {
+        "id": 5942,
+        "name": "disembodied voice"
+      },
+      {
+        "id": 5962,
+        "name": "speedrun"
+      },
+      {
+        "id": 5963,
+        "name": "plot twist"
+      },
+      {
+        "id": 5998,
+        "name": "evil organization"
+      },
+      {
+        "id": 6206,
+        "name": "item box"
+      },
+      {
+        "id": 6216,
+        "name": "gun holster"
+      },
+      {
+        "id": 6318,
+        "name": "idle animations"
+      },
+      {
+        "id": 6325,
+        "name": "book adaptation"
+      },
+      {
+        "id": 6352,
+        "name": "submachine gun"
+      },
+      {
+        "id": 6370,
+        "name": "gore system"
+      },
+      {
+        "id": 6377,
+        "name": "barricade"
+      },
+      {
+        "id": 6407,
+        "name": "revolver"
+      },
+      {
+        "id": 6417,
+        "name": "sawed-off shotgun"
+      },
+      {
+        "id": 6457,
+        "name": "environmental kill"
+      },
+      {
+        "id": 6488,
+        "name": "multiple ammo types"
+      },
+      {
+        "id": 6582,
+        "name": "lock on"
+      },
+      {
+        "id": 6745,
+        "name": "surprising character switches"
+      },
+      {
+        "id": 6792,
+        "name": "typewriter"
+      },
+      {
+        "id": 6801,
+        "name": "enemies on cover art"
+      },
+      {
+        "id": 6812,
+        "name": "giant enemy worm"
+      },
+      {
+        "id": 6834,
+        "name": "gear puzzle"
+      },
+      {
+        "id": 6887,
+        "name": "railgun"
+      },
+      {
+        "id": 6947,
+        "name": "fuse"
+      },
+      {
+        "id": 7007,
+        "name": "pinball machine"
+      },
+      {
+        "id": 7039,
+        "name": "strategic dismemberment"
+      },
+      {
+        "id": 7043,
+        "name": "monster infighting"
+      },
+      {
+        "id": 7062,
+        "name": "severed limbs"
+      },
+      {
+        "id": 7064,
+        "name": "shotgun shells"
+      },
+      {
+        "id": 7184,
+        "name": "anguish"
+      },
+      {
+        "id": 7185,
+        "name": "innocent people die"
+      },
+      {
+        "id": 7220,
+        "name": "item container"
+      },
+      {
+        "id": 7395,
+        "name": "zombie dogs"
+      },
+      {
+        "id": 7405,
+        "name": "ammo"
+      },
+      {
+        "id": 7689,
+        "name": "leitmotif"
+      },
+      {
+        "id": 8156,
+        "name": "contextual controller rumble"
+      },
+      {
+        "id": 8161,
+        "name": "walking protagonist"
+      },
+      {
+        "id": 8286,
+        "name": "persistent enemy"
+      },
+      {
+        "id": 8672,
+        "name": "lab coat"
+      },
+      {
+        "id": 8775,
+        "name": "umbrella corporation"
+      },
+      {
+        "id": 8802,
+        "name": "escape from exploding building"
+      },
+      {
+        "id": 8970,
+        "name": "redshirt"
+      },
+      {
+        "id": 9035,
+        "name": "green herb"
+      },
+      {
+        "id": 9045,
+        "name": "breaking through windows"
+      },
+      {
+        "id": 9263,
+        "name": "mare\u0027s leg"
+      },
+      {
+        "id": 9286,
+        "name": "false death"
+      },
+      {
+        "id": 9307,
+        "name": "stationary aiming"
+      },
+      {
+        "id": 9344,
+        "name": "pre-rendered backgrounds"
+      },
+      {
+        "id": 9425,
+        "name": "m202 flash"
+      },
+      {
+        "id": 9431,
+        "name": "elevators that mask loading times"
+      },
+      {
+        "id": 9448,
+        "name": "henchmen"
+      },
+      {
+        "id": 9529,
+        "name": "greatest hits"
+      },
+      {
+        "id": 9598,
+        "name": "midquel"
+      },
+      {
+        "id": 9732,
+        "name": "the 1990s"
+      },
+      {
+        "id": 9747,
+        "name": "gradual enemy introduction"
+      },
+      {
+        "id": 10149,
+        "name": "tank controls"
+      },
+      {
+        "id": 10168,
+        "name": "guest costume"
+      },
+      {
+        "id": 10190,
+        "name": "180 degree turn"
+      },
+      {
+        "id": 10336,
+        "name": "isolation"
+      },
+      {
+        "id": 10476,
+        "name": "no longer banned"
+      },
+      {
+        "id": 10520,
+        "name": "special tactics and rescue service"
+      },
+      {
+        "id": 10527,
+        "name": "first aid spray"
+      },
+      {
+        "id": 10529,
+        "name": "samurai edge"
+      },
+      {
+        "id": 10545,
+        "name": "operation clusterfuck"
+      },
+      {
+        "id": 10553,
+        "name": "overdramatic hand gestures"
+      },
+      {
+        "id": 10555,
+        "name": "heartbeat meter"
+      },
+      {
+        "id": 10598,
+        "name": "self destruct sequence"
+      },
+      {
+        "id": 11249,
+        "name": "blood type"
+      },
+      {
+        "id": 11251,
+        "name": "shake off"
+      },
+      {
+        "id": 11351,
+        "name": "directed escape"
+      },
+      {
+        "id": 11353,
+        "name": "mankind\u0027s monsterous future"
+      },
+      {
+        "id": 11424,
+        "name": "colt python"
+      },
+      {
+        "id": 11532,
+        "name": "mutagenic agents"
+      },
+      {
+        "id": 11631,
+        "name": "vmu support"
+      },
+      {
+        "id": 11853,
+        "name": "games on which movies are based"
+      },
+      {
+        "id": 11877,
+        "name": "tyrant"
+      },
+      {
+        "id": 12123,
+        "name": "xfire"
+      },
+      {
+        "id": 12172,
+        "name": "t-virus"
+      },
+      {
+        "id": 12173,
+        "name": "umbrella biohazard countermeasure service"
+      },
+      {
+        "id": 12690,
+        "name": "item-based game save"
+      },
+      {
+        "id": 13111,
+        "name": "stopping power"
+      },
+      {
+        "id": 13112,
+        "name": "bio-organic weapon"
+      },
+      {
+        "id": 13113,
+        "name": "ink ribbon"
+      },
+      {
+        "id": 13114,
+        "name": "hazard symbol"
+      },
+      {
+        "id": 13119,
+        "name": "e3 1999"
+      },
+      {
+        "id": 13483,
+        "name": "the 2nd organizaton"
+      },
+      {
+        "id": 15098,
+        "name": "quake engine"
+      },
+      {
+        "id": 16313,
+        "name": "nemesis alpha"
+      }
+    ],
+    "name": "Resident Evil 3: Nemesis",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "popularity": 5.874499976305497,
+    "screenshots": [
+      {
+        "id": 128960,
+        "game": 966,
+        "height": 768,
+        "image_id": "hrvvwif32y9hdaxtlczg",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hrvvwif32y9hdaxtlczg.jpg",
+        "width": 1024
+      },
+      {
+        "id": 128961,
+        "game": 966,
+        "height": 768,
+        "image_id": "qzfk0smzsufvgq0t4ake",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qzfk0smzsufvgq0t4ake.jpg",
+        "width": 1024
+      },
+      {
+        "id": 181732,
+        "game": 966,
+        "height": 448,
+        "image_id": "ngjabdx9cx5zpwi8p3ea",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ngjabdx9cx5zpwi8p3ea.jpg",
+        "width": 640
+      },
+      {
+        "id": 181733,
+        "game": 966,
+        "height": 448,
+        "image_id": "rvjb70g68lwwehqnqpa9",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rvjb70g68lwwehqnqpa9.jpg",
+        "width": 640
+      },
+      {
+        "id": 181734,
+        "game": 966,
+        "height": 448,
+        "image_id": "mfy5tjimkowdsjmkx4tj",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mfy5tjimkowdsjmkx4tj.jpg",
+        "width": 640
+      },
+      {
+        "id": 181735,
+        "game": 966,
+        "height": 448,
+        "image_id": "wiwmyubr1753px6p5emi",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/wiwmyubr1753px6p5emi.jpg",
+        "width": 640
+      },
+      {
+        "id": 181736,
+        "game": 966,
+        "height": 448,
+        "image_id": "jfcrdcguoxfuldo5blr3",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jfcrdcguoxfuldo5blr3.jpg",
+        "width": 640
+      },
+      {
+        "id": 181737,
+        "game": 966,
+        "height": 448,
+        "image_id": "v5taxpsxbengllwhep6n",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/v5taxpsxbengllwhep6n.jpg",
+        "width": 640
+      },
+      {
+        "id": 181738,
+        "game": 966,
+        "height": 448,
+        "image_id": "dac3qjahaxymbnuh4j18",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/dac3qjahaxymbnuh4j18.jpg",
+        "width": 640
+      },
+      {
+        "id": 181739,
+        "game": 966,
+        "height": 448,
+        "image_id": "ptgwkx3xebyhs2lqkg0a",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ptgwkx3xebyhs2lqkg0a.jpg",
+        "width": 640
+      },
+      {
+        "id": 181740,
+        "game": 966,
+        "height": 448,
+        "image_id": "kxxxw3x2irolomsh8voy",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/kxxxw3x2irolomsh8voy.jpg",
+        "width": 640
+      },
+      {
+        "id": 181741,
+        "game": 966,
+        "height": 448,
+        "image_id": "lnhkpuuphnp4qcas4rcp",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/lnhkpuuphnp4qcas4rcp.jpg",
+        "width": 640
+      }
+    ],
+    "slug": "resident-evil-3-nemesis",
+    "summary": "The first half of the game occurs 24 hours prior to Resident Evil 2 and the second half takes place two days after. The storyline expands upon the settings and events of the T-virus outbreak in Raccoon City, and concludes with the fate of the city and its infected population.",
+    "videos": [
+      {
+        "id": 20348,
+        "game": 966,
+        "name": "Gameplay video",
+        "video_id": "w4NQHEd65Fs"
+      }
+    ]
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "id": 24157,
+    "age_ratings": [
+      {
+        "id": 19032,
+        "rating": 10
+      }
+    ],
+    "aggregated_rating": 90.0,
+    "aggregated_rating_count": 1,
+    "cover": {
+      "id": 64645,
+      "game": 24157,
+      "height": 500,
+      "image_id": "ck4kqzovfascuhkjugie",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/ck4kqzovfascuhkjugie.jpg",
+      "width": 500
+    },
+    "first_release_date": 976320000,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 61,
+        "name": "martial arts"
+      },
+      {
+        "id": 78,
+        "name": "anime"
+      },
+      {
+        "id": 107,
+        "name": "fighting"
+      },
+      {
+        "id": 253,
+        "name": "samurai"
+      },
+      {
+        "id": 301,
+        "name": "health"
+      },
+      {
+        "id": 872,
+        "name": "shadow"
+      },
+      {
+        "id": 1026,
+        "name": "role playing"
+      },
+      {
+        "id": 1075,
+        "name": "crossover"
+      },
+      {
+        "id": 1231,
+        "name": "karate"
+      },
+      {
+        "id": 1682,
+        "name": "spin-off"
+      },
+      {
+        "id": 2152,
+        "name": "high score"
+      },
+      {
+        "id": 3171,
+        "name": "card game"
+      },
+      {
+        "id": 4161,
+        "name": "jump"
+      },
+      {
+        "id": 4181,
+        "name": "company name in title"
+      },
+      {
+        "id": 4417,
+        "name": "claw"
+      },
+      {
+        "id": 4566,
+        "name": "fist"
+      },
+      {
+        "id": 4650,
+        "name": "year in the title"
+      },
+      {
+        "id": 4670,
+        "name": "jitte"
+      },
+      {
+        "id": 4804,
+        "name": "tag teaming"
+      },
+      {
+        "id": 4891,
+        "name": "melee"
+      },
+      {
+        "id": 5201,
+        "name": "shun goku satsu"
+      },
+      {
+        "id": 5394,
+        "name": "tsundere"
+      },
+      {
+        "id": 5398,
+        "name": "evo championship series"
+      },
+      {
+        "id": 5894,
+        "name": "hadouken"
+      },
+      {
+        "id": 5908,
+        "name": "versus screen"
+      },
+      {
+        "id": 5917,
+        "name": "muay thai"
+      },
+      {
+        "id": 5918,
+        "name": "ansatsuken"
+      },
+      {
+        "id": 5920,
+        "name": "fingerless gloves"
+      },
+      {
+        "id": 6061,
+        "name": "e3 2000"
+      },
+      {
+        "id": 6100,
+        "name": "mirror match"
+      },
+      {
+        "id": 6533,
+        "name": "devil gene"
+      },
+      {
+        "id": 6537,
+        "name": "in-game moves list"
+      },
+      {
+        "id": 6784,
+        "name": "super meter"
+      },
+      {
+        "id": 6789,
+        "name": "kusarigama"
+      },
+      {
+        "id": 7200,
+        "name": "slide tackle"
+      },
+      {
+        "id": 8874,
+        "name": "kunoichi"
+      },
+      {
+        "id": 9076,
+        "name": "sega naomi"
+      },
+      {
+        "id": 9886,
+        "name": "recycled animation"
+      },
+      {
+        "id": 10200,
+        "name": "characters without pupils"
+      }
+    ],
+    "name": "Capcom vs. SNK",
+    "popularity": 1.840157565682484,
+    "slug": "capcom-vs-snk",
+    "summary": "Two of the worlds greatest arcade fighter developers, Capcom and SNK, join forces to finally answer the question asked by many for years: Who is the dominant fighter? \n \nA range of fighters from both worlds are available to choose from, with two different fighting styles (Capcom and SNK, of course) meaning that players of both worlds can fit into the game easily, while new gamers can try Ryu using the SNK format."
+  }
+]

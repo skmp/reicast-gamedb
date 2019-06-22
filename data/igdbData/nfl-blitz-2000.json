@@ -1,0 +1,236 @@
+[
+  {
+    "id": 4366,
+    "age_ratings": [
+      {
+        "id": 19585,
+        "rating": 8
+      },
+      {
+        "id": 19586,
+        "rating": 1
+      }
+    ],
+    "cover": {
+      "id": 6223,
+      "game": 4366,
+      "height": 1535,
+      "image_id": "vhbgxca6lcahwyz8wyg0",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/vhbgxca6lcahwyz8wyg0.jpg",
+      "width": 2100
+    },
+    "first_release_date": 933724800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 26,
+        "name": "soccer"
+      },
+      {
+        "id": 27,
+        "name": "football"
+      },
+      {
+        "id": 137,
+        "name": "gravity"
+      },
+      {
+        "id": 350,
+        "name": "comedy"
+      },
+      {
+        "id": 1166,
+        "name": "sports"
+      },
+      {
+        "id": 4345,
+        "name": "bink video"
+      },
+      {
+        "id": 4523,
+        "name": "launch titles"
+      },
+      {
+        "id": 4552,
+        "name": "helmet"
+      },
+      {
+        "id": 4582,
+        "name": "rain"
+      },
+      {
+        "id": 4650,
+        "name": "year in the title"
+      },
+      {
+        "id": 4698,
+        "name": "cooperative play"
+      },
+      {
+        "id": 4747,
+        "name": "scoreboard"
+      },
+      {
+        "id": 4837,
+        "name": "sports jersey"
+      },
+      {
+        "id": 5278,
+        "name": "commentary"
+      },
+      {
+        "id": 5573,
+        "name": "national football league"
+      },
+      {
+        "id": 5908,
+        "name": "versus screen"
+      },
+      {
+        "id": 6520,
+        "name": "goal"
+      },
+      {
+        "id": 6774,
+        "name": "football helmet"
+      },
+      {
+        "id": 7179,
+        "name": "touchdown"
+      },
+      {
+        "id": 7180,
+        "name": "field goal"
+      },
+      {
+        "id": 7181,
+        "name": "football player"
+      },
+      {
+        "id": 7213,
+        "name": "cleats"
+      },
+      {
+        "id": 8209,
+        "name": "san francisco 49ers"
+      },
+      {
+        "id": 8736,
+        "name": "chicago bears"
+      },
+      {
+        "id": 8739,
+        "name": "oakland raiders"
+      },
+      {
+        "id": 8741,
+        "name": "washington redskins"
+      },
+      {
+        "id": 8742,
+        "name": "philadelphia eagles"
+      },
+      {
+        "id": 8743,
+        "name": "dallas cowboys"
+      },
+      {
+        "id": 8744,
+        "name": "new york giants"
+      },
+      {
+        "id": 8745,
+        "name": "denver broncos"
+      },
+      {
+        "id": 8746,
+        "name": "miami dolphins"
+      },
+      {
+        "id": 8758,
+        "name": "new orleans saints"
+      },
+      {
+        "id": 8962,
+        "name": "pittsburgh steelers"
+      },
+      {
+        "id": 9513,
+        "name": "omnipresent crowd"
+      },
+      {
+        "id": 9529,
+        "name": "greatest hits"
+      },
+      {
+        "id": 13119,
+        "name": "e3 1999"
+      },
+      {
+        "id": 13951,
+        "name": "playstation underground"
+      }
+    ],
+    "name": "NFL Blitz 2000",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view"
+      }
+    ],
+    "popularity": 1.424160009382094,
+    "screenshots": [
+      {
+        "id": 32796,
+        "game": 4366,
+        "height": 1080,
+        "image_id": "tigylqraxdzgpj7kgk6b",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/tigylqraxdzgpj7kgk6b.jpg",
+        "width": 1920
+      },
+      {
+        "id": 296549,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 4366,
+        "height": 720,
+        "image_id": "sc6cth",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc6cth.jpg",
+        "width": 1280
+      },
+      {
+        "id": 296550,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 4366,
+        "height": 480,
+        "image_id": "sc6cti",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc6cti.jpg",
+        "width": 640
+      },
+      {
+        "id": 296551,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 4366,
+        "height": 282,
+        "image_id": "sc6ctj",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc6ctj.jpg",
+        "width": 507
+      }
+    ],
+    "slug": "nfl-blitz-2000",
+    "summary": "It\u0027s back and it\u0027s better than ever! NFL Blitz 2000 adds 4-player support, new offensive and defensive plays, realistic weather conditions, new stadiums and a Tournament mode! Customize offensive and defensive plays to your liking. Call audibles at the line of scrimmage. You\u0027ve got control now! Passing made easy with new \"Blitz Passing\" for one-touch long bombs! \"ON-FIRE\" mode gives super power performance to your players! With non-stop action and a \"pick-it-up-and-play\" learning curve, NFL BLITZ 2000 is THE game for every football fan!"
+  }
+]

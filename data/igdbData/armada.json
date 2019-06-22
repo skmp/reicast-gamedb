@@ -1,0 +1,90 @@
+[
+  {
+    "id": 6713,
+    "age_ratings": [
+      {
+        "id": 3855,
+        "rating": 8
+      }
+    ],
+    "cover": {
+      "id": 6854,
+      "game": 6713,
+      "height": 630,
+      "image_id": "imghiwkrpq9gh0cf1ywp",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/imghiwkrpq9gh0cf1ywp.jpg",
+      "width": 640
+    },
+    "first_release_date": 941328000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 970,
+        "name": "sci-fi"
+      },
+      {
+        "id": 1025,
+        "name": "shooter"
+      },
+      {
+        "id": 1459,
+        "name": "open-world"
+      },
+      {
+        "id": 4345,
+        "name": "bink video"
+      },
+      {
+        "id": 4346,
+        "name": "top-down perspective"
+      },
+      {
+        "id": 4388,
+        "name": "shopping"
+      },
+      {
+        "id": 4397,
+        "name": "upgradeable weapons"
+      },
+      {
+        "id": 4399,
+        "name": "loot gathering"
+      },
+      {
+        "id": 4698,
+        "name": "cooperative play"
+      },
+      {
+        "id": 6229,
+        "name": "asteroid"
+      },
+      {
+        "id": 13022,
+        "name": "seed ship"
+      }
+    ],
+    "name": "Armada",
+    "popularity": 1.636240014073141,
+    "slug": "armada",
+    "summary": "Battle an ever growing alien threat while upgrading your ship and traveling to different planets to take on trade missions and tactical assaults. An early top down, free moving Dreamcast shooter."
+  }
+]

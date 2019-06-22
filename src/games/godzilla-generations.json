@@ -1,0 +1,60 @@
+[
+  {
+    "view": "game",
+    "layout": "game",
+    "author": "reicast",
+    "created_at": "2018-03-25 09:00",
+    "updated_at": "2019-05-02 09:00",
+    "id": "godzilla-generations",
+    "title": "Godzilla Generations",
+    "gamedb-issue": 0,
+    "releases": [
+      {
+        "id": "65A9",
+        "region": "JP",
+        "version": "1.001",
+        "discs": 1,
+        "medium": "gdrom"
+      }
+    ],
+    "test-videos": [
+      {
+        "fingerprint": "65A9 GD-ROM1/1 JP",
+        "title": "Intro auto run",
+        "hw": "i7 2720qm, GeForce 540M",
+        "yt": "WH2plTJ_GeM",
+        "git": "d59197f84353d7d2b746383e9277d9ed7c8c4053",
+        "platform": "win86-release"
+      }
+    ],
+    "gotIGDBGame": 1,
+    "idIGDB": 45824,
+    "cover": [
+      {
+        "id": 44617,
+        "game": 45824,
+        "height": 256,
+        "image_id": "vygxleiassaeylejbcei",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vygxleiassaeylejbcei.jpg",
+        "width": 260
+      }
+    ],
+    "first_release_date": 888537600,
+    "categories": [
+      "Adventure"
+    ],
+    "tags": [
+      "fantasy",
+      "kaiju",
+      "licensed game",
+      "launch titles",
+      "vmu support",
+      "oxygen destroyer"
+    ],
+    "name": "Godzilla Generations",
+    "popularity": 1,
+    "slug": "godzilla-generations",
+    "summary": "In Godzilla Generations you play as either Godzilla or Mechagodzilla and have to rage havoc in the city and fend of the army before time runs out. \nYou can unlock other monsters such as First Generation Godzilla, USA Godzilla and Minira by playing through the game. There are five cities that you can lay to ashes, all located in Japan. Each city has two stages to play through. \nEach monster has a range of moves which range from swiping his tail, using his claws or shooting rays from his eyes or hands. Each monster can also heal himself."
+  },
+  null
+]

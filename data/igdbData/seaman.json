@@ -1,0 +1,245 @@
+[
+  {
+    "id": 9130,
+    "age_ratings": [
+      {
+        "id": 6301,
+        "rating": 10
+      }
+    ],
+    "cover": {
+      "id": 9530,
+      "game": 9130,
+      "height": 288,
+      "image_id": "mkbvqqfinyri16elpdug",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/mkbvqqfinyri16elpdug.jpg",
+      "width": 252
+    },
+    "first_release_date": 933206400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 296,
+        "name": "fantasy"
+      },
+      {
+        "id": 350,
+        "name": "comedy"
+      },
+      {
+        "id": 658,
+        "name": "egg"
+      },
+      {
+        "id": 816,
+        "name": "pets"
+      },
+      {
+        "id": 818,
+        "name": "virtual pet"
+      },
+      {
+        "id": 994,
+        "name": "management"
+      },
+      {
+        "id": 1027,
+        "name": "adventure"
+      },
+      {
+        "id": 1098,
+        "name": "water"
+      },
+      {
+        "id": 1148,
+        "name": "simulation"
+      },
+      {
+        "id": 1166,
+        "name": "sports"
+      },
+      {
+        "id": 1440,
+        "name": "artificial intelligence"
+      },
+      {
+        "id": 1495,
+        "name": "abstract"
+      },
+      {
+        "id": 1671,
+        "name": "voice commands"
+      },
+      {
+        "id": 1735,
+        "name": "inventory"
+      },
+      {
+        "id": 2152,
+        "name": "high score"
+      },
+      {
+        "id": 2184,
+        "name": "talking animals"
+      },
+      {
+        "id": 2875,
+        "name": "puzzle"
+      },
+      {
+        "id": 4134,
+        "name": "digital distribution"
+      },
+      {
+        "id": 4140,
+        "name": "water effects"
+      },
+      {
+        "id": 4235,
+        "name": "spider"
+      },
+      {
+        "id": 4287,
+        "name": "voice acting"
+      },
+      {
+        "id": 4306,
+        "name": "feces"
+      },
+      {
+        "id": 4320,
+        "name": "fish"
+      },
+      {
+        "id": 4359,
+        "name": "polygonal 3d"
+      },
+      {
+        "id": 4364,
+        "name": "sand"
+      },
+      {
+        "id": 4440,
+        "name": "aquatic"
+      },
+      {
+        "id": 4510,
+        "name": "touch controls"
+      },
+      {
+        "id": 4839,
+        "name": "microphone"
+      },
+      {
+        "id": 4897,
+        "name": "auto-save"
+      },
+      {
+        "id": 4940,
+        "name": "underwater gameplay"
+      },
+      {
+        "id": 5188,
+        "name": "peripherals"
+      },
+      {
+        "id": 5190,
+        "name": "bundled with peripherals"
+      },
+      {
+        "id": 5554,
+        "name": "glass"
+      },
+      {
+        "id": 5581,
+        "name": "spider web"
+      },
+      {
+        "id": 6061,
+        "name": "e3 2000"
+      },
+      {
+        "id": 6697,
+        "name": "samegame"
+      },
+      {
+        "id": 7184,
+        "name": "anguish"
+      },
+      {
+        "id": 7693,
+        "name": "birthday acknowledgement"
+      },
+      {
+        "id": 8221,
+        "name": "real time game clock"
+      },
+      {
+        "id": 8773,
+        "name": "caterpillar"
+      },
+      {
+        "id": 9344,
+        "name": "pre-rendered backgrounds"
+      },
+      {
+        "id": 10549,
+        "name": "hybrid creatures"
+      },
+      {
+        "id": 13119,
+        "name": "e3 1999"
+      },
+      {
+        "id": 13919,
+        "name": "artificial life"
+      }
+    ],
+    "name": "Seaman",
+    "popularity": 2.272480028146282,
+    "screenshots": [
+      {
+        "id": 11223,
+        "game": 9130,
+        "height": 581,
+        "image_id": "ovmhle3flpcdluvgwzr8",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ovmhle3flpcdluvgwzr8.jpg",
+        "width": 958
+      }
+    ],
+    "slug": "seaman",
+    "storyline": "As a new pet owner, the player is given the responsibility of caring for and learning about the enigmatic \"Seaman\" species, using a replica of the discoverer\u0027s laboratory. The player must figure everything out by themselves, such as appropriate care, with some guidance from the narrator Leonard Nimoy.",
+    "summary": "Seaman is a virtual pet video game for the Sega Dreamcast. It is one of the few Dreamcast games to take advantage of the microphone attachment. The narration is voiced by Toshiyuki Hosokawa in the original Japanese-language version and by Leonard Nimoy in the English-language version and the face of Seaman is actually that of the game\u0027s producer, Yoot Saito.",
+    "videos": [
+      {
+        "id": 8038,
+        "game": 9130,
+        "name": "Review",
+        "video_id": "-IV8hCvsXy0"
+      }
+    ]
+  }
+]

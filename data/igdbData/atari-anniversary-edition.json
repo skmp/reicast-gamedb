@@ -1,0 +1,80 @@
+[
+  {
+    "id": 6311,
+    "age_ratings": [
+      {
+        "id": 3558,
+        "rating": 8
+      }
+    ],
+    "aggregated_rating": 80.0,
+    "aggregated_rating_count": 1,
+    "cover": {
+      "id": 6477,
+      "game": 6311,
+      "height": 256,
+      "image_id": "fmpokwhmf8f5lpyspksd",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/fmpokwhmf8f5lpyspksd.jpg",
+      "width": 256
+    },
+    "first_release_date": 994032000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 26,
+        "name": "Quiz/Trivia"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 274,
+        "name": "minigames"
+      },
+      {
+        "id": 960,
+        "name": "compilation"
+      },
+      {
+        "id": 2601,
+        "name": "trivia"
+      },
+      {
+        "id": 4139,
+        "name": "trivia/board game"
+      },
+      {
+        "id": 4181,
+        "name": "company name in title"
+      },
+      {
+        "id": 4372,
+        "name": "psone classics"
+      },
+      {
+        "id": 5032,
+        "name": "mini-boss"
+      },
+      {
+        "id": 5369,
+        "name": "minimap"
+      }
+    ],
+    "name": "Atari Anniversary Edition",
+    "popularity": 1.676291082700661,
+    "slug": "atari-anniversary-edition",
+    "summary": "12 Atari Game Compilation: \nAsteroids, Asteroids Deluxe, Battlezone, Centipede, Crystal Castles, Gravitar, Millipede, Missile Command, Pong, Super Breakout, Tempest and Warlords"
+  }
+]

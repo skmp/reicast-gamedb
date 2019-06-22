@@ -1,0 +1,39 @@
+[
+  {
+    "id": 6721,
+    "age_ratings": [
+      {
+        "id": 3860,
+        "rating": 8
+      }
+    ],
+    "cover": {
+      "id": 6862,
+      "game": 6721,
+      "height": 252,
+      "image_id": "s2dnoiz4d0t5vgpq5yhs",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/s2dnoiz4d0t5vgpq5yhs.jpg",
+      "width": 252
+    },
+    "first_release_date": 922320000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "name": "Flag to Flag",
+    "popularity": 1.424160009382094,
+    "slug": "flag-to-flag"
+  }
+]

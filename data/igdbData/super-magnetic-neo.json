@@ -1,0 +1,44 @@
+[
+  {
+    "id": 45863,
+    "age_ratings": [
+      {
+        "id": 18109,
+        "rating": 8
+      }
+    ],
+    "cover": {
+      "id": 28036,
+      "game": 45863,
+      "height": 982,
+      "image_id": "kflshrgv4y98wclcz8in",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/kflshrgv4y98wclcz8in.jpg",
+      "width": 1000
+    },
+    "first_release_date": 963273600,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 2049,
+        "name": "platformer"
+      },
+      {
+        "id": 4297,
+        "name": "protagonist\u0027s name in the title"
+      },
+      {
+        "id": 4359,
+        "name": "polygonal 3d"
+      }
+    ],
+    "name": "Super Magnetic Neo",
+    "popularity": 1.0,
+    "slug": "super-magnetic-neo",
+    "summary": "In Super Magnetic Neo, a gang lead by evil, foul-mouthed baby Pinki has taken over Pao Pao Park. The professor must stop her, so her sends Super Magnetic Neo, a little boy robot with a powerful electromagnet on his head. \n \nYou must use all these skills to make it through all four sections of Pao Pao Park and defeat Pinki."
+  }
+]

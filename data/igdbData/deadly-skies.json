@@ -1,0 +1,46 @@
+[
+  {
+    "id": 22730,
+    "cover": {
+      "id": 16791,
+      "game": 22730,
+      "height": 1392,
+      "image_id": "vcz7vyvnvvv0tase1tn7",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/vcz7vyvnvvv0tase1tn7.jpg",
+      "width": 1000
+    },
+    "first_release_date": 441676800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 21,
+        "name": "helicopter"
+      }
+    ],
+    "name": "Deadly Skies",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "popularity": 1.0,
+    "slug": "deadly-skies",
+    "summary": "Airforce Delta Storm, known as Airforce Delta II in Japan and simply as Deadly Skies in Europe, is a fighter jet video game released in 2001 for the Xbox. It is the sequel to the Sega Dreamcast game Airforce Delta. \n \nA game also named Airforce Delta Storm was released in 2002 for the Game Boy Advance. While having the same name, this game\u0027s plot is based on the previous title in the series, Airforce Delta."
+  }
+]

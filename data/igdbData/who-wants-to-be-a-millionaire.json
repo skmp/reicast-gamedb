@@ -1,0 +1,100 @@
+[
+  {
+    "id": 243,
+    "aggregated_rating": 60.0,
+    "aggregated_rating_count": 1,
+    "cover": {
+      "id": 236,
+      "game": 243,
+      "height": 726,
+      "image_id": "myncdjb45xmxxk97rbhg",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/myncdjb45xmxxk97rbhg.jpg",
+      "width": 600
+    },
+    "first_release_date": 943315200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 26,
+        "name": "Quiz/Trivia"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 772,
+        "name": "game show"
+      },
+      {
+        "id": 1299,
+        "name": "time limit"
+      },
+      {
+        "id": 2601,
+        "name": "trivia"
+      },
+      {
+        "id": 3782,
+        "name": "strategy"
+      },
+      {
+        "id": 4139,
+        "name": "trivia/board game"
+      },
+      {
+        "id": 4213,
+        "name": "countdown timer"
+      },
+      {
+        "id": 4345,
+        "name": "bink video"
+      },
+      {
+        "id": 4379,
+        "name": "adapted from television"
+      },
+      {
+        "id": 4719,
+        "name": "game titles that are also questions"
+      },
+      {
+        "id": 5762,
+        "name": "paper money"
+      },
+      {
+        "id": 6061,
+        "name": "e3 2000"
+      }
+    ],
+    "name": "Who Wants to Be a Millionaire?",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "popularity": 1.637317448009249,
+    "slug": "who-wants-to-be-a-millionaire",
+    "summary": "You\u0027re in the Hot Seat! You have 15 questions and 3 lifelines. This is just like the TV Show!",
+    "videos": [
+      {
+        "id": 498,
+        "game": 243,
+        "name": "Gameplay video",
+        "video_id": "7bqPpQWFlK8"
+      }
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": 64753,
+    "cover": {
+      "id": 45533,
+      "game": 64753,
+      "height": 640,
+      "image_id": "snttgsezdbwp7hjgsbjj",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/snttgsezdbwp7hjgsbjj.jpg",
+      "width": 640
+    },
+    "keywords": [
+      {
+        "id": 798,
+        "name": "pachinko"
+      },
+      {
+        "id": 1495,
+        "name": "abstract"
+      }
+    ],
+    "name": "Happy Lesson: First Lesson",
+    "popularity": 1.0,
+    "slug": "happy-lesson-first-lesson",
+    "summary": "Fan disc released with \"Happy Slot\" (slot machine), \"Happy Gallery\" (art gallery) and \"Happy Net\""
+  }
+]

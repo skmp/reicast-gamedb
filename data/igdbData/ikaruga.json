@@ -1,0 +1,396 @@
+[
+  {
+    "id": 3953,
+    "age_ratings": [
+      {
+        "id": 21588,
+        "rating": 1
+      },
+      {
+        "id": 22027,
+        "rating": 9
+      }
+    ],
+    "aggregated_rating": 89.0,
+    "aggregated_rating_count": 11,
+    "cover": {
+      "id": 65981,
+      "game": 3953,
+      "height": 338,
+      "image_id": "q7gapoel9gjkxfbtcbw4",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/q7gapoel9gjkxfbtcbw4.jpg",
+      "width": 247
+    },
+    "first_release_date": 1008806400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 166,
+        "name": "shoot \u0027em up"
+      },
+      {
+        "id": 558,
+        "name": "death"
+      },
+      {
+        "id": 844,
+        "name": "shmup"
+      },
+      {
+        "id": 911,
+        "name": "bullet hell"
+      },
+      {
+        "id": 970,
+        "name": "sci-fi"
+      },
+      {
+        "id": 1158,
+        "name": "steam"
+      },
+      {
+        "id": 1299,
+        "name": "time limit"
+      },
+      {
+        "id": 1333,
+        "name": "online"
+      },
+      {
+        "id": 1494,
+        "name": "steam trading cards"
+      },
+      {
+        "id": 2152,
+        "name": "high score"
+      },
+      {
+        "id": 2493,
+        "name": "steam greenlight"
+      },
+      {
+        "id": 2875,
+        "name": "puzzle"
+      },
+      {
+        "id": 3486,
+        "name": "boss fight"
+      },
+      {
+        "id": 3831,
+        "name": "explosion"
+      },
+      {
+        "id": 3833,
+        "name": "bosses"
+      },
+      {
+        "id": 3898,
+        "name": "spiritual successor"
+      },
+      {
+        "id": 4004,
+        "name": "steam achievements"
+      },
+      {
+        "id": 4134,
+        "name": "digital distribution"
+      },
+      {
+        "id": 4135,
+        "name": "xbox 360 controller support for pc"
+      },
+      {
+        "id": 4150,
+        "name": "steam cloud"
+      },
+      {
+        "id": 4151,
+        "name": "steam leaderboards"
+      },
+      {
+        "id": 4213,
+        "name": "countdown timer"
+      },
+      {
+        "id": 4282,
+        "name": "60 fps on consoles"
+      },
+      {
+        "id": 4288,
+        "name": "palette swap"
+      },
+      {
+        "id": 4405,
+        "name": "transforming boss"
+      },
+      {
+        "id": 4698,
+        "name": "cooperative play"
+      },
+      {
+        "id": 4910,
+        "name": "heads up display"
+      },
+      {
+        "id": 4958,
+        "name": "game over"
+      },
+      {
+        "id": 4967,
+        "name": "vertical scrolling"
+      },
+      {
+        "id": 5029,
+        "name": "difficulty level"
+      },
+      {
+        "id": 5032,
+        "name": "mini-boss"
+      },
+      {
+        "id": 5208,
+        "name": "lives"
+      },
+      {
+        "id": 5354,
+        "name": "combo"
+      },
+      {
+        "id": 5384,
+        "name": "aerial combat"
+      },
+      {
+        "id": 5450,
+        "name": "digital rights management"
+      },
+      {
+        "id": 5523,
+        "name": "leaderboard"
+      },
+      {
+        "id": 5633,
+        "name": "xbox one backwards compatibility"
+      },
+      {
+        "id": 5697,
+        "name": "pacifist playthrough"
+      },
+      {
+        "id": 5722,
+        "name": "auto-scrolling levels"
+      },
+      {
+        "id": 5736,
+        "name": "chapters"
+      },
+      {
+        "id": 5738,
+        "name": "protagonist death"
+      },
+      {
+        "id": 5915,
+        "name": "letter grade at the end of a level"
+      },
+      {
+        "id": 6137,
+        "name": "linear gameplay"
+      },
+      {
+        "id": 7037,
+        "name": "bullet pattern"
+      },
+      {
+        "id": 7159,
+        "name": "multiplier"
+      },
+      {
+        "id": 7192,
+        "name": "hitbox"
+      },
+      {
+        "id": 7193,
+        "name": "grazing"
+      },
+      {
+        "id": 8975,
+        "name": "duality"
+      },
+      {
+        "id": 9564,
+        "name": "polarity"
+      },
+      {
+        "id": 9931,
+        "name": "western published games with japanese titles"
+      },
+      {
+        "id": 10211,
+        "name": "record breakers"
+      },
+      {
+        "id": 10974,
+        "name": "nesicaxlive"
+      },
+      {
+        "id": 11583,
+        "name": "sensory overload"
+      },
+      {
+        "id": 13012,
+        "name": "custom aaa name"
+      },
+      {
+        "id": 14989,
+        "name": "progressive scan"
+      },
+      {
+        "id": 15810,
+        "name": "ginkei"
+      },
+      {
+        "id": 15811,
+        "name": "ikaruga"
+      }
+    ],
+    "name": "Ikaruga",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 3,
+        "name": "Bird view"
+      }
+    ],
+    "popularity": 4.033477534025762,
+    "screenshots": [
+      {
+        "id": 99625,
+        "game": 3953,
+        "height": 270,
+        "image_id": "ovbdub3zsnmytjyxnm5s",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ovbdub3zsnmytjyxnm5s.jpg",
+        "width": 480
+      },
+      {
+        "id": 99626,
+        "game": 3953,
+        "height": 720,
+        "image_id": "csyi26y7fbnxe9tbtbls",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/csyi26y7fbnxe9tbtbls.jpg",
+        "width": 1280
+      },
+      {
+        "id": 99627,
+        "game": 3953,
+        "height": 720,
+        "image_id": "nbernsxms11iv3d4twfx",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/nbernsxms11iv3d4twfx.jpg",
+        "width": 1280
+      },
+      {
+        "id": 99628,
+        "game": 3953,
+        "height": 720,
+        "image_id": "jzvaumbyjv5w0coxm6qg",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jzvaumbyjv5w0coxm6qg.jpg",
+        "width": 1280
+      },
+      {
+        "id": 99629,
+        "game": 3953,
+        "height": 720,
+        "image_id": "d3uc0xkl3l9bvvncs8w4",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/d3uc0xkl3l9bvvncs8w4.jpg",
+        "width": 1280
+      },
+      {
+        "id": 161716,
+        "game": 3953,
+        "height": 480,
+        "image_id": "mrth4coje8dgmosjxvw1",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mrth4coje8dgmosjxvw1.jpg",
+        "width": 640
+      },
+      {
+        "id": 161717,
+        "game": 3953,
+        "height": 480,
+        "image_id": "egoz2utuzf7zxljmfbfp",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/egoz2utuzf7zxljmfbfp.jpg",
+        "width": 640
+      },
+      {
+        "id": 161718,
+        "game": 3953,
+        "height": 480,
+        "image_id": "t4e1bykjrtn1iar5gpn0",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/t4e1bykjrtn1iar5gpn0.jpg",
+        "width": 640
+      },
+      {
+        "id": 161719,
+        "game": 3953,
+        "height": 480,
+        "image_id": "cfvzsm60oit7uamhkajw",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cfvzsm60oit7uamhkajw.jpg",
+        "width": 640
+      },
+      {
+        "id": 161720,
+        "game": 3953,
+        "height": 480,
+        "image_id": "ckd8hwi9xxolksbdajof",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ckd8hwi9xxolksbdajof.jpg",
+        "width": 640
+      },
+      {
+        "id": 161721,
+        "game": 3953,
+        "height": 480,
+        "image_id": "lxmvqfxv99dwzatgav0a",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/lxmvqfxv99dwzatgav0a.jpg",
+        "width": 640
+      },
+      {
+        "id": 161722,
+        "game": 3953,
+        "height": 480,
+        "image_id": "xstgkarm2yooxjsthrj7",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xstgkarm2yooxjsthrj7.jpg",
+        "width": 640
+      }
+    ],
+    "slug": "ikaruga",
+    "summary": "In this vertical scrolling spaceship shooter, you control a ship that can change its polarity at will. As blue/white, the ship can easily destroy red/black enemies, and visa versa. Bullets of your polarity can be collected to fuel your missile gauge, but those opposite will kill you. Destroying an enemy ship will make them drop points for you to pick up, but they are polarized, too. Different difficulties exist to change exactly how you interact with polarized points, or how they appear.\n\nIkaruga is a balls-hard shmup with lots of difficulty even at the easiest level, and lots of replay value for those willing to face the challenge."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 45812,
+    "cover": {
+      "id": 70732,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 45812,
+      "height": 700,
+      "image_id": "co1iks",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1iks.jpg",
+      "width": 710
+    },
+    "first_release_date": 991872000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Phantasy Star Online Ver. 2",
+    "popularity": 1.0,
+    "slug": "phantasy-star-online-ver-2",
+    "summary": "The realm of Phantasy Star Online has increased. Phantasy Star Online Ver. 2 includes all of the original content, and expands the world with more levels, more features, and more evil to combat. Master the Ultimate Difficulty setting, survive the Challenge Dungeon, and reign as the champion of Battle Mode. The evolution of the original revolutionary gaming experience continues."
+  }
+]

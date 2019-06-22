@@ -1,0 +1,48 @@
+[
+  {
+    "id": 285,
+    "cover": {
+      "id": 272,
+      "game": 285,
+      "height": 500,
+      "image_id": "wympozer5msvkqbj6i5g",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/wympozer5msvkqbj6i5g.jpg",
+      "width": 415
+    },
+    "first_release_date": 883612800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Railroad Tycoon II",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view"
+      }
+    ],
+    "popularity": 1.633300206022099,
+    "slug": "railroad-tycoon-ii",
+    "summary": "Sid Meier\u0027s Railroad Tycoon is a business simulation game. \n \nRailroad Tycoon was written by game designer Sid Meier and published by MicroProse Railroad Tycoon 2 is the only game of the series that was released fr the PSX console. \n \nYou try to make it to the top of the transportation industry in Railroad Tycoon II, a simulation that takes you from a wannabe to a tycoon (if your lucky!).",
+    "videos": [
+      {
+        "id": 438,
+        "game": 285,
+        "name": "Gameplay",
+        "video_id": "ip7BmnAXYHI"
+      }
+    ]
+  }
+]

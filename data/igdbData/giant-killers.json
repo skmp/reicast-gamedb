@@ -1,0 +1,34 @@
+[
+  {
+    "id": 4354,
+    "cover": {
+      "id": 7658,
+      "game": 4354,
+      "height": 2152,
+      "image_id": "sj8ggdtxv6tno618l4sz",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/sj8ggdtxv6tno618l4sz.jpg",
+      "width": 1534
+    },
+    "first_release_date": 986169600,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 1166,
+        "name": "sports"
+      },
+      {
+        "id": 4345,
+        "name": "bink video"
+      }
+    ],
+    "name": "Giant Killers",
+    "popularity": 1.424160009382094,
+    "slug": "giant-killers",
+    "summary": "Giant Killers is a text-based European football management game, and as such the focus of the game is on the statistics and not on the action. \n \nBased on the 1999 UK season, the game allows the player to take control of any team in the UK\u0027s Premier league, Divisions One, Two or Three, or the Conference league. The game has three levels of difficulty. In the easy level the player\u0027s club has a wealthy benefactor who makes £25m available, in the medium setting £25m is still available, but two other clubs in the league also receive the same cash injection. In the hard mode there is no extra cash available."
+  }
+]

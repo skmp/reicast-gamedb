@@ -1,0 +1,76 @@
+[
+  {
+    "id": 46379,
+    "age_ratings": [
+      {
+        "id": 18855,
+        "rating": 8
+      }
+    ],
+    "cover": {
+      "id": 28040,
+      "game": 46379,
+      "height": 1560,
+      "image_id": "kl2wwxyd2krom55nbixc",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/kl2wwxyd2krom55nbixc.jpg",
+      "width": 1728
+    },
+    "first_release_date": 949190400,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 30,
+        "name": "golf"
+      },
+      {
+        "id": 274,
+        "name": "minigames"
+      },
+      {
+        "id": 1166,
+        "name": "sports"
+      },
+      {
+        "id": 1440,
+        "name": "artificial intelligence"
+      },
+      {
+        "id": 2109,
+        "name": "level selection"
+      },
+      {
+        "id": 4450,
+        "name": "hat"
+      },
+      {
+        "id": 4576,
+        "name": "loading screens"
+      },
+      {
+        "id": 4611,
+        "name": "cutscene"
+      },
+      {
+        "id": 4714,
+        "name": "golf club"
+      },
+      {
+        "id": 5029,
+        "name": "difficulty level"
+      },
+      {
+        "id": 10496,
+        "name": "golf cart"
+      }
+    ],
+    "name": "Tee Off",
+    "popularity": 1.0,
+    "slug": "tee-off",
+    "summary": "Golf hits the Dreamcast!"
+  }
+]

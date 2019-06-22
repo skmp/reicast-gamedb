@@ -1,0 +1,88 @@
+[
+  {
+    "view": "game",
+    "layout": "game",
+    "author": "reicast",
+    "created_at": "2018-03-25 09:00",
+    "updated_at": "2019-05-02 09:00",
+    "id": "millennium-soldier-expendable",
+    "title": "Millennium Soldier - Expendable",
+    "gamedb-issue": 0,
+    "releases": [
+      {
+        "id": "AC97",
+        "region": "EU",
+        "version": "1.000",
+        "discs": 1,
+        "medium": "gdrom"
+      }
+    ],
+    "test-videos": [
+      {
+        "fingerprint": "AC97 GD-ROM1/1 EU",
+        "title": "Intro auto run",
+        "hw": "i7 2720qm, GeForce 540M",
+        "yt": "4neV2d8k870",
+        "git": "d59197f84353d7d2b746383e9277d9ed7c8c4053",
+        "platform": "win86-release"
+      }
+    ],
+    "gotIGDBGame": 1,
+    "idIGDB": 45816,
+    "age_ratings": [
+      {
+        "id": 18410,
+        "rating": 10
+      }
+    ],
+    "cover": [
+      {
+        "id": 51787,
+        "game": 45816,
+        "height": 477,
+        "image_id": "jmy5m8fhbtwx5yqde2a9",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jmy5m8fhbtwx5yqde2a9.jpg",
+        "width": 469
+      }
+    ],
+    "first_release_date": 939427200,
+    "categories": [
+      "Shooter"
+    ],
+    "tags": [
+      "aliens",
+      "post-apocalyptic",
+      "health",
+      "sci-fi",
+      "shooter",
+      "explosion",
+      "power up",
+      "bullet",
+      "top-down perspective",
+      "polygonal 3d",
+      "launch titles",
+      "rocket launcher",
+      "gog.com",
+      "cooperative play",
+      "laser",
+      "lives",
+      "shoes",
+      "shaved head",
+      "ammo",
+      "zoom platform"
+    ],
+    "name": "Millennium Soldier Expendable",
+    "popularity": 1,
+    "slug": "millennium-soldier-expendable",
+    "summary": "Millennium Soldier: Expendable (known as Expendable in the U.S.A. and Seitai Heiki Expendable in Japan) is the title of a Run and Gun video game that was released by British developer Rage Software for Microsoft Windows in 1998,with ports to the Sega Dreamcast in 1999, and the PlayStation in 2000. The remake of the game for Android based devices was released in late 2012 as Expendable: Rearmed. It is in the format of a modern arcade game. The player starts with 7 &quote;credits&quote; and can continue until running out of credits. A second player can join the game at any time by pressing start. \nLike most top-down run and gun video games, it has collectible upgrades and weapons, and features common aspects like bosses and levels, familiar with most games of this type. \nMillennium Soldier: Expendable supports Environment-Mapped Bump Mapping, a DirectX 6 feature first supported by the Matrox Millennium G400.[1]",
+    "videos": [
+      {
+        "id": 18465,
+        "game": 45816,
+        "name": "Gameplay video",
+        "video_id": "aBqundgxUJ4"
+      }
+    ]
+  },
+  null
+]
