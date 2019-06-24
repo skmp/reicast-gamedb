@@ -171,8 +171,9 @@ module.exports = function (ctx) {
       extendWebpack (cfg) {
         // do something with Electron process Webpack cfg
       },
+
       packager: {
-        executableName: 'reicastdb'
+        executableName: ctx.targetName === 'win32' ? null : 'reicastdb'
         // https://github.com/electron-userland/electron-packager/blob/master/docs/api.md#options
 
         // OS X / Mac App Store
