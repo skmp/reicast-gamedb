@@ -4,7 +4,7 @@
     :heading="false"
     bg="#D2D4C8"
     color="black"
-    :title="$t(`gamePage.${objectKey}`)">
+    :title="$t(`gameSections.${objectKey}`)">
 
     <template slot="content">
 
@@ -12,7 +12,7 @@
                     infinite
                     quick-nav>
           <q-carousel-slide  v-for="(video, i) in game[objectKey]"
-                             :name="`${$t(`gamePage.${objectKey}`)} ${i + 1}`"
+                             :name="`${$t(`gameSections.${objectKey}`)} ${i + 1}`"
                              :key="i">
             <div class="custom-caption" v-if="video.hw">
               <div>

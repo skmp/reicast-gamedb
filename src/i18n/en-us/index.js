@@ -49,7 +49,7 @@ export default {
   gamesIndexTitle: 'Game Compatibility Database',
   allCategories: 'All Categories',
   game: 'Game',
-  gamePage: {
+  gameSections: {
     [SECTION_CLASSES.OVERVIEW]: 'overview',
     [SECTION_CLASSES.INFO]: 'info',
     [SECTION_CLASSES.SCREENSHOTS]: 'screenshots',
