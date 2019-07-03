@@ -15,7 +15,7 @@
     <videos v-if="testVideosAlias"
             videoKey="yt"
             :objectKey="sectionClasses.TEST_VIDEOS"/>
-    <discuss :game-i-d="gameData.slug"
+    <discuss :game-i-d="gameData.id"
              :section-class="sectionClasses.DISCUSS"/>
   </div>
 </template>
@@ -94,20 +94,18 @@ export default {
       return this.gameData[SECTION_CLASSES.TEST_VIDEOS]
     },
     menuItems () {
-      const items = this.$t('gamePage', { returnObjects: true })
       let menuItems = []
       let availableSectionCount = 0
-      Object.keys(items).forEach((key) => {
-        if (this.isMenuItemVisible(key)) {
+      Object.keys(SECTION_CLASSES).forEach((key) => {
+        if (this.isMenuItemVisible(SECTION_CLASSES[key])) {
           menuItems.push({
-            label: this.$t(items[key]),
-            name: key,
+            label: this.$t(`gameSections.${SECTION_CLASSES[key]}`),
+            name: SECTION_CLASSES[key],
             sectionNumbers: [availableSectionCount]
           })
           availableSectionCount++
         }
       })
-
       return menuItems
     }
   },

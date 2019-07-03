@@ -4,7 +4,7 @@
     :heading="false"
     bg="#D2D4C8"
     color="black"
-    :title="$t(`gamePage.${objectKey}`)">
+    :title="$t(`gameSections.${objectKey}`)">
 
     <template slot="content">
       <div class="centered">

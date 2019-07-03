@@ -15,6 +15,7 @@
         <ul class="main-nav" ref="navBarToggle">
           <li v-for="(menuItem, index) in menuItems"
               :key="index"
+              :data-section="menuItem.name"
               :class="menuItemClass(index)"
               @click="goTo(index)">
             <a class="nav-links">

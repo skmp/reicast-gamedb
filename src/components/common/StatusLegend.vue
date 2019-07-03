@@ -34,7 +34,10 @@ export default {
       }
     },
     active (status) {
-      return this.$route.query.status === status
+      if (!this.readOnly) {
+        return this.$route.query.status === status
+      }
+      return false
     },
     getClass (status) {
       const addedClass = this.classList
