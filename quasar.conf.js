@@ -19,6 +19,7 @@ function preRenderRounds (output) {
         outputDir: output,
         routes: routes,
         renderer: new Renderer({
+          injectProperty: '__PRERENDER_INJECTED',
           maxConcurrentRoutes: 2,
           captureAfterElementExists: "input[name='spaPreRenderElement']"
         })
