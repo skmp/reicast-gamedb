@@ -25,47 +25,58 @@
       </template>
       <div class="filter-wrapper" slot="top-right" slot-scope="props"> <!--eslint-disable-line vue/no-unused-vars-->
         <q-search
-          hide-underline
-          color="secondary"
-          v-model="filter"/>
+                hide-underline
+                color="secondary"
+                v-model="filter"/>
       </div>
-      <q-td slot="body-cell-cover"
-            slot-scope="props">
-        <img class="cover" :src="getCover(props.row.cover)" @click="viewGame(props.row)"/>
-      </q-td>
-      <q-td slot="body-cell-name"
-            slot-scope="props"
-            class="game-title">
-        <q-btn :class="computeClass(props.row.status)"
-               :label="props.row.name"
-               @click="viewGame(props.row)"/>
-      </q-td>
-      <q-td slot="body-cell-categories"
-            slot-scope="props"
-            class="game-categories">
-        <q-btn v-for="(item, index) in props.row.categories"
-               :key="index"
-               :label="item"
-               class="categories"
-               :color="activeCategory(item) ? 'primary' : ''"
-               @click="addCategory(item)">
-          <q-tooltip v-if="!activeCategory(item)"
-                     :delay="500"
-                     :offset="[0, 10]">
-            {{ $t('addFilter') }}
-          </q-tooltip>
-        </q-btn>
-      </q-td>
-      <q-td slot="body-cell-status"
-            slot-scope="props"
-            class="game-status">
-        <submit-test-button
-          :styleClasses="computeClass(props.row.status)"
-          :label="`${props.row.status} (${getTestCount(props.row.tests)})`"
-          :icon="null"
-          :color="null"
-          :game="(props.row.id)"/>
-      </q-td>
+      <q-tr slot="body" slot-scope="props" :class="props.row.id"> <!--eslint-disable-line vue/no-unused-vars-->
+        <q-td key="cover"
+              class="cover-img"
+              :props="props">
+          <img class="cover" :src="getCover(props.row.cover)" @click="viewGame(props.row)"/>
+        </q-td>
+        <q-td key="name"
+              :props="props"
+              class="game-title">
+          <q-btn :class="computeClass(props.row.status)"
+                 :label="props.row.name"
+                 @click="viewGame(props.row)"/>
+        </q-td>
+        <q-td key="categories"
+              :props="props"
+              class="game-categories">
+          <q-btn v-for="(item, index) in props.row.categories"
+                 :key="index"
+                 :label="item"
+                 :class="`category ${item}`"
+                 :color="activeCategory(item) ? 'primary' : ''"
+                 @click="addCategory(item)">
+            <q-tooltip v-if="!activeCategory(item)"
+                       :delay="500"
+                       :offset="[0, 10]">
+              {{ $t('addFilter') }}
+            </q-tooltip>
+          </q-btn>
+        </q-td>
+        <q-td key="status"
+              :props="props"
+              class="game-status">
+          <submit-test-button
+              :styleClasses="computeClass(props.row.status)"
+              :label="`${props.row.status} (${getTestCount(props.row.tests)})`"
+              :icon="null"
+              :color="null"
+              :game="(props.row.id)"/>
+        </q-td>
+        <q-td key="first_release_date"
+              :props="props">
+          {{ getDate(props.row.first_release_date) }}
+        </q-td>
+        <q-td key="popularity"
+              :props="props">
+          {{ props.row.popularity.toFixed(2) }}
+        </q-td>
+      </q-tr>
     </q-table>
 </template>
 <script>
@@ -97,15 +108,6 @@ export default {
           label: this.$t('categories')
         },
         {
-          name: 'first_release_date',
-          align: 'center',
-          label: this.$t('first_release_date'),
-          classes: 'released',
-          field: 'first_release_date',
-          format: val => helpers.getDate(val),
-          sortable: true
-        },
-        {
           name: 'status',
           align: 'center',
           field: 'status',
@@ -113,16 +115,22 @@ export default {
           sortable: true
         },
         {
+          name: 'first_release_date',
+          align: 'center',
+          label: this.$t('first_release_date'),
+          field: 'first_release_date',
+          sortable: true
+        },
+        {
           name: 'popularity',
           align: 'center',
           label: this.$t('popularity'),
-          field: val => val.popularity.toFixed(2),
-          classes: 'popularity',
+          field: 'popularity',
           sortable: true
         }
       ],
       filter: '',
-      visibleColumns: ['cover', 'name', 'categories', 'first_release_date', 'status', 'tests', 'popularity'],
+      visibleColumns: ['cover', 'name', 'categories', 'first_release_date', 'status', 'popularity'],
       paginationControl: {
         rowsPerPage: 15,
         page: 1,
@@ -146,6 +154,9 @@ export default {
     },
     getTestCount (tests) {
       return helpers.getTestCount(tests)
+    },
+    getDate (date) {
+      return helpers.getDate(date)
     },
     viewGame (row) {
       this.$router.push({ path: `/games/${row.id}` })
@@ -208,7 +219,7 @@ export default {
         min-height: 175px
 
     @media (max-width: 879px)
-      .released
+      .first_release_date
         display: none
 
     @media (max-width: 575px)
@@ -223,7 +234,7 @@ export default {
         &.game-categories
           .q-btn
             font-size: 10px
-    .filtered-categories, .reset, .categories
+    .filtered-categories, .reset, .category
       margin-bottom: 5px
       margin-right: 5px
 
