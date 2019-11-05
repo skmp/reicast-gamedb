@@ -19,18 +19,23 @@ const actions = {
     const toSelector = to
     return new Promise((resolve, reject) => {
       const element = document.scrollingElement
-      if (typeof to === 'string') {
-        to = document.querySelector(to) || reject(new Error(
-          'element cannot be found')
-        )
-      }
-      if (typeof to !== 'number') {
-        to = to.getBoundingClientRect().top + element.scrollTop
-      }
-      // -1 represents scroll to the bottom, compensate for duration
-      if (to === -1) {
-        to = element.scrollHeight
-        duration = duration * 1.6
+      if (to === null) {
+        to = 0
+      } else {
+        if (typeof to === 'string') {
+          to = document.querySelector(to) || reject(new Error(
+            'element cannot be found')
+          )
+        }
+        if (typeof to !== 'number') {
+          to = to.getBoundingClientRect().top + element.scrollTop
+        }
+        // -1 represents scroll to the bottom, compensate for duration
+        // TODO: make duration relative to section number
+        if (to === -1) {
+          to = element.scrollHeight
+          duration = duration * 1.6
+        }
       }
 
       let start = element.scrollTop

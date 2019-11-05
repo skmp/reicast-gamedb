@@ -5,6 +5,7 @@
     <template slot="content">
       <div :style="heightStyle">
         <disqus shortname="reicastdc"
+                v-if="notInPrerenderMode"
                 :identifier="gameID"
                 :url="`${siteUrl}/games/${gameID}`">
         </disqus>
@@ -43,6 +44,9 @@ export default {
     },
     heightStyle () {
       return `height: ${this.calcHeight}px; overflow:auto;`
+    },
+    notInPrerenderMode () {
+      return !(window.__PRERENDER_INJECTED && window.__PRERENDER_INJECTED.prerendered)
     }
   }
 }
