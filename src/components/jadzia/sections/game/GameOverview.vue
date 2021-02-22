@@ -77,7 +77,7 @@ export default {
       return this.$store.state.routing.currentGame
     },
     title () {
-      return this.game.title
+      return this.game.name
     },
     stars () {
       return getStars(this.status)
@@ -98,7 +98,7 @@ export default {
     logoBgStyle () {
       let imageUrl = null
       if (this.game.cover) {
-        imageUrl = this.game.cover[0].url
+        imageUrl = this.game.cover
       }
       imageUrl = getImage(imageUrl, 'cover_big')
       return `background: #04575d url(${imageUrl}) no-repeat center;`

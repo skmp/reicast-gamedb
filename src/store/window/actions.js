@@ -19,7 +19,9 @@ const actions = {
     const toSelector = to
     return new Promise((resolve, reject) => {
       const element = document.scrollingElement
-      if (to === null) {
+      if (to === null
+      // || typeof to === 'undefined'
+      ) {
         to = 0
       } else {
         if (typeof to === 'string') {
@@ -73,17 +75,17 @@ const actions = {
     }
   },
   setActive ({ state }, to) {
-    let active
     if (to === 0) {
-      active = 0
-    } else if (to === -1) {
-      active = state.scrollNav.items.length + 1
-    } else {
-      active = getMatchingPreviousSiblingsCount(
-        document.querySelector(to),
-        '.section')
+      return 0
     }
-    return active
+    if (to === -1) {
+      return state.scrollNav.items.length + 1
+    }
+
+    return getMatchingPreviousSiblingsCount(
+      document.querySelector(to),
+      '.section'
+    )
   },
   scrollPageToFromClick ({ commit, dispatch }, to) {
     commit('setScroll', {

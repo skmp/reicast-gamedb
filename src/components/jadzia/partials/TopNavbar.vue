@@ -90,10 +90,7 @@ export default {
           message: this.$t('already_here')
         })
       } else if (this.$store.state.appWindow.scrollNav.scrollStarted) {
-        this.$q.notify({
-          type: 'warning',
-          message: this.$t('navigation_already_in_progress')
-        })
+        console.log('navigation_already_in_progress')
       } else {
         if (this.menuItems[index].sectionNumbers.length) {
           this.$store.dispatch('scrollPageToFromClick', `.${to}`)

@@ -14,8 +14,12 @@ import { DESCRIPTION } from '../constants/head'
 import GamesHeader from '../components/miles/games/GamesHeader'
 import Footer from '../components/common/Footer'
 import PreRenderInjection from '../components/common/PreRenderInjection'
+import { GET_GAMES } from '../store/action-types'
 
 export default {
+  beforeMount () {
+    this.$store.dispatch(`routing/${GET_GAMES}`)
+  },
   components: { GamesHeader, Footer, PreRenderInjection },
   metaInfo () {
     // TODO: generate and feed appropriate meta desc, etc

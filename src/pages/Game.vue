@@ -1,8 +1,8 @@
 <template>
-  <div class="game">
+  <div class="game" v-if="gameDataExists">
     <MainNavigation :menuItems="menuItems" />
     <game-overview :section-class="sectionClasses.OVERVIEW"
-                   :status="gameListData.status"/>
+                   :status="gameData.status"/>
     <info v-if="infoAlias"
           :section-class="sectionClasses.INFO" />
     <gallery v-if="screenshotsAlias"
@@ -10,7 +10,7 @@
     <videos v-if="videosAlias"
             videoKey="video_id"
             :objectKey="sectionClasses.VIDEOS"/>
-    <tests :game="gameListData"
+    <tests :game="gameData"
            :section-class="sectionClasses.TESTS"/>
     <videos v-if="testVideosAlias"
             videoKey="yt"
@@ -29,15 +29,10 @@ import Videos from '../components/jadzia/sections/game/Videos'
 import Tests from '../components/jadzia/sections/game/Tests'
 import Discuss from '../components/jadzia/sections/game/Discuss'
 import { SECTION_CLASSES } from '../constants/general'
+import { GET_GAME } from '../store/action-types'
 
 export default {
   name: 'Game',
-  props: {
-    gameListData: {
-      type: Object,
-      required: true
-    }
-  },
   components: {
     MainNavigation,
     GameOverview,
@@ -48,11 +43,15 @@ export default {
     Discuss
   },
   mounted () {
-    this.$store.commit('setPageClass', this.gameData.slug)
-    this.$store.commit(
-      'setScrollItems',
-      Array.from(this.menuItems, x => x.name)
-    )
+    const loadGame = this.$store.dispatch(`routing/${GET_GAME}`, this.$route.params.id)
+
+    loadGame.then(() => {
+      this.$store.commit('setPageClass', this.gameData.slug)
+      this.$store.commit(
+        'setScrollItems',
+        Array.from(this.menuItems, x => x.name)
+      )
+    })
   },
   data () {
     return {
@@ -63,6 +62,9 @@ export default {
     }
   },
   computed: {
+    gameDataExists () {
+      return this.gameData && this.gameData.hasOwnProperty('id')
+    },
     gameData () {
       return this.$store.state.routing.currentGame
     },
@@ -85,7 +87,8 @@ export default {
       return this.gameData[SECTION_CLASSES.SCREENSHOTS]
     },
     [SECTION_CLASSES.INFO] () {
-      return this.gameData.releases.length
+      const releases = this.gameData.releases
+      return releases ? this.gameData.releases.length : false
     },
     [SECTION_CLASSES.VIDEOS] () {
       return this.gameData[SECTION_CLASSES.VIDEOS]

@@ -18,8 +18,7 @@ const routes = [
         children: [
           {
             path: '',
-            component: () => import('components/miles/games/GamesList.vue'),
-            props: routerHelpers.queryFilters
+            component: () => import('components/miles/games/GamesList.vue')
           }
         ]
       }
@@ -46,8 +45,7 @@ const routes = [
     children: [
       {
         path: '',
-        component: () => import('pages/Game.vue'),
-        props: routerHelpers.gameListData
+        component: () => import('pages/Game.vue')
       }
     ],
     meta: {

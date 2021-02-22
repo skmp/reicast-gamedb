@@ -1,31 +1,6 @@
-import * as helpers from '../utils/gameHelpers'
 import { validCategories } from '../constants/categories'
 import { GAME_STATUSES } from '../constants/general'
-const gameList = require('../games/.gameList.json')
 
-export function gameListData (route) {
-  return {
-    gameListData: gameList.filter(game => game.id === route.params.id)[0]
-  }
-}
-
-export function queryFilters (route) {
-  let tableData = gameList
-  const status = route.query.status
-  let category = route.query.category
-  if (status) {
-    tableData = tableData.filter(game => helpers.computeStatusClass(game.status) === status)
-  }
-  if (category) {
-    category = category.split(',')
-    tableData = tableData.filter(game => {
-      if (game.categories && game.categories.some(cat => category.includes(cat))) { return game }
-    })
-  }
-  return {
-    tableData
-  }
-}
 /**
  * Removes invalid input (invalid categories) from query
  *
