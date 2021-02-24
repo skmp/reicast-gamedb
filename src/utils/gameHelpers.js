@@ -49,15 +49,13 @@ export function getTestCount (tests) {
 export function getImage (url, size = null) {
   let imgUrl = SMALL_COVER_PLACEHOLDER
   if (url) {
-    url = `https:${url}`
-    if (size) {
-      imgUrl = url.replace('t_thumb', `t_${size}_2x`)
-    } else {
-      imgUrl = url
-    }
-  } else if (size) {
-    imgUrl = LARGE_COVER_PLACEHOLDER
+    return size
+      ? url.replace('t_thumb', `t_${size}_2x`) : url
   }
+  if (size) {
+    return LARGE_COVER_PLACEHOLDER
+  }
+
   return imgUrl
 }
 

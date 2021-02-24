@@ -24,8 +24,8 @@ export default {
       this.$store.commit('widthResize', window.innerWidth)
     }
   },
+  // TODO: move into a more complete 'meta instantiation' method in head.js directly (?)
   mounted () {
-    // to be later moved into a more complete 'meta instantiation' method in head.js directly
     metaTags.push({
       vmid: DESCRIPTION,
       name: DESCRIPTION,

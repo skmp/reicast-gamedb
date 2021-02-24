@@ -74,7 +74,7 @@
         </q-td>
         <q-td key="popularity"
               :props="props">
-          {{ props.row.popularity.toFixed(2) }}
+          {{ getPopularity(props.row.popularity) }}
         </q-td>
       </q-tr>
     </q-table>
@@ -85,11 +85,6 @@ import SubmitTestButton from '../../common/SubmitTestButton'
 
 export default {
   components: { SubmitTestButton },
-  props: {
-    tableData: {
-      type: Array
-    }
-  },
   data () {
     return {
       columns: [
@@ -146,6 +141,26 @@ export default {
         return category.split(',')
       }
       return []
+    },
+    tableData () {
+      let tableData = this.$store.state.routing.games
+      if (tableData.length === 0) {
+        return []
+      }
+      const status = this.$route.query.status
+      let category = this.$route.query.category
+
+      if (status) {
+        tableData = tableData.filter(game => helpers.computeStatusClass(game.status) === status)
+      }
+      if (category) {
+        category = category.split(',')
+        tableData = tableData.filter(game => {
+          if (game.categories && game.categories.some(cat => category.includes(cat))) { return game }
+        })
+      }
+
+      return tableData
     }
   },
   methods: {
@@ -189,6 +204,12 @@ export default {
     },
     activeCategory (cat) {
       return this.filteredCategories.includes(cat)
+    },
+    getPopularity (score) {
+      if (score) {
+        return score.toFixed(2)
+      }
+      return 0.00
     }
   }
 }

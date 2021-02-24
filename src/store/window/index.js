@@ -1,5 +1,5 @@
 import actions from './actions'
-import { WindowProps } from './../../models/Window'
+import { WindowProps } from '../../models/Window'
 
 const mutations = {
   heightResize (state, height) {

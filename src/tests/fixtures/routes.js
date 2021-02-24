@@ -1,6 +1,5 @@
 import { validCategories } from '@/constants/categories'
 import { GAME_STATUSES } from '@/constants/general'
-import { queryFilters } from '@/router/functions'
 
 const emptyQueryRoute = {
   route: {
@@ -61,7 +60,7 @@ function singleQueryCombinations () {
   return routes
 }
 
-export function routeQueriesToTest() {
+export function routeQueriesToTest () {
   return [ emptyQueryRoute ]
     .concat(
       statusQueries(),

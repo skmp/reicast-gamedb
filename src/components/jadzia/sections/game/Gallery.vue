@@ -22,8 +22,8 @@
                  itemprop="url"
                  :style="playerStyle"
                  :src="getScreenShotUrl(shot.url)"
-                 :title="`${game.title} - ${objectKey}-${i}`"
-                 :alt="`${game.title} - ${objectKey}-${i}`">
+                 :title="`${game.name} - ${objectKey}-${i}`"
+                 :alt="`${game.name} - ${objectKey}-${i}`">
           </q-carousel-slide>
 
         </q-carousel>

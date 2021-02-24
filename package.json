@@ -18,6 +18,7 @@
   },
   "scripts": {
     "lint": "eslint --ext .js,.vue src",
+    "lint:fix": "eslint --ext .js,.vue src --fix",
     "makeData": "node -e 'require(\"./makeData\").mergedData2JSON()'",
     "makeListData": "node -e 'require(\"./makeData\").data2IndexList()'",
     "makeCatList": "node -e 'require(\"./makeData\").makeValidCategories()'",
